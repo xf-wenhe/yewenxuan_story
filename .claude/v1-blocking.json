@@ -1,0 +1,548 @@
+[
+[
+"volume-1\\chapter-02-polished.md",
+54,
+"placeholder-leak",
+"占位符：正文混入元信息/拒绝语/占位符，重写本段干净落地。 (。像一个占位符。一个系统预留的坑位。而且它出现在)"
+],
+[
+"volume-1\\chapter-100-polished.md",
+189,
+"truncated",
+"疑似截断：正文末尾未以句末/收尾标点结束，可能被模型中途切断；补完结尾或重写收尾。 (——第一卷·入局·完——)"
+],
+[
+"volume-1\\chapter-27-polished.md",
+84,
+"placeholder-leak",
+"占位符：正文混入元信息/拒绝语/占位符，重写本段干净落地。 (码里留着TODO注释的段落，功能还没有被实现。)"
+],
+[
+"volume-1\\chapter-50-polished.md",
+197,
+"meta-leak",
+"工程词泄漏：「功能标签」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (，每个模块的功能标签一目了然。)"
+],
+[
+"volume-1\\chapter-52-polished.md",
+96,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩的后背窜上一股电流)"
+],
+[
+"volume-1\\chapter-52-polished.md",
+194,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428螺旋的外圈在背包里脉动)"
+],
+[
+"volume-1\\chapter-68-polished.md",
+104,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包里安静地躺着)"
+],
+[
+"volume-1\\chapter-68-polished.md",
+147,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428螺旋在意识层里旋转)"
+],
+[
+"volume-1\\chapter-68-polished.md",
+163,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428螺旋的核心在脉动)"
+],
+[
+"volume-1\\chapter-68-polished.md",
+172,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包里脉动)"
+],
+[
+"volume-1\\chapter-69-polished.md",
+43,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428螺旋在赵大嘴的意识层里旋转)"
+],
+[
+"volume-1\\chapter-69-polished.md",
+101,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428碎片在背包里脉动)"
+],
+[
+"volume-1\\chapter-69-polished.md",
+151,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (零零零段在赵大嘴的意识层里)"
+],
+[
+"volume-1\\chapter-70-polished.md",
+75,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (预计激活时间：2025年10月13日 03:00:00)"
+],
+[
+"volume-1\\chapter-70-polished.md",
+263,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428碎片在背包里脉动，8秒一圈)"
+],
+[
+"volume-1\\chapter-70-polished.md",
+277,
+"verbatim-repeat",
+"长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包里发热)"
+],
+[
+"volume-1\\chapter-71-polished.md",
+29,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415是三个副本时间差的公约数)"
+],
+[
+"volume-1\\chapter-72-polished.md",
+49,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428螺旋在背包里脉动)"
+],
+[
+"volume-1\\chapter-74-polished.md",
+3,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428螺旋在背包里脉动)"
+],
+[
+"volume-1\\chapter-74-polished.md",
+135,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428碎片在背包里脉动)"
+],
+[
+"volume-1\\chapter-75-polished.md",
+9,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包里发热)"
+],
+[
+"volume-1\\chapter-76-polished.md",
+7,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包里发热)"
+],
+[
+"volume-1\\chapter-76-polished.md",
+57,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428碎片在背包里脉动)"
+],
+[
+"volume-1\\chapter-77-polished.md",
+32,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428螺旋在背包里脉动)"
+],
+[
+"volume-1\\chapter-78-polished.md",
+10,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包里发热)"
+],
+[
+"volume-1\\chapter-79-polished.md",
+14,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428螺旋在背包里脉动)"
+],
+[
+"volume-1\\chapter-80-polished.md",
+7,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428碎片在背包里发热)"
+],
+[
+"volume-1\\chapter-80-polished.md",
+27,
+"verbatim-repeat",
+"长句复读（同句出现 7 次）：疑似模型打转，重写、保留一处。 (0428螺旋在背包里脉动)"
+],
+[
+"volume-1\\chapter-81-polished.md",
+13,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包里发热)"
+],
+[
+"volume-1\\chapter-81-polished.md",
+33,
+"verbatim-repeat",
+"长句复读（同句出现 9 次）：疑似模型打转，重写、保留一处。 (阿梅的意识碎片在0428螺旋里)"
+],
+[
+"volume-1\\chapter-81-polished.md",
+45,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (阿梅的意识碎片是叶文轩的情感锚点)"
+],
+[
+"volume-1\\chapter-81-polished.md",
+47,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415碎片是阿梅的意识碎片)"
+],
+[
+"volume-1\\chapter-81-polished.md",
+53,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428碎片在背包里脉动)"
+],
+[
+"volume-1\\chapter-82-polished.md",
+9,
+"verbatim-repeat",
+"长句复读（同句出现 6 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包里发热)"
+],
+[
+"volume-1\\chapter-82-polished.md",
+9,
+"verbatim-repeat",
+"长句复读（同句出现 7 次）：疑似模型打转，重写、保留一处。 (阿梅的意识碎片在0428螺旋里)"
+],
+[
+"volume-1\\chapter-82-polished.md",
+42,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428碎片在背包里脉动)"
+],
+[
+"volume-1\\chapter-82-polished.md",
+82,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428螺旋在背包里脉动)"
+],
+[
+"volume-1\\chapter-83-polished.md",
+9,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩的系统面板在视野里浮动)"
+],
+[
+"volume-1\\chapter-83-polished.md",
+13,
+"verbatim-repeat",
+"长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包里发热)"
+],
+[
+"volume-1\\chapter-83-polished.md",
+13,
+"verbatim-repeat",
+"长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (0415碎片是阿梅的意识碎片)"
+],
+[
+"volume-1\\chapter-83-polished.md",
+13,
+"verbatim-repeat",
+"长句复读（同句出现 6 次）：疑似模型打转，重写、保留一处。 (0415碎片在灰色的图标)"
+],
+[
+"volume-1\\chapter-83-polished.md",
+23,
+"verbatim-repeat",
+"长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (0415碎片是叶文轩和阿梅之间的连接)"
+],
+[
+"volume-1\\chapter-83-polished.md",
+27,
+"verbatim-repeat",
+"长句复读（同句出现 9 次）：疑似模型打转，重写、保留一处。 (阿梅的意识碎片在0428螺旋里)"
+],
+[
+"volume-1\\chapter-83-polished.md",
+27,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0415碎片是叶文轩的情感锚点)"
+],
+[
+"volume-1\\chapter-83-polished.md",
+27,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0415碎片在阿梅的意识碎片)"
+],
+[
+"volume-1\\chapter-84-polished.md",
+3,
+"verbatim-repeat",
+"长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (0428碎片在背包里脉动)"
+],
+[
+"volume-1\\chapter-84-polished.md",
+19,
+"verbatim-repeat",
+"长句复读（同句出现 7 次）：疑似模型打转，重写、保留一处。 (阿梅的意识碎片在0428螺旋里)"
+],
+[
+"volume-1\\chapter-84-polished.md",
+31,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0415碎片是叶文轩和阿梅之间的连接)"
+],
+[
+"volume-1\\chapter-84-polished.md",
+68,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415碎片在灰色的图标)"
+],
+[
+"volume-1\\chapter-84-polished.md",
+72,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428螺旋在赵大嘴的背包里脉动)"
+],
+[
+"volume-1\\chapter-85-polished.md",
+7,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428碎片在背包里脉动)"
+],
+[
+"volume-1\\chapter-85-polished.md",
+37,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428螺旋在赵大嘴的背包里脉动)"
+],
+[
+"volume-1\\chapter-85-polished.md",
+85,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (27岁的叶文轩选择了继续循环)"
+],
+[
+"volume-1\\chapter-85-polished.md",
+97,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428螺旋在墨镜后面闪烁)"
+],
+[
+"volume-1\\chapter-85-polished.md",
+189,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (归位之门在中枢传送门的位置)"
+],
+[
+"volume-1\\chapter-85-polished.md",
+203,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (多余碎片的用途由37岁的叶文轩决定)"
+],
+[
+"volume-1\\chapter-85-polished.md",
+205,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩看向0428碎片排列图)"
+],
+[
+"volume-1\\chapter-85-polished.md",
+205,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (41段纹路在蓝色冷光中运转)"
+],
+[
+"volume-1\\chapter-85-polished.md",
+235,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (归位之门连接着27岁的叶文轩和37岁的叶文轩)"
+],
+[
+"volume-1\\chapter-86-polished.md",
+19,
+"verbatim-repeat",
+"长句复读（同句出现 6 次）：疑似模型打转，重写、保留一处。 (0428螺旋在墨镜后面闪烁)"
+],
+[
+"volume-1\\chapter-86-polished.md",
+33,
+"verbatim-repeat",
+"长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (0428螺旋在赵大嘴的背包里脉动)"
+],
+[
+"volume-1\\chapter-86-polished.md",
+87,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩的意识一致性97.3%)"
+],
+[
+"volume-1\\chapter-86-polished.md",
+115,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (打破闭环不是回到现实世界——是回到1998年)"
+],
+[
+"volume-1\\chapter-86-polished.md",
+121,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (打破闭环不是结束——是重新开始)"
+],
+[
+"volume-1\\chapter-86-polished.md",
+135,
+"verbatim-repeat",
+"逐行复读（紧邻整行重复）：疑似模型打转，重写本段、删掉重复。 (叶文轩的脑子没停过。打破闭环不是回到现实世界——是回到1998年。打破闭环不是结束——是重新开始。打破闭环意味着叶文轩带着37岁的记忆回"
+],
+[
+"volume-1\\chapter-87-polished.md",
+9,
+"verbatim-repeat",
+"长句复读（同句出现 6 次）：疑似模型打转，重写、保留一处。 (0428螺旋在赵大嘴的背包里脉动)"
+],
+[
+"volume-1\\chapter-87-polished.md",
+15,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0415碎片是三人的情感锚点)"
+],
+[
+"volume-1\\chapter-87-polished.md",
+15,
+"verbatim-repeat",
+"长句复读（同句出现 7 次）：疑似模型打转，重写、保留一处。 (三人的意识碎片在0415碎片里连接在一起)"
+],
+[
+"volume-1\\chapter-87-polished.md",
+23,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (叶文轩的意识一致性97.3%)"
+],
+[
+"volume-1\\chapter-87-polished.md",
+25,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (41段纹路在蓝色冷光中运转)"
+],
+[
+"volume-1\\chapter-87-polished.md",
+45,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (赵大嘴的意识碎片在0415碎片里)"
+],
+[
+"volume-1\\chapter-87-polished.md",
+51,
+"verbatim-repeat",
+"长句复读（同句出现 6 次）：疑似模型打转，重写、保留一处。 (0415碎片在发热——因为赵大嘴的意识碎片在)"
+],
+[
+"volume-1\\chapter-87-polished.md",
+51,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (赵大嘴的意识碎片在赵大嘴的记忆碎片)"
+],
+[
+"volume-1\\chapter-87-polished.md",
+65,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (赵大嘴在1998年和27岁的叶文轩住在一起)"
+],
+[
+"volume-1\\chapter-87-polished.md",
+67,
+"verbatim-repeat",
+"长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (赵大嘴的记忆碎片在0415碎片里)"
+],
+[
+"volume-1\\chapter-88-polished.md",
+11,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428螺旋在赵大嘴的背包里脉动)"
+],
+[
+"volume-1\\chapter-88-polished.md",
+41,
+"verbatim-repeat",
+"长句复读（同句出现 7 次）：疑似模型打转，重写、保留一处。 (0428螺旋在墨镜后面闪烁)"
+],
+[
+"volume-1\\chapter-88-polished.md",
+49,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (27岁的叶文轩为什么没有打破闭环)"
+],
+[
+"volume-1\\chapter-89-polished.md",
+7,
+"verbatim-repeat",
+"长句复读（同句出现 8 次）：疑似模型打转，重写、保留一处。 (0428螺旋在墨镜后面闪烁)"
+],
+[
+"volume-1\\chapter-89-polished.md",
+33,
+"verbatim-repeat",
+"长句复读（同句出现 6 次）：疑似模型打转，重写、保留一处。 (叶文轩看向0428碎片排列图)"
+],
+[
+"volume-1\\chapter-89-polished.md",
+33,
+"verbatim-repeat",
+"长句复读（同句出现 6 次）：疑似模型打转，重写、保留一处。 (41段纹路在蓝色冷光中运转)"
+],
+[
+"volume-1\\chapter-90-polished.md",
+3,
+"verbatim-repeat",
+"长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (0428碎片在背包里脉动)"
+],
+[
+"volume-1\\chapter-90-polished.md",
+5,
+"verbatim-repeat",
+"长句复读（同句出现 8 次）：疑似模型打转，重写、保留一处。 (0428螺旋在赵大嘴的背包里脉动)"
+],
+[
+"volume-1\\chapter-91-polished.md",
+51,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428螺旋在赵大嘴的背包里脉动)"
+],
+[
+"volume-1\\chapter-91-polished.md",
+75,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428碎片在背包里脉动)"
+],
+[
+"volume-1\\chapter-92-polished.md",
+93,
+"verbatim-repeat",
+"长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (叶文轩看向赵大嘴手臂上的金色纹路)"
+],
+[
+"volume-1\\chapter-93-polished.md",
+7,
+"verbatim-repeat",
+"长句复读（同句出现 7 次）：疑似模型打转，重写、保留一处。 (0428螺旋在柜台后面脉动)"
+],
+[
+"volume-1\\chapter-93-polished.md",
+69,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (老板说叶文轩需要一把钥匙)"
+],
+[
+"volume-1\\chapter-94-polished.md",
+58,
+"verbatim-repeat",
+"长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (书架每5分钟重新排列一次)"
+],
+[
+"volume-1\\chapter-94-polished.md",
+130,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (考核期间——玩家的记忆将被部分修剪)"
+],
+[
+"volume-1\\chapter-94-polished.md",
+188,
+"verbatim-repeat",
+"长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428螺旋在赵大嘴的背包里脉动)"
+]
+]
