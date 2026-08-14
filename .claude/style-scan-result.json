@@ -1,0 +1,1178 @@
+{
+ "volume-1": {
+  "files": 100,
+  "blocking": 112,
+  "advisory": 125,
+  "worst": [
+   [
+    "chapter-01-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 3500字)"
+   ],
+   [
+    "chapter-02-polished.md",
+    1,
+    "[blocking] placeholder-leak: 占位符：正文混入元信息/拒绝语/占位符，重写本段干净落地。 (。像一个占位符。一个系统预留的坑位。而且它出现在)"
+   ],
+   [
+    "chapter-05-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 3000字)"
+   ],
+   [
+    "chapter-06-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 3000字)"
+   ],
+   [
+    "chapter-08-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 3000字)"
+   ],
+   [
+    "chapter-100-polished.md",
+    1,
+    "[blocking] truncated: 疑似截断：正文末尾未以句末/收尾标点结束，可能被模型中途切断；补完结尾或重写收尾。 (——第一卷·入局·完——)"
+   ],
+   [
+    "chapter-19-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 3000字)"
+   ],
+   [
+    "chapter-25-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 3000字)"
+   ],
+   [
+    "chapter-26-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 3000字)"
+   ],
+   [
+    "chapter-27-polished.md",
+    2,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 3200字)"
+   ],
+   [
+    "chapter-29-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 3000字)"
+   ],
+   [
+    "chapter-30-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 3200字)"
+   ],
+   [
+    "chapter-33-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 2800字)"
+   ],
+   [
+    "chapter-34-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 2800字)"
+   ],
+   [
+    "chapter-35-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 三零零零字)"
+   ],
+   [
+    "chapter-38-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> 字数目标：2800字)"
+   ],
+   [
+    "chapter-44-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 3500字)"
+   ],
+   [
+    "chapter-48-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 3000字)"
+   ],
+   [
+    "chapter-50-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「功能标签」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (，每个模块的功能标签一目了然。)"
+   ],
+   [
+    "chapter-52-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩的后背窜上一股电流)"
+   ],
+   [
+    "chapter-65-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 3000字)"
+   ],
+   [
+    "chapter-66-polished.md",
+    1,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 3200字)"
+   ],
+   [
+    "chapter-68-polished.md",
+    5,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 3500字)"
+   ],
+   [
+    "chapter-69-polished.md",
+    4,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** ~2600字)"
+   ],
+   [
+    "chapter-70-polished.md",
+    4,
+    "[blocking] meta-leak: 工程词泄漏：「字数目标」是写作流水线术语，正文里不该出现；改成角色/场景内表达。 (> **字数目标：** 3000字)"
+   ],
+   [
+    "chapter-71-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415是三个副本时间差的公约数)"
+   ],
+   [
+    "chapter-72-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428螺旋在背包里脉动)"
+   ],
+   [
+    "chapter-74-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428螺旋在背包里脉动)"
+   ],
+   [
+    "chapter-75-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包里发热)"
+   ],
+   [
+    "chapter-76-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包里发热)"
+   ],
+   [
+    "chapter-77-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428螺旋在背包里脉动)"
+   ],
+   [
+    "chapter-78-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包里发热)"
+   ],
+   [
+    "chapter-79-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428螺旋在背包里脉动)"
+   ],
+   [
+    "chapter-80-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428碎片在背包里发热)"
+   ],
+   [
+    "chapter-81-polished.md",
+    5,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包里发热)"
+   ],
+   [
+    "chapter-82-polished.md",
+    4,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 6 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包里发热)"
+   ],
+   [
+    "chapter-83-polished.md",
+    8,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩的系统面板在视野里浮动)"
+   ],
+   [
+    "chapter-84-polished.md",
+    5,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (0428碎片在背包里脉动)"
+   ],
+   [
+    "chapter-85-polished.md",
+    9,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428碎片在背包里脉动)"
+   ],
+   [
+    "chapter-86-polished.md",
+    6,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 6 次）：疑似模型打转，重写、保留一处。 (0428螺旋在墨镜后面闪烁)"
+   ],
+   [
+    "chapter-87-polished.md",
+    10,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 6 次）：疑似模型打转，重写、保留一处。 (0428螺旋在赵大嘴的背包里脉动)"
+   ],
+   [
+    "chapter-88-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428螺旋在赵大嘴的背包里脉动)"
+   ],
+   [
+    "chapter-89-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 8 次）：疑似模型打转，重写、保留一处。 (0428螺旋在墨镜后面闪烁)"
+   ],
+   [
+    "chapter-90-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (0428碎片在背包里脉动)"
+   ],
+   [
+    "chapter-91-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428螺旋在赵大嘴的背包里脉动)"
+   ],
+   [
+    "chapter-92-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (叶文轩看向赵大嘴手臂上的金色纹路)"
+   ],
+   [
+    "chapter-93-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 7 次）：疑似模型打转，重写、保留一处。 (0428螺旋在柜台后面脉动)"
+   ],
+   [
+    "chapter-94-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (书架每5分钟重新排列一次)"
+   ]
+  ]
+ },
+ "volume-2": {
+  "files": 150,
+  "blocking": 1136,
+  "advisory": 167,
+  "worst": [
+   [
+    "chapter-113-polished.md",
+    4,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (叶文轩结构透视从门上移开)"
+   ],
+   [
+    "chapter-114-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (叶文轩结构透视从碎片上移开)"
+   ],
+   [
+    "chapter-115-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩结构透视从公告牌上移开)"
+   ],
+   [
+    "chapter-116-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415-1锚点诞生的那天)"
+   ],
+   [
+    "chapter-117-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (结构透视的核心区域在空白里波动了一下)"
+   ],
+   [
+    "chapter-118-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (叶文轩结构透视扫过四面墙)"
+   ],
+   [
+    "chapter-120-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩结构透视从角色身上移开)"
+   ],
+   [
+    "chapter-121-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415年4月15日的时间记忆在碎片内部完整地封存着)"
+   ],
+   [
+    "chapter-122-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (叶文轩结构透视从注释上移开)"
+   ],
+   [
+    "chapter-123-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415-1锚点和0428-1锚点)"
+   ],
+   [
+    "chapter-124-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (0415-1锚点诞生的那天)"
+   ],
+   [
+    "chapter-125-polished.md",
+    4,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415碎片在叶文轩的背包夹层里安静地躺着)"
+   ],
+   [
+    "chapter-126-polished.md",
+    5,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (暗影在0415年4月15日的时间结构里面活动)"
+   ],
+   [
+    "chapter-127-polished.md",
+    10,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (0415碎片在叶文轩的背包夹层里安静地躺着)"
+   ],
+   [
+    "chapter-128-polished.md",
+    6,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包夹层里安静地躺着)"
+   ],
+   [
+    "chapter-129-polished.md",
+    6,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (赵大嘴的鼻子底下有一层薄汗)"
+   ],
+   [
+    "chapter-130-polished.md",
+    16,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0415年4月15日的时间结构和0428螺旋的时间结构在互相呼应)"
+   ],
+   [
+    "chapter-131-polished.md",
+    12,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (0415年4月15日的时间记忆完整地封存在碎片内部)"
+   ],
+   [
+    "chapter-132-polished.md",
+    12,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包夹层里安静地躺着)"
+   ],
+   [
+    "chapter-133-polished.md",
+    16,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 10 次）：疑似模型打转，重写、保留一处。 (0415碎片在叶文轩的背包夹层里安静地躺着)"
+   ],
+   [
+    "chapter-134-polished.md",
+    10,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 7 次）：疑似模型打转，重写、保留一处。 (0415年4月15日的时间记忆是0415-1锚点自己不愿意忘记的东西)"
+   ],
+   [
+    "chapter-135-polished.md",
+    26,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (结构透视能看到核心投影深处那扇银白色的门)"
+   ],
+   [
+    "chapter-136-polished.md",
+    16,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 18 次）：疑似模型打转，重写、保留一处。 (0415碎片的最深层是0415年4月15日)"
+   ],
+   [
+    "chapter-137-polished.md",
+    34,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 40 次）：疑似模型打转，重写、保留一处。 (0415碎片的最深层已经打开了)"
+   ],
+   [
+    "chapter-138-polished.md",
+    17,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415时间回廊完全开放了)"
+   ],
+   [
+    "chapter-139-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415碎片的最深层已经打开了)"
+   ],
+   [
+    "chapter-140-polished.md",
+    4,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (闭环的缺口在归位之门的方向)"
+   ],
+   [
+    "chapter-141-polished.md",
+    19,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 6 次）：疑似模型打转，重写、保留一处。 (闭环的缺口在归位之门的方向)"
+   ],
+   [
+    "chapter-142-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (闭环的缺口在归位之门的方向)"
+   ],
+   [
+    "chapter-143-polished.md",
+    5,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (闭环的终点在吞噬时间结构)"
+   ],
+   [
+    "chapter-144-polished.md",
+    25,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包夹层里面的温度在上升)"
+   ],
+   [
+    "chapter-145-polished.md",
+    20,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (1片0428碎片在赵大嘴的手心)"
+   ],
+   [
+    "chapter-146-polished.md",
+    27,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 9 次）：疑似模型打转，重写、保留一处。 (闭环的时间结构在自行运转)"
+   ],
+   [
+    "chapter-148-polished.md",
+    7,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 6 次）：疑似模型打转，重写、保留一处。 (0415碎片的最深层已经打开了)"
+   ],
+   [
+    "chapter-149-polished.md",
+    15,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0415碎片的最深层已经打开了)"
+   ],
+   [
+    "chapter-150-polished.md",
+    6,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0415碎片已经消耗殆尽)"
+   ],
+   [
+    "chapter-151-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (缺口需要0415碎片的时间结构来填补)"
+   ],
+   [
+    "chapter-152-polished.md",
+    15,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (闭环的时间结构在自行运转)"
+   ],
+   [
+    "chapter-153-polished.md",
+    9,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 6 次）：疑似模型打转，重写、保留一处。 (0415碎片的时间结构在覆盖真空)"
+   ],
+   [
+    "chapter-154-polished.md",
+    22,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 6 次）：疑似模型打转，重写、保留一处。 (闭环的时间结构在自行运转)"
+   ],
+   [
+    "chapter-155-polished.md",
+    6,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (0415时间回廊完全开放了)"
+   ],
+   [
+    "chapter-156-polished.md",
+    7,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (27岁的叶文轩的声音很轻，)"
+   ],
+   [
+    "chapter-157-polished.md",
+    6,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 10 次）：疑似模型打转，重写、保留一处。 (27岁的叶文轩的声音很平，)"
+   ],
+   [
+    "chapter-158-polished.md",
+    16,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0415碎片在背包夹层里面的温度在下降)"
+   ],
+   [
+    "chapter-159-polished.md",
+    10,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 9 次）：疑似模型打转，重写、保留一处。 (0415碎片的最深层已经打开了)"
+   ],
+   [
+    "chapter-160-polished.md",
+    39,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428碎片在他手心旋转)"
+   ],
+   [
+    "chapter-161-polished.md",
+    22,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 11 次）：疑似模型打转，重写、保留一处。 (0415年4月15日的时间结构线在光的周围流动)"
+   ],
+   [
+    "chapter-162-polished.md",
+    11,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428碎片在他手心旋转)"
+   ],
+   [
+    "chapter-163-polished.md",
+    9,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (时间结构线在他的皮肤下面自行流动)"
+   ],
+   [
+    "chapter-164-polished.md",
+    8,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (时间结构线在他的皮肤下面自行流动)"
+   ],
+   [
+    "chapter-165-polished.md",
+    6,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩的洞察者能力自动运行了)"
+   ],
+   [
+    "chapter-166-polished.md",
+    19,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 7 次）：疑似模型打转，重写、保留一处。 (执法者的银白色外表在0415时间结构的驱动下发出微光)"
+   ],
+   [
+    "chapter-167-polished.md",
+    20,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (时间结构线从执法者的手臂往叶文轩的方向延伸)"
+   ],
+   [
+    "chapter-168-polished.md",
+    20,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428碎片的最深层在0415时间结构的驱动下加速运转)"
+   ],
+   [
+    "chapter-169-polished.md",
+    19,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (时间结构线从执法者的手臂往叶文轩的方向延伸)"
+   ],
+   [
+    "chapter-170-polished.md",
+    12,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0428碎片的时间结构线在赵大嘴的皮肤下面自行流动)"
+   ],
+   [
+    "chapter-171-polished.md",
+    10,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (她的能力在这里面完全失效了)"
+   ],
+   [
+    "chapter-175-polished.md",
+    10,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (42片碎片的力量在手臂里面自行运转)"
+   ],
+   [
+    "chapter-176-polished.md",
+    8,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0429碎片的时间结构线在地面里面自行流动)"
+   ],
+   [
+    "chapter-177-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (韩冰能感觉到0429碎片的时间结构线在她的皮肤下面自行流动)"
+   ],
+   [
+    "chapter-178-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (暗红色的0429徽记在制服上面闪了一下)"
+   ],
+   [
+    "chapter-179-polished.md",
+    5,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩的洞察者能力扫过楼梯上面的时间结构)"
+   ],
+   [
+    "chapter-180-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0429徽记在门洞里面闪了一下)"
+   ],
+   [
+    "chapter-182-polished.md",
+    18,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (时间结构线在皮肤下面自行流动)"
+   ],
+   [
+    "chapter-183-polished.md",
+    15,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (走廊的时间结构在1998年)"
+   ],
+   [
+    "chapter-184-polished.md",
+    11,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (叶文轩的洞察者能力扫过42片0428碎片的时间结构)"
+   ],
+   [
+    "chapter-185-polished.md",
+    13,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0429碎片的时间结构线在身体里面自行流动)"
+   ],
+   [
+    "chapter-186-polished.md",
+    6,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (每一个人的时间结构都是一条线)"
+   ],
+   [
+    "chapter-189-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (门的时间结构线在裂缝的底部流动)"
+   ],
+   [
+    "chapter-191-polished.md",
+    5,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (旧城区的时间结构在自行运转)"
+   ],
+   [
+    "chapter-192-polished.md",
+    5,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (赵大嘴能感觉到42片碎片在扩张)"
+   ],
+   [
+    "chapter-193-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (韩冰能感觉到0429碎片的时间结构线在消退)"
+   ],
+   [
+    "chapter-195-polished.md",
+    16,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 9 次）：疑似模型打转，重写、保留一处。 (系统UI在叶文轩的视野边缘跳动)"
+   ],
+   [
+    "chapter-196-polished.md",
+    6,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (韩冰能感觉到0429碎片的时间结构线在消退)"
+   ],
+   [
+    "chapter-197-polished.md",
+    10,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (窗台上的碎玻璃在暗红光里面闪着寒光)"
+   ],
+   [
+    "chapter-198-polished.md",
+    8,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (回声在旧城区的街道上面回荡)"
+   ],
+   [
+    "chapter-199-polished.md",
+    4,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0429徽记在远处闪了一下)"
+   ],
+   [
+    "chapter-200-polished.md",
+    8,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (系统UI在叶文轩的视野边缘跳动)"
+   ],
+   [
+    "chapter-201-polished.md",
+    5,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (系统UI在叶文轩的视野边缘跳动)"
+   ],
+   [
+    "chapter-202-polished.md",
+    5,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (旧城区的时间结构在自行运转)"
+   ],
+   [
+    "chapter-203-polished.md",
+    6,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (旧城区的时间结构在自行运转)"
+   ],
+   [
+    "chapter-204-polished.md",
+    12,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (旧城区的时间结构在自行运转)"
+   ],
+   [
+    "chapter-205-polished.md",
+    11,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (裂缝的时间结构在自行运转)"
+   ],
+   [
+    "chapter-206-polished.md",
+    10,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (42片碎片在感知回家的路)"
+   ],
+   [
+    "chapter-207-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (42片碎片在感知回家的路)"
+   ],
+   [
+    "chapter-208-polished.md",
+    11,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (裂缝的时间结构在自行运转)"
+   ],
+   [
+    "chapter-209-polished.md",
+    8,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (42片碎片在感知回家的路)"
+   ],
+   [
+    "chapter-210-polished.md",
+    15,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (裂隙边境的地面在自行浮动)"
+   ],
+   [
+    "chapter-211-polished.md",
+    10,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (裂隙边境的入口的时间结构线在自行流动)"
+   ],
+   [
+    "chapter-212-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (裂隙边境的入口的时间结构在自行运转)"
+   ],
+   [
+    "chapter-213-polished.md",
+    23,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩能看见裂隙边境的入口的三条路径的时间结构线)"
+   ],
+   [
+    "chapter-214-polished.md",
+    17,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (光照在他的42片0428碎片上面)"
+   ],
+   [
+    "chapter-215-polished.md",
+    21,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (裂缝的中间的墙壁在自行流动)"
+   ],
+   [
+    "chapter-216-polished.md",
+    5,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (42片碎片在感知回家的路)"
+   ],
+   [
+    "chapter-217-polished.md",
+    11,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 8 次）：疑似模型打转，重写、保留一处。 (走廊的时间结构在自行运转)"
+   ],
+   [
+    "chapter-218-polished.md",
+    12,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (赵大嘴能感觉到42片碎片在振动)"
+   ],
+   [
+    "chapter-219-polished.md",
+    22,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 8 次）：疑似模型打转，重写、保留一处。 (缺口在0428螺旋纹路的中心)"
+   ],
+   [
+    "chapter-220-polished.md",
+    17,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (42片碎片在感知断了一截的0428螺旋纹路)"
+   ],
+   [
+    "chapter-221-polished.md",
+    21,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 8 次）：疑似模型打转，重写、保留一处。 (缺口在0428螺旋纹路的中心)"
+   ],
+   [
+    "chapter-222-polished.md",
+    9,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 6 次）：疑似模型打转，重写、保留一处。 (白色的空间的时间结构在自行运转)"
+   ],
+   [
+    "chapter-223-polished.md",
+    27,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (白色的空间的时间结构在自行运转)"
+   ],
+   [
+    "chapter-224-polished.md",
+    7,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (双螺旋在平台的表面自行运转)"
+   ],
+   [
+    "chapter-225-polished.md",
+    11,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 57 次）：疑似模型打转，重写、保留一处。 (双螺旋在平台的表面往白色的空间的上方升)"
+   ],
+   [
+    "chapter-226-polished.md",
+    17,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 7 次）：疑似模型打转，重写、保留一处。 (白色的空间的时间结构在自行运转)"
+   ],
+   [
+    "chapter-227-polished.md",
+    11,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 51 次）：疑似模型打转，重写、保留一处。 (双螺旋在白色的空间里面往白色的空间的上方升)"
+   ],
+   [
+    "chapter-228-polished.md",
+    12,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (白色的空间的时间结构在自行运转)"
+   ],
+   [
+    "chapter-229-polished.md",
+    4,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 6 次）：疑似模型打转，重写、保留一处。 (灰色的空间的时间结构线在自行流动)"
+   ],
+   [
+    "chapter-250-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (风从裂隙里吹上来，把他的衣摆吹起来又放下)"
+   ]
+  ]
+ },
+ "volume-3": {
+  "files": 150,
+  "blocking": 124,
+  "advisory": 152,
+  "worst": [
+   [
+    "chapter-255-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (幽蓝的光在裂隙的壁上面流动)"
+   ],
+   [
+    "chapter-267-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (42片碎片嵌在螺旋中央的缺口里面)"
+   ],
+   [
+    "chapter-274-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (门的表面在暖黄色的光下面沉默着)"
+   ],
+   [
+    "chapter-276-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (暗红色的光从皮肤下面透出来)"
+   ],
+   [
+    "chapter-278-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩的后背窜过一道凉意)"
+   ],
+   [
+    "chapter-279-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (他的0429碎片在手腕下面安静地发着暗红色的光)"
+   ],
+   [
+    "chapter-282-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (42片碎片在皮肤下面安静地发着光)"
+   ],
+   [
+    "chapter-284-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (海面在阳光下面亮得晃眼睛)"
+   ],
+   [
+    "chapter-285-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩的后背窜过一道凉意)"
+   ],
+   [
+    "chapter-286-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (42片碎片在皮肤下面安静地发着光)"
+   ],
+   [
+    "chapter-287-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (叶文轩的后背窜过一道凉意)"
+   ],
+   [
+    "chapter-288-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (他的0429碎片在水里面发着暗红色的光)"
+   ],
+   [
+    "chapter-290-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (叶文轩的后背窜过一道凉意)"
+   ],
+   [
+    "chapter-291-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (叶文轩的后背窜过一道凉意)"
+   ],
+   [
+    "chapter-294-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (赵大嘴的0429碎片安静了)"
+   ],
+   [
+    "chapter-297-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (海面在阳光下面亮得晃眼睛)"
+   ],
+   [
+    "chapter-301-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩的后背窜过一道凉意)"
+   ],
+   [
+    "chapter-303-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (他的42片碎片在手臂下面振动了一下)"
+   ],
+   [
+    "chapter-306-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (海面在阳光下面亮得晃眼睛)"
+   ],
+   [
+    "chapter-307-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (他的42片碎片在手腕下面振动)"
+   ],
+   [
+    "chapter-309-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (他的42片碎片在手腕下面振动)"
+   ],
+   [
+    "chapter-311-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (赵大嘴的0429碎片安静得像一块石头)"
+   ],
+   [
+    "chapter-312-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (42片碎片在皮肤下面安静地发着光)"
+   ],
+   [
+    "chapter-313-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (赵大嘴的0429碎片安静得像一块石头)"
+   ],
+   [
+    "chapter-314-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (韩冰的0429碎片在手腕下面安静地发着光)"
+   ],
+   [
+    "chapter-315-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (赵大嘴的0429碎片安静得像一块石头)"
+   ],
+   [
+    "chapter-317-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (韩冰的0429碎片在手腕下面安静地发着光)"
+   ],
+   [
+    "chapter-319-polished.md",
+    4,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (韩冰的0427碎片在手腕下面安静地发着光)"
+   ],
+   [
+    "chapter-321-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (赵大嘴的0429碎片安静得像一块石头)"
+   ],
+   [
+    "chapter-322-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (赵大嘴的0429碎片在袖口下面安静地发着光)"
+   ],
+   [
+    "chapter-323-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0429碎片在皮肤下面安静地发着光)"
+   ],
+   [
+    "chapter-326-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩的42片碎片在手腕下面振动)"
+   ],
+   [
+    "chapter-327-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (赵磊的0429碎片在身体里面振动)"
+   ],
+   [
+    "chapter-328-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (赵磊的0429碎片在身体里面振动)"
+   ],
+   [
+    "chapter-329-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (赵磊的0429碎片在身体里面振动)"
+   ],
+   [
+    "chapter-330-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (赵磊的0429碎片在身体里面振动)"
+   ],
+   [
+    "chapter-333-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (赵磊的0429碎片在身体里面安静地振动)"
+   ],
+   [
+    "chapter-334-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (赵磊的0429碎片在身体里面振动)"
+   ],
+   [
+    "chapter-335-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (他以为自己做了一个很长的梦)"
+   ],
+   [
+    "chapter-337-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (韩冰能感觉到0429碎片在振动)"
+   ],
+   [
+    "chapter-338-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩的42片碎片在手腕下面振动)"
+   ],
+   [
+    "chapter-339-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩能感觉到42片碎片在手腕下面振动)"
+   ],
+   [
+    "chapter-344-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0429碎片以前让赵磊跟着叶文轩走)"
+   ],
+   [
+    "chapter-345-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩能感觉到42片碎片在手腕下面振动)"
+   ],
+   [
+    "chapter-346-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (赵磊能感觉到0429碎片在身体里面振动)"
+   ],
+   [
+    "chapter-347-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (赵磊能感觉到0429碎片在身体里面振动)"
+   ],
+   [
+    "chapter-350-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (叶文轩能感觉到42片碎片在手腕下面振动)"
+   ],
+   [
+    "chapter-351-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (赵磊能感觉到0429碎片在身体里面振动)"
+   ],
+   [
+    "chapter-359-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩以前在系统里面很少——觉得是什么)"
+   ],
+   [
+    "chapter-362-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0429碎片以前在赵磊的手腕上面跳的时候)"
+   ],
+   [
+    "chapter-364-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 6 次）：疑似模型打转，重写、保留一处。 (叶文轩能感觉到——42碎片在手腕下面振动)"
+   ],
+   [
+    "chapter-365-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0429碎片以前在赵磊的手腕上面跳的时候)"
+   ],
+   [
+    "chapter-366-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 7 次）：疑似模型打转，重写、保留一处。 (叶文轩能感觉到——42碎片在手腕下面振动)"
+   ],
+   [
+    "chapter-367-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (叶文轩能感觉到——42碎片在手腕下面振动)"
+   ],
+   [
+    "chapter-369-polished.md",
+    4,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428碎片在陈小鱼的——身体里面)"
+   ],
+   [
+    "chapter-370-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩能感觉到——自己的胸口——在跳)"
+   ],
+   [
+    "chapter-371-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (陈小鱼能感觉到——0428碎片在自己身体里面——在振动)"
+   ],
+   [
+    "chapter-372-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (叶文轩能感觉到——42碎片在手腕下面——振动)"
+   ],
+   [
+    "chapter-373-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (叶文轩能感觉到——42碎片在手腕下面——振动)"
+   ],
+   [
+    "chapter-376-polished.md",
+    4,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩能感觉到——42碎片在——手腕下面——振动)"
+   ],
+   [
+    "chapter-377-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (赵磊能感觉到——0429碎片在——振动)"
+   ],
+   [
+    "chapter-378-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩能感觉到——自己的——脑子——在——转)"
+   ],
+   [
+    "chapter-379-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩能感觉到——42碎片在——手腕下面——振动)"
+   ],
+   [
+    "chapter-380-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩能感觉到——42碎片在——手腕下面——振动)"
+   ],
+   [
+    "chapter-382-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0429碎片——是——叶文轩的——另一半)"
+   ],
+   [
+    "chapter-383-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩能感觉到——塔的——里面——在——亮)"
+   ],
+   [
+    "chapter-391-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (赵磊能——感觉到——0429碎片——在——身体里面——在——振动)"
+   ],
+   [
+    "chapter-392-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (赵磊能——感觉到——0429碎片——在——身体里面——在——振动)"
+   ],
+   [
+    "chapter-394-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0428碎片——在——陈小鱼的——身体里面——在——亮)"
+   ],
+   [
+    "chapter-395-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0429碎片——在——赵磊的——脑子——里面——在——翻译)"
+   ],
+   [
+    "chapter-396-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0412碎片——在——冰的——手腕——上面——在——亮)"
+   ],
+   [
+    "chapter-397-polished.md",
+    4,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 4 次）：疑似模型打转，重写、保留一处。 (0412碎片——在——冰的——手腕——上面——在——亮)"
+   ],
+   [
+    "chapter-398-polished.md",
+    2,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (0412碎片——在——冰的——手腕——上面——在——亮)"
+   ],
+   [
+    "chapter-399-polished.md",
+    1,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 3 次）：疑似模型打转，重写、保留一处。 (叶文轩的——声音——在——赵磊的——脑子——里面——在——响)"
+   ],
+   [
+    "chapter-400-polished.md",
+    3,
+    "[blocking] verbatim-repeat: 长句复读（同句出现 5 次）：疑似模型打转，重写、保留一处。 (叶文轩的——声音——在——赵磊的——脑子——里面——在——响)"
+   ]
+  ]
+ }
+}
