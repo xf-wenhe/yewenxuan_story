@@ -153,7 +153,7 @@
      "file": "chapter-24-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 4412
+     "cjk": 4410
     },
     {
      "file": "chapter-25-polished.md",
@@ -171,7 +171,7 @@
      "file": "chapter-27-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 5356
+     "cjk": 5355
     },
     {
      "file": "chapter-28-polished.md",
@@ -231,7 +231,7 @@
      "file": "chapter-37-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 5883
+     "cjk": 5873
     },
     {
      "file": "chapter-38-polished.md",
@@ -261,7 +261,7 @@
      "file": "chapter-42-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 4253
+     "cjk": 4306
     },
     {
      "file": "chapter-43-polished.md",
@@ -273,7 +273,7 @@
      "file": "chapter-44-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3314
+     "cjk": 3332
     },
     {
      "file": "chapter-45-polished.md",
@@ -297,7 +297,7 @@
      "file": "chapter-48-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 5042
+     "cjk": 5036
     },
     {
      "file": "chapter-49-polished.md",
@@ -327,7 +327,7 @@
      "file": "chapter-53-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3135
+     "cjk": 3229
     },
     {
      "file": "chapter-54-polished.md",
@@ -345,7 +345,7 @@
      "file": "chapter-56-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3988
+     "cjk": 4007
     },
     {
      "file": "chapter-57-polished.md",
@@ -429,19 +429,19 @@
      "file": "chapter-70-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 6279
+     "cjk": 6265
     },
     {
      "file": "chapter-71-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3341
+     "cjk": 3355
     },
     {
      "file": "chapter-72-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3007
+     "cjk": 3000
     },
     {
      "file": "chapter-73-polished.md",
@@ -471,13 +471,13 @@
      "file": "chapter-77-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3006
+     "cjk": 3003
     },
     {
      "file": "chapter-78-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3000
+     "cjk": 3009
     },
     {
      "file": "chapter-79-polished.md",
@@ -495,7 +495,7 @@
      "file": "chapter-81-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3102
+     "cjk": 3099
     },
     {
      "file": "chapter-82-polished.md",
@@ -507,7 +507,7 @@
      "file": "chapter-83-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3026
+     "cjk": 3015
     },
     {
      "file": "chapter-84-polished.md",
@@ -640,19 +640,19 @@
      "file": "chapter-105-polished.md",
      "blocking": 0,
      "advisory": 0,
-     "cjk": 3120
+     "cjk": 3073
     },
     {
      "file": "chapter-106-polished.md",
      "blocking": 0,
      "advisory": 0,
-     "cjk": 8997
+     "cjk": 3017
     },
     {
      "file": "chapter-107-polished.md",
      "blocking": 0,
      "advisory": 0,
-     "cjk": 3966
+     "cjk": 3726
     },
     {
      "file": "chapter-108-polished.md",
@@ -670,7 +670,7 @@
      "file": "chapter-110-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 8279
+     "cjk": 4922
     },
     {
      "file": "chapter-111-polished.md",
@@ -682,7 +682,7 @@
      "file": "chapter-112-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 8024
+     "cjk": 8033
     },
     {
      "file": "chapter-113-polished.md",
@@ -1541,25 +1541,25 @@
      "file": "chapter-254-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3981
+     "cjk": 3855
     },
     {
      "file": "chapter-255-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 4009
+     "cjk": 4015
     },
     {
      "file": "chapter-256-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 5484
+     "cjk": 5476
     },
     {
      "file": "chapter-257-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 5392
+     "cjk": 5385
     },
     {
      "file": "chapter-258-polished.md",
@@ -1571,43 +1571,43 @@
      "file": "chapter-259-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 4411
+     "cjk": 4413
     },
     {
      "file": "chapter-260-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 4150
+     "cjk": 4143
     },
     {
      "file": "chapter-261-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 5591
+     "cjk": 5581
     },
     {
      "file": "chapter-262-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 5523
+     "cjk": 5502
     },
     {
      "file": "chapter-263-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3429
+     "cjk": 3435
     },
     {
      "file": "chapter-264-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 4022
+     "cjk": 4021
     },
     {
      "file": "chapter-265-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 5382
+     "cjk": 3097
     },
     {
      "file": "chapter-266-polished.md",
@@ -1619,37 +1619,37 @@
      "file": "chapter-267-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 6332
+     "cjk": 6428
     },
     {
      "file": "chapter-268-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3842
+     "cjk": 3981
     },
     {
      "file": "chapter-269-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 4756
+     "cjk": 4775
     },
     {
      "file": "chapter-270-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 4399
+     "cjk": 4445
     },
     {
      "file": "chapter-271-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3278
+     "cjk": 3277
     },
     {
      "file": "chapter-272-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 4639
+     "cjk": 4638
     },
     {
      "file": "chapter-273-polished.md",
@@ -1823,13 +1823,13 @@
      "file": "chapter-301-polished.md",
      "blocking": 0,
      "advisory": 0,
-     "cjk": 3053
+     "cjk": 3052
     },
     {
      "file": "chapter-302-polished.md",
      "blocking": 0,
      "advisory": 0,
-     "cjk": 3212
+     "cjk": 3131
     },
     {
      "file": "chapter-303-polished.md",
@@ -1853,7 +1853,7 @@
      "file": "chapter-306-polished.md",
      "blocking": 0,
      "advisory": 0,
-     "cjk": 3009
+     "cjk": 3008
     },
     {
      "file": "chapter-307-polished.md",
@@ -1895,19 +1895,19 @@
      "file": "chapter-313-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3044
+     "cjk": 3134
     },
     {
      "file": "chapter-314-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3047
+     "cjk": 2962
     },
     {
      "file": "chapter-315-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3052
+     "cjk": 3005
     },
     {
      "file": "chapter-316-polished.md",
@@ -1931,7 +1931,7 @@
      "file": "chapter-319-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3048
+     "cjk": 3021
     },
     {
      "file": "chapter-320-polished.md",
@@ -1961,13 +1961,13 @@
      "file": "chapter-324-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3203
+     "cjk": 3207
     },
     {
      "file": "chapter-325-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3133
+     "cjk": 3130
     },
     {
      "file": "chapter-326-polished.md",
@@ -1979,7 +1979,7 @@
      "file": "chapter-327-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3035
+     "cjk": 3069
     },
     {
      "file": "chapter-328-polished.md",
@@ -2009,7 +2009,7 @@
      "file": "chapter-332-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3079
+     "cjk": 3081
     },
     {
      "file": "chapter-333-polished.md",
@@ -2021,19 +2021,19 @@
      "file": "chapter-334-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3087
+     "cjk": 2614
     },
     {
      "file": "chapter-335-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3002
+     "cjk": 3004
     },
     {
      "file": "chapter-336-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3031
+     "cjk": 3072
     },
     {
      "file": "chapter-337-polished.md",
@@ -2045,7 +2045,7 @@
      "file": "chapter-338-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3236
+     "cjk": 3203
     },
     {
      "file": "chapter-339-polished.md",
@@ -2123,7 +2123,7 @@
      "file": "chapter-351-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3150
+     "cjk": 3198
     },
     {
      "file": "chapter-352-polished.md",
@@ -2147,7 +2147,7 @@
      "file": "chapter-355-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3014
+     "cjk": 3013
     },
     {
      "file": "chapter-356-polished.md",
@@ -2159,25 +2159,25 @@
      "file": "chapter-357-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3016
+     "cjk": 2711
     },
     {
      "file": "chapter-358-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3002
+     "cjk": 3069
     },
     {
      "file": "chapter-359-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3003
+     "cjk": 3022
     },
     {
      "file": "chapter-360-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3058
+     "cjk": 3062
     },
     {
      "file": "chapter-361-polished.md",
@@ -2189,7 +2189,7 @@
      "file": "chapter-362-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3004
+     "cjk": 3008
     },
     {
      "file": "chapter-363-polished.md",
@@ -2201,7 +2201,7 @@
      "file": "chapter-364-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 4484
+     "cjk": 4482
     },
     {
      "file": "chapter-365-polished.md",
@@ -2213,13 +2213,13 @@
      "file": "chapter-366-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 4713
+     "cjk": 4787
     },
     {
      "file": "chapter-367-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3204
+     "cjk": 3205
     },
     {
      "file": "chapter-368-polished.md",
@@ -2231,31 +2231,31 @@
      "file": "chapter-369-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 5219
+     "cjk": 5213
     },
     {
      "file": "chapter-370-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 4008
+     "cjk": 4048
     },
     {
      "file": "chapter-371-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3763
+     "cjk": 3765
     },
     {
      "file": "chapter-372-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3096
+     "cjk": 3128
     },
     {
      "file": "chapter-373-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3105
+     "cjk": 3127
     },
     {
      "file": "chapter-374-polished.md",
@@ -2273,13 +2273,13 @@
      "file": "chapter-376-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3022
+     "cjk": 3020
     },
     {
      "file": "chapter-377-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3020
+     "cjk": 3019
     },
     {
      "file": "chapter-378-polished.md",
@@ -2297,25 +2297,25 @@
      "file": "chapter-380-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3014
+     "cjk": 3016
     },
     {
      "file": "chapter-381-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3010
+     "cjk": 3008
     },
     {
      "file": "chapter-382-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3003
+     "cjk": 3005
     },
     {
      "file": "chapter-383-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3005
+     "cjk": 2868
     },
     {
      "file": "chapter-384-polished.md",
@@ -2351,49 +2351,49 @@
      "file": "chapter-389-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3009
+     "cjk": 3008
     },
     {
      "file": "chapter-390-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3180
+     "cjk": 3171
     },
     {
      "file": "chapter-391-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3074
+     "cjk": 3064
     },
     {
      "file": "chapter-392-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3072
+     "cjk": 3099
     },
     {
      "file": "chapter-393-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3094
+     "cjk": 3054
     },
     {
      "file": "chapter-394-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3012
+     "cjk": 3006
     },
     {
      "file": "chapter-395-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3181
+     "cjk": 3199
     },
     {
      "file": "chapter-396-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3007
+     "cjk": 3004
     },
     {
      "file": "chapter-397-polished.md",
@@ -2405,24 +2405,45 @@
      "file": "chapter-398-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3153
+     "cjk": 3166
     },
     {
      "file": "chapter-399-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3002
+     "cjk": 3069
     },
     {
      "file": "chapter-400-polished.md",
      "blocking": 0,
      "advisory": 1,
-     "cjk": 3008
+     "cjk": 2998
     }
    ]
   }
  },
- "short_chapters": [],
+ "short_chapters": [
+  {
+   "file": "chapter-314-polished.md",
+   "cjk": 2962
+  },
+  {
+   "file": "chapter-334-polished.md",
+   "cjk": 2614
+  },
+  {
+   "file": "chapter-357-polished.md",
+   "cjk": 2711
+  },
+  {
+   "file": "chapter-383-polished.md",
+   "cjk": 2868
+  },
+  {
+   "file": "chapter-400-polished.md",
+   "cjk": 2998
+  }
+ ],
  "bom_files": [],
  "bad_encoding": [],
  "total_files": 400,
