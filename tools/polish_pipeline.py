@@ -225,7 +225,8 @@ def pass_dialogue(content):
     stats['dialogue_fixes'] += n
 
     # Fix: 效果有限"X" → 效果有限。"X"
-    content = re.sub(r'([^。])"([^"]{1,15})"([。])', r'\1。"\2"\3', content)
+    # DISABLED: This regex was incorrectly adding 。" before quoted Chinese words in narrative
+    # content = re.sub(r'([^。])"([^"]{1,15})"([。])', r'\1。"\2"\3', content)
 
     return content, stats
 
