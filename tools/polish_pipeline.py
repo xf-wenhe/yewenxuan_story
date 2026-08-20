@@ -213,7 +213,8 @@ def pass_dialogue(content):
     stats = {'dialogue_fixes': 0}
 
     # Fix: "X"Y的声音。 → "X。"Y的声音。
-    content, n = re.subn(r'"([^"]{1,20})"([^，。\n]{1,8})的声音[。]', r'"\1。"\2的声音。', content)
+    # Note: [^"\n] excludes newlines to prevent matching across paragraph boundaries
+    content, n = re.subn(r'"([^"\n]{1,20})"([^，。\n]{1,8})的声音[。]', r'"\1。"\2的声音。', content)
     stats['dialogue_fixes'] += n
 
     # Fix: 是，X。 → 是X。
