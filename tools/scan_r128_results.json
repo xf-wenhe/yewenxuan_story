@@ -1,0 +1,3570 @@
+﻿{
+  "meta": {
+    "totalChapters": 999,
+    "scanDate": "2026-08-25T08:54:57.769Z",
+    "round": "R128"
+  },
+  "summary": {
+    "totalPatternMatches": 867,
+    "patternsWithHits": 46,
+    "concentratedCount": 22
+  },
+  "patterns": [
+    {
+      "name": "声音有些",
+      "total": 140,
+      "chapters": [
+        {
+          "ch": 609,
+          "count": 8,
+          "title": ""
+        },
+        {
+          "ch": 630,
+          "count": 8,
+          "title": ""
+        },
+        {
+          "ch": 626,
+          "count": 6,
+          "title": ""
+        },
+        {
+          "ch": 629,
+          "count": 6,
+          "title": ""
+        },
+        {
+          "ch": 631,
+          "count": 6,
+          "title": ""
+        },
+        {
+          "ch": 635,
+          "count": 6,
+          "title": ""
+        },
+        {
+          "ch": 587,
+          "count": 5,
+          "title": ""
+        },
+        {
+          "ch": 589,
+          "count": 5,
+          "title": ""
+        },
+        {
+          "ch": 592,
+          "count": 5,
+          "title": ""
+        },
+        {
+          "ch": 634,
+          "count": 5,
+          "title": ""
+        },
+        {
+          "ch": 608,
+          "count": 4,
+          "title": ""
+        },
+        {
+          "ch": 632,
+          "count": 4,
+          "title": ""
+        },
+        {
+          "ch": 588,
+          "count": 3,
+          "title": ""
+        },
+        {
+          "ch": 606,
+          "count": 3,
+          "title": ""
+        },
+        {
+          "ch": 622,
+          "count": 3,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "声音没有",
+      "total": 71,
+      "chapters": [
+        {
+          "ch": 51,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 212,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 39,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 44,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 45,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 49,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 50,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 52,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 54,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 56,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 67,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 68,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 70,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 71,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 73,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "声音在他",
+      "total": 64,
+      "chapters": [
+        {
+          "ch": 403,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 411,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 426,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 430,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 432,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 441,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 457,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 478,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 495,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 899,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 1,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 100,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 150,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 378,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 382,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "声音很轻",
+      "total": 57,
+      "chapters": [
+        {
+          "ch": 424,
+          "count": 18,
+          "title": ""
+        },
+        {
+          "ch": 581,
+          "count": 4,
+          "title": ""
+        },
+        {
+          "ch": 414,
+          "count": 3,
+          "title": ""
+        },
+        {
+          "ch": 580,
+          "count": 3,
+          "title": ""
+        },
+        {
+          "ch": 582,
+          "count": 3,
+          "title": ""
+        },
+        {
+          "ch": 583,
+          "count": 3,
+          "title": ""
+        },
+        {
+          "ch": 421,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 473,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 485,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 574,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 579,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 401,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 415,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 416,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 483,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "声音有些哑",
+      "total": 49,
+      "chapters": [
+        {
+          "ch": 589,
+          "count": 4,
+          "title": ""
+        },
+        {
+          "ch": 635,
+          "count": 4,
+          "title": ""
+        },
+        {
+          "ch": 606,
+          "count": 3,
+          "title": ""
+        },
+        {
+          "ch": 587,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 588,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 591,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 592,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 624,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 626,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 629,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 630,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 632,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 634,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 581,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 593,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "声音变得",
+      "total": 41,
+      "chapters": [
+        {
+          "ch": 673,
+          "count": 4,
+          "title": ""
+        },
+        {
+          "ch": 445,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 147,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 254,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 261,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 287,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 289,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 314,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 357,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 385,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 410,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 412,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 474,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 480,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 481,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "嗓音干(?!滞)",
+      "total": 32,
+      "chapters": [
+        {
+          "ch": 642,
+          "count": 4,
+          "title": ""
+        },
+        {
+          "ch": 639,
+          "count": 3,
+          "title": ""
+        },
+        {
+          "ch": 644,
+          "count": 3,
+          "title": ""
+        },
+        {
+          "ch": 647,
+          "count": 3,
+          "title": ""
+        },
+        {
+          "ch": 637,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 638,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 646,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 161,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 183,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 200,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 519,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 573,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 584,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 618,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 621,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "声音在叶",
+      "total": 31,
+      "chapters": [
+        {
+          "ch": 568,
+          "count": 4,
+          "title": ""
+        },
+        {
+          "ch": 800,
+          "count": 4,
+          "title": ""
+        },
+        {
+          "ch": 736,
+          "count": 3,
+          "title": ""
+        },
+        {
+          "ch": 158,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 880,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 146,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 153,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 154,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 155,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 159,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 277,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 334,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 391,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 420,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 502,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "嗓音低(?!得)",
+      "total": 29,
+      "chapters": [
+        {
+          "ch": 914,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 27,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 34,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 36,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 179,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 212,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 264,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 294,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 366,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 396,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 407,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 408,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 409,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 410,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 412,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "语气里",
+      "total": 28,
+      "chapters": [
+        {
+          "ch": 439,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 513,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 726,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 2,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 3,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 178,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 201,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 206,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 210,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 220,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 263,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 447,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 481,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 491,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 498,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "嗓音干涩",
+      "total": 27,
+      "chapters": [
+        {
+          "ch": 639,
+          "count": 3,
+          "title": ""
+        },
+        {
+          "ch": 642,
+          "count": 3,
+          "title": ""
+        },
+        {
+          "ch": 644,
+          "count": 3,
+          "title": ""
+        },
+        {
+          "ch": 647,
+          "count": 3,
+          "title": ""
+        },
+        {
+          "ch": 637,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 638,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 646,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 183,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 200,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 573,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 618,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 621,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 636,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 643,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 645,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "嗓音低得",
+      "total": 22,
+      "chapters": [
+        {
+          "ch": 625,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 200,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 206,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 217,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 279,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 345,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 361,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 380,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 394,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 407,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 409,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 410,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 414,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 427,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 445,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "声音响起",
+      "total": 21,
+      "chapters": [
+        {
+          "ch": 412,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 415,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 25,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 152,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 231,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 281,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 402,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 437,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 439,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 446,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 466,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 480,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 565,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 609,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 737,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "声音不再",
+      "total": 20,
+      "chapters": [
+        {
+          "ch": 735,
+          "count": 4,
+          "title": ""
+        },
+        {
+          "ch": 731,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 733,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 734,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 42,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 171,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 182,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 202,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 251,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 361,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 545,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 637,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 651,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 951,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-开口毫无波澜",
+      "total": 18,
+      "chapters": [
+        {
+          "ch": 10,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 37,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 186,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 241,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 250,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 350,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 376,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 495,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 498,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 504,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 537,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 575,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 589,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 590,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 630,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-嗓音一色到底",
+      "total": 17,
+      "chapters": [
+        {
+          "ch": 41,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 186,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 250,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 361,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 386,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 403,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 497,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 509,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 546,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 582,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 603,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 630,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 637,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 791,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 914,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-说话单调",
+      "total": 13,
+      "chapters": [
+        {
+          "ch": 147,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 150,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 215,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 359,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 365,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 378,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 507,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 517,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 519,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 590,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 606,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 630,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 820,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-嗓音单调而平稳",
+      "total": 12,
+      "chapters": [
+        {
+          "ch": 150,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 233,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 339,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 374,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 484,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 500,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 523,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 561,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 589,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 626,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 747,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 890,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-嗓音没有一丝波澜",
+      "total": 12,
+      "chapters": [
+        {
+          "ch": 150,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 217,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 309,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 366,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 462,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 499,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 517,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 555,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 587,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 608,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 654,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 830,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "嗓音颤抖",
+      "total": 11,
+      "chapters": [
+        {
+          "ch": 4,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 18,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 157,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 163,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 173,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 280,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 336,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 375,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 394,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 531,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 860,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "嗓音低下",
+      "total": 10,
+      "chapters": [
+        {
+          "ch": 175,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 193,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 214,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 268,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 315,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 413,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 426,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 489,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 520,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 874,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "嗓音像砂",
+      "total": 10,
+      "chapters": [
+        {
+          "ch": 638,
+          "count": 3,
+          "title": ""
+        },
+        {
+          "ch": 643,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 647,
+          "count": 2,
+          "title": ""
+        },
+        {
+          "ch": 636,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 637,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 644,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-开口毫无变化",
+      "total": 9,
+      "chapters": [
+        {
+          "ch": 42,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 148,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 308,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 339,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 494,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 500,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 543,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 601,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 649,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-嗓音低得几乎听不见",
+      "total": 8,
+      "chapters": [
+        {
+          "ch": 345,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 380,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 407,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 409,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 410,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 414,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 427,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 445,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-嗓音低到极致",
+      "total": 8,
+      "chapters": [
+        {
+          "ch": 27,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 366,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 407,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 410,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 412,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 415,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 430,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 474,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-嗓音降到最深处",
+      "total": 8,
+      "chapters": [
+        {
+          "ch": 230,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 377,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 408,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 410,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 412,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 421,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 432,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 515,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-声音轻得没有半点重量",
+      "total": 8,
+      "chapters": [
+        {
+          "ch": 11,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 370,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 408,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 410,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 412,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 421,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 432,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 504,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-嗓音几近无声",
+      "total": 7,
+      "chapters": [
+        {
+          "ch": 274,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 404,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 409,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 410,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 413,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 425,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 438,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-说话声音轻得几乎没有重量",
+      "total": 7,
+      "chapters": [
+        {
+          "ch": 365,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 407,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 410,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 412,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 414,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 430,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 467,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-声音轻飘得难以承受",
+      "total": 7,
+      "chapters": [
+        {
+          "ch": 273,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 404,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 408,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 410,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 412,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 422,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 437,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-声音像纸一样薄",
+      "total": 7,
+      "chapters": [
+        {
+          "ch": 340,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 406,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 409,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 410,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 413,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 426,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 443,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-声音毫无颤音",
+      "total": 6,
+      "chapters": [
+        {
+          "ch": 42,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 44,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 378,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 409,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 423,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 739,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-说话没有任何变化",
+      "total": 5,
+      "chapters": [
+        {
+          "ch": 39,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 240,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 459,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 538,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 614,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-说话一成不变",
+      "total": 5,
+      "chapters": [
+        {
+          "ch": 186,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 361,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 499,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 569,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 739,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-声音连一个颤音都没有",
+      "total": 5,
+      "chapters": [
+        {
+          "ch": 37,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 58,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 405,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 422,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 498,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-嗓音平如直线",
+      "total": 5,
+      "chapters": [
+        {
+          "ch": 19,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 171,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 371,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 609,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 731,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-嗓音没有波动",
+      "total": 4,
+      "chapters": [
+        {
+          "ch": 145,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 305,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 479,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 649,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-嗓音完全没有变化",
+      "total": 4,
+      "chapters": [
+        {
+          "ch": 60,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 212,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 415,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 649,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-嗓音没有任何波动",
+      "total": 4,
+      "chapters": [
+        {
+          "ch": 153,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 364,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 499,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 650,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-嗓音没有半点波澜",
+      "total": 4,
+      "chapters": [
+        {
+          "ch": 36,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 182,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 384,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 627,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-嗓音完全平静",
+      "total": 4,
+      "chapters": [
+        {
+          "ch": 50,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 190,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 409,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 649,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-嗓音平如镜",
+      "total": 4,
+      "chapters": [
+        {
+          "ch": 71,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 216,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 425,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 649,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-语气机械而无生气",
+      "total": 4,
+      "chapters": [
+        {
+          "ch": 140,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 195,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 380,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 648,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-语气像机器一样",
+      "total": 3,
+      "chapters": [
+        {
+          "ch": 185,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 348,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 642,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-语气像程序输出",
+      "total": 3,
+      "chapters": [
+        {
+          "ch": 165,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 205,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 598,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "R127-语气没有一丝人情味",
+      "total": 3,
+      "chapters": [
+        {
+          "ch": 179,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 231,
+          "count": 1,
+          "title": ""
+        },
+        {
+          "ch": 625,
+          "count": 1,
+          "title": ""
+        }
+      ]
+    },
+    {
+      "name": "语气平淡",
+      "total": 0,
+      "chapters": []
+    },
+    {
+      "name": "语气平淡,",
+      "total": 0,
+      "chapters": []
+    },
+    {
+      "name": "语气平淡得",
+      "total": 0,
+      "chapters": []
+    },
+    {
+      "name": "语气平淡静",
+      "total": 0,
+      "chapters": []
+    },
+    {
+      "name": "语气平铺直叙",
+      "total": 0,
+      "chapters": []
+    },
+    {
+      "name": "语气低沉",
+      "total": 0,
+      "chapters": []
+    },
+    {
+      "name": "语气冰冷",
+      "total": 0,
+      "chapters": []
+    },
+    {
+      "name": "嗓音沙哑",
+      "total": 0,
+      "chapters": []
+    },
+    {
+      "name": "声音发颤",
+      "total": 0,
+      "chapters": []
+    },
+    {
+      "name": "R127-声音稳得没有一丝颤音",
+      "total": 0,
+      "chapters": []
+    },
+    {
+      "name": "R127-声音没有半点颤音",
+      "total": 0,
+      "chapters": []
+    }
+  ],
+  "deepDive": [
+    {
+      "name": "deep-声音有些",
+      "total": 140,
+      "chapters": [
+        {
+          "ch": 609,
+          "count": 8
+        },
+        {
+          "ch": 630,
+          "count": 8
+        },
+        {
+          "ch": 626,
+          "count": 6
+        },
+        {
+          "ch": 629,
+          "count": 6
+        },
+        {
+          "ch": 631,
+          "count": 6
+        },
+        {
+          "ch": 635,
+          "count": 6
+        },
+        {
+          "ch": 587,
+          "count": 5
+        },
+        {
+          "ch": 589,
+          "count": 5
+        },
+        {
+          "ch": 592,
+          "count": 5
+        },
+        {
+          "ch": 634,
+          "count": 5
+        },
+        {
+          "ch": 608,
+          "count": 4
+        },
+        {
+          "ch": 632,
+          "count": 4
+        },
+        {
+          "ch": 588,
+          "count": 3
+        },
+        {
+          "ch": 606,
+          "count": 3
+        },
+        {
+          "ch": 622,
+          "count": 3
+        }
+      ],
+      "samples": [
+        "ch12: ...声音有些干，\"你怎么会有...",
+        "ch32: ...声音有些不对劲，\"你刚才...",
+        "ch39: ...声音有些虚弱。\"精神力用...",
+        "ch48: ...声音有些远，像是从隔壁房...",
+        "ch144: ...声音有些犹豫，\"好像没那...",
+        "ch144: ...声音有些飘忽不定。...",
+        "ch168: ...声音有些抖，\"0428碎...",
+        "ch341: ...声音有些抖动，很轻，像在...",
+        "ch384: ...声音有些抖动，很轻，像在...",
+        "ch455: ...声音有些紧张，手指从键盘...",
+        "ch455: ...声音有些好奇。...",
+        "ch478: ...声音有些发涩，手指无意识...",
+        "ch544: ...声音有些飘忽不定。「它们...",
+        "ch561: ...声音有些抖抖声音在混乱维...",
+        "ch573: ...声音有些抖。...",
+        "ch581: ...声音有些哑协议编译中04...",
+        "ch582: ...声音有些干0428碎片要...",
+        "ch583: ...声音有些干0428碎片要...",
+        "ch585: ...声音有些干我回来了。...",
+        "ch587: ...声音有些干它在编译释放协..."
+      ]
+    },
+    {
+      "name": "deep-声音没有",
+      "total": 71,
+      "chapters": [
+        {
+          "ch": 51,
+          "count": 2
+        },
+        {
+          "ch": 212,
+          "count": 2
+        },
+        {
+          "ch": 39,
+          "count": 1
+        },
+        {
+          "ch": 44,
+          "count": 1
+        },
+        {
+          "ch": 45,
+          "count": 1
+        },
+        {
+          "ch": 49,
+          "count": 1
+        },
+        {
+          "ch": 50,
+          "count": 1
+        },
+        {
+          "ch": 52,
+          "count": 1
+        },
+        {
+          "ch": 54,
+          "count": 1
+        },
+        {
+          "ch": 56,
+          "count": 1
+        },
+        {
+          "ch": 67,
+          "count": 1
+        },
+        {
+          "ch": 68,
+          "count": 1
+        },
+        {
+          "ch": 70,
+          "count": 1
+        },
+        {
+          "ch": 71,
+          "count": 1
+        },
+        {
+          "ch": 73,
+          "count": 1
+        }
+      ],
+      "samples": [
+        "ch39: ...声音没有一丝动摇。\"你在...",
+        "ch44: ...声音没有评判，只是陈述事...",
+        "ch45: ...声音没有停顿。\"东北一百...",
+        "ch49: ...声音没有波动。\"系统给我...",
+        "ch50: ...声音没有什么起伏，\"因为...",
+        "ch51: ...声音没有任何起伏，像在念...",
+        "ch51: ...声音没有任何情感起伏，但...",
+        "ch52: ...声音没有音高的变化。...",
+        "ch54: ...声音没有回头。...",
+        "ch56: ...声音没有波动，像是在陈述...",
+        "ch67: ...声音没有犹豫。\"我们下去...",
+        "ch68: ...声音没有一丝动摇。...",
+        "ch70: ...声音没有波动。\"副本描述...",
+        "ch71: ...声音没有波动。\"但需要准...",
+        "ch73: ...声音没有波动。...",
+        "ch103: ...声音没有回头，\"壁龛里那...",
+        "ch104: ...声音没有回头，\"不要回头...",
+        "ch107: ...声音没有回头，\"但那是在...",
+        "ch110: ...声音没有回头，\"裂谷的时...",
+        "ch182: ...声音没有强弱也没有顿挫。..."
+      ]
+    },
+    {
+      "name": "deep-嗓音低",
+      "total": 64,
+      "chapters": [
+        {
+          "ch": 625,
+          "count": 3
+        },
+        {
+          "ch": 407,
+          "count": 2
+        },
+        {
+          "ch": 409,
+          "count": 2
+        },
+        {
+          "ch": 410,
+          "count": 2
+        },
+        {
+          "ch": 914,
+          "count": 2
+        },
+        {
+          "ch": 27,
+          "count": 1
+        },
+        {
+          "ch": 34,
+          "count": 1
+        },
+        {
+          "ch": 36,
+          "count": 1
+        },
+        {
+          "ch": 161,
+          "count": 1
+        },
+        {
+          "ch": 175,
+          "count": 1
+        },
+        {
+          "ch": 179,
+          "count": 1
+        },
+        {
+          "ch": 193,
+          "count": 1
+        },
+        {
+          "ch": 200,
+          "count": 1
+        },
+        {
+          "ch": 206,
+          "count": 1
+        },
+        {
+          "ch": 212,
+          "count": 1
+        }
+      ],
+      "samples": [
+        "ch27: ...嗓音低到极致低，每个词...",
+        "ch34: ...嗓音低低沉沉。\"级.7...",
+        "ch36: ...嗓音低到了极限。，像是...",
+        "ch161: ...嗓音低了下来。...",
+        "ch175: ...嗓音低下去了。...",
+        "ch179: ...嗓音低沉到了极点。听不...",
+        "ch193: ...嗓音低下来了下来。，\"...",
+        "ch200: ...嗓音低得几乎不可闻。。...",
+        "ch206: ...嗓音低得近乎无声。。...",
+        "ch212: ...嗓音低到已经听不真切。...",
+        "ch214: ...嗓音低下来了下来。，\"...",
+        "ch217: ...嗓音低得难以听见。。...",
+        "ch244: ...嗓音低了下去，\"门后面...",
+        "ch264: ...嗓音低沉下来。断断续续...",
+        "ch268: ...嗓音低下来了下来。，\"...",
+        "ch279: ...嗓音低得发闷。但很清楚...",
+        "ch294: ...嗓音低哑。但叶文轩能听...",
+        "ch302: ...嗓音低了下来。...",
+        "ch315: ...嗓音低下去了。...",
+        "ch345: ...嗓音低得几乎听不见低，..."
+      ]
+    },
+    {
+      "name": "deep-嗓音干涩",
+      "total": 27,
+      "chapters": [
+        {
+          "ch": 639,
+          "count": 3
+        },
+        {
+          "ch": 642,
+          "count": 3
+        },
+        {
+          "ch": 644,
+          "count": 3
+        },
+        {
+          "ch": 647,
+          "count": 3
+        },
+        {
+          "ch": 637,
+          "count": 2
+        },
+        {
+          "ch": 638,
+          "count": 2
+        },
+        {
+          "ch": 646,
+          "count": 2
+        },
+        {
+          "ch": 183,
+          "count": 1
+        },
+        {
+          "ch": 200,
+          "count": 1
+        },
+        {
+          "ch": 573,
+          "count": 1
+        },
+        {
+          "ch": 618,
+          "count": 1
+        },
+        {
+          "ch": 621,
+          "count": 1
+        },
+        {
+          "ch": 636,
+          "count": 1
+        },
+        {
+          "ch": 643,
+          "count": 1
+        },
+        {
+          "ch": 645,
+          "count": 1
+        }
+      ],
+      "samples": [
+        "ch183: ...嗓音干涩，感情全无。...",
+        "ch200: ...嗓音干涩得感情消失殆尽。...",
+        "ch573: ...嗓音干涩。我感觉它在拉我...",
+        "ch618: ...嗓音干涩。...",
+        "ch621: ...嗓音干涩。...",
+        "ch636: ...嗓音干涩，极其粗糙。...",
+        "ch637: ...嗓音干涩，明显有问题。...",
+        "ch637: ...嗓音干涩，如同砂砾互相摩...",
+        "ch638: ...嗓音干涩又粗糙。赵大嘴的...",
+        "ch638: ...嗓音干涩又沙哑。，...",
+        "ch639: ...嗓音干涩，极为粗糙。...",
+        "ch639: ...嗓音干涩粗糙，整句话都说...",
+        "ch639: ...嗓音干涩得明显不对劲。赵...",
+        "ch642: ...嗓音干涩，极为粗糙。...",
+        "ch642: ...嗓音干涩，问题很严重。...",
+        "ch642: ...嗓音干涩如砂石互相摩擦。...",
+        "ch643: ...嗓音干涩又粗糙。...",
+        "ch644: ...嗓音干涩，格外粗糙。...",
+        "ch644: ...嗓音干涩粗糙，一句话都吐...",
+        "ch644: ...嗓音干涩得明显不对劲。..."
+      ]
+    },
+    {
+      "name": "deep-语气平淡",
+      "total": 0,
+      "chapters": [],
+      "samples": []
+    },
+    {
+      "name": "deep-语气平淡得",
+      "total": 0,
+      "chapters": [],
+      "samples": []
+    },
+    {
+      "name": "deep-语气平铺直叙",
+      "total": 0,
+      "chapters": [],
+      "samples": []
+    }
+  ],
+  "heatmap": {
+    "description": "Top-20 chapters by aggregate AI-voice-pattern density",
+    "chapters": [
+      {
+        "ch": 424,
+        "count": 18
+      },
+      {
+        "ch": 630,
+        "count": 14
+      },
+      {
+        "ch": 410,
+        "count": 12
+      },
+      {
+        "ch": 589,
+        "count": 12
+      },
+      {
+        "ch": 635,
+        "count": 11
+      },
+      {
+        "ch": 412,
+        "count": 10
+      },
+      {
+        "ch": 609,
+        "count": 10
+      },
+      {
+        "ch": 626,
+        "count": 9
+      },
+      {
+        "ch": 642,
+        "count": 9
+      },
+      {
+        "ch": 587,
+        "count": 8
+      },
+      {
+        "ch": 606,
+        "count": 8
+      },
+      {
+        "ch": 629,
+        "count": 8
+      },
+      {
+        "ch": 631,
+        "count": 8
+      },
+      {
+        "ch": 634,
+        "count": 8
+      },
+      {
+        "ch": 637,
+        "count": 8
+      },
+      {
+        "ch": 647,
+        "count": 8
+      },
+      {
+        "ch": 409,
+        "count": 7
+      },
+      {
+        "ch": 414,
+        "count": 7
+      },
+      {
+        "ch": 581,
+        "count": 7
+      },
+      {
+        "ch": 592,
+        "count": 7
+      }
+    ]
+  },
+  "concentrated8": [
+    {
+      "name": "声音有些",
+      "total": 140,
+      "spread": 15,
+      "top3": [
+        "ch609(8)",
+        "ch630(8)",
+        "ch626(6)"
+      ]
+    },
+    {
+      "name": "声音没有",
+      "total": 71,
+      "spread": 15,
+      "top3": [
+        "ch51(2)",
+        "ch212(2)",
+        "ch39(1)"
+      ]
+    },
+    {
+      "name": "声音在他",
+      "total": 64,
+      "spread": 15,
+      "top3": [
+        "ch403(2)",
+        "ch411(2)",
+        "ch426(2)"
+      ]
+    },
+    {
+      "name": "声音很轻",
+      "total": 57,
+      "spread": 15,
+      "top3": [
+        "ch424(18)",
+        "ch581(4)",
+        "ch414(3)"
+      ]
+    },
+    {
+      "name": "声音有些哑",
+      "total": 49,
+      "spread": 15,
+      "top3": [
+        "ch589(4)",
+        "ch635(4)",
+        "ch606(3)"
+      ]
+    },
+    {
+      "name": "声音变得",
+      "total": 41,
+      "spread": 15,
+      "top3": [
+        "ch673(4)",
+        "ch445(2)",
+        "ch147(1)"
+      ]
+    },
+    {
+      "name": "嗓音干(?!滞)",
+      "total": 32,
+      "spread": 15,
+      "top3": [
+        "ch642(4)",
+        "ch639(3)",
+        "ch644(3)"
+      ]
+    },
+    {
+      "name": "声音在叶",
+      "total": 31,
+      "spread": 15,
+      "top3": [
+        "ch568(4)",
+        "ch800(4)",
+        "ch736(3)"
+      ]
+    },
+    {
+      "name": "嗓音低(?!得)",
+      "total": 29,
+      "spread": 15,
+      "top3": [
+        "ch914(2)",
+        "ch27(1)",
+        "ch34(1)"
+      ]
+    },
+    {
+      "name": "语气里",
+      "total": 28,
+      "spread": 15,
+      "top3": [
+        "ch439(2)",
+        "ch513(2)",
+        "ch726(2)"
+      ]
+    },
+    {
+      "name": "嗓音干涩",
+      "total": 27,
+      "spread": 15,
+      "top3": [
+        "ch639(3)",
+        "ch642(3)",
+        "ch644(3)"
+      ]
+    },
+    {
+      "name": "嗓音低得",
+      "total": 22,
+      "spread": 15,
+      "top3": [
+        "ch625(2)",
+        "ch200(1)",
+        "ch206(1)"
+      ]
+    }
+  ],
+  "subPatternBreakdown": [
+    {
+      "anchor": "声音有些",
+      "total": 140,
+      "uniqueVariants": 131,
+      "topVariants": [
+        {
+          "text": "声音有些干0428碎片要让朵",
+          "count": 2
+        },
+        {
+          "text": "声音有些干我回来了",
+          "count": 2
+        },
+        {
+          "text": "声音有些含糊，0429在按住",
+          "count": 2
+        },
+        {
+          "text": "声音有些含糊，但叶文轩能听懂",
+          "count": 2
+        },
+        {
+          "text": "声音有些迟疑",
+          "count": 2
+        },
+        {
+          "text": "声音有些紧张",
+          "count": 2
+        },
+        {
+          "text": "声音有些发紧，很大的东西，很",
+          "count": 2
+        },
+        {
+          "text": "声音有些生气，上次你去了'一",
+          "count": 2
+        },
+        {
+          "text": "声音有些哑，但叶文轩的嘴角在",
+          "count": 2
+        },
+        {
+          "text": "声音有些干，\"你怎么会有",
+          "count": 1
+        },
+        {
+          "text": "声音有些不对劲，\"你刚才说什",
+          "count": 1
+        },
+        {
+          "text": "声音有些虚弱。\"精神力用了太",
+          "count": 1
+        },
+        {
+          "text": "声音有些远，像是从隔壁房间传",
+          "count": 1
+        },
+        {
+          "text": "声音有些犹豫，\"好像没那么使",
+          "count": 1
+        },
+        {
+          "text": "声音有些飘忽不定",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "anchor": "声音没有",
+      "total": 71,
+      "uniqueVariants": 62,
+      "topVariants": [
+        {
+          "text": "声音没有强弱也没有顿挫",
+          "count": 3
+        },
+        {
+          "text": "声音没有感情。可系统的语气里",
+          "count": 3
+        },
+        {
+          "text": "声音没有一丝动摇",
+          "count": 2
+        },
+        {
+          "text": "声音没有感情。可系统的那声音",
+          "count": 2
+        },
+        {
+          "text": "声音没有感情。可系统的话语中",
+          "count": 2
+        },
+        {
+          "text": "声音没有感情。可系统的话里透",
+          "count": 2
+        },
+        {
+          "text": "声音没有感情。可系统的声音里",
+          "count": 2
+        },
+        {
+          "text": "声音没有一丝动摇。\"你在入口",
+          "count": 1
+        },
+        {
+          "text": "声音没有评判，只是陈述事实",
+          "count": 1
+        },
+        {
+          "text": "声音没有停顿。\"东北一百二十",
+          "count": 1
+        },
+        {
+          "text": "声音没有波动。\"系统给我开后",
+          "count": 1
+        },
+        {
+          "text": "声音没有什么起伏，\"因为我就",
+          "count": 1
+        },
+        {
+          "text": "声音没有任何起伏，像在念手册",
+          "count": 1
+        },
+        {
+          "text": "声音没有任何情感起伏，但这句",
+          "count": 1
+        },
+        {
+          "text": "声音没有音高的变化",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "anchor": "声音在他",
+      "total": 64,
+      "uniqueVariants": 57,
+      "topVariants": [
+        {
+          "text": "声音在他们的意识中响起",
+          "count": 3
+        },
+        {
+          "text": "声音在他脑子里响起，很稳",
+          "count": 2
+        },
+        {
+          "text": "声音在他的脑子里面在响",
+          "count": 2
+        },
+        {
+          "text": "声音在他的意识里响起，很",
+          "count": 2
+        },
+        {
+          "text": "声音在他意识里面响起，很",
+          "count": 2
+        },
+        {
+          "text": "声音在他脑子里回响，很轻",
+          "count": 2
+        },
+        {
+          "text": "声音在他脑海中响起，直接",
+          "count": 1
+        },
+        {
+          "text": "声音在他脑海里出现",
+          "count": 1
+        },
+        {
+          "text": "声音在他的意识里面停顿了",
+          "count": 1
+        },
+        {
+          "text": "声音在他脑子里，\"你的二",
+          "count": 1
+        },
+        {
+          "text": "声音在他脑子里回响，\"因",
+          "count": 1
+        },
+        {
+          "text": "声音在他意识里回响，很轻",
+          "count": 1
+        },
+        {
+          "text": "声音在他的意识里响起来",
+          "count": 1
+        },
+        {
+          "text": "声音在他脑子里响：小叶",
+          "count": 1
+        },
+        {
+          "text": "声音在他脑子里响起来",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "anchor": "嗓音低",
+      "total": 64,
+      "uniqueVariants": 59,
+      "topVariants": [
+        {
+          "text": "嗓音低了下来",
+          "count": 2
+        },
+        {
+          "text": "嗓音低下去了",
+          "count": 2
+        },
+        {
+          "text": "嗓音低得发闷",
+          "count": 2
+        },
+        {
+          "text": "嗓音低哑得不像话",
+          "count": 2
+        },
+        {
+          "text": "嗓音低得几乎压不住了",
+          "count": 2
+        },
+        {
+          "text": "嗓音低到极致低，每个词之间",
+          "count": 1
+        },
+        {
+          "text": "嗓音低低沉沉。\"级.7。区",
+          "count": 1
+        },
+        {
+          "text": "嗓音低到了极限。，像是怕有",
+          "count": 1
+        },
+        {
+          "text": "嗓音低沉到了极点。听不清",
+          "count": 1
+        },
+        {
+          "text": "嗓音低下来了下来。，\"很多",
+          "count": 1
+        },
+        {
+          "text": "嗓音低得几乎不可闻",
+          "count": 1
+        },
+        {
+          "text": "嗓音低得近乎无声",
+          "count": 1
+        },
+        {
+          "text": "嗓音低到已经听不真切",
+          "count": 1
+        },
+        {
+          "text": "嗓音低下来了下来。，\"碎片",
+          "count": 1
+        },
+        {
+          "text": "嗓音低得难以听见",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "anchor": "声音很轻",
+      "total": 57,
+      "uniqueVariants": 50,
+      "topVariants": [
+        {
+          "text": "声音很轻0428碎片在回",
+          "count": 4
+        },
+        {
+          "text": "声音很轻0428碎片回到",
+          "count": 3
+        },
+        {
+          "text": "声音很轻0428碎片要回",
+          "count": 2
+        },
+        {
+          "text": "声音很轻和陈小鱼在一起",
+          "count": 2
+        },
+        {
+          "text": "声音很轻很多，无数个声音",
+          "count": 1
+        },
+        {
+          "text": "声音很轻很慢，\"我以前在",
+          "count": 1
+        },
+        {
+          "text": "声音很轻很慢。叶文轩脸上",
+          "count": 1
+        },
+        {
+          "text": "声音很轻很慢，\"0427",
+          "count": 1
+        },
+        {
+          "text": "声音很轻碎片也不确定。赵",
+          "count": 1
+        },
+        {
+          "text": "声音很轻没有传给叶文轩",
+          "count": 1
+        },
+        {
+          "text": "声音很轻0429碎片振动",
+          "count": 1
+        },
+        {
+          "text": "声音很轻\"我们需要保护记",
+          "count": 1
+        },
+        {
+          "text": "声音很轻嘴角扯了扯。\"0",
+          "count": 1
+        },
+        {
+          "text": "声音很轻很快。他额头上的",
+          "count": 1
+        },
+        {
+          "text": "声音很轻他快速思考着",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "anchor": "声音变得",
+      "total": 41,
+      "uniqueVariants": 38,
+      "topVariants": [
+        {
+          "text": "声音变得柔软",
+          "count": 2
+        },
+        {
+          "text": "声音变得更温柔，了042",
+          "count": 2
+        },
+        {
+          "text": "声音变得一个母亲的，声音",
+          "count": 2
+        },
+        {
+          "text": "声音变得更远了",
+          "count": 1
+        },
+        {
+          "text": "声音变得很轻，\"我没有选",
+          "count": 1
+        },
+        {
+          "text": "声音变得陌生",
+          "count": 1
+        },
+        {
+          "text": "声音变得不一样",
+          "count": 1
+        },
+        {
+          "text": "声音变得更轻。\"你觉得水",
+          "count": 1
+        },
+        {
+          "text": "声音变得绵软。像踩在一床",
+          "count": 1
+        },
+        {
+          "text": "声音变得更轻",
+          "count": 1
+        },
+        {
+          "text": "声音变得更轻，更远，像老",
+          "count": 1
+        },
+        {
+          "text": "声音变得更美了，音乐一样",
+          "count": 1
+        },
+        {
+          "text": "声音变得很轻，很慢，很沉",
+          "count": 1
+        },
+        {
+          "text": "声音变得轻了一些：你的爱",
+          "count": 1
+        },
+        {
+          "text": "声音变得严肃：我也看到了",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "anchor": "声音在叶",
+      "total": 31,
+      "uniqueVariants": 18,
+      "topVariants": [
+        {
+          "text": "声音在叶文轩的神经通路中",
+          "count": 6
+        },
+        {
+          "text": "声音在叶文轩的空间层中回",
+          "count": 3
+        },
+        {
+          "text": "声音在叶文轩脑内循环往复",
+          "count": 2
+        },
+        {
+          "text": "声音在叶文轩意识里不停回",
+          "count": 2
+        },
+        {
+          "text": "声音在叶文轩的耳边响起",
+          "count": 2
+        },
+        {
+          "text": "声音在叶文轩的\"记忆\"中",
+          "count": 2
+        },
+        {
+          "text": "声音在叶文轩的\"意识\"中",
+          "count": 2
+        },
+        {
+          "text": "声音在叶文轩的脑海中响起",
+          "count": 2
+        },
+        {
+          "text": "声音在叶文轩耳畔反复响起",
+          "count": 1
+        },
+        {
+          "text": "声音在叶文轩身后响起",
+          "count": 1
+        },
+        {
+          "text": "声音在叶文轩的旁边响起来",
+          "count": 1
+        },
+        {
+          "text": "声音在叶文轩脑子里响起",
+          "count": 1
+        },
+        {
+          "text": "声音在叶文轩脑子里散开",
+          "count": 1
+        },
+        {
+          "text": "声音在叶文轩脑子里转得很",
+          "count": 1
+        },
+        {
+          "text": "声音在叶文轩耳中回荡",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

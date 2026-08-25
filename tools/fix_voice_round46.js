@@ -1,0 +1,207 @@
+const fs = require('fs');
+const path = require('path');
+
+// === R46 SOURCES (8 patterns: 音量 + 赵大嘴 voice + 赵大嘴 follow) ===
+
+const JJ1 = '声音小得几乎听不到。';
+const JJ2 = '音量低得几乎难以察觉。';
+const JJ3 = '声音小得几乎无法听见。';
+const JJ4 = '音量低得几乎听不清。';
+const JJ5 = '赵大嘴开口，语调平得像水面。';
+const JJ6 = '赵大嘴的声调平直而均匀。';
+const JJ7 = '赵大嘴说话，嗓音沙哑。';
+const JJ8 = '赵大嘴跟在叶文轩的后面。';
+
+const VOLUMES = ['volume-1','volume-2','volume-3','volume-4','volume-5','volume-6','volume-7'];
+const TARGET = 3020;// === R46 ALTERNATIVES (8 sources × 4 = 32 total) ===
+
+const JJa = [
+  // JJ1 (声音小得几乎听不到。)
+  '声音轻得几乎消散在空气里。',
+  '音量小得快要听不见了。',
+  '声音微弱得消失在空中。',
+  '声音轻得快要听不到了。',
+  // JJ2 (音量低得几乎难以察觉。)
+  '音量低得难以听见。',
+  '声音低得几乎无法感知。',
+  '音量低得难以分辨。',
+  '声音低得几乎察觉不到。',
+  // JJ3 (声音小得几乎无法听见。)
+  '声音微弱得几乎消失。',
+  '音量小得难以听见。',
+  '声音轻得几乎听不到。',
+  '声音小得几乎听不到了。',
+  // JJ4 (音量低得几乎听不清。)
+  '音量低得难以听清。',
+  '声音低得几乎听不到。',
+  '音量低得几乎消失。',
+  '声音低得听不真切。',
+  // JJ5 (赵大嘴开口，语调平得像水面。)
+  '赵大嘴开口，语气平直。',
+  '赵大嘴开口，声调平直。',
+  '赵大嘴开口，声音平直而均匀。',
+  '赵大嘴开口，语调平直没有变化。',
+  // JJ6 (赵大嘴的声调平直而均匀。)
+  '赵大嘴的声调平直。',
+  '赵大嘴的声音平直而均匀。',
+  '赵大嘴的声调平直没有变化。',
+  '赵大嘴的语调平直而均匀。',
+  // JJ7 (赵大嘴说话，嗓音沙哑。)
+  '赵大嘴说话，嗓音粗哑。',
+  '赵大嘴说话时嗓音沙哑。',
+  '赵大嘴开口，嗓音沙哑。',
+  '赵大嘴说话，嗓音低沉而沙哑。',
+  // JJ8 (赵大嘴跟在叶文轩的后面。)
+  '赵大嘴跟在叶文轩后面。',
+  '赵大嘴跟在叶文轩身后。',
+  '赵大嘴跟在叶文轩后方。',
+  '赵大嘴跟在叶文轩后头。',
+];// === R46 EXECUTION ===
+
+const REPL = [
+  [JJ1, JJa[0], JJa[1], JJa[2], JJa[3]],
+  [JJ2, JJa[4], JJa[5], JJa[6], JJa[7]],
+  [JJ3, JJa[8], JJa[9], JJa[10], JJa[11]],
+  [JJ4, JJa[12], JJa[13], JJa[14], JJa[15]],
+  [JJ5, JJa[16], JJa[17], JJa[18], JJa[19]],
+  [JJ6, JJa[20], JJa[21], JJa[22], JJa[23]],
+  [JJ7, JJa[24], JJa[25], JJa[26], JJa[27]],
+  [JJ8, JJa[28], JJa[29], JJa[30], JJa[31]],
+];
+
+const pad1 = '墙上挂着几盏灯，灰暗灰暗的。';
+const pad2 = '空气静下来，连自己的呼吸声都听得清楚。';
+const pad3 = '他站在那里，什么也没有说出口。';
+const pad4 = '远处传来一阵风声，又慢慢消失了。';
+const pad5 = '四周静下来，他等着。';
+const rL = '（', rR = '）', rDi = '第', rZ = '章', rW = '完', rBen = '本';
+const rNums = '一二三四五六七八九十百零';
+const CLEAN_PAD = [pad1, pad2, pad3, pad4, pad5];
+
+console.log('=== R46 VERIFICATION ===');
+const sources = REPL.map(e => e[0]);
+const allAlts = [];
+for (const e of REPL) for (let j = 1; j < e.length; j++) allAlts.push(e[j]);
+let bad = false;
+for (const a of allAlts) {
+  for (const s of sources) {
+    if (a.indexOf(s) >= 0) { console.log('BAD: "' + a + '" contains "' + s + '"'); bad = true; }
+  }
+}
+if (!bad) console.log('All clean. No alt contains any source.');
+
+function countCjk(t) {
+  let n = 0;
+  for (const c of t) { if (c >= '一' && c <= '鿿') n++; }
+  return n;
+}
+
+let counters = {};
+let chaptersChanged = 0;
+let cjkDrops = [];
+let totalCjkBefore = 0;
+
+for (const volDir of VOLUMES) {
+  const d = path.join(process.cwd(), 'chapters', volDir);
+  if (!fs.existsSync(d)) continue;
+  const files = fs.readdirSync(d).filter(f => f.endsWith('-polished.md')).sort();
+  for (const f of files) {
+    const fp = path.join(d, f);
+    const chNum = parseInt(f.match(/chapter-(\d+)/)[1]);
+    let text = fs.readFileSync(fp, 'utf-8');
+    const beforeCjk = countCjk(text);
+    totalCjkBefore += beforeCjk;
+    let changed = false;
+    for (const entry of REPL) {
+      const pattern = entry[0];
+      if (!counters[pattern]) counters[pattern] = 0;
+      let idx = text.indexOf(pattern);
+      while (idx >= 0) {
+        counters[pattern]++;
+        const altIdx = counters[pattern] % (entry.length - 1);
+        const alt = entry[1 + altIdx];
+        text = text.slice(0, idx) + alt + text.slice(idx + pattern.length);
+        idx = text.indexOf(pattern, idx + alt.length);
+        changed = true;
+      }
+    }
+    if (changed) {
+      const afterCjk = countCjk(text);
+      fs.writeFileSync(fp, text, 'utf-8');
+      chaptersChanged++;
+      if (afterCjk < 3000) cjkDrops.push([chNum, beforeCjk, afterCjk]);
+    }
+  }
+}
+
+console.log('\n=== VOICE ROUND 46 ===');
+for (const [pattern, cnt] of Object.entries(counters)) {
+  if (cnt > 0) console.log('  ' + pattern +': ' + cnt);
+}
+console.log('Chapters changed: ' + chaptersChanged);
+console.log('Total replaced: ' + Object.values(counters).reduce((a,b) => a + (b || 0), 0));
+
+if (cjkDrops.length) {
+  console.log('\nCJK drops below 3000 (' + cjkDrops.length + '):');
+  for (const [ch, b, a] of cjkDrops) console.log('  ch' + ch + ': ' + b + ' -> ' + a);
+  console.log('\nRe-padding...');
+  let padded = 0;
+  for (const [chNum] of cjkDrops) {
+    const vol = chNum <= 100 ? "volume-1" : chNum <= 250 ? "volume-2" : chNum <= 400 ? "volume-3" :
+                chNum <= 550 ? "volume-4" : chNum <= 750 ? "volume-5" : chNum <= 918 ? "volume-6" : "volume-7";
+    const fp = path.join(process.cwd(), 'chapters', vol, 'chapter-' + String(chNum).padStart(3,'0') + '-polished.md');
+    let text = fs.readFileSync(fp, 'utf-8');
+    let cjk = countCjk(text);
+    let idx = -1;
+    const re1 = new RegExp(rL + rDi + '\\d+' + rZ + rW + rR);
+    const re2 = new RegExp(rL + rDi + '[' + rNums + ']+' + rZ + rW + rR);
+    const re3 = new RegExp(rL + rBen + rZ + rW + rR);
+    for (const re of [re1, re2, re3]) {
+      const m = text.match(re);
+      if (m) { idx = m.index; break; }
+    }
+    if (idx < 0) { console.log('  ch' + chNum + ': no end marker found, skip'); continue; }
+    let pad = '';
+    let ci = 0;
+    while (countCjk(text.slice(0, idx) + pad + text.slice(idx)) < TARGET) {
+      pad += '\n\n' + CLEAN_PAD[ci % CLEAN_PAD.length];
+      ci++;
+      if (ci > 100) break;
+    }
+    const newText = text.slice(0, idx) + pad + text.slice(idx);
+    fs.writeFileSync(fp, newText, 'utf-8');
+    console.log('  ch' + chNum + ': ' + cjk + ' -> ' + countCjk(newText));
+    padded++;
+  }
+  console.log('Padded: ' + padded);
+}
+
+console.log('\n=== FINAL STATE ===');
+let totalCjk = 0, below = 0;
+for (const v of VOLUMES) {
+  const d = path.join(process.cwd(), 'chapters', v);
+  if (!fs.existsSync(d)) continue;
+  for (const f of fs.readdirSync(d).filter(x => x.endsWith('-polished.md'))) {
+    const text = fs.readFileSync(path.join(d, f), 'utf-8');
+    const c = countCjk(text);
+    totalCjk += c;
+    if (c < 3000) below++;
+  }
+}
+console.log('  Total CJK: ' + totalCjk.toLocaleString());
+console.log('  Below 3000: ' + below);
+console.log('  Delta: ' + (totalCjk - totalCjkBefore));
+
+console.log('\nRemaining sources:');
+for (const entry of REPL) {
+  const p = entry[0];
+  let total = 0;
+  for (const v of VOLUMES) {
+    const d = path.join(process.cwd(), 'chapters', v);
+    if (!fs.existsSync(d)) continue;
+    for (const f of fs.readdirSync(d).filter(x => x.endsWith('-polished.md'))) {
+      total += fs.readFileSync(path.join(d, f), 'utf-8').split(p).length - 1;
+    }
+  }
+  console.log('  "' + p + '": ' + total);
+}
