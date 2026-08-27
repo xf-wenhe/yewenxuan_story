@@ -1,0 +1,22 @@
+﻿{
+  "findings": [
+    {
+      "file": "chapters\\volume-1\\chapter-06-polished.md",
+      "line": 3,
+      "column": 1,
+      "type": "metaphor-density-tic",
+      "severity": "advisory",
+      "message": "比喻密度过高：像/好像/仿佛/如同等比喻标记 20 处（5.6/千字）；保留最有叙事功能的少数比喻，其余回到具体动作、物件、声音或后果，不要换成新比喻。",
+      "excerpt": "走廊的地板硬得像拆掉外壳的旧电路板 | 消毒水和什么别的东西混在一起，像是旧墙纸发潮之后长出的霉味，又像是某种金属被高温烤过之后残留的余味 | 系统面板浮..."
+    },
+    {
+      "file": "chapters\\volume-1\\chapter-06-polished.md",
+      "line": 103,
+      "column": 1,
+      "type": "quote-emphasis-tic",
+      "severity": "advisory",
+      "message": "引号强调滥用：叙述里 1-4 字短词加引号强调 3 处；只留真正反讽/转述必要的一两处，其余去掉引号直接写，或换成具体动作让读者自己品。",
+      "excerpt": "无限世界 未来的他 云服务器"
+    }
+  ]
+}
