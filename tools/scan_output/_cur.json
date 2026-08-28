@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "file": "D:\\work\\yewenxuan_story\\chapters\\volume-1\\chapter-70-polished.md",
+      "line": 3,
+      "column": 1,
+      "type": "quote-emphasis-tic",
+      "severity": "advisory",
+      "message": "引号强调滥用：叙述里 1-4 字短词加引号强调 21 处；只留真正反讽/转述必要的一两处，其余去掉引号直接写，或换成具体动作让读者自己品。",
+      "excerpt": "哦 啊 卧槽 未来数据 当前数据 深渊回声"
+    },
+    {
+      "file": "D:\\work\\yewenxuan_story\\chapters\\volume-1\\chapter-70-polished.md",
+      "line": 143,
+      "column": 1,
+      "type": "long-paragraph",
+      "severity": "advisory",
+      "message": "段落过长（201 字）：按镜头/新动作/新线索/视线切换断段，别一段到底。",
+      "excerpt": "他转身往营地的出口走。赵大嘴跟在最后。0428碎片在背包里数着节拍。8秒一圈。系"
+    }
+  ]
+}
