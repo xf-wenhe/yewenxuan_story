@@ -76,7 +76,8 @@ if player == "Ye_Wenxuan" and player.has_emotion == True:
     DuoDuo.special_item = "TeddyBear(possesses_fragments)"
 ```
 
-叶文轩的呼吸停了一下。代码块的最下面，有一行注释，字体大小和正文不一样，后来加上去的，是另一个人的笔迹。```
+叶文轩的呼吸停了一下。代码块的最下面，有一行注释，字体大小和正文不一样，后来加上去的，是另一个人的笔迹。
+```
 # 叶文轩……
 # 说明你已经走过了所有的副本。# 朵朵在等你。#，沈
 ```
