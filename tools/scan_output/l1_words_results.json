@@ -1,0 +1,2382 @@
+{
+  "total": 1000,
+  "clean": 771,
+  "affected": 229,
+  "globalWordCount": [
+    [
+      "轻轻",
+      2
+    ]
+  ],
+  "globalPatternCount": [
+    [
+      "with_complement",
+      414
+    ],
+    [
+      "he_knows",
+      46
+    ],
+    [
+      "she_knows",
+      20
+    ]
+  ],
+  "chapters": [
+    {
+      "ch": 9,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 12,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 21,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 55,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 57,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 66,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 70,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 71,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 79,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 86,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 110,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 111,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 132,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 147,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 160,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 161,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 180,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 186,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 250,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 252,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 259,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 261,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 266,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 267,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 269,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 278,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 279,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 283,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 284,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 285,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 289,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 291,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 292,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 293,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 294,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 295,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 296,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 298,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 303,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 304,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 305,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 307,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 320,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 321,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 324,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 325,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 326,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 329,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 330,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 331,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 334,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 335,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 336,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 338,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 342,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 344,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 351,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 352,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 355,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 356,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 359,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 364,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 366,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 367,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 369,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 381,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 387,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 394,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 396,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 398,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 399,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 402,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 412,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 414,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 415,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 420,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 426,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 432,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 436,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 441,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 443,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 445,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 446,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 447,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 450,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 452,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 453,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 455,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 456,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 457,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 458,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 463,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 464,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 469,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 470,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 474,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 475,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 478,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 479,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 481,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "she_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 482,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 483,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 484,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 486,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 489,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "she_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 490,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "she_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 499,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 500,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 502,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "she_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 503,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 506,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 507,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "she_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 510,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 511,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 517,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 519,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 526,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 527,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 529,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 530,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 534,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 537,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 538,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 541,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 547,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 548,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 566,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 567,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 572,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 573,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 574,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 579,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 580,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 587,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 592,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 602,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 603,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 604,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 605,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 608,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 609,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 616,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 617,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 618,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 619,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 622,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 623,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 624,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 625,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 626,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 627,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 628,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 629,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 630,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 631,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 632,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 635,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 636,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 638,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 648,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 664,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "轻轻",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "ch": 665,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 666,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 668,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "轻轻",
+          "count": 1
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "she_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 670,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 673,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 674,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 716,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 719,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 728,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 729,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 730,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 731,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 735,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 738,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "she_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 741,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 742,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 770,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 780,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 787,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 788,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "she_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 789,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "she_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 790,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "she_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 816,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 830,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 831,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 832,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 833,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 834,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 835,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 844,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 845,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 847,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 871,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 873,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 877,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 878,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 881,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 883,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 884,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 885,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 893,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 895,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 897,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 898,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 899,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 900,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 904,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 905,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 907,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 915,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 922,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 926,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 929,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 930,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 932,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 948,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 959,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 965,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 966,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 967,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 969,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 970,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 973,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 975,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 992,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 995,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 997,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 1000,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    }
+  ]
+}
