@@ -1,25 +1,41 @@
 {
   "total": 1000,
-  "clean": 771,
-  "affected": 229,
+  "clean": 743,
+  "affected": 257,
   "globalWordCount": [
     [
+      "微微",
+      14
+    ],
+    [
       "轻轻",
-      2
+      8
+    ],
+    [
+      "淡淡",
+      6
+    ],
+    [
+      "缓缓",
+      3
+    ],
+    [
+      "深吸一口气",
+      1
     ]
   ],
   "globalPatternCount": [
     [
       "with_complement",
-      414
+      438
     ],
     [
       "he_knows",
-      46
+      58
     ],
     [
       "she_knows",
-      20
+      28
     ]
   ],
   "chapters": [
@@ -1320,6 +1336,11 @@
           "type": "deadly-pattern",
           "item": "with_complement",
           "count": 2
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
         }
       ]
     },
@@ -1354,8 +1375,33 @@
       ]
     },
     {
+      "ch": 576,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "轻轻",
+          "count": 1
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "she_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
       "ch": 579,
       "hits": [
+        {
+          "type": "l1-word",
+          "item": "缓缓",
+          "count": 1
+        },
+        {
+          "type": "l1-word",
+          "item": "轻轻",
+          "count": 1
+        },
         {
           "type": "deadly-pattern",
           "item": "with_complement",
@@ -1366,6 +1412,21 @@
     {
       "ch": 580,
       "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 584,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "微微",
+          "count": 2
+        },
         {
           "type": "deadly-pattern",
           "item": "with_complement",
@@ -1389,6 +1450,16 @@
         {
           "type": "deadly-pattern",
           "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 598,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "微微",
           "count": 2
         }
       ]
@@ -1450,6 +1521,16 @@
           "type": "deadly-pattern",
           "item": "with_complement",
           "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 610,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "微微",
+          "count": 1
         }
       ]
     },
@@ -1659,7 +1740,82 @@
       ]
     },
     {
+      "ch": 644,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "微微",
+          "count": 2
+        },
+        {
+          "type": "l1-word",
+          "item": "轻轻",
+          "count": 1
+        }
+      ]
+    },
+    {
       "ch": 648,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 655,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "深吸一口气",
+          "count": 1
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "she_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 656,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "缓缓",
+          "count": 1
+        },
+        {
+          "type": "l1-word",
+          "item": "微微",
+          "count": 1
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "she_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 658,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 663,
       "hits": [
         {
           "type": "deadly-pattern",
@@ -1691,6 +1847,21 @@
     {
       "ch": 666,
       "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 667,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "微微",
+          "count": 1
+        },
         {
           "type": "deadly-pattern",
           "item": "with_complement",
@@ -1754,12 +1925,107 @@
       ]
     },
     {
+      "ch": 684,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "微微",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "ch": 687,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 697,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 698,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 707,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 710,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "淡淡",
+          "count": 2
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 711,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 712,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "淡淡",
+          "count": 1
+        }
+      ]
+    },
+    {
       "ch": 716,
       "hits": [
         {
           "type": "deadly-pattern",
           "item": "with_complement",
           "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 718,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "微微",
+          "count": 1
         }
       ]
     },
@@ -1874,6 +2140,16 @@
       ]
     },
     {
+      "ch": 783,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "轻轻",
+          "count": 1
+        }
+      ]
+    },
+    {
       "ch": 787,
       "hits": [
         {
@@ -1911,6 +2187,121 @@
     {
       "ch": 790,
       "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "she_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 800,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "微微",
+          "count": 2
+        },
+        {
+          "type": "l1-word",
+          "item": "轻轻",
+          "count": 1
+        },
+        {
+          "type": "l1-word",
+          "item": "淡淡",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "ch": 803,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "缓缓",
+          "count": 1
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 806,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "微微",
+          "count": 1
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 808,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 810,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "淡淡",
+          "count": 1
+        },
+        {
+          "type": "deadly-pattern",
+          "item": "with_complement",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "ch": 812,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "淡淡",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "ch": 814,
+      "hits": [
+        {
+          "type": "l1-word",
+          "item": "轻轻",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "ch": 815,
+      "hits": [
+        {
+          "type": "deadly-pattern",
+          "item": "he_knows",
+          "count": 2
+        },
         {
           "type": "deadly-pattern",
           "item": "she_knows",
