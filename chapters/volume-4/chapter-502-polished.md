@@ -60,9 +60,9 @@ def autonomous_behavior(self):
     # 非预期行为模块。
     # 此方法由副本作者（沈知秋）手动编写。
     # 目的：在情感触发条件满足时，NPC产生自主反应。
-    trigger = self.check_emotion_threshold()
+    trigger = self.check_emotion_threshold
     if trigger:
-        self.generate_unscripted_action()
+        self.generate_unscripted_action
         self.self_awareness += 0.01。
 ```
 

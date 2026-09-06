@@ -58,7 +58,7 @@ for (let ch = 1; ch <= 1000; ch++) {
   }
 
   // 1b. End marker
-  const endMarkerRe = /（第[一二三四五六七八九十百零]+章完）/;
+  const endMarkerRe = /（第[一二三四五六七八九十百零千]+章完）/;
   const endMarkerMatch = text.match(endMarkerRe);
   if (!endMarkerMatch) {
     // Check for alternative markers
@@ -70,10 +70,10 @@ for (let ch = 1; ch <= 1000; ch++) {
   }
 
   // 1c. Volume end marker (should be present at volume boundaries)
-  const volEnds = {100: '第一卷', 250: '第二卷', 400: '第三卷', 550: '第四卷', 750: '第五卷', 918: '第六卷', 1000: '第七卷'};
+  const volEnds = {100: '——第一卷·', 250: '——第二卷·', 400: '——第三卷·', 550: '——第四卷·', 750: '——第五卷·', 918: '——第六卷·', 1000: '——第七卷·'};
   if (volEnds[ch]) {
-    if (!text.includes('——第' + volEnds[ch] + '·')) {
-      addIssue(ch, 'VOL_MARKER', 'HIGH', '缺少卷末标记（应为"' + volEnds[ch] + '"）');
+    if (!text.includes(volEnds[ch])) {
+      addIssue(ch, 'VOL_MARKER', 'HIGH', '缺少卷末标记（应为"' + volEnds[ch] + '）');
     }
   }
 
