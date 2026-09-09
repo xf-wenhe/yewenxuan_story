@@ -1,0 +1,227 @@
+
+══════════════════════════════════════════════════════════
+  FINAL REGRESSION SCAN — 2026/9/9 11:45:31
+  Chapters: 1000
+══════════════════════════════════════════════════════════
+
+── Phase 1: CJK 字数 ──
+Files: 1000
+Total CJK: 3656490
+Below 3000: 0
+
+── Phase 2: 结尾标记 ──
+ch233: end marker="（第二百三十三章完）"
+  0: 
+  1: 他转回身，往北走。
+  2: 
+  3: （第二百三十三章完）
+  4: 
+
+ch575: end marker="（第五百七十五章完）"
+  0: "不，"沈知秋说。"但这次不一样。"
+  1: 
+  2: 0428碎片在石台上继续浮动，银白色的光晕在螺旋刻痕的阴影里明灭。石室的空气在震动，频率很低，低于人耳能听到的范围。
+  3: 
+  4: （第五百七十五章完）
+
+ch579: end marker="（第五百七十九章完）"
+  0: 0429碎片的光线在空气中稍颤动，频率稳定下来。
+  1: 
+  2: 赵大嘴看着0429碎片在体内稍微脉动，感觉那股力量正在慢慢改变。
+  3: 
+  4: （第五百七十九章完）
+
+ch585: end marker="（第五百八十五章完）"
+  0: "我们带记忆回来。"他说。
+  1: 
+  2: "我们带记忆回来。"0428说。
+  3: 
+  4: （第五百八十五章完）
+
+ch586: end marker="（第五百八十六章完）"
+  0: 两个碎片的声音在同一个空间里重叠。像两个钟摆同步摆动，最终指向同一个方向。
+  1: 
+  2: 叶文轩看着那个方向。
+  3: 
+  4: （第五百八十六章完）
+
+ch612: end marker="（第六百一十二章完）"
+  0: 光晕慢慢消失，石台恢复了原来的样子。
+  1: 
+  2: 赵大嘴感到碎片的存在在消退。
+  3: 
+  4: （第六百一十二章完）
+
+ch663: end marker="（第六百六十三章完）"
+  0: "我们打开门。"叶文轩说。
+  1: 
+  2: "我们打开门。"赵大嘴说。
+  3: 
+  4: （第六百六十三章完）
+
+ch669: end marker="（第六百六十九章完）"
+  0: 空气沉下来，连自己的呼吸声都听得清楚。
+  1: 
+  2: 赵大嘴的呼吸稳定下来，0429碎片的频率也慢慢回归正常。
+  3: 
+  4: （第六百六十九章完）
+
+ch671: end marker="（第六百七十一章完）"
+  0: 0429碎片的光芒逐渐稳定，在赵大嘴体内发出微弱的光。
+  1: 
+  2: 赵大嘴感到胸口轻松了一些。
+  3: 
+  4: （第六百七十一章完）
+
+ch675: end marker="（第六百七十五章完）"
+  0: 赵大嘴的呼吸稍放轻，他感觉到0429碎片在体内完成了新一轮的扫描。
+  1: 
+  2: 赵大嘴的呼吸慢慢恢复正常。
+  3: 
+  4: （第六百七十五章完）
+
+ch680: end marker="（第六百八十章完）"
+  0: "一起。"叶文轩说。
+  1: 
+  2: 
+  3: 
+  4: （第六百八十章完）
+
+ch734: end marker="（第七百三十四章完）"
+  0: 赵大嘴迈步。每一步，街道都在他脚下稳定。概率在修正路面，让他不会摔倒。概率在修正空气，让风吹的方向对他有利。
+  1: 
+  2: 本能。赵大嘴想。0429的保护是无意识的。
+  3: 
+  4: （第七百三十四章完）
+
+── Phase 3: 格式验证 ──
+=== FINAL VERIFICATION ===
+BOM: 0
+弯引号: 0
+繁体: 0
+说道: 0
+低于3000: 0
+总CJK: 3,656,490
+
+ch100: ✓
+ch250: ✓
+ch400: ✓
+ch550: ✓
+ch750: ✓
+ch918: ✓
+ch1000: ✓
+
+ch1: # 第一章：最后一夜
+ch100: # 第一百章：S级评价
+ch200: # 第二百章：选择
+ch300: # 第三百章：第一次
+ch400: # 第四百章：桥梁
+ch500: # 第五百章：终局入口
+ch600: # 第六百章：叶-048
+ch750: # 第七百五十章：最后的选择
+ch918: # 第九百一十八章：回廊
+ch1000: # 第一千章：回家
+
+── Phase 4: 综合审计 ──
+=== 全局检查 ===
+=== 角色名称全局统计 ===
+=== 卷覆盖范围 ===
+=== 术语一致性 ===
+=== AI痕迹残留 ===
+=== 格式问题汇总 ===
+=== 严重程度汇总 ===
+=== 详细问题清单 ===
+=== CJK分布 ===
+=== 审计完成 ===
+
+── Phase 5: 退化/复读扫描 ──
+  ...100/1000
+  ...200/1000
+  ...300/1000
+  ...400/1000
+  ...500/1000
+  ...600/1000
+  ...700/1000
+  ...800/1000
+  ...900/1000
+  ...1000/1000
+
+  退化扫描完成: 993 clean, 7 dirty
+  有blocking的章节:
+    volume-1/ch100:
+      D:\work\yewenxuan_story\chapters\volume-1\chapter-100-polished.md:100:2: [advisory] meta-leak: 元信息泄漏：「第一百章」疑似工程/章节结构词混入正文；改成角色当下可感知的事件锚点或相对时间。例外：角色在故事内真实阅读/讨论「第X章」、真身为作者/读者、或故事内系统/界面用语。 (（第一百章完）)
+      D:\work\yewenxuan_story\chapters\volume-1\chapter-100-polished.md:101:12: [blocking] truncated: 疑似截断：正文末尾未以句末/收尾标点结束，可能被模型中途切断；补完结尾或重写收尾。 (——第一卷·入局·完——)
+    volume-2/ch250:
+      D:\work\yewenxuan_story\chapters\volume-2\chapter-250-polished.md:545:2: [advisory] meta-leak: 元信息泄漏：「第二百五十章」疑似工程/章节结构词混入正文；改成角色当下可感知的事件锚点或相对时间。例外：角色在故事内真实阅读/讨论「第X章」、真身为作者/读者、或故事内系统/界面用语。 (（第二百五十章完）)
+      D:\work\yewenxuan_story\chapters\volume-2\chapter-250-polished.md:547:12: [blocking] truncated: 疑似截断：正文末尾未以句末/收尾标点结束，可能被模型中途切断；补完结尾或重写收尾。 (——第二卷·边境·完——)
+    volume-3/ch400:
+      D:\work\yewenxuan_story\chapters\volume-3\chapter-400-polished.md:64:2: [advisory] meta-leak: 元信息泄漏：「第四百章」疑似工程/章节结构词混入正文；改成角色当下可感知的事件锚点或相对时间。例外：角色在故事内真实阅读/讨论「第X章」、真身为作者/读者、或故事内系统/界面用语。 (（第四百章完）)
+      D:\work\yewenxuan_story\chapters\volume-3\chapter-400-polished.md:65:12: [blocking] truncated: 疑似截断：正文末尾未以句末/收尾标点结束，可能被模型中途切断；补完结尾或重写收尾。 (——第三卷·裂谷·完——)
+    volume-4/ch550:
+      D:\work\yewenxuan_story\chapters\volume-4\chapter-550-polished.md:95:2: [advisory] meta-leak: 元信息泄漏：「第五百五十章」疑似工程/章节结构词混入正文；改成角色当下可感知的事件锚点或相对时间。例外：角色在故事内真实阅读/讨论「第X章」、真身为作者/读者、或故事内系统/界面用语。 (（第五百五十章完）)
+      D:\work\yewenxuan_story\chapters\volume-4\chapter-550-polished.md:96:12: [blocking] truncated: 疑似截断：正文末尾未以句末/收尾标点结束，可能被模型中途切断；补完结尾或重写收尾。 (——第四卷·深渊·完——)
+    volume-5/ch750:
+      D:\work\yewenxuan_story\chapters\volume-5\chapter-750-polished.md:405:2: [advisory] meta-leak: 元信息泄漏：「第七百五十章」疑似工程/章节结构词混入正文；改成角色当下可感知的事件锚点或相对时间。例外：角色在故事内真实阅读/讨论「第X章」、真身为作者/读者、或故事内系统/界面用语。 (（第七百五十章完）)
+      D:\work\yewenxuan_story\chapters\volume-5\chapter-750-polished.md:407:12: [blocking] truncated: 疑似截断：正文末尾未以句末/收尾标点结束，可能被模型中途切断；补完结尾或重写收尾。 (——第五卷·觉醒·完——)
+    volume-6/ch918:
+      D:\work\yewenxuan_story\chapters\volume-6\chapter-918-polished.md:185:2: [advisory] meta-leak: 元信息泄漏：「第九百一十八章」疑似工程/章节结构词混入正文；改成角色当下可感知的事件锚点或相对时间。例外：角色在故事内真实阅读/讨论「第X章」、真身为作者/读者、或故事内系统/界面用语。 (（第九百一十八章完）)
+      D:\work\yewenxuan_story\chapters\volume-6\chapter-918-polished.md:187:12: [blocking] truncated: 疑似截断：正文末尾未以句末/收尾标点结束，可能被模型中途切断；补完结尾或重写收尾。 (——第六卷·回廊·完——)
+    volume-7/ch1000:
+      D:\work\yewenxuan_story\chapters\volume-7\chapter-1000-polished.md:496:2: [advisory] meta-leak: 元信息泄漏：「第一千章」疑似工程/章节结构词混入正文；改成角色当下可感知的事件锚点或相对时间。例外：角色在故事内真实阅读/讨论「第X章」、真身为作者/读者、或故事内系统/界面用语。 (（第一千章完）)
+      D:\work\yewenxuan_story\chapters\volume-7\chapter-1000-polished.md:498:12: [blocking] truncated: 疑似截断：正文末尾未以句末/收尾标点结束，可能被模型中途切断；补完结尾或重写收尾。 (——第七卷·闭环·完——)
+
+── Phase 6: AI句式扫描 ──
+  ...100/1000
+  ...200/1000
+  ...300/1000
+  ...400/1000
+  ...500/1000
+  ...600/1000
+  ...700/1000
+  ...800/1000
+  ...900/1000
+  ...1000/1000
+
+  AI句式扫描完成: 992 clean, 8 dirty
+  有blocking的章节:
+    volume-1/ch100:
+      D:\work\yewenxuan_story\chapters\volume-1\chapter-100-polished.md:17:1: [advisory] period-stutter: 碎句号：连续 6 个短句无呼吸；按目标句长把碎句合并成中长句、补回画面与连接（见本 skill 句长/疏密节奏规则）。 (碎片 星尘 技能书 结构笔记 记忆碎片 记忆碎片)
+      D:\work\yewenxuan_story\chapters\volume-1\chapter-100-polished.md:47:1: [advisory] period-stutter: 碎句号：连续 7 个短句无呼吸；按目标句长把碎句合并成中长句、补回画面与连接（见本 skill 句长/疏密节奏规则）。 (一起涌上来 考核结束了 结构迷宫 斐波那契 书架 黑镜)
+      D:\work\yewenxuan_story\chapters\volume-1\chapter-100-polished.md:59:1: [advisory] metaphor-density-tic: 比喻密度过高：像/好像/仿佛/如同等比喻标记 13 处（4.8/千字）；保留最有叙事功能的少数比喻，其余回到具体动作、物件、声音或后果，不要换成新比喻。 (就像整个考核都是系统设计的 | 像是傍晚 | 又像是黎明 | 像是很久没睡过 | 像是在斟酌什么 | 又像是在犹豫什么)
+    volume-2/ch250:
+      D:\work\yewenxuan_story\chapters\volume-2\chapter-250-polished.md:5:1: [advisory] metaphor-density-tic: 比喻密度过高：像/好像/仿佛/如同等比喻标记 84 处（9.6/千字）；保留最有叙事功能的少数比喻，其余回到具体动作、物件、声音或后果，不要换成新比喻。 (是凌晨四五点钟的天色，灰里有一点青，像刚从水里捞出来的布料，还没干透 | 光很弱，像快要灭了 | 像赵大嘴的心跳，连同他那十二年的命，一起还给了门 | 海...)
+      D:\work\yewenxuan_story\chapters\volume-2\chapter-250-polished.md:167:1: [advisory] period-stutter: 碎句号：连续 6 个短句无呼吸；按目标句长把碎句合并成中长句、补回画面与连接（见本 skill 句长/疏密节奏规则）。 (钥匙给了门 纸给了韩冰 发卡收了 铁盒是空的 叶文轩问 赵大嘴说，)
+      D:\work\yewenxuan_story\chapters\volume-2\chapter-250-polished.md:434:1: [advisory] long-paragraph: 段落过长（231 字）：按镜头/新动作/新线索/视线切换断段，别一段到底。 (叶文轩把眼睛闭上了。他脑子里的画面很清晰。清晰得像刚发生过。电话亭的雨。红伞。核)
+    volume-3/ch400:
+      D:\work\yewenxuan_story\chapters\volume-3\chapter-400-polished.md:21:1: [advisory] long-paragraph: 段落过长（480 字）：按镜头/新动作/新线索/视线切换断段，别一段到底。 (叶文轩感觉到桥梁的形状在自己的意识里长出来。0429的力量翻译灵体的语言，042)
+      D:\work\yewenxuan_story\chapters\volume-3\chapter-400-polished.md:21:1: [advisory] metaphor-density-tic: 比喻密度过高：像/好像/仿佛/如同等比喻标记 11 处（3.7/千字）；保留最有叙事功能的少数比喻，其余回到具体动作、物件、声音或后果，不要换成新比喻。 (0429的力量翻译灵体的语言，0428的力量解析灵体的结构，两种力量并在一起，光是完整的，像一道横在海和岸之间的弧 | 像1998年那个夜晚的第一行代码一...)
+      D:\work\yewenxuan_story\chapters\volume-3\chapter-400-polished.md:23:1: [advisory] long-paragraph: 段落过长（276 字）：按镜头/新动作/新线索/视线切换断段，别一段到底。 (赵磊的手放在船舷上，摸着木头的纹路。船舷的木纹一圈一圈，像水面的涟漪，停在那里不)
+    volume-4/ch550:
+      D:\work\yewenxuan_story\chapters\volume-4\chapter-550-polished.md:96:1: [blocking] em-dash: 破折号按功能改写：打断→动作 beat/短句，拖长音→省略或动作，插入说明→逗号/冒号；勿一律改句号。 (——第四卷·深渊·完)
+      D:\work\yewenxuan_story\chapters\volume-4\chapter-550-polished.md:96:11: [blocking] em-dash: 破折号按功能改写：打断→动作 beat/短句，拖长音→省略或动作，插入说明→逗号/冒号；勿一律改句号。 (第四卷·深渊·完——)
+    volume-5/ch621:
+      D:\work\yewenxuan_story\chapters\volume-5\chapter-621-polished.md:7:1: [advisory] long-paragraph: 段落过长（204 字）：按镜头/新动作/新线索/视线切换断段，别一段到底。 (但桥梁有一个问题。0429的编译功能需要更大的带宽。0429现在运行在叶文轩的意)
+      D:\work\yewenxuan_story\chapters\volume-5\chapter-621-polished.md:35:1: [advisory] long-paragraph: 段落过长（249 字）：按镜头/新动作/新线索/视线切换断段，别一段到底。 (赵大嘴的心跳骤然加快。他感觉到0429碎片在准备。三年了，0429在他体内运行了)
+      D:\work\yewenxuan_story\chapters\volume-5\chapter-621-polished.md:71:1: [advisory] long-paragraph: 段落过长（278 字）：按镜头/新动作/新线索/视线切换断段，别一段到底。 (赵大嘴能感知到0429碎片在大脑里铺网。是一种胀，一种被填满的感觉。0429的信)
+    volume-5/ch750:
+      D:\work\yewenxuan_story\chapters\volume-5\chapter-750-polished.md:228:1: [advisory] period-stutter: 碎句号：连续 6 个短句无呼吸；按目标句长把碎句合并成中长句、补回画面与连接（见本 skill 句长/疏密节奏规则）。 (大嘴 听得到吗 听得到 你在哪 我在第二层 你在哪)
+      D:\work\yewenxuan_story\chapters\volume-5\chapter-750-polished.md:407:1: [blocking] em-dash: 破折号按功能改写：打断→动作 beat/短句，拖长音→省略或动作，插入说明→逗号/冒号；勿一律改句号。 (——第五卷·觉醒·完)
+      D:\work\yewenxuan_story\chapters\volume-5\chapter-750-polished.md:407:11: [blocking] em-dash: 破折号按功能改写：打断→动作 beat/短句，拖长音→省略或动作，插入说明→逗号/冒号；勿一律改句号。 (第五卷·觉醒·完——)
+    volume-6/ch918:
+      D:\work\yewenxuan_story\chapters\volume-6\chapter-918-polished.md:5:1: [advisory] metaphor-density-tic: 比喻密度过高：像/好像/仿佛/如同等比喻标记 14 处（6.0/千字）；保留最有叙事功能的少数比喻，其余回到具体动作、物件、声音或后果，不要换成新比喻。 (他推开一点缝，看见门里有一个和自己长得很像的人，正坐在一间发光的房间里发呆 | 纸角被磨得发毛，像是被人反反复复看过无数遍 | 而这行字，字迹不一样，语气...)
+      D:\work\yewenxuan_story\chapters\volume-6\chapter-918-polished.md:187:1: [blocking] em-dash: 破折号按功能改写：打断→动作 beat/短句，拖长音→省略或动作，插入说明→逗号/冒号；勿一律改句号。 (——第六卷·回廊·完)
+      D:\work\yewenxuan_story\chapters\volume-6\chapter-918-polished.md:187:11: [blocking] em-dash: 破折号按功能改写：打断→动作 beat/短句，拖长音→省略或动作，插入说明→逗号/冒号；勿一律改句号。 (第六卷·回廊·完——)
+    volume-7/ch1000:
+      D:\work\yewenxuan_story\chapters\volume-7\chapter-1000-polished.md:389:1: [advisory] long-paragraph: 段落过长（201 字）：按镜头/新动作/新线索/视线切换断段，别一段到底。 (叶文轩走到阳台门口。蓝光在远处的天底下，像一片没有边的海。天边的云已经开始散开，)
+      D:\work\yewenxuan_story\chapters\volume-7\chapter-1000-polished.md:498:1: [blocking] em-dash: 破折号按功能改写：打断→动作 beat/短句，拖长音→省略或动作，插入说明→逗号/冒号；勿一律改句号。 (——第七卷·闭环·完)
+      D:\work\yewenxuan_story\chapters\volume-7\chapter-1000-polished.md:498:11: [blocking] em-dash: 破折号按功能改写：打断→动作 beat/短句，拖长音→省略或动作，插入说明→逗号/冒号；勿一律改句号。 (第七卷·闭环·完——)
+
+══════════════════════════════════════════════════════════
+  SCAN COMPLETE
+  CJK: 3,660,457 | Chapters: 1000
+  Degeneration: 993 clean / 7 with blocking
+  AI patterns: 992 clean / 8 with blocking
+  Audit MEDIUM: 2 (ch681 dup paragraphs)
+  Audit LOW: ~1,723 (mostly YEAR_ANOMALY/ORPHANED_QUOTE)
+══════════════════════════════════════════════════════════
+
