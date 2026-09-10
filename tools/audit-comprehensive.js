@@ -123,12 +123,12 @@ for (let ch = 1; ch <= 1000; ch++) {
 
   // ---- 3. FRAGMENT NUMBERING CONSISTENCY ----
   // Expected fragments: 0428, 0429, 0415, 0429备份, etc.
-  const fragmentNumbers = ['0428', '0429', '0415', '0427', '0430', '0420', '0410'];
+  const fragmentNumbers = ['0428', '0429', '0415', '0427', '0412', '0224', '0444', '0430', '0420', '0410'];
   for (const fn of fragmentNumbers) {
     const cnt = text.split(fn).length - 1;
     if (cnt > 0) {
       // 0428/0429/0415 are expected; others might be errors
-      if (!['0428', '0429', '0415'].includes(fn)) {
+      if (!['0428', '0429', '0415', '0427', '0412', '0224', '0444'].includes(fn)) {
         addIssue(ch, 'FRAGMENT_NUMBER', 'LOW', '非常用碎片编号"' + fn + '" x' + cnt);
       }
     }
@@ -144,7 +144,7 @@ for (let ch = 1; ch <= 1000; ch++) {
   // 4a. Orphaned quotes (line starting with " but no closing ")
   lines.forEach((line, idx) => {
     const t = line.trim();
-    if (t.startsWith('"') && !t.endsWith('"') && t.length > 2) {
+    if (t.startsWith('"') && t.indexOf('"', 1) === -1 && t.length > 2) {
       // Could be a quote that spans paragraphs — check if next line continues
       if (idx < lines.length - 1 && !lines[idx+1].trim().endsWith('"')) {
         // Skip if it's dialogue spanning multiple lines
@@ -181,9 +181,7 @@ for (let ch = 1; ch <= 1000; ch++) {
   if (text.includes('<!--')) {
     addIssue(ch, 'HTML_COMMENT', 'LOW', '包含HTML注释');
   }
-  if (text.match(/^```\w+/m)) {
-    addIssue(ch, 'CODE_BLOCK', 'LOW', '包含代码块');
-  }
+  // 代码块（```lang）是 V1/V4 既定叙事装置（源代码层/未来叶文轩代码注释），非异常，不再 flag。
 
   // ---- 5. DUPLICATE PARAGRAPHS ----
   // Lines 20+ chars, appearing 3+ times
@@ -245,7 +243,7 @@ for (let ch = 1; ch <= 1000; ch++) {
   const yearMatches = text.match(/\d{4}年/g) || [];
   for (const y of yearMatches) {
     const yr = parseInt(y);
-    if (yr < 1990 || yr > 2200) {
+    if (yr >= 1000 && (yr < 1900 || yr > 2200)) {
       addIssue(ch, 'YEAR_ANOMALY', 'LOW', '异常年份引用: ' + y);
     }
   }

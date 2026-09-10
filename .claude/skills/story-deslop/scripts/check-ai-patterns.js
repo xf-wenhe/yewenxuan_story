@@ -373,9 +373,16 @@ function scanProsePatterns(proseLines) {
     const trimmed = text.trim();
     if (!trimmed || isDivider(trimmed) || isStructural(trimmed)) continue;
 
+    // 卷末标记 ——第X卷·卷名·完—— 是规范结构行，非正文破折号，整行跳过。
+    if (/^——第.+卷·.+完——$/.test(trimmed)) continue;
+
+    // 引号内台词破折号（拖长音/插入说明）属口语 register，不在 de-AI 破折号规则射程内；
+    // 复用 quotedRanges（QUOTE_SOURCES 含直引号 "…"，见 line 166）做引号内豁免。
+    const ranges = quotedRanges(text);
     const dashPattern = /——|—|--+/g;
     let dash;
     while ((dash = dashPattern.exec(text)) !== null) {
+      if (insideRanges(dash.index, ranges)) continue;
       findings.push({
         line: lineNo,
         column: dash.index + 1,
