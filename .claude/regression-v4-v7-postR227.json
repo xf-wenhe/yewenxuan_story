@@ -1,0 +1,3632 @@
+{
+ "volumes": {
+  "volume-4": {
+   "files": 150,
+   "blocking": 0,
+   "advisory": 111,
+   "chapters": [
+    {
+     "file": "chapter-401-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3035
+    },
+    {
+     "file": "chapter-402-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 4350
+    },
+    {
+     "file": "chapter-403-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 6281
+    },
+    {
+     "file": "chapter-404-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5220
+    },
+    {
+     "file": "chapter-405-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3118
+    },
+    {
+     "file": "chapter-406-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3963
+    },
+    {
+     "file": "chapter-407-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5238
+    },
+    {
+     "file": "chapter-408-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3545
+    },
+    {
+     "file": "chapter-409-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 6961
+    },
+    {
+     "file": "chapter-410-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 9359
+    },
+    {
+     "file": "chapter-411-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 6754
+    },
+    {
+     "file": "chapter-412-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 10206
+    },
+    {
+     "file": "chapter-413-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 6199
+    },
+    {
+     "file": "chapter-414-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 6134
+    },
+    {
+     "file": "chapter-415-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3063
+    },
+    {
+     "file": "chapter-416-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3225
+    },
+    {
+     "file": "chapter-417-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3351
+    },
+    {
+     "file": "chapter-418-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3011
+    },
+    {
+     "file": "chapter-419-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3138
+    },
+    {
+     "file": "chapter-420-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3151
+    },
+    {
+     "file": "chapter-421-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5992
+    },
+    {
+     "file": "chapter-422-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 5252
+    },
+    {
+     "file": "chapter-423-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 6054
+    },
+    {
+     "file": "chapter-424-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 4427
+    },
+    {
+     "file": "chapter-425-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 4049
+    },
+    {
+     "file": "chapter-426-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3578
+    },
+    {
+     "file": "chapter-427-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3061
+    },
+    {
+     "file": "chapter-428-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3744
+    },
+    {
+     "file": "chapter-429-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5629
+    },
+    {
+     "file": "chapter-430-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3536
+    },
+    {
+     "file": "chapter-431-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4333
+    },
+    {
+     "file": "chapter-432-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3231
+    },
+    {
+     "file": "chapter-433-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3051
+    },
+    {
+     "file": "chapter-434-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3442
+    },
+    {
+     "file": "chapter-435-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3118
+    },
+    {
+     "file": "chapter-436-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3197
+    },
+    {
+     "file": "chapter-437-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3178
+    },
+    {
+     "file": "chapter-438-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3164
+    },
+    {
+     "file": "chapter-439-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3033
+    },
+    {
+     "file": "chapter-440-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3515
+    },
+    {
+     "file": "chapter-441-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3257
+    },
+    {
+     "file": "chapter-442-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3164
+    },
+    {
+     "file": "chapter-443-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3021
+    },
+    {
+     "file": "chapter-444-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 4355
+    },
+    {
+     "file": "chapter-445-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3316
+    },
+    {
+     "file": "chapter-446-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3024
+    },
+    {
+     "file": "chapter-447-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3033
+    },
+    {
+     "file": "chapter-448-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3152
+    },
+    {
+     "file": "chapter-449-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3158
+    },
+    {
+     "file": "chapter-450-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3184
+    },
+    {
+     "file": "chapter-451-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3112
+    },
+    {
+     "file": "chapter-452-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3384
+    },
+    {
+     "file": "chapter-453-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3100
+    },
+    {
+     "file": "chapter-454-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3141
+    },
+    {
+     "file": "chapter-455-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3194
+    },
+    {
+     "file": "chapter-456-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3216
+    },
+    {
+     "file": "chapter-457-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3010
+    },
+    {
+     "file": "chapter-458-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3553
+    },
+    {
+     "file": "chapter-459-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3015
+    },
+    {
+     "file": "chapter-460-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3006
+    },
+    {
+     "file": "chapter-461-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3072
+    },
+    {
+     "file": "chapter-462-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3143
+    },
+    {
+     "file": "chapter-463-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3167
+    },
+    {
+     "file": "chapter-464-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3024
+    },
+    {
+     "file": "chapter-465-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3281
+    },
+    {
+     "file": "chapter-466-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3014
+    },
+    {
+     "file": "chapter-467-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3190
+    },
+    {
+     "file": "chapter-468-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3153
+    },
+    {
+     "file": "chapter-469-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3048
+    },
+    {
+     "file": "chapter-470-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3091
+    },
+    {
+     "file": "chapter-471-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3071
+    },
+    {
+     "file": "chapter-472-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3047
+    },
+    {
+     "file": "chapter-473-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3040
+    },
+    {
+     "file": "chapter-474-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3019
+    },
+    {
+     "file": "chapter-475-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3027
+    },
+    {
+     "file": "chapter-476-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3450
+    },
+    {
+     "file": "chapter-477-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3096
+    },
+    {
+     "file": "chapter-478-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3040
+    },
+    {
+     "file": "chapter-479-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3034
+    },
+    {
+     "file": "chapter-480-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3086
+    },
+    {
+     "file": "chapter-481-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3149
+    },
+    {
+     "file": "chapter-482-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3013
+    },
+    {
+     "file": "chapter-483-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3162
+    },
+    {
+     "file": "chapter-484-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3178
+    },
+    {
+     "file": "chapter-485-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3001
+    },
+    {
+     "file": "chapter-486-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3021
+    },
+    {
+     "file": "chapter-487-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3643
+    },
+    {
+     "file": "chapter-488-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 4269
+    },
+    {
+     "file": "chapter-489-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3021
+    },
+    {
+     "file": "chapter-490-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3294
+    },
+    {
+     "file": "chapter-491-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3820
+    },
+    {
+     "file": "chapter-492-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5234
+    },
+    {
+     "file": "chapter-493-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4492
+    },
+    {
+     "file": "chapter-494-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3314
+    },
+    {
+     "file": "chapter-495-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3090
+    },
+    {
+     "file": "chapter-496-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3188
+    },
+    {
+     "file": "chapter-497-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4436
+    },
+    {
+     "file": "chapter-498-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4172
+    },
+    {
+     "file": "chapter-499-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3085
+    },
+    {
+     "file": "chapter-500-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3081
+    },
+    {
+     "file": "chapter-501-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3022
+    },
+    {
+     "file": "chapter-502-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 6813
+    },
+    {
+     "file": "chapter-503-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3265
+    },
+    {
+     "file": "chapter-504-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 8945
+    },
+    {
+     "file": "chapter-505-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3055
+    },
+    {
+     "file": "chapter-506-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3083
+    },
+    {
+     "file": "chapter-507-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3934
+    },
+    {
+     "file": "chapter-508-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3123
+    },
+    {
+     "file": "chapter-509-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5794
+    },
+    {
+     "file": "chapter-510-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3125
+    },
+    {
+     "file": "chapter-511-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4404
+    },
+    {
+     "file": "chapter-512-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3170
+    },
+    {
+     "file": "chapter-513-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 4312
+    },
+    {
+     "file": "chapter-514-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3053
+    },
+    {
+     "file": "chapter-515-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3272
+    },
+    {
+     "file": "chapter-516-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3149
+    },
+    {
+     "file": "chapter-517-polished.md",
+     "blocking": 0,
+     "advisory": 5,
+     "cjk": 7752
+    },
+    {
+     "file": "chapter-518-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3073
+    },
+    {
+     "file": "chapter-519-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3062
+    },
+    {
+     "file": "chapter-520-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3780
+    },
+    {
+     "file": "chapter-521-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3885
+    },
+    {
+     "file": "chapter-522-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4361
+    },
+    {
+     "file": "chapter-523-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 7720
+    },
+    {
+     "file": "chapter-524-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5006
+    },
+    {
+     "file": "chapter-525-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3375
+    },
+    {
+     "file": "chapter-526-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3281
+    },
+    {
+     "file": "chapter-527-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3043
+    },
+    {
+     "file": "chapter-528-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3127
+    },
+    {
+     "file": "chapter-529-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3177
+    },
+    {
+     "file": "chapter-530-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 6709
+    },
+    {
+     "file": "chapter-531-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4339
+    },
+    {
+     "file": "chapter-532-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3271
+    },
+    {
+     "file": "chapter-533-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3684
+    },
+    {
+     "file": "chapter-534-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 6674
+    },
+    {
+     "file": "chapter-535-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3108
+    },
+    {
+     "file": "chapter-536-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3910
+    },
+    {
+     "file": "chapter-537-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3241
+    },
+    {
+     "file": "chapter-538-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3168
+    },
+    {
+     "file": "chapter-539-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 5534
+    },
+    {
+     "file": "chapter-540-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3066
+    },
+    {
+     "file": "chapter-541-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4398
+    },
+    {
+     "file": "chapter-542-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3138
+    },
+    {
+     "file": "chapter-543-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3105
+    },
+    {
+     "file": "chapter-544-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 5128
+    },
+    {
+     "file": "chapter-545-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3782
+    },
+    {
+     "file": "chapter-546-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 4307
+    },
+    {
+     "file": "chapter-547-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3597
+    },
+    {
+     "file": "chapter-548-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3815
+    },
+    {
+     "file": "chapter-549-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4894
+    },
+    {
+     "file": "chapter-550-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3530
+    }
+   ]
+  },
+  "volume-5": {
+   "files": 200,
+   "blocking": 0,
+   "advisory": 142,
+   "chapters": [
+    {
+     "file": "chapter-551-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3039
+    },
+    {
+     "file": "chapter-552-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3036
+    },
+    {
+     "file": "chapter-553-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3022
+    },
+    {
+     "file": "chapter-554-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3228
+    },
+    {
+     "file": "chapter-555-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3051
+    },
+    {
+     "file": "chapter-556-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4088
+    },
+    {
+     "file": "chapter-557-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5711
+    },
+    {
+     "file": "chapter-558-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3039
+    },
+    {
+     "file": "chapter-559-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3051
+    },
+    {
+     "file": "chapter-560-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5114
+    },
+    {
+     "file": "chapter-561-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4782
+    },
+    {
+     "file": "chapter-562-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3284
+    },
+    {
+     "file": "chapter-563-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3006
+    },
+    {
+     "file": "chapter-564-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4087
+    },
+    {
+     "file": "chapter-565-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3081
+    },
+    {
+     "file": "chapter-566-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4644
+    },
+    {
+     "file": "chapter-567-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3031
+    },
+    {
+     "file": "chapter-568-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4278
+    },
+    {
+     "file": "chapter-569-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3314
+    },
+    {
+     "file": "chapter-570-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3543
+    },
+    {
+     "file": "chapter-571-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3030
+    },
+    {
+     "file": "chapter-572-polished.md",
+     "blocking": 0,
+     "advisory": 4,
+     "cjk": 3333
+    },
+    {
+     "file": "chapter-573-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3044
+    },
+    {
+     "file": "chapter-574-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3052
+    },
+    {
+     "file": "chapter-575-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3155
+    },
+    {
+     "file": "chapter-576-polished.md",
+     "blocking": 0,
+     "advisory": 4,
+     "cjk": 3068
+    },
+    {
+     "file": "chapter-577-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3108
+    },
+    {
+     "file": "chapter-578-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3036
+    },
+    {
+     "file": "chapter-579-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3010
+    },
+    {
+     "file": "chapter-580-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3249
+    },
+    {
+     "file": "chapter-581-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3114
+    },
+    {
+     "file": "chapter-582-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3083
+    },
+    {
+     "file": "chapter-583-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3181
+    },
+    {
+     "file": "chapter-584-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3114
+    },
+    {
+     "file": "chapter-585-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3425
+    },
+    {
+     "file": "chapter-586-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3393
+    },
+    {
+     "file": "chapter-587-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 8591
+    },
+    {
+     "file": "chapter-588-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 6676
+    },
+    {
+     "file": "chapter-589-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4328
+    },
+    {
+     "file": "chapter-590-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3248
+    },
+    {
+     "file": "chapter-591-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4123
+    },
+    {
+     "file": "chapter-592-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3392
+    },
+    {
+     "file": "chapter-593-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3139
+    },
+    {
+     "file": "chapter-594-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3269
+    },
+    {
+     "file": "chapter-595-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3760
+    },
+    {
+     "file": "chapter-596-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3033
+    },
+    {
+     "file": "chapter-597-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3868
+    },
+    {
+     "file": "chapter-598-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3029
+    },
+    {
+     "file": "chapter-599-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3888
+    },
+    {
+     "file": "chapter-600-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3025
+    },
+    {
+     "file": "chapter-601-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3262
+    },
+    {
+     "file": "chapter-602-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5079
+    },
+    {
+     "file": "chapter-603-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3047
+    },
+    {
+     "file": "chapter-604-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4233
+    },
+    {
+     "file": "chapter-605-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4066
+    },
+    {
+     "file": "chapter-606-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3024
+    },
+    {
+     "file": "chapter-607-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3055
+    },
+    {
+     "file": "chapter-608-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3400
+    },
+    {
+     "file": "chapter-609-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3034
+    },
+    {
+     "file": "chapter-610-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3008
+    },
+    {
+     "file": "chapter-611-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3049
+    },
+    {
+     "file": "chapter-612-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3018
+    },
+    {
+     "file": "chapter-613-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3040
+    },
+    {
+     "file": "chapter-614-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3034
+    },
+    {
+     "file": "chapter-615-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3056
+    },
+    {
+     "file": "chapter-616-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3033
+    },
+    {
+     "file": "chapter-617-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3276
+    },
+    {
+     "file": "chapter-618-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3071
+    },
+    {
+     "file": "chapter-619-polished.md",
+     "blocking": 0,
+     "advisory": 9,
+     "cjk": 3000
+    },
+    {
+     "file": "chapter-620-polished.md",
+     "blocking": 0,
+     "advisory": 7,
+     "cjk": 3004
+    },
+    {
+     "file": "chapter-621-polished.md",
+     "blocking": 0,
+     "advisory": 6,
+     "cjk": 3005
+    },
+    {
+     "file": "chapter-622-polished.md",
+     "blocking": 0,
+     "advisory": 4,
+     "cjk": 3073
+    },
+    {
+     "file": "chapter-623-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3090
+    },
+    {
+     "file": "chapter-624-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3038
+    },
+    {
+     "file": "chapter-625-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3003
+    },
+    {
+     "file": "chapter-626-polished.md",
+     "blocking": 0,
+     "advisory": 7,
+     "cjk": 3002
+    },
+    {
+     "file": "chapter-627-polished.md",
+     "blocking": 0,
+     "advisory": 6,
+     "cjk": 3007
+    },
+    {
+     "file": "chapter-628-polished.md",
+     "blocking": 0,
+     "advisory": 8,
+     "cjk": 3018
+    },
+    {
+     "file": "chapter-629-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3078
+    },
+    {
+     "file": "chapter-630-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3289
+    },
+    {
+     "file": "chapter-631-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 6465
+    },
+    {
+     "file": "chapter-632-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5396
+    },
+    {
+     "file": "chapter-633-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4164
+    },
+    {
+     "file": "chapter-634-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4217
+    },
+    {
+     "file": "chapter-635-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5765
+    },
+    {
+     "file": "chapter-636-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5139
+    },
+    {
+     "file": "chapter-637-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3051
+    },
+    {
+     "file": "chapter-638-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4480
+    },
+    {
+     "file": "chapter-639-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3163
+    },
+    {
+     "file": "chapter-640-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3025
+    },
+    {
+     "file": "chapter-641-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3097
+    },
+    {
+     "file": "chapter-642-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3941
+    },
+    {
+     "file": "chapter-643-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3287
+    },
+    {
+     "file": "chapter-644-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3138
+    },
+    {
+     "file": "chapter-645-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3060
+    },
+    {
+     "file": "chapter-646-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3355
+    },
+    {
+     "file": "chapter-647-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3663
+    },
+    {
+     "file": "chapter-648-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3724
+    },
+    {
+     "file": "chapter-649-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3021
+    },
+    {
+     "file": "chapter-650-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3155
+    },
+    {
+     "file": "chapter-651-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3053
+    },
+    {
+     "file": "chapter-652-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3020
+    },
+    {
+     "file": "chapter-653-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3009
+    },
+    {
+     "file": "chapter-654-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3449
+    },
+    {
+     "file": "chapter-655-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3018
+    },
+    {
+     "file": "chapter-656-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3219
+    },
+    {
+     "file": "chapter-657-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3043
+    },
+    {
+     "file": "chapter-658-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3047
+    },
+    {
+     "file": "chapter-659-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4725
+    },
+    {
+     "file": "chapter-660-polished.md",
+     "blocking": 0,
+     "advisory": 6,
+     "cjk": 3115
+    },
+    {
+     "file": "chapter-661-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3012
+    },
+    {
+     "file": "chapter-662-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3388
+    },
+    {
+     "file": "chapter-663-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3317
+    },
+    {
+     "file": "chapter-664-polished.md",
+     "blocking": 0,
+     "advisory": 4,
+     "cjk": 3015
+    },
+    {
+     "file": "chapter-665-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3107
+    },
+    {
+     "file": "chapter-666-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3002
+    },
+    {
+     "file": "chapter-667-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3019
+    },
+    {
+     "file": "chapter-668-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3124
+    },
+    {
+     "file": "chapter-669-polished.md",
+     "blocking": 0,
+     "advisory": 4,
+     "cjk": 3204
+    },
+    {
+     "file": "chapter-670-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3018
+    },
+    {
+     "file": "chapter-671-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3007
+    },
+    {
+     "file": "chapter-672-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3005
+    },
+    {
+     "file": "chapter-673-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3299
+    },
+    {
+     "file": "chapter-674-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3026
+    },
+    {
+     "file": "chapter-675-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3001
+    },
+    {
+     "file": "chapter-676-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3014
+    },
+    {
+     "file": "chapter-677-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3007
+    },
+    {
+     "file": "chapter-678-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3007
+    },
+    {
+     "file": "chapter-679-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3036
+    },
+    {
+     "file": "chapter-680-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3370
+    },
+    {
+     "file": "chapter-681-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3506
+    },
+    {
+     "file": "chapter-682-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3020
+    },
+    {
+     "file": "chapter-683-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3007
+    },
+    {
+     "file": "chapter-684-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3019
+    },
+    {
+     "file": "chapter-685-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3076
+    },
+    {
+     "file": "chapter-686-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3014
+    },
+    {
+     "file": "chapter-687-polished.md",
+     "blocking": 0,
+     "advisory": 4,
+     "cjk": 3065
+    },
+    {
+     "file": "chapter-688-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3010
+    },
+    {
+     "file": "chapter-689-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3024
+    },
+    {
+     "file": "chapter-690-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3009
+    },
+    {
+     "file": "chapter-691-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3006
+    },
+    {
+     "file": "chapter-692-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3027
+    },
+    {
+     "file": "chapter-693-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3022
+    },
+    {
+     "file": "chapter-694-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3032
+    },
+    {
+     "file": "chapter-695-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3022
+    },
+    {
+     "file": "chapter-696-polished.md",
+     "blocking": 0,
+     "advisory": 5,
+     "cjk": 3008
+    },
+    {
+     "file": "chapter-697-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3015
+    },
+    {
+     "file": "chapter-698-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3019
+    },
+    {
+     "file": "chapter-699-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3004
+    },
+    {
+     "file": "chapter-700-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3009
+    },
+    {
+     "file": "chapter-701-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3042
+    },
+    {
+     "file": "chapter-702-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3005
+    },
+    {
+     "file": "chapter-703-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3007
+    },
+    {
+     "file": "chapter-704-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3003
+    },
+    {
+     "file": "chapter-705-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3022
+    },
+    {
+     "file": "chapter-706-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3014
+    },
+    {
+     "file": "chapter-707-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3023
+    },
+    {
+     "file": "chapter-708-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3725
+    },
+    {
+     "file": "chapter-709-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3268
+    },
+    {
+     "file": "chapter-710-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3075
+    },
+    {
+     "file": "chapter-711-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 4226
+    },
+    {
+     "file": "chapter-712-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3041
+    },
+    {
+     "file": "chapter-713-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4046
+    },
+    {
+     "file": "chapter-714-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3559
+    },
+    {
+     "file": "chapter-715-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3699
+    },
+    {
+     "file": "chapter-716-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3026
+    },
+    {
+     "file": "chapter-717-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3018
+    },
+    {
+     "file": "chapter-718-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3026
+    },
+    {
+     "file": "chapter-719-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4263
+    },
+    {
+     "file": "chapter-720-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3748
+    },
+    {
+     "file": "chapter-721-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3402
+    },
+    {
+     "file": "chapter-722-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3539
+    },
+    {
+     "file": "chapter-723-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3014
+    },
+    {
+     "file": "chapter-724-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3194
+    },
+    {
+     "file": "chapter-725-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3219
+    },
+    {
+     "file": "chapter-726-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3366
+    },
+    {
+     "file": "chapter-727-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3062
+    },
+    {
+     "file": "chapter-728-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4712
+    },
+    {
+     "file": "chapter-729-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3136
+    },
+    {
+     "file": "chapter-730-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 5800
+    },
+    {
+     "file": "chapter-731-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3113
+    },
+    {
+     "file": "chapter-732-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3028
+    },
+    {
+     "file": "chapter-733-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3468
+    },
+    {
+     "file": "chapter-734-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3393
+    },
+    {
+     "file": "chapter-735-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3337
+    },
+    {
+     "file": "chapter-736-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3841
+    },
+    {
+     "file": "chapter-737-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4280
+    },
+    {
+     "file": "chapter-738-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4286
+    },
+    {
+     "file": "chapter-739-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4147
+    },
+    {
+     "file": "chapter-740-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4245
+    },
+    {
+     "file": "chapter-741-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5820
+    },
+    {
+     "file": "chapter-742-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5365
+    },
+    {
+     "file": "chapter-743-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4400
+    },
+    {
+     "file": "chapter-744-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5285
+    },
+    {
+     "file": "chapter-745-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5092
+    },
+    {
+     "file": "chapter-746-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 5375
+    },
+    {
+     "file": "chapter-747-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3060
+    },
+    {
+     "file": "chapter-748-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3402
+    },
+    {
+     "file": "chapter-749-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 6237
+    },
+    {
+     "file": "chapter-750-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 5397
+    }
+   ]
+  },
+  "volume-6": {
+   "files": 168,
+   "blocking": 0,
+   "advisory": 346,
+   "chapters": [
+    {
+     "file": "chapter-751-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3063
+    },
+    {
+     "file": "chapter-752-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3044
+    },
+    {
+     "file": "chapter-753-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3186
+    },
+    {
+     "file": "chapter-754-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3405
+    },
+    {
+     "file": "chapter-755-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4481
+    },
+    {
+     "file": "chapter-756-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3039
+    },
+    {
+     "file": "chapter-757-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3063
+    },
+    {
+     "file": "chapter-758-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3043
+    },
+    {
+     "file": "chapter-759-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3067
+    },
+    {
+     "file": "chapter-760-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3051
+    },
+    {
+     "file": "chapter-761-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3034
+    },
+    {
+     "file": "chapter-762-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3341
+    },
+    {
+     "file": "chapter-763-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4461
+    },
+    {
+     "file": "chapter-764-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3338
+    },
+    {
+     "file": "chapter-765-polished.md",
+     "blocking": 0,
+     "advisory": 4,
+     "cjk": 3614
+    },
+    {
+     "file": "chapter-766-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3600
+    },
+    {
+     "file": "chapter-767-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3031
+    },
+    {
+     "file": "chapter-768-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3540
+    },
+    {
+     "file": "chapter-769-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3922
+    },
+    {
+     "file": "chapter-770-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4350
+    },
+    {
+     "file": "chapter-771-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 6930
+    },
+    {
+     "file": "chapter-772-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 7956
+    },
+    {
+     "file": "chapter-773-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 7659
+    },
+    {
+     "file": "chapter-774-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 8866
+    },
+    {
+     "file": "chapter-775-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 12737
+    },
+    {
+     "file": "chapter-776-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 9741
+    },
+    {
+     "file": "chapter-777-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3410
+    },
+    {
+     "file": "chapter-778-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3000
+    },
+    {
+     "file": "chapter-779-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3035
+    },
+    {
+     "file": "chapter-780-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3011
+    },
+    {
+     "file": "chapter-781-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3280
+    },
+    {
+     "file": "chapter-782-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4379
+    },
+    {
+     "file": "chapter-783-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 6845
+    },
+    {
+     "file": "chapter-784-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3799
+    },
+    {
+     "file": "chapter-785-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3808
+    },
+    {
+     "file": "chapter-786-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3047
+    },
+    {
+     "file": "chapter-787-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3073
+    },
+    {
+     "file": "chapter-788-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4333
+    },
+    {
+     "file": "chapter-789-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3024
+    },
+    {
+     "file": "chapter-790-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3001
+    },
+    {
+     "file": "chapter-791-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3566
+    },
+    {
+     "file": "chapter-792-polished.md",
+     "blocking": 0,
+     "advisory": 4,
+     "cjk": 3731
+    },
+    {
+     "file": "chapter-793-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 5048
+    },
+    {
+     "file": "chapter-794-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3086
+    },
+    {
+     "file": "chapter-795-polished.md",
+     "blocking": 0,
+     "advisory": 4,
+     "cjk": 3227
+    },
+    {
+     "file": "chapter-796-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3991
+    },
+    {
+     "file": "chapter-797-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3771
+    },
+    {
+     "file": "chapter-798-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3183
+    },
+    {
+     "file": "chapter-799-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3127
+    },
+    {
+     "file": "chapter-800-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3033
+    },
+    {
+     "file": "chapter-801-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3719
+    },
+    {
+     "file": "chapter-802-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3218
+    },
+    {
+     "file": "chapter-803-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3002
+    },
+    {
+     "file": "chapter-804-polished.md",
+     "blocking": 0,
+     "advisory": 4,
+     "cjk": 3286
+    },
+    {
+     "file": "chapter-805-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3083
+    },
+    {
+     "file": "chapter-806-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3951
+    },
+    {
+     "file": "chapter-807-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3775
+    },
+    {
+     "file": "chapter-808-polished.md",
+     "blocking": 0,
+     "advisory": 4,
+     "cjk": 3037
+    },
+    {
+     "file": "chapter-809-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3047
+    },
+    {
+     "file": "chapter-810-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3013
+    },
+    {
+     "file": "chapter-811-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3289
+    },
+    {
+     "file": "chapter-812-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3031
+    },
+    {
+     "file": "chapter-813-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3367
+    },
+    {
+     "file": "chapter-814-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4593
+    },
+    {
+     "file": "chapter-815-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3095
+    },
+    {
+     "file": "chapter-816-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3019
+    },
+    {
+     "file": "chapter-817-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3117
+    },
+    {
+     "file": "chapter-818-polished.md",
+     "blocking": 0,
+     "advisory": 4,
+     "cjk": 3063
+    },
+    {
+     "file": "chapter-819-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3371
+    },
+    {
+     "file": "chapter-820-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3167
+    },
+    {
+     "file": "chapter-821-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3643
+    },
+    {
+     "file": "chapter-822-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4076
+    },
+    {
+     "file": "chapter-823-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 4948
+    },
+    {
+     "file": "chapter-824-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3609
+    },
+    {
+     "file": "chapter-825-polished.md",
+     "blocking": 0,
+     "advisory": 6,
+     "cjk": 3632
+    },
+    {
+     "file": "chapter-826-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3225
+    },
+    {
+     "file": "chapter-827-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3187
+    },
+    {
+     "file": "chapter-828-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3589
+    },
+    {
+     "file": "chapter-829-polished.md",
+     "blocking": 0,
+     "advisory": 6,
+     "cjk": 3727
+    },
+    {
+     "file": "chapter-830-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4977
+    },
+    {
+     "file": "chapter-831-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3792
+    },
+    {
+     "file": "chapter-832-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3251
+    },
+    {
+     "file": "chapter-833-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3270
+    },
+    {
+     "file": "chapter-834-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3037
+    },
+    {
+     "file": "chapter-835-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3185
+    },
+    {
+     "file": "chapter-836-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3000
+    },
+    {
+     "file": "chapter-837-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3014
+    },
+    {
+     "file": "chapter-838-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 7784
+    },
+    {
+     "file": "chapter-839-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3147
+    },
+    {
+     "file": "chapter-840-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3030
+    },
+    {
+     "file": "chapter-841-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3261
+    },
+    {
+     "file": "chapter-842-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3050
+    },
+    {
+     "file": "chapter-843-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3001
+    },
+    {
+     "file": "chapter-844-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4931
+    },
+    {
+     "file": "chapter-845-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 6506
+    },
+    {
+     "file": "chapter-846-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4267
+    },
+    {
+     "file": "chapter-847-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4018
+    },
+    {
+     "file": "chapter-848-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 5869
+    },
+    {
+     "file": "chapter-849-polished.md",
+     "blocking": 0,
+     "advisory": 4,
+     "cjk": 3685
+    },
+    {
+     "file": "chapter-850-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4500
+    },
+    {
+     "file": "chapter-851-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 4493
+    },
+    {
+     "file": "chapter-852-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3148
+    },
+    {
+     "file": "chapter-853-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 4484
+    },
+    {
+     "file": "chapter-854-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3028
+    },
+    {
+     "file": "chapter-855-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3193
+    },
+    {
+     "file": "chapter-856-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3187
+    },
+    {
+     "file": "chapter-857-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3054
+    },
+    {
+     "file": "chapter-858-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3117
+    },
+    {
+     "file": "chapter-859-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 5148
+    },
+    {
+     "file": "chapter-860-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4147
+    },
+    {
+     "file": "chapter-861-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4530
+    },
+    {
+     "file": "chapter-862-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3208
+    },
+    {
+     "file": "chapter-863-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 6493
+    },
+    {
+     "file": "chapter-864-polished.md",
+     "blocking": 0,
+     "advisory": 4,
+     "cjk": 3741
+    },
+    {
+     "file": "chapter-865-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4429
+    },
+    {
+     "file": "chapter-866-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3952
+    },
+    {
+     "file": "chapter-867-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 7144
+    },
+    {
+     "file": "chapter-868-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 5656
+    },
+    {
+     "file": "chapter-869-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3109
+    },
+    {
+     "file": "chapter-870-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3167
+    },
+    {
+     "file": "chapter-871-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3998
+    },
+    {
+     "file": "chapter-872-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 4301
+    },
+    {
+     "file": "chapter-873-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3013
+    },
+    {
+     "file": "chapter-874-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3865
+    },
+    {
+     "file": "chapter-875-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4225
+    },
+    {
+     "file": "chapter-876-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 4384
+    },
+    {
+     "file": "chapter-877-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 5784
+    },
+    {
+     "file": "chapter-878-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 7782
+    },
+    {
+     "file": "chapter-879-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3219
+    },
+    {
+     "file": "chapter-880-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4861
+    },
+    {
+     "file": "chapter-881-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 5025
+    },
+    {
+     "file": "chapter-882-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3078
+    },
+    {
+     "file": "chapter-883-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4234
+    },
+    {
+     "file": "chapter-884-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3856
+    },
+    {
+     "file": "chapter-885-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3390
+    },
+    {
+     "file": "chapter-886-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 4598
+    },
+    {
+     "file": "chapter-887-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3120
+    },
+    {
+     "file": "chapter-888-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3139
+    },
+    {
+     "file": "chapter-889-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3505
+    },
+    {
+     "file": "chapter-890-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3389
+    },
+    {
+     "file": "chapter-891-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3208
+    },
+    {
+     "file": "chapter-892-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3060
+    },
+    {
+     "file": "chapter-893-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3046
+    },
+    {
+     "file": "chapter-894-polished.md",
+     "blocking": 0,
+     "advisory": 4,
+     "cjk": 3032
+    },
+    {
+     "file": "chapter-895-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3228
+    },
+    {
+     "file": "chapter-896-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3016
+    },
+    {
+     "file": "chapter-897-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3136
+    },
+    {
+     "file": "chapter-898-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4167
+    },
+    {
+     "file": "chapter-899-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3303
+    },
+    {
+     "file": "chapter-900-polished.md",
+     "blocking": 0,
+     "advisory": 4,
+     "cjk": 3102
+    },
+    {
+     "file": "chapter-901-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3004
+    },
+    {
+     "file": "chapter-902-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3108
+    },
+    {
+     "file": "chapter-903-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3117
+    },
+    {
+     "file": "chapter-904-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3021
+    },
+    {
+     "file": "chapter-905-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3200
+    },
+    {
+     "file": "chapter-906-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3006
+    },
+    {
+     "file": "chapter-907-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3012
+    },
+    {
+     "file": "chapter-908-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3300
+    },
+    {
+     "file": "chapter-909-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3029
+    },
+    {
+     "file": "chapter-910-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3024
+    },
+    {
+     "file": "chapter-911-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3145
+    },
+    {
+     "file": "chapter-912-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3232
+    },
+    {
+     "file": "chapter-913-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3251
+    },
+    {
+     "file": "chapter-914-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3029
+    },
+    {
+     "file": "chapter-915-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3196
+    },
+    {
+     "file": "chapter-916-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3040
+    },
+    {
+     "file": "chapter-917-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3036
+    },
+    {
+     "file": "chapter-918-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3059
+    }
+   ]
+  },
+  "volume-7": {
+   "files": 82,
+   "blocking": 0,
+   "advisory": 73,
+   "chapters": [
+    {
+     "file": "chapter-1000-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3062
+    },
+    {
+     "file": "chapter-919-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4018
+    },
+    {
+     "file": "chapter-920-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3036
+    },
+    {
+     "file": "chapter-921-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3102
+    },
+    {
+     "file": "chapter-922-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3307
+    },
+    {
+     "file": "chapter-923-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3028
+    },
+    {
+     "file": "chapter-924-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3239
+    },
+    {
+     "file": "chapter-925-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3436
+    },
+    {
+     "file": "chapter-926-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3200
+    },
+    {
+     "file": "chapter-927-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3163
+    },
+    {
+     "file": "chapter-928-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3085
+    },
+    {
+     "file": "chapter-929-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3317
+    },
+    {
+     "file": "chapter-930-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3068
+    },
+    {
+     "file": "chapter-931-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3177
+    },
+    {
+     "file": "chapter-932-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3854
+    },
+    {
+     "file": "chapter-933-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 4198
+    },
+    {
+     "file": "chapter-934-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 4277
+    },
+    {
+     "file": "chapter-935-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3239
+    },
+    {
+     "file": "chapter-936-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3239
+    },
+    {
+     "file": "chapter-937-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3035
+    },
+    {
+     "file": "chapter-938-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3058
+    },
+    {
+     "file": "chapter-939-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3047
+    },
+    {
+     "file": "chapter-940-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3179
+    },
+    {
+     "file": "chapter-941-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3112
+    },
+    {
+     "file": "chapter-942-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3034
+    },
+    {
+     "file": "chapter-943-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3126
+    },
+    {
+     "file": "chapter-944-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3137
+    },
+    {
+     "file": "chapter-945-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3315
+    },
+    {
+     "file": "chapter-946-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3124
+    },
+    {
+     "file": "chapter-947-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3035
+    },
+    {
+     "file": "chapter-948-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3121
+    },
+    {
+     "file": "chapter-949-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3202
+    },
+    {
+     "file": "chapter-950-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3128
+    },
+    {
+     "file": "chapter-951-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3971
+    },
+    {
+     "file": "chapter-952-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4023
+    },
+    {
+     "file": "chapter-953-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3006
+    },
+    {
+     "file": "chapter-954-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3082
+    },
+    {
+     "file": "chapter-955-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3958
+    },
+    {
+     "file": "chapter-956-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3233
+    },
+    {
+     "file": "chapter-957-polished.md",
+     "blocking": 0,
+     "advisory": 5,
+     "cjk": 3029
+    },
+    {
+     "file": "chapter-958-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3007
+    },
+    {
+     "file": "chapter-959-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3003
+    },
+    {
+     "file": "chapter-960-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3497
+    },
+    {
+     "file": "chapter-961-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3007
+    },
+    {
+     "file": "chapter-962-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3123
+    },
+    {
+     "file": "chapter-963-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3021
+    },
+    {
+     "file": "chapter-964-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3018
+    },
+    {
+     "file": "chapter-965-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3035
+    },
+    {
+     "file": "chapter-966-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3051
+    },
+    {
+     "file": "chapter-967-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3085
+    },
+    {
+     "file": "chapter-968-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3640
+    },
+    {
+     "file": "chapter-969-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3182
+    },
+    {
+     "file": "chapter-970-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3231
+    },
+    {
+     "file": "chapter-971-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3006
+    },
+    {
+     "file": "chapter-972-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3117
+    },
+    {
+     "file": "chapter-973-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3023
+    },
+    {
+     "file": "chapter-974-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3931
+    },
+    {
+     "file": "chapter-975-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3442
+    },
+    {
+     "file": "chapter-976-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3150
+    },
+    {
+     "file": "chapter-977-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3971
+    },
+    {
+     "file": "chapter-978-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3712
+    },
+    {
+     "file": "chapter-979-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3551
+    },
+    {
+     "file": "chapter-980-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3388
+    },
+    {
+     "file": "chapter-981-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3448
+    },
+    {
+     "file": "chapter-982-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3944
+    },
+    {
+     "file": "chapter-983-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4413
+    },
+    {
+     "file": "chapter-984-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 4655
+    },
+    {
+     "file": "chapter-985-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3065
+    },
+    {
+     "file": "chapter-986-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3397
+    },
+    {
+     "file": "chapter-987-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3102
+    },
+    {
+     "file": "chapter-988-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3507
+    },
+    {
+     "file": "chapter-989-polished.md",
+     "blocking": 0,
+     "advisory": 2,
+     "cjk": 3637
+    },
+    {
+     "file": "chapter-990-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 4259
+    },
+    {
+     "file": "chapter-991-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3099
+    },
+    {
+     "file": "chapter-992-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3297
+    },
+    {
+     "file": "chapter-993-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3831
+    },
+    {
+     "file": "chapter-994-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3589
+    },
+    {
+     "file": "chapter-995-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3150
+    },
+    {
+     "file": "chapter-996-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3207
+    },
+    {
+     "file": "chapter-997-polished.md",
+     "blocking": 0,
+     "advisory": 3,
+     "cjk": 3346
+    },
+    {
+     "file": "chapter-998-polished.md",
+     "blocking": 0,
+     "advisory": 0,
+     "cjk": 3273
+    },
+    {
+     "file": "chapter-999-polished.md",
+     "blocking": 0,
+     "advisory": 1,
+     "cjk": 3053
+    }
+   ]
+  }
+ }
+}
