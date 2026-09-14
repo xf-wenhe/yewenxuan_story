@@ -12,7 +12,7 @@ import re, os, sys, json
 # ============================================================
 # Configuration
 # ============================================================
-CHAPTERS_DIR = '/Volumes/新/work/story/story-project/chapters/volume-1'
+CHAPTERS_DIR = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'chapters', 'volume-1'))
 MIN_CJK = 3000
 
 # L1 banned words (from banned-words.md)

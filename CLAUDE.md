@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 这不是软件项目，而是一部中文超长篇网络小说的创作仓库（无限流 × 时间闭环题材，暂名《闭环之外》/《无限回廊》）。没有构建、测试、Lint 流程；仓库里唯一的代码是 `tools/polish_pipeline.py`（文本清理脚本）。所有"开发工作"= 写章节、改大纲、维护伏笔表。
 
-**规模：** 目标 1000 章 / 约 300 万字（CJK 计数）。当前进度（2026-08-19 核实）：V1(1-100)、V2(101-250)、V3(251-400)、V4(401-550)、V5(551-750)、V6(751-918)、**V7(919-1000) 全部完成**，全库1000章正文齐备，0章低于3000 CJK。V7共82章，总计274,365 CJK（详见 progress.md Phase 6 记录）。
+**规模：** 目标 1000 章 / 约 300 万字（CJK 计数）。当前进度（2026-08-19 核实）：V1(1-100)、V2(101-250)、V3(251-400)、V4(401-550)、V5(551-750)、V6(751-918)、**V7(919-1000) 全部完成**，全库1000章正文齐备，0章低于3000 CJK。V7共82章，总计274,365 CJK（V4 批量进度详见 `V4_润色进度_overview.md`）。
 
 # 文档层级（写作时的"架构"）
 
@@ -24,7 +24,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 # 章节写作规范
 
-- **文件名：** `chapters/volume-N/chapter-NNN-polished.md`（三位补零）。
+- **文件名：** `chapters/volume-N/chapter-NNN-polished.md`（三位补零；V1 为历史两位补零 `chapter-01`…`chapter-099`，保留不改）。
 - **标题格式：** 首行 `# 第X章：标题`（汉字数字）。
 - **字数：** 单章 ≥3000 CJK 字符（历史平均约 3700–4100）；以 CJK 计数为准，不是 Markdown 总字数。
 - **结尾标记：** `（第X章完）`；卷末加 `——第X卷·卷名·完——`。
@@ -52,7 +52,7 @@ python tools/polish_pipeline.py chapters/volume-3/chapter-300-polished.md   # �
 python tools/polish_pipeline.py --all                                        # ⚠️ 见下方警告
 ```
 
-> ⚠️ 脚本顶部的 `CHAPTERS_DIR` 硬编码为 Mac 路径 `/Volumes/新/work/story/story-project/chapters/volume-1`，在本仓库（Windows）上 `--all` 无法工作；该目录名也与实际仓库名不符。使用前需先修改此常量。脚本以 `encoding='utf-8'` 读写，与全库一致。
+> 脚本以 `encoding='utf-8'` 读写，与全库一致。`CHAPTERS_DIR` 已改为相对脚本定位，`--all` 处理 `chapters/volume-1/` 下全部章节。
 
 注意：脚本的机械替换是粗粒度文本处理（如 `pass_validate` 在字数不足时向（本章完）后插入固定句式），跑完仍需人工复核句意。
 
