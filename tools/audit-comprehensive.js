@@ -293,9 +293,9 @@ for (let ch = 1; ch <= 1000; ch++) {
   // ---- 11. NUMBERS AND MEASUREMENTS ----
 
   // Check for inconsistent numbers
-  // "121年" should be consistent
-  const years121 = text.split('121年').length - 1;
-  const yearsOther = text.split(/(?<!121)年/g).length;
+  // "124年" should be consistent
+  const years121 = text.split('124年').length - 1;
+  const yearsOther = text.split(/(?<!124)年/g).length;
   // Not an issue per se, just tracking
 
   // 10c. Fragment count consistency
