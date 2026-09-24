@@ -2,6 +2,11 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+# 交互规则
+
+- 每次回复都必须称呼用户为"作者大大"。
+- 所有回复一律使用中文。
+
 # 项目性质
 
 这不是软件项目，而是一部中文超长篇网络小说的创作仓库（无限流 × 时间闭环题材，暂名《闭环之外》/《无限回廊》）。没有构建、测试、Lint 流程；仓库里唯一的代码是 `tools/polish_pipeline.py`（文本清理脚本）。所有"开发工作"= 写章节、改大纲、维护伏笔表。
