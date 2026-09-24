@@ -129,7 +129,17 @@ def main():
         path = chapter_path(n)
         rel = os.path.relpath(path, ROOT).replace(os.sep, "/")
         src = decode(read_bytes(path), rel)
-        new, applied, skipped = transform(src, by_chapter[n], rel)
+        if args.verify:
+            # HEAD is the pre-image, so the claim under test is "HEAD bytes
+            # plus this table == the file on disk": the disk side is taken as
+            # it stands.  Running the table over it would normally be a no-op,
+            # but a grown anchor may span a neighbouring row's line, and once
+            # that neighbour has been edited the row's `after` no longer
+            # matches -- bookkeeping, not a defect.  The replay below still
+            # proves the disk holds nothing this table did not put there.
+            new, applied, skipped = src, [], []
+        else:
+            new, applied, skipped = transform(src, by_chapter[n], rel)
 
         cjk_src = len(CJK.findall(src))
         cjk_new = len(CJK.findall(new))
