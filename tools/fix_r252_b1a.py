@@ -1,21 +1,27 @@
 # -*- coding: utf-8 -*-
-"""R252 B1a: apply the parent-witnessed punctuation repairs to ch551-570.
+"""R252 stage 2: apply a reviewed table of quote and punctuation repairs.
 
 The strip pass rewrote `。"` as `，` and then deleted the quote characters, so
-V5 carries commas where a sentence ended (`有一个，墙。`, `立刻，压下防火墙的`).
-This applies the inverse, using the sites computed by the planner and stored
-in tools/r252_b1_sites.json:
+V5 carries commas where a sentence ended (`有一个，墙。`, `立刻，压下防火墙的`)
+and bare prose where a line of dialogue used to be.  This applies the inverse,
+using the sites computed by a planner and stored in a table:
 
     `，X` -> `X。`   (the comma moves past X and becomes the period)
+    `S1，他说。S2` -> `"S1，"他说。"S2"`   (quotes around each utterance)
 
 Only punctuation and quotation marks move.  No word is added or removed, so
 each chapter's CJK count is unchanged by construction -- and asserted below.
+
+Two tables use this tool, both against ch551-570:
+    tools/r252_b1_sites.json    B1a, parent-witnessed punctuation
+    tools/r252_b1b_sites.json   B1b, missing dialogue quotes
 
 Usage:
     python tools/fix_r252_b1a.py --dry      # print -/+ and deltas, write nothing
     python tools/fix_r252_b1a.py --apply    # rewrite the chapters
     python tools/fix_r252_b1a.py --verify   # replay onto HEAD bytes, require
                                             # a byte-identical result
+    python tools/fix_r252_b1a.py --sites tools/r252_b1b_sites.json --dry
 
 Fail-closed: any anchor that is absent, or present more than once, aborts the
 whole run before anything is written.  Idempotent: a site whose `after` is
@@ -30,7 +36,7 @@ import subprocess
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SITES = os.path.join(ROOT, "tools", "r252_b1_sites.json")
+DEFAULT_SITES = os.path.join("tools", "r252_b1_sites.json")
 CJK = re.compile(r"[一-鿿]")
 
 
@@ -71,8 +77,8 @@ def cr_flags(text):
     return [piece.endswith("\r") for piece in text.split("\n")]
 
 
-def load():
-    with io.open(SITES, encoding="utf-8") as fh:
+def load(path):
+    with io.open(path, encoding="utf-8") as fh:
         rows = json.load(fh)
     by_chapter = {}
     for i, row in enumerate(rows):
@@ -109,11 +115,13 @@ def main():
     ap.add_argument("--dry", action="store_true")
     ap.add_argument("--apply", action="store_true")
     ap.add_argument("--verify", action="store_true")
+    ap.add_argument("--sites", default=DEFAULT_SITES,
+                    help="change table to apply (default %(default)s)")
     args = ap.parse_args()
     if sum([args.dry, args.apply, args.verify]) != 1:
         raise SystemExit("choose exactly one of --dry / --apply / --verify")
 
-    rows, by_chapter = load()
+    rows, by_chapter = load(os.path.join(ROOT, args.sites))
     print("sites %d / chapters %d" % (len(rows), len(by_chapter)))
 
     total_applied = total_skipped = verified = 0
