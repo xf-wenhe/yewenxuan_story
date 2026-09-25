@@ -1,0 +1,631 @@
+[
+ {
+  "chapter": 4,
+  "path": "chapters/volume-1/chapter-04-polished.md",
+  "src": "4f350d68",
+  "touchers": [
+   "4f350d68"
+  ],
+  "src_subject": " 2026-08-24 R23 voice cleanup: 攥住(122)/攥紧(66)/攥得(51)/猛然(32)/骤然(33)/喉结上下滚(12)/手指收紧(12)/攥起(3) — 273 replacements, 233 chapters. Fixed 13 charCode artifacts (排得→挤得/攥得, 技起→提起). Total 3,760,117 CJK, 0 below 3000.",
+  "old": "小樱的喉结动了动了一下。",
+  "new": "小樱的喉结动了动。",
+  "frag_old": "喉结动了动了一下。",
+  "frag_new": "喉结动了动。",
+  "why": "R23 `上下滚`→`动了动`，焊尾 `了一下`",
+  "dropped": 3,
+  "cjk_before": 4631,
+  "cjk_after": 4628
+ },
+ {
+  "chapter": 20,
+  "path": "chapters/volume-1/chapter-20-polished.md",
+  "src": "4f350d68",
+  "touchers": [
+   "4f350d68"
+  ],
+  "src_subject": " 2026-08-24 R23 voice cleanup: 攥住(122)/攥紧(66)/攥得(51)/猛然(32)/骤然(33)/喉结上下滚(12)/手指收紧(12)/攥起(3) — 273 replacements, 233 chapters. Fixed 13 charCode artifacts (排得→挤得/攥得, 技起→提起). Total 3,760,117 CJK, 0 below 3000.",
+  "old": "赵大嘴也照了一下。他身后的轮廓不是他自己。穿橙色夹克的人，背影，走在月光下。那个人走了几步，停下来，像在等什么人。赵大嘴盯着那个背影看了很久。喉结滚了一下了一下，咽唾沫的声音在安静的走廊里清晰可闻。",
+  "new": "赵大嘴也照了一下。他身后的轮廓不是他自己。穿橙色夹克的人，背影，走在月光下。那个人走了几步，停下来，像在等什么人。赵大嘴盯着那个背影看了很久。喉结滚了一下，咽唾沫的声音在安静的走廊里清晰可闻。",
+  "frag_old": "喉结滚了一下了一下，",
+  "frag_new": "喉结滚了一下，",
+  "why": "R23 `上下`→`滚了一下`，焊尾 `了一下`",
+  "dropped": 3,
+  "cjk_before": 5258,
+  "cjk_after": 5255
+ },
+ {
+  "chapter": 39,
+  "path": "chapters/volume-1/chapter-39-polished.md",
+  "src": "4f350d68",
+  "touchers": [
+   "4f350d68"
+  ],
+  "src_subject": " 2026-08-24 R23 voice cleanup: 攥住(122)/攥紧(66)/攥得(51)/猛然(32)/骤然(33)/喉结上下滚(12)/手指收紧(12)/攥起(3) — 273 replacements, 233 chapters. Fixed 13 charCode artifacts (排得→挤得/攥得, 技起→提起). Total 3,760,117 CJK, 0 below 3000.",
+  "old": "\"说什么？\"叶文轩把音量压到了极限。喉结滚了滚了一下。",
+  "new": "\"说什么？\"叶文轩把音量压到了极限。喉结滚了滚。",
+  "frag_old": "喉结滚了滚了一下。",
+  "frag_new": "喉结滚了滚。",
+  "why": "R23 `上下滚`→`滚了滚`，焊尾 `了一下`",
+  "dropped": 3,
+  "cjk_before": 5628,
+  "cjk_after": 5625
+ },
+ {
+  "chapter": 47,
+  "path": "chapters/volume-1/chapter-47-polished.md",
+  "src": "4f350d68",
+  "touchers": [
+   "4f350d68"
+  ],
+  "src_subject": " 2026-08-24 R23 voice cleanup: 攥住(122)/攥紧(66)/攥得(51)/猛然(32)/骤然(33)/喉结上下滚(12)/手指收紧(12)/攥起(3) — 273 replacements, 233 chapters. Fixed 13 charCode artifacts (排得→挤得/攥得, 技起→提起). Total 3,760,117 CJK, 0 below 3000.",
+  "old": "叶文轩的喉结动了动了一下。赵大嘴说的对。顺序颠倒过来，是未来的叶文轩投影到了1998年，才有了27岁的那个他。闭环是未来的。27岁的叶文轩，是37岁的叶文轩的投影。那真正的27岁的叶文轩，是谁？",
+  "new": "叶文轩的喉结动了动。赵大嘴说的对。顺序颠倒过来，是未来的叶文轩投影到了1998年，才有了27岁的那个他。闭环是未来的。27岁的叶文轩，是37岁的叶文轩的投影。那真正的27岁的叶文轩，是谁？",
+  "frag_old": "喉结动了动了一下。",
+  "frag_new": "喉结动了动。",
+  "why": "R23 同上（`上下滚`→`动了动`）",
+  "dropped": 3,
+  "cjk_before": 3120,
+  "cjk_after": 3117
+ },
+ {
+  "chapter": 56,
+  "path": "chapters/volume-1/chapter-56-polished.md",
+  "src": "4f350d68",
+  "touchers": [
+   "4f350d68"
+  ],
+  "src_subject": " 2026-08-24 R23 voice cleanup: 攥住(122)/攥紧(66)/攥得(51)/猛然(32)/骤然(33)/喉结上下滚(12)/手指收紧(12)/攥起(3) — 273 replacements, 233 chapters. Fixed 13 charCode artifacts (排得→挤得/攥得, 技起→提起). Total 3,760,117 CJK, 0 below 3000.",
+  "old": "喉结动了一下了一下。",
+  "new": "喉结动了一下。",
+  "frag_old": "喉结动了一下了一下。",
+  "frag_new": "喉结动了一下。",
+  "why": "R23 `上下滚`→`动了一下`，焊尾 `了一下`",
+  "dropped": 3,
+  "cjk_before": 4006,
+  "cjk_after": 4003
+ },
+ {
+  "chapter": 69,
+  "path": "chapters/volume-1/chapter-69-polished.md",
+  "src": "4f350d68",
+  "touchers": [
+   "4f350d68"
+  ],
+  "src_subject": " 2026-08-24 R23 voice cleanup: 攥住(122)/攥紧(66)/攥得(51)/猛然(32)/骤然(33)/喉结上下滚(12)/手指收紧(12)/攥起(3) — 273 replacements, 233 chapters. Fixed 13 charCode artifacts (排得→挤得/攥得, 技起→提起). Total 3,760,117 CJK, 0 below 3000.",
+  "old": "赵大嘴的喉结滚了滚了一下。走廊里的空气突然变了，温度没降，某种密度增加了。像一大块冰靠近了身边，那冷是它自己的。叶文轩的时间感知在报警，0428碎片探测器在疯狂震动。屏幕上那串从未见过的红色标记在跳。",
+  "new": "赵大嘴的喉结滚了滚。走廊里的空气突然变了，温度没降，某种密度增加了。像一大块冰靠近了身边，那冷是它自己的。叶文轩的时间感知在报警，0428碎片探测器在疯狂震动。屏幕上那串从未见过的红色标记在跳。",
+  "frag_old": "喉结滚了滚了一下。",
+  "frag_new": "喉结滚了滚。",
+  "why": "R23",
+  "dropped": 3,
+  "cjk_before": 4679,
+  "cjk_after": 4676
+ },
+ {
+  "chapter": 74,
+  "path": "chapters/volume-1/chapter-74-polished.md",
+  "src": "4f350d68",
+  "touchers": [
+   "4f350d68"
+  ],
+  "src_subject": " 2026-08-24 R23 voice cleanup: 攥住(122)/攥紧(66)/攥得(51)/猛然(32)/骤然(33)/喉结上下滚(12)/手指收紧(12)/攥起(3) — 273 replacements, 233 chapters. Fixed 13 charCode artifacts (排得→挤得/攥得, 技起→提起). Total 3,760,117 CJK, 0 below 3000.",
+  "old": "赵大嘴的喉结动了动了一下。\"归位之门。\"",
+  "new": "赵大嘴的喉结动了动。\"归位之门。\"",
+  "frag_old": "喉结动了动了一下。",
+  "frag_new": "喉结动了动。",
+  "why": "R23",
+  "dropped": 3,
+  "cjk_before": 3206,
+  "cjk_after": 3203
+ },
+ {
+  "chapter": 83,
+  "path": "chapters/volume-1/chapter-83-polished.md",
+  "src": "4f350d68",
+  "touchers": [
+   "4f350d68"
+  ],
+  "src_subject": " 2026-08-24 R23 voice cleanup: 攥住(122)/攥紧(66)/攥得(51)/猛然(32)/骤然(33)/喉结上下滚(12)/手指收紧(12)/攥起(3) — 273 replacements, 233 chapters. Fixed 13 charCode artifacts (排得→挤得/攥得, 技起→提起). Total 3,760,117 CJK, 0 below 3000.",
+  "old": "赵大嘴的喉结动了一下了一下。\"我不知道。话自己冒出来的。像是有人在我脑子里放了一段录像。偶尔会放出来。\"",
+  "new": "赵大嘴的喉结动了一下。\"我不知道。话自己冒出来的。像是有人在我脑子里放了一段录像。偶尔会放出来。\"",
+  "frag_old": "喉结动了一下了一下。",
+  "frag_new": "喉结动了一下。",
+  "why": "R23",
+  "dropped": 3,
+  "cjk_before": 3092,
+  "cjk_after": 3089
+ },
+ {
+  "chapter": 87,
+  "path": "chapters/volume-1/chapter-87-polished.md",
+  "src": "4f350d68",
+  "touchers": [
+   "4f350d68"
+  ],
+  "src_subject": " 2026-08-24 R23 voice cleanup: 攥住(122)/攥紧(66)/攥得(51)/猛然(32)/骤然(33)/喉结上下滚(12)/手指收紧(12)/攥起(3) — 273 replacements, 233 chapters. Fixed 13 charCode artifacts (排得→挤得/攥得, 技起→提起). Total 3,760,117 CJK, 0 below 3000.",
+  "old": "赵大嘴的喉结滚了一下了一下。金色眼睛在忽明忽暗。0428螺旋在赵大嘴的背包里脉动，频率比之前更快了。记忆每回来一分，脉动就快一圈。",
+  "new": "赵大嘴的喉结滚了一下。金色眼睛在忽明忽暗。0428螺旋在赵大嘴的背包里脉动，频率比之前更快了。记忆每回来一分，脉动就快一圈。",
+  "frag_old": "喉结滚了一下了一下。",
+  "frag_new": "喉结滚了一下。",
+  "why": "R23",
+  "dropped": 3,
+  "cjk_before": 3002,
+  "cjk_after": 2999
+ },
+ {
+  "chapter": 91,
+  "path": "chapters/volume-1/chapter-91-polished.md",
+  "src": "4f350d68",
+  "touchers": [
+   "4f350d68"
+  ],
+  "src_subject": " 2026-08-24 R23 voice cleanup: 攥住(122)/攥紧(66)/攥得(51)/猛然(32)/骤然(33)/喉结上下滚(12)/手指收紧(12)/攥起(3) — 273 replacements, 233 chapters. Fixed 13 charCode artifacts (排得→挤得/攥得, 技起→提起). Total 3,760,117 CJK, 0 below 3000.",
+  "old": "赵大嘴的喉结滚了滚了一下。金色眼睛在跳动。这个频率比之前的更高。",
+  "new": "赵大嘴的喉结滚了滚。金色眼睛在跳动。这个频率比之前的更高。",
+  "frag_old": "喉结滚了滚了一下。",
+  "frag_new": "喉结滚了滚。",
+  "why": "R23",
+  "dropped": 3,
+  "cjk_before": 4770,
+  "cjk_after": 4767
+ },
+ {
+  "chapter": 12,
+  "path": "chapters/volume-1/chapter-12-polished.md",
+  "src": "598444cb",
+  "touchers": [
+   "598444cb"
+  ],
+  "src_subject": " 2026-08-24 @ Voice round 14: throat-rolling + 目光扫过 + 不自觉地 cleanup (~138 occurrences, 106 chapters) - 喉结上下滚了滚: 9 → 0 - 目光扫过: 63 → 0 - 喉结上下: 28 → 0 (was 34, 6 already consumed by 喉结上下滚了滚) - 喉结动了动: 14 → 0 - 不自觉地: 14 → 0 - 喉咙动了动: 4 → 0 - Longest-pattern-first ordering to prevent substring collisions - All 1000 chapters >= 3000 CJK (3,760,004 total) @",
+  "old": "系统在定期删除他的记忆。每次副本结束后，大约30%的非任务相关记忆会被清除。是系统强制删除的。喉间动了动滑动了一次。",
+  "new": "系统在定期删除他的记忆。每次副本结束后，大约30%的非任务相关记忆会被清除。是系统强制删除的。喉间动了动。",
+  "frag_old": "喉间动了动滑动了一次。",
+  "frag_new": "喉间动了动。",
+  "why": "R14 `喉结上下`→`喉间动了动`，焊尾 `滑动了一次`",
+  "dropped": 5,
+  "cjk_before": 4793,
+  "cjk_after": 4788
+ },
+ {
+  "chapter": 19,
+  "path": "chapters/volume-1/chapter-19-polished.md",
+  "src": "598444cb",
+  "touchers": [
+   "598444cb"
+  ],
+  "src_subject": " 2026-08-24 @ Voice round 14: throat-rolling + 目光扫过 + 不自觉地 cleanup (~138 occurrences, 106 chapters) - 喉结上下滚了滚: 9 → 0 - 目光扫过: 63 → 0 - 喉结上下: 28 → 0 (was 34, 6 already consumed by 喉结上下滚了滚) - 喉结动了动: 14 → 0 - 不自觉地: 14 → 0 - 喉咙动了动: 4 → 0 - Longest-pattern-first ordering to prevent substring collisions - All 1000 chapters >= 3000 CJK (3,760,004 total) @",
+  "old": "他顿了顿。喉头动了动滑动了一次。",
+  "new": "他顿了顿。喉头动了动。",
+  "frag_old": "喉头动了动滑动了一次。",
+  "frag_new": "喉头动了动。",
+  "why": "R14 同上",
+  "dropped": 5,
+  "cjk_before": 3809,
+  "cjk_after": 3804
+ },
+ {
+  "chapter": 46,
+  "path": "chapters/volume-1/chapter-46-polished.md",
+  "src": "598444cb",
+  "touchers": [
+   "598444cb"
+  ],
+  "src_subject": " 2026-08-24 @ Voice round 14: throat-rolling + 目光扫过 + 不自觉地 cleanup (~138 occurrences, 106 chapters) - 喉结上下滚了滚: 9 → 0 - 目光扫过: 63 → 0 - 喉结上下: 28 → 0 (was 34, 6 already consumed by 喉结上下滚了滚) - 喉结动了动: 14 → 0 - 不自觉地: 14 → 0 - 喉咙动了动: 4 → 0 - Longest-pattern-first ordering to prevent substring collisions - All 1000 chapters >= 3000 CJK (3,760,004 total) @",
+  "old": "赵大嘴咽了一下喉咙。喉间动了动动了一下。",
+  "new": "赵大嘴咽了一下喉咙。喉间动了动。",
+  "frag_old": "喉间动了动动了一下。",
+  "frag_new": "喉间动了动。",
+  "why": "R14 焊尾 `动了一下`",
+  "dropped": 4,
+  "cjk_before": 4109,
+  "cjk_after": 4105
+ },
+ {
+  "chapter": 69,
+  "path": "chapters/volume-1/chapter-69-polished.md",
+  "src": "598444cb",
+  "touchers": [
+   "598444cb"
+  ],
+  "src_subject": " 2026-08-24 @ Voice round 14: throat-rolling + 目光扫过 + 不自觉地 cleanup (~138 occurrences, 106 chapters) - 喉结上下滚了滚: 9 → 0 - 目光扫过: 63 → 0 - 喉结上下: 28 → 0 (was 34, 6 already consumed by 喉结上下滚了滚) - 喉结动了动: 14 → 0 - 不自觉地: 14 → 0 - 喉咙动了动: 4 → 0 - Longest-pattern-first ordering to prevent substring collisions - All 1000 chapters >= 3000 CJK (3,760,004 total) @",
+  "old": "\"不知道。\"赵大嘴的声音颤起来了一下。喉间动了动滑动了一次，像吞了一口滚水。\"但是……不要去。那里……不好。我感觉到……有东西在看着你，是……别的东西。\"",
+  "new": "\"不知道。\"赵大嘴的声音颤起来了一下。喉间动了动，像吞了一口滚水。\"但是……不要去。那里……不好。我感觉到……有东西在看着你，是……别的东西。\"",
+  "frag_old": "喉间动了动滑动了一次，",
+  "frag_new": "喉间动了动，",
+  "why": "R14 焊尾 `滑动了一次`",
+  "dropped": 5,
+  "cjk_before": 4679,
+  "cjk_after": 4674
+ },
+ {
+  "chapter": 109,
+  "path": "chapters/volume-2/chapter-109-polished.md",
+  "src": "598444cb",
+  "touchers": [
+   "598444cb"
+  ],
+  "src_subject": " 2026-08-24 @ Voice round 14: throat-rolling + 目光扫过 + 不自觉地 cleanup (~138 occurrences, 106 chapters) - 喉结上下滚了滚: 9 → 0 - 目光扫过: 63 → 0 - 喉结上下: 28 → 0 (was 34, 6 already consumed by 喉结上下滚了滚) - 喉结动了动: 14 → 0 - 不自觉地: 14 → 0 - 喉咙动了动: 4 → 0 - Longest-pattern-first ordering to prevent substring collisions - All 1000 chapters >= 3000 CJK (3,760,004 total) @",
+  "old": "赵大嘴的脑子在转。概率感知的波动在加大。记忆稳定器的铜片开始发烫，边缘亮起一道幽暗的绯红色光芒。叶文轩把它按回赵大嘴的额头上。铜片一接触到皮肤，赵大嘴的身体忽然一颤，喉头动了动滑动了两下，然后安静下来。",
+  "new": "赵大嘴的脑子在转。概率感知的波动在加大。记忆稳定器的铜片开始发烫，边缘亮起一道幽暗的绯红色光芒。叶文轩把它按回赵大嘴的额头上。铜片一接触到皮肤，赵大嘴的身体忽然一颤，喉头动了动，然后安静下来。",
+  "frag_old": "喉头动了动滑动了两下，",
+  "frag_new": "喉头动了动，",
+  "why": "R14 焊尾 `滑动了两下`",
+  "dropped": 5,
+  "cjk_before": 4096,
+  "cjk_after": 4091
+ },
+ {
+  "chapter": 566,
+  "path": "chapters/volume-5/chapter-566-polished.md",
+  "src": "598444cb",
+  "touchers": [
+   "598444cb"
+  ],
+  "src_subject": " 2026-08-24 @ Voice round 14: throat-rolling + 目光扫过 + 不自觉地 cleanup (~138 occurrences, 106 chapters) - 喉结上下滚了滚: 9 → 0 - 目光扫过: 63 → 0 - 喉结上下: 28 → 0 (was 34, 6 already consumed by 喉结上下滚了滚) - 喉结动了动: 14 → 0 - 不自觉地: 14 → 0 - 喉咙动了动: 4 → 0 - Longest-pattern-first ordering to prevent substring collisions - All 1000 chapters >= 3000 CJK (3,760,004 total) @",
+  "old": "赵大嘴的喉头动了动滚了一下。他的眼投去开了，看向隔离空间层的白色地面。然后又移回来，肩膀松了下定了什么决心。",
+  "new": "赵大嘴的喉头动了动。他的眼投去开了，看向隔离空间层的白色地面。然后又移回来，肩膀松了下定了什么决心。",
+  "frag_old": "喉头动了动滚了一下。",
+  "frag_new": "喉头动了动。",
+  "why": "R14 焊尾 `滚了一下`",
+  "dropped": 4,
+  "cjk_before": 4644,
+  "cjk_after": 4640
+ },
+ {
+  "chapter": 574,
+  "path": "chapters/volume-5/chapter-574-polished.md",
+  "src": "598444cb",
+  "touchers": [
+   "598444cb"
+  ],
+  "src_subject": " 2026-08-24 @ Voice round 14: throat-rolling + 目光扫过 + 不自觉地 cleanup (~138 occurrences, 106 chapters) - 喉结上下滚了滚: 9 → 0 - 目光扫过: 63 → 0 - 喉结上下: 28 → 0 (was 34, 6 already consumed by 喉结上下滚了滚) - 喉结动了动: 14 → 0 - 不自觉地: 14 → 0 - 喉咙动了动: 4 → 0 - Longest-pattern-first ordering to prevent substring collisions - All 1000 chapters >= 3000 CJK (3,760,004 total) @",
+  "old": "赵大嘴的喉间动了动滚了一下。你怎么知道我的名字？",
+  "new": "赵大嘴的喉间动了动。你怎么知道我的名字？",
+  "frag_old": "喉间动了动滚了一下。",
+  "frag_new": "喉间动了动。",
+  "why": "R14",
+  "dropped": 4,
+  "cjk_before": 3052,
+  "cjk_after": 3048
+ },
+ {
+  "chapter": 575,
+  "path": "chapters/volume-5/chapter-575-polished.md",
+  "src": "598444cb",
+  "touchers": [
+   "598444cb"
+  ],
+  "src_subject": " 2026-08-24 @ Voice round 14: throat-rolling + 目光扫过 + 不自觉地 cleanup (~138 occurrences, 106 chapters) - 喉结上下滚了滚: 9 → 0 - 目光扫过: 63 → 0 - 喉结上下: 28 → 0 (was 34, 6 already consumed by 喉结上下滚了滚) - 喉结动了动: 14 → 0 - 不自觉地: 14 → 0 - 喉咙动了动: 4 → 0 - Longest-pattern-first ordering to prevent substring collisions - All 1000 chapters >= 3000 CJK (3,760,004 total) @",
+  "old": "赵大嘴的喉头动了动滚了一下0429碎片在他的体内剧烈振动，这一次的振动更明显了0429碎片在回应0428碎片的存在。",
+  "new": "赵大嘴的喉头动了动。0429碎片在他的体内剧烈振动，这一次的振动更明显了0429碎片在回应0428碎片的存在。",
+  "frag_old": "喉头动了动滚了一下0429碎片",
+  "frag_new": "喉头动了动。0429碎片",
+  "why": "R14 焊尾 `滚了一下`，并补回被吃的 `。`",
+  "dropped": 3,
+  "cjk_before": 3153,
+  "cjk_after": 3149
+ },
+ {
+  "chapter": 578,
+  "path": "chapters/volume-5/chapter-578-polished.md",
+  "src": "598444cb",
+  "touchers": [
+   "598444cb"
+  ],
+  "src_subject": " 2026-08-24 @ Voice round 14: throat-rolling + 目光扫过 + 不自觉地 cleanup (~138 occurrences, 106 chapters) - 喉结上下滚了滚: 9 → 0 - 目光扫过: 63 → 0 - 喉结上下: 28 → 0 (was 34, 6 already consumed by 喉结上下滚了滚) - 喉结动了动: 14 → 0 - 不自觉地: 14 → 0 - 喉咙动了动: 4 → 0 - Longest-pattern-first ordering to prevent substring collisions - All 1000 chapters >= 3000 CJK (3,760,004 total) @",
+  "old": "赵大嘴的喉间动了动滚了一下。",
+  "new": "赵大嘴的喉间动了动。",
+  "frag_old": "喉间动了动滚了一下。",
+  "frag_new": "喉间动了动。",
+  "why": "R14",
+  "dropped": 4,
+  "cjk_before": 3034,
+  "cjk_after": 3030
+ },
+ {
+  "chapter": 578,
+  "path": "chapters/volume-5/chapter-578-polished.md",
+  "src": "598444cb",
+  "touchers": [
+   "598444cb"
+  ],
+  "src_subject": " 2026-08-24 @ Voice round 14: throat-rolling + 目光扫过 + 不自觉地 cleanup (~138 occurrences, 106 chapters) - 喉结上下滚了滚: 9 → 0 - 目光扫过: 63 → 0 - 喉结上下: 28 → 0 (was 34, 6 already consumed by 喉结上下滚了滚) - 喉结动了动: 14 → 0 - 不自觉地: 14 → 0 - 喉咙动了动: 4 → 0 - Longest-pattern-first ordering to prevent substring collisions - All 1000 chapters >= 3000 CJK (3,760,004 total) @",
+  "old": "赵大嘴看着粉色光点。他的喉头动了动滚了一下。我妈一直说我爸在外面工作，原来。",
+  "new": "赵大嘴看着粉色光点。他的喉头动了动。我妈一直说我爸在外面工作，原来。",
+  "frag_old": "喉头动了动滚了一下。",
+  "frag_new": "喉头动了动。",
+  "why": "R14",
+  "dropped": 4,
+  "cjk_before": 3034,
+  "cjk_after": 3030
+ },
+ {
+  "chapter": 585,
+  "path": "chapters/volume-5/chapter-585-polished.md",
+  "src": "598444cb",
+  "touchers": [
+   "598444cb"
+  ],
+  "src_subject": " 2026-08-24 @ Voice round 14: throat-rolling + 目光扫过 + 不自觉地 cleanup (~138 occurrences, 106 chapters) - 喉结上下滚了滚: 9 → 0 - 目光扫过: 63 → 0 - 喉结上下: 28 → 0 (was 34, 6 already consumed by 喉结上下滚了滚) - 喉结动了动: 14 → 0 - 不自觉地: 14 → 0 - 喉咙动了动: 4 → 0 - Longest-pattern-first ordering to prevent substring collisions - All 1000 chapters >= 3000 CJK (3,760,004 total) @",
+  "old": "赵大嘴的喉间动了动滚了一下0429碎片在他的体内剧烈发热。闭环的终点是第四扇门的来处。时间闭环把那一扇门拉到了现在。",
+  "new": "赵大嘴的喉间动了动。0429碎片在他的体内剧烈发热。闭环的终点是第四扇门的来处。时间闭环把那一扇门拉到了现在。",
+  "frag_old": "喉间动了动滚了一下0429碎片",
+  "frag_new": "喉间动了动。0429碎片",
+  "why": "R14 焊尾 `滚了一下`，并补回被吃的 `。`",
+  "dropped": 3,
+  "cjk_before": 3418,
+  "cjk_after": 3414
+ },
+ {
+  "chapter": 587,
+  "path": "chapters/volume-5/chapter-587-polished.md",
+  "src": "598444cb",
+  "touchers": [
+   "598444cb"
+  ],
+  "src_subject": " 2026-08-24 @ Voice round 14: throat-rolling + 目光扫过 + 不自觉地 cleanup (~138 occurrences, 106 chapters) - 喉结上下滚了滚: 9 → 0 - 目光扫过: 63 → 0 - 喉结上下: 28 → 0 (was 34, 6 already consumed by 喉结上下滚了滚) - 喉结动了动: 14 → 0 - 不自觉地: 14 → 0 - 喉咙动了动: 4 → 0 - Longest-pattern-first ordering to prevent substring collisions - All 1000 chapters >= 3000 CJK (3,760,004 total) @",
+  "old": "赵大嘴的喉头动了动滚了一下。第47个循环？什么意思？",
+  "new": "赵大嘴的喉头动了动。第47个循环？什么意思？",
+  "frag_old": "喉头动了动滚了一下。",
+  "frag_new": "喉头动了动。",
+  "why": "R14",
+  "dropped": 4,
+  "cjk_before": 8592,
+  "cjk_after": 8588
+ },
+ {
+  "chapter": 28,
+  "path": "chapters/volume-1/chapter-28-polished.md",
+  "src": "dee6d291",
+  "touchers": [
+   "dee6d291"
+  ],
+  "src_subject": " 2026-08-24 R16 voice cleanup: 心脏猛地/猛地一跳/猛地一沉/喉咙动了/面无表情 (73 replacements, 63 chapters changed). All 5 patterns -> 0 remaining. 0 CJK < 3000. Total 3,760,069 CJK.",
+  "old": "叶文轩的喉间动了动一下。",
+  "new": "叶文轩的喉间动了动。",
+  "frag_old": "喉间动了动一下。",
+  "frag_new": "喉间动了动。",
+  "why": "R16 `喉咙动`→`喉间动了动`，焊尾 `一下`",
+  "dropped": 2,
+  "cjk_before": 3050,
+  "cjk_after": 3048
+ },
+ {
+  "chapter": 243,
+  "path": "chapters/volume-2/chapter-243-polished.md",
+  "src": "dee6d291",
+  "touchers": [
+   "dee6d291"
+  ],
+  "src_subject": " 2026-08-24 R16 voice cleanup: 心脏猛地/猛地一跳/猛地一沉/喉咙动了/面无表情 (73 replacements, 63 chapters changed). All 5 patterns -> 0 remaining. 0 CJK < 3000. Total 3,760,069 CJK.",
+  "old": "叶文轩的喉头动了动一下。他站在这面墙前面，手里没有钥匙。钥匙在赵大嘴手里，赵大嘴拿着钥匙，走进了一扇不同的门。这面墙没有锁。没有钥匙孔。裂痕就是门。可裂痕太细了，他钻不过去。",
+  "new": "叶文轩的喉头动了动。他站在这面墙前面，手里没有钥匙。钥匙在赵大嘴手里，赵大嘴拿着钥匙，走进了一扇不同的门。这面墙没有锁。没有钥匙孔。裂痕就是门。可裂痕太细了，他钻不过去。",
+  "frag_old": "喉头动了动一下。",
+  "frag_new": "喉头动了动。",
+  "why": "R16 焊尾 `一下`",
+  "dropped": 2,
+  "cjk_before": 3753,
+  "cjk_after": 3751
+ },
+ {
+  "chapter": 244,
+  "path": "chapters/volume-2/chapter-244-polished.md",
+  "src": "dee6d291",
+  "touchers": [
+   "dee6d291"
+  ],
+  "src_subject": " 2026-08-24 R16 voice cleanup: 心脏猛地/猛地一跳/猛地一沉/喉咙动了/面无表情 (73 replacements, 63 chapters changed). All 5 patterns -> 0 remaining. 0 CJK < 3000. Total 3,760,069 CJK.",
+  "old": "叶文轩的喉间滚了滚一下。他往前走了一步。又一步。每走一步，门缝的光就亮一些。走到离门十步远的地方，他停住了。门缝已经宽到能看见里面的人了。",
+  "new": "叶文轩的喉间滚了滚。他往前走了一步。又一步。每走一步，门缝的光就亮一些。走到离门十步远的地方，他停住了。门缝已经宽到能看见里面的人了。",
+  "frag_old": "喉间滚了滚一下。",
+  "frag_new": "喉间滚了滚。",
+  "why": "R16 焊尾 `一下`",
+  "dropped": 2,
+  "cjk_before": 3525,
+  "cjk_after": 3523
+ },
+ {
+  "chapter": 489,
+  "path": "chapters/volume-4/chapter-489-polished.md",
+  "src": "dee6d291",
+  "touchers": [
+   "dee6d291"
+  ],
+  "src_subject": " 2026-08-24 R16 voice cleanup: 心脏猛地/猛地一跳/猛地一沉/喉咙动了/面无表情 (73 replacements, 63 chapters changed). All 5 patterns -> 0 remaining. 0 CJK < 3000. Total 3,760,069 CJK.",
+  "old": "他的视线从虚空收回来，落在了赵大嘴的脸上。赵大嘴的表情很认真，眉头皱着，嘴巴闭成了一条线。手指在自己的袖口上面蹭了一下，又放回了身侧。这种细微的小动作叶文轩以前从来没有注意过，赵大嘴紧张的时候会蹭袖口。他清楚赵大嘴紧张的时候会有这些小动作，只是以前从来没有认真看过。叶文轩的喉间动了动一下。",
+  "new": "他的视线从虚空收回来，落在了赵大嘴的脸上。赵大嘴的表情很认真，眉头皱着，嘴巴闭成了一条线。手指在自己的袖口上面蹭了一下，又放回了身侧。这种细微的小动作叶文轩以前从来没有注意过，赵大嘴紧张的时候会蹭袖口。他清楚赵大嘴紧张的时候会有这些小动作，只是以前从来没有认真看过。叶文轩的喉间动了动。",
+  "frag_old": "喉间动了动一下。",
+  "frag_new": "喉间动了动。",
+  "why": "R16",
+  "dropped": 2,
+  "cjk_before": 3018,
+  "cjk_after": 3016
+ },
+ {
+  "chapter": 515,
+  "path": "chapters/volume-4/chapter-515-polished.md",
+  "src": "dee6d291",
+  "touchers": [
+   "dee6d291"
+  ],
+  "src_subject": " 2026-08-24 R16 voice cleanup: 心脏猛地/猛地一跳/猛地一沉/喉咙动了/面无表情 (73 replacements, 63 chapters changed). All 5 patterns -> 0 remaining. 0 CJK < 3000. Total 3,760,069 CJK.",
+  "old": "他能看到回廊在他周围慢慢展开，一扇门在虚空深处亮了起来，白色的，门上面有一个很小的编号，被他读出来了：007。他的喉头动了动一下，007那个编号他太熟了。第一次进入疗养院副本的时候，他在走廊里面跑错了方向，推开了一扇虚掩的门，门上面的编号就是这个。门后面的病房里面，一个小女孩坐在病床上面，抱着一个棕色的泰迪熊，左耳破了一个洞，露出里面的白色填充物。",
+  "new": "他能看到回廊在他周围慢慢展开，一扇门在虚空深处亮了起来，白色的，门上面有一个很小的编号，被他读出来了：007。他的喉头动了动，007那个编号他太熟了。第一次进入疗养院副本的时候，他在走廊里面跑错了方向，推开了一扇虚掩的门，门上面的编号就是这个。门后面的病房里面，一个小女孩坐在病床上面，抱着一个棕色的泰迪熊，左耳破了一个洞，露出里面的白色填充物。",
+  "frag_old": "喉头动了动一下，",
+  "frag_new": "喉头动了动，",
+  "why": "R16",
+  "dropped": 2,
+  "cjk_before": 3272,
+  "cjk_after": 3270
+ },
+ {
+  "chapter": 546,
+  "path": "chapters/volume-4/chapter-546-polished.md",
+  "src": "dee6d291",
+  "touchers": [
+   "dee6d291"
+  ],
+  "src_subject": " 2026-08-24 R16 voice cleanup: 心脏猛地/猛地一跳/猛地一沉/喉咙动了/面无表情 (73 replacements, 63 chapters changed). All 5 patterns -> 0 remaining. 0 CJK < 3000. Total 3,760,069 CJK.",
+  "old": "叶文轩的喉间滚了滚一下。「你为什么要帮我？」",
+  "new": "叶文轩的喉间滚了滚。「你为什么要帮我？」",
+  "frag_old": "喉间滚了滚一下。",
+  "frag_new": "喉间滚了滚。",
+  "why": "R16",
+  "dropped": 2,
+  "cjk_before": 4306,
+  "cjk_after": 4304
+ },
+ {
+  "chapter": 885,
+  "path": "chapters/volume-6/chapter-885-polished.md",
+  "src": "dee6d291",
+  "touchers": [
+   "dee6d291"
+  ],
+  "src_subject": " 2026-08-24 R16 voice cleanup: 心脏猛地/猛地一跳/猛地一沉/喉咙动了/面无表情 (73 replacements, 63 chapters changed). All 5 patterns -> 0 remaining. 0 CJK < 3000. Total 3,760,069 CJK.",
+  "old": "赵大嘴的喉间动了动一下。\"带我看看他的房间。\"赵大嘴说。",
+  "new": "赵大嘴的喉间动了动。\"带我看看他的房间。\"赵大嘴说。",
+  "frag_old": "喉间动了动一下。",
+  "frag_new": "喉间动了动。",
+  "why": "R16",
+  "dropped": 2,
+  "cjk_before": 3386,
+  "cjk_after": 3384
+ },
+ {
+  "chapter": 188,
+  "path": "chapters/volume-2/chapter-188-polished.md",
+  "src": "6877d261",
+  "touchers": [
+   "6877d261"
+  ],
+  "src_subject": " 2026-08-24 R17 voice cleanup: 113 replacements across 96 chapters, 9 AI-trope patterns removed (指节发白/指节泛白/胸口闷/嘴角微微/嘴角轻轻/眼前浮现/指甲掐/掌心渗出/声音有些颤抖). Total 3,760,139 CJK, 0 below 3000.",
+  "old": "赵大嘴站在黑板前面，看着那幅画。嘴角一抽动了动。像在笑。\"这是我画的。\"他说，\"我画的你和你女儿。在电话亭的雨里。\"",
+  "new": "赵大嘴站在黑板前面，看着那幅画。嘴角一抽。像在笑。\"这是我画的。\"他说，\"我画的你和你女儿。在电话亭的雨里。\"",
+  "frag_old": "嘴角一抽动了动。",
+  "frag_new": "嘴角一抽。",
+  "why": "R17 `嘴角轻轻`→`嘴角一抽`，焊尾 `动了动`",
+  "dropped": 3,
+  "cjk_before": 3015,
+  "cjk_after": 3012
+ },
+ {
+  "chapter": 267,
+  "path": "chapters/volume-3/chapter-267-polished.md",
+  "src": "6877d261",
+  "touchers": [
+   "6877d261"
+  ],
+  "src_subject": " 2026-08-24 R17 voice cleanup: 113 replacements across 96 chapters, 9 AI-trope patterns removed (指节发白/指节泛白/胸口闷/嘴角微微/嘴角轻轻/眼前浮现/指甲掐/掌心渗出/声音有些颤抖). Total 3,760,139 CJK, 0 below 3000.",
+  "old": "记录者抬头看他。他的嘴角一抽抽动。是一种很奇怪的表情。",
+  "new": "记录者抬头看他。他的嘴角一抽。是一种很奇怪的表情。",
+  "frag_old": "嘴角一抽抽动。",
+  "frag_new": "嘴角一抽。",
+  "why": "R17 `嘴角微微`→`嘴角一抽`，焊尾 `抽动`",
+  "dropped": 2,
+  "cjk_before": 6174,
+  "cjk_after": 6172
+ },
+ {
+  "chapter": 414,
+  "path": "chapters/volume-4/chapter-414-polished.md",
+  "src": "6877d261",
+  "touchers": [
+   "6877d261"
+  ],
+  "src_subject": " 2026-08-24 R17 voice cleanup: 113 replacements across 96 chapters, 9 AI-trope patterns removed (指节发白/指节泛白/胸口闷/嘴角微微/嘴角轻轻/眼前浮现/指甲掐/掌心渗出/声音有些颤抖). Total 3,760,139 CJK, 0 below 3000.",
+  "old": "赵磊的脑子在转。闭环需要过去的自己不知道它是闭环。未来的自己记得一切，但不能告诉过去的自己。不能让过去的自己知道。这就一个莫比乌斯环。未来的自己在等过去的自己。过去的自己在走向未来。两个自己在同一条时间线上，在同一个循环里面。\"那未来的他在等着什么。\"赵磊的声音细到几乎无声。\"等着现在的我。\"叶文轩说话，音量低得几乎消失。嘴角动了动动了动，笑容带着一点湿意，\"等着现在的我完成桥梁系统。",
+  "new": "赵磊的脑子在转。闭环需要过去的自己不知道它是闭环。未来的自己记得一切，但不能告诉过去的自己。不能让过去的自己知道。这就一个莫比乌斯环。未来的自己在等过去的自己。过去的自己在走向未来。两个自己在同一条时间线上，在同一个循环里面。\"那未来的他在等着什么。\"赵磊的声音细到几乎无声。\"等着现在的我。\"叶文轩说话，音量低得几乎消失。嘴角动了动，笑容带着一点湿意，\"等着现在的我完成桥梁系统。",
+  "frag_old": "嘴角动了动动了动，",
+  "frag_new": "嘴角动了动，",
+  "why": "R17 `嘴角轻轻`→`嘴角动了动`，焊尾 `动了动`",
+  "dropped": 3,
+  "cjk_before": 6133,
+  "cjk_after": 6130
+ },
+ {
+  "chapter": 414,
+  "path": "chapters/volume-4/chapter-414-polished.md",
+  "src": "6877d261",
+  "touchers": [
+   "6877d261"
+  ],
+  "src_subject": " 2026-08-24 R17 voice cleanup: 113 replacements across 96 chapters, 9 AI-trope patterns removed (指节发白/指节泛白/胸口闷/嘴角微微/嘴角轻轻/眼前浮现/指甲掐/掌心渗出/声音有些颤抖). Total 3,760,139 CJK, 0 below 3000.",
+  "old": "她记得你。\"赵磊说。\"嗯。\"叶文轩点头，嘴角动了动抽动，眼泪闪了一下，\"她记得我，她在等着我\"",
+  "new": "她记得你。\"赵磊说。\"嗯。\"叶文轩点头，嘴角动了动，眼泪闪了一下，\"她记得我，她在等着我\"",
+  "frag_old": "嘴角动了动抽动，",
+  "frag_new": "嘴角动了动，",
+  "why": "R17 `嘴角微微`→`嘴角动了动`，焊尾 `抽动`",
+  "dropped": 2,
+  "cjk_before": 6133,
+  "cjk_after": 6131
+ },
+ {
+  "chapter": 534,
+  "path": "chapters/volume-4/chapter-534-polished.md",
+  "src": "6877d261",
+  "touchers": [
+   "6877d261"
+  ],
+  "src_subject": " 2026-08-24 R17 voice cleanup: 113 replacements across 96 chapters, 9 AI-trope patterns removed (指节发白/指节泛白/胸口闷/嘴角微微/嘴角轻轻/眼前浮现/指甲掐/掌心渗出/声音有些颤抖). Total 3,760,139 CJK, 0 below 3000.",
+  "old": "叶文轩的嘴角抽动动了动。「理解了。」他低声说。赵大嘴看着他0427碎片在赵大嘴的掌心里安静地振动，0428碎片在远处安静地发光，三碎片同一个频率「我们等你很久了」。叶文轩抬起了头，海的对面白光越来越近。他能看到白光的中心有一个身影，是一个模糊的轮廓。轮廓在向他挥手。然后他听到了那个声音。",
+  "new": "叶文轩的嘴角抽动。「理解了。」他低声说。赵大嘴看着他0427碎片在赵大嘴的掌心里安静地振动，0428碎片在远处安静地发光，三碎片同一个频率「我们等你很久了」。叶文轩抬起了头，海的对面白光越来越近。他能看到白光的中心有一个身影，是一个模糊的轮廓。轮廓在向他挥手。然后他听到了那个声音。",
+  "frag_old": "嘴角抽动动了动。",
+  "frag_new": "嘴角抽动。",
+  "why": "R17 `嘴角轻轻`→`嘴角抽动`，焊尾 `动了动`",
+  "dropped": 3,
+  "cjk_before": 6666,
+  "cjk_after": 6663
+ },
+ {
+  "chapter": 640,
+  "path": "chapters/volume-5/chapter-640-polished.md",
+  "src": "6877d261",
+  "touchers": [
+   "6877d261"
+  ],
+  "src_subject": " 2026-08-24 R17 voice cleanup: 113 replacements across 96 chapters, 9 AI-trope patterns removed (指节发白/指节泛白/胸口闷/嘴角微微/嘴角轻轻/眼前浮现/指甲掐/掌心渗出/声音有些颤抖). Total 3,760,139 CJK, 0 below 3000.",
+  "old": "赵大嘴在睡梦中嘴角抽动抽动，很轻的弧度在笑。",
+  "new": "赵大嘴在睡梦中嘴角抽动，很轻的弧度在笑。",
+  "frag_old": "嘴角抽动抽动，",
+  "frag_new": "嘴角抽动，",
+  "why": "R17 `嘴角微微`→`嘴角抽动`，焊尾 `抽动`",
+  "dropped": 2,
+  "cjk_before": 3025,
+  "cjk_after": 3023
+ },
+ {
+  "chapter": 830,
+  "path": "chapters/volume-6/chapter-830-polished.md",
+  "src": "6877d261",
+  "touchers": [
+   "6877d261"
+  ],
+  "src_subject": " 2026-08-24 R17 voice cleanup: 113 replacements across 96 chapters, 9 AI-trope patterns removed (指节发白/指节泛白/胸口闷/嘴角微微/嘴角轻轻/眼前浮现/指甲掐/掌心渗出/声音有些颤抖). Total 3,760,139 CJK, 0 below 3000.",
+  "old": "叶文轩的嘴角一抽动了动。他没有笑。但他的眼睛在笑。\"你从来不是拖油瓶。\"",
+  "new": "叶文轩的嘴角一抽。他没有笑。但他的眼睛在笑。\"你从来不是拖油瓶。\"",
+  "frag_old": "嘴角一抽动了动。",
+  "frag_new": "嘴角一抽。",
+  "why": "R17",
+  "dropped": 3,
+  "cjk_before": 4977,
+  "cjk_after": 4974
+ },
+ {
+  "chapter": 831,
+  "path": "chapters/volume-6/chapter-831-polished.md",
+  "src": "6877d261",
+  "touchers": [
+   "6877d261"
+  ],
+  "src_subject": " 2026-08-24 R17 voice cleanup: 113 replacements across 96 chapters, 9 AI-trope patterns removed (指节发白/指节泛白/胸口闷/嘴角微微/嘴角轻轻/眼前浮现/指甲掐/掌心渗出/声音有些颤抖). Total 3,760,139 CJK, 0 below 3000.",
+  "old": "叶文轩的嘴角一抽抽动。0429在夸赵大嘴。",
+  "new": "叶文轩的嘴角一抽。0429在夸赵大嘴。",
+  "frag_old": "嘴角一抽抽动。",
+  "frag_new": "嘴角一抽。",
+  "why": "R17",
+  "dropped": 2,
+  "cjk_before": 3792,
+  "cjk_after": 3790
+ }
+]
