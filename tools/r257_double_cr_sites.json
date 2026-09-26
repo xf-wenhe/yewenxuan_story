@@ -1,0 +1,102 @@
+[
+ {
+  "chapter": 552,
+  "path": "chapters/volume-5/chapter-552-polished.md",
+  "crcr": 138,
+  "lone": 9,
+  "bytes_before": 10932,
+  "bytes_after": 10785,
+  "lines": 147,
+  "cjk": 3036
+ },
+ {
+  "chapter": 563,
+  "path": "chapters/volume-5/chapter-563-polished.md",
+  "crcr": 216,
+  "lone": 1,
+  "bytes_before": 10950,
+  "bytes_after": 10733,
+  "lines": 218,
+  "cjk": 3004
+ },
+ {
+  "chapter": 617,
+  "path": "chapters/volume-5/chapter-617-polished.md",
+  "crcr": 228,
+  "lone": 8,
+  "bytes_before": 11996,
+  "bytes_after": 11760,
+  "lines": 236,
+  "cjk": 3273
+ },
+ {
+  "chapter": 618,
+  "path": "chapters/volume-5/chapter-618-polished.md",
+  "crcr": 290,
+  "lone": 1,
+  "bytes_before": 11361,
+  "bytes_after": 11070,
+  "lines": 291,
+  "cjk": 3069
+ },
+ {
+  "chapter": 661,
+  "path": "chapters/volume-5/chapter-661-polished.md",
+  "crcr": 343,
+  "lone": 0,
+  "bytes_before": 11734,
+  "bytes_after": 11391,
+  "lines": 343,
+  "cjk": 3010
+ },
+ {
+  "chapter": 670,
+  "path": "chapters/volume-5/chapter-670-polished.md",
+  "crcr": 232,
+  "lone": 0,
+  "bytes_before": 11600,
+  "bytes_after": 11368,
+  "lines": 232,
+  "cjk": 3018
+ },
+ {
+  "chapter": 672,
+  "path": "chapters/volume-5/chapter-672-polished.md",
+  "crcr": 254,
+  "lone": 0,
+  "bytes_before": 11316,
+  "bytes_after": 11062,
+  "lines": 255,
+  "cjk": 3005
+ },
+ {
+  "chapter": 679,
+  "path": "chapters/volume-5/chapter-679-polished.md",
+  "crcr": 205,
+  "lone": 2,
+  "bytes_before": 11699,
+  "bytes_after": 11492,
+  "lines": 207,
+  "cjk": 3036
+ },
+ {
+  "chapter": 695,
+  "path": "chapters/volume-5/chapter-695-polished.md",
+  "crcr": 186,
+  "lone": 0,
+  "bytes_before": 11244,
+  "bytes_after": 11058,
+  "lines": 186,
+  "cjk": 3022
+ },
+ {
+  "chapter": 697,
+  "path": "chapters/volume-5/chapter-697-polished.md",
+  "crcr": 211,
+  "lone": 0,
+  "bytes_before": 11512,
+  "bytes_after": 11301,
+  "lines": 211,
+  "cjk": 3013
+ }
+]
