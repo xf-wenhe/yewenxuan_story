@@ -1,0 +1,32 @@
+[
+ {
+  "chapter": 63,
+  "path": "chapters/volume-1/chapter-63-polished.md",
+  "line": 45,
+  "col": 10,
+  "char": "\"",
+  "parent": "\"精神力剩多少？\"\"六十八。\"",
+  "now": "\"精神力剩多少？\"六十八。\"",
+  "src": "ea0ffdbc"
+ },
+ {
+  "chapter": 68,
+  "path": "chapters/volume-1/chapter-68-polished.md",
+  "line": 49,
+  "col": 17,
+  "char": "\"",
+  "parent": "赵大嘴楞了一下。\"……不救她？\"\"救不了。\"叶文轩的声音。\"不是现在。\"",
+  "now": "赵大嘴楞了一下。\"……不救她？\"救不了。\"叶文轩的声音。\"不是现在。\"",
+  "src": "ea0ffdbc"
+ },
+ {
+  "chapter": 68,
+  "path": "chapters/volume-1/chapter-68-polished.md",
+  "line": 50,
+  "col": 9,
+  "char": "\"",
+  "parent": "\"那什么时候？\"\"等我收集齐碎片。\"叶文轩的声音。\"等我激活时间结构，打破闭环，回到裂隙的深处，然后我会找到她。\"",
+  "now": "\"那什么时候？\"等我收集齐碎片。\"叶文轩的声音。\"等我激活时间结构，打破闭环，回到裂隙的深处，然后我会找到她。\"",
+  "src": "ea0ffdbc"
+ }
+]
