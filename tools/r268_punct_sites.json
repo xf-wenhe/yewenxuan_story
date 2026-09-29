@@ -1,0 +1,992 @@
+[
+ {
+  "family": "C",
+  "ch": 147,
+  "path": "chapters/volume-2/chapter-147-polished.md",
+  "line": 147,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 151,
+  "path": "chapters/volume-2/chapter-151-polished.md",
+  "line": 106,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 175,
+  "path": "chapters/volume-2/chapter-175-polished.md",
+  "line": 195,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 177,
+  "path": "chapters/volume-2/chapter-177-polished.md",
+  "line": 220,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 182,
+  "path": "chapters/volume-2/chapter-182-polished.md",
+  "line": 107,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 192,
+  "path": "chapters/volume-2/chapter-192-polished.md",
+  "line": 135,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 192,
+  "path": "chapters/volume-2/chapter-192-polished.md",
+  "line": 159,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 193,
+  "path": "chapters/volume-2/chapter-193-polished.md",
+  "line": 96,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 193,
+  "path": "chapters/volume-2/chapter-193-polished.md",
+  "line": 118,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 194,
+  "path": "chapters/volume-2/chapter-194-polished.md",
+  "line": 84,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 198,
+  "path": "chapters/volume-2/chapter-198-polished.md",
+  "line": 105,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 199,
+  "path": "chapters/volume-2/chapter-199-polished.md",
+  "line": 144,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 199,
+  "path": "chapters/volume-2/chapter-199-polished.md",
+  "line": 182,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 204,
+  "path": "chapters/volume-2/chapter-204-polished.md",
+  "line": 113,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 204,
+  "path": "chapters/volume-2/chapter-204-polished.md",
+  "line": 133,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 206,
+  "path": "chapters/volume-2/chapter-206-polished.md",
+  "line": 53,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 206,
+  "path": "chapters/volume-2/chapter-206-polished.md",
+  "line": 73,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 207,
+  "path": "chapters/volume-2/chapter-207-polished.md",
+  "line": 57,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 207,
+  "path": "chapters/volume-2/chapter-207-polished.md",
+  "line": 81,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 207,
+  "path": "chapters/volume-2/chapter-207-polished.md",
+  "line": 101,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 208,
+  "path": "chapters/volume-2/chapter-208-polished.md",
+  "line": 54,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 208,
+  "path": "chapters/volume-2/chapter-208-polished.md",
+  "line": 92,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 209,
+  "path": "chapters/volume-2/chapter-209-polished.md",
+  "line": 75,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 209,
+  "path": "chapters/volume-2/chapter-209-polished.md",
+  "line": 99,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 210,
+  "path": "chapters/volume-2/chapter-210-polished.md",
+  "line": 109,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 213,
+  "path": "chapters/volume-2/chapter-213-polished.md",
+  "line": 93,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 318,
+  "path": "chapters/volume-3/chapter-318-polished.md",
+  "line": 164,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 341,
+  "path": "chapters/volume-3/chapter-341-polished.md",
+  "line": 183,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 563,
+  "path": "chapters/volume-5/chapter-563-polished.md",
+  "line": 139,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 573,
+  "path": "chapters/volume-5/chapter-573-polished.md",
+  "line": 191,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 574,
+  "path": "chapters/volume-5/chapter-574-polished.md",
+  "line": 185,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 575,
+  "path": "chapters/volume-5/chapter-575-polished.md",
+  "line": 163,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 577,
+  "path": "chapters/volume-5/chapter-577-polished.md",
+  "line": 169,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 578,
+  "path": "chapters/volume-5/chapter-578-polished.md",
+  "line": 159,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 580,
+  "path": "chapters/volume-5/chapter-580-polished.md",
+  "line": 172,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 585,
+  "path": "chapters/volume-5/chapter-585-polished.md",
+  "line": 172,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 586,
+  "path": "chapters/volume-5/chapter-586-polished.md",
+  "line": 159,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 590,
+  "path": "chapters/volume-5/chapter-590-polished.md",
+  "line": 173,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 596,
+  "path": "chapters/volume-5/chapter-596-polished.md",
+  "line": 162,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 598,
+  "path": "chapters/volume-5/chapter-598-polished.md",
+  "line": 215,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 600,
+  "path": "chapters/volume-5/chapter-600-polished.md",
+  "line": 169,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 603,
+  "path": "chapters/volume-5/chapter-603-polished.md",
+  "line": 215,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 606,
+  "path": "chapters/volume-5/chapter-606-polished.md",
+  "line": 147,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 612,
+  "path": "chapters/volume-5/chapter-612-polished.md",
+  "line": 200,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 618,
+  "path": "chapters/volume-5/chapter-618-polished.md",
+  "line": 94,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 640,
+  "path": "chapters/volume-5/chapter-640-polished.md",
+  "line": 172,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 644,
+  "path": "chapters/volume-5/chapter-644-polished.md",
+  "line": 237,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 650,
+  "path": "chapters/volume-5/chapter-650-polished.md",
+  "line": 300,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 651,
+  "path": "chapters/volume-5/chapter-651-polished.md",
+  "line": 223,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 652,
+  "path": "chapters/volume-5/chapter-652-polished.md",
+  "line": 232,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 653,
+  "path": "chapters/volume-5/chapter-653-polished.md",
+  "line": 212,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 661,
+  "path": "chapters/volume-5/chapter-661-polished.md",
+  "line": 234,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 662,
+  "path": "chapters/volume-5/chapter-662-polished.md",
+  "line": 238,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 663,
+  "path": "chapters/volume-5/chapter-663-polished.md",
+  "line": 233,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 667,
+  "path": "chapters/volume-5/chapter-667-polished.md",
+  "line": 173,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 670,
+  "path": "chapters/volume-5/chapter-670-polished.md",
+  "line": 121,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 671,
+  "path": "chapters/volume-5/chapter-671-polished.md",
+  "line": 139,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 672,
+  "path": "chapters/volume-5/chapter-672-polished.md",
+  "line": 124,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 673,
+  "path": "chapters/volume-5/chapter-673-polished.md",
+  "line": 221,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 674,
+  "path": "chapters/volume-5/chapter-674-polished.md",
+  "line": 124,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 675,
+  "path": "chapters/volume-5/chapter-675-polished.md",
+  "line": 135,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 676,
+  "path": "chapters/volume-5/chapter-676-polished.md",
+  "line": 106,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 677,
+  "path": "chapters/volume-5/chapter-677-polished.md",
+  "line": 127,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 678,
+  "path": "chapters/volume-5/chapter-678-polished.md",
+  "line": 123,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 683,
+  "path": "chapters/volume-5/chapter-683-polished.md",
+  "line": 105,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 686,
+  "path": "chapters/volume-5/chapter-686-polished.md",
+  "line": 117,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 688,
+  "path": "chapters/volume-5/chapter-688-polished.md",
+  "line": 107,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 690,
+  "path": "chapters/volume-5/chapter-690-polished.md",
+  "line": 131,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 694,
+  "path": "chapters/volume-5/chapter-694-polished.md",
+  "line": 77,
+  "old": "他听见自己的心跳，比平时慢了一些。这件事的来龙去脉，理清头绪还得花时间。这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "他听见自己的心跳，比平时慢了一些。这件事的来龙去脉，理清头绪还得花时间。这句话沉进了他心里，再也抹不掉。",
+  "at": 52,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 695,
+  "path": "chapters/volume-5/chapter-695-polished.md",
+  "line": 81,
+  "old": "这件事的来龙去脉，把这事弄明白还要花时间。黑暗中的影子在蠕动。这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这件事的来龙去脉，把这事弄明白还要花时间。黑暗中的影子在蠕动。这句话沉进了他心里，再也没浮上来。",
+  "at": 48,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 696,
+  "path": "chapters/volume-5/chapter-696-polished.md",
+  "line": 82,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 697,
+  "path": "chapters/volume-5/chapter-697-polished.md",
+  "line": 94,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 698,
+  "path": "chapters/volume-5/chapter-698-polished.md",
+  "line": 92,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 699,
+  "path": "chapters/volume-5/chapter-699-polished.md",
+  "line": 86,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 700,
+  "path": "chapters/volume-5/chapter-700-polished.md",
+  "line": 102,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 701,
+  "path": "chapters/volume-5/chapter-701-polished.md",
+  "line": 86,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 702,
+  "path": "chapters/volume-5/chapter-702-polished.md",
+  "line": 68,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 703,
+  "path": "chapters/volume-5/chapter-703-polished.md",
+  "line": 56,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 704,
+  "path": "chapters/volume-5/chapter-704-polished.md",
+  "line": 60,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 705,
+  "path": "chapters/volume-5/chapter-705-polished.md",
+  "line": 52,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 706,
+  "path": "chapters/volume-5/chapter-706-polished.md",
+  "line": 99,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 724,
+  "path": "chapters/volume-5/chapter-724-polished.md",
+  "line": 133,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 732,
+  "path": "chapters/volume-5/chapter-732-polished.md",
+  "line": 119,
+  "old": "这件事的来龙去脉，弄懂还需要时间。黑暗中的影子在蠕动。这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这件事的来龙去脉，弄懂还需要时间。黑暗中的影子在蠕动。这句话沉进了他心里，沉到了底。",
+  "at": 42,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 734,
+  "path": "chapters/volume-5/chapter-734-polished.md",
+  "line": 165,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 906,
+  "path": "chapters/volume-6/chapter-906-polished.md",
+  "line": 164,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 906,
+  "path": "chapters/volume-6/chapter-906-polished.md",
+  "line": 188,
+  "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+  "new": "这句话沉进了他心里，沉得极深。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 906,
+  "path": "chapters/volume-6/chapter-906-polished.md",
+  "line": 212,
+  "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+  "new": "这句话沉进了他心里，沉到了底。",
+  "at": 15,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 907,
+  "path": "chapters/volume-6/chapter-907-polished.md",
+  "line": 187,
+  "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+  "new": "这句话沉进了他心里，再也抹不掉。",
+  "at": 16,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "C",
+  "ch": 907,
+  "path": "chapters/volume-6/chapter-907-polished.md",
+  "line": 211,
+  "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+  "new": "这句话沉进了他心里，再也没浮上来。",
+  "at": 17,
+  "remove": "的那个角落。"
+ },
+ {
+  "family": "D",
+  "ch": 172,
+  "path": "chapters/volume-2/chapter-172-polished.md",
+  "line": 5,
+  "old": "叶文轩把眼睛睁开。的时候，天是暗的。是有层次的暗。头顶有星光，可星光很稀疏，像有人在天幕上扎了几个洞，光从洞里漏下来，洒在碎石地面上。脚下的地面在动。是碎石自己在重新排列。一块一块的灰色石头，像被一只看不见的手拨弄着，挪了位置，又停住，像在找什么。",
+  "new": "叶文轩把眼睛睁开的时候，天是暗的。是有层次的暗。头顶有星光，可星光很稀疏，像有人在天幕上扎了几个洞，光从洞里漏下来，洒在碎石地面上。脚下的地面在动。是碎石自己在重新排列。一块一块的灰色石头，像被一只看不见的手拨弄着，挪了位置，又停住，像在找什么。",
+  "at": 8,
+  "remove": "。"
+ },
+ {
+  "family": "D",
+  "ch": 250,
+  "path": "chapters/volume-2/chapter-250-polished.md",
+  "line": 3,
+  "old": "叶文轩重新睁开眼。的时候，天是灰的。",
+  "new": "叶文轩重新睁开眼的时候，天是灰的。",
+  "at": 8,
+  "remove": "。"
+ },
+ {
+  "family": "D",
+  "ch": 384,
+  "path": "chapters/volume-3/chapter-384-polished.md",
+  "line": 63,
+  "old": "叶文轩拼命思索着。：system_core.py里面的注释，42碎片里面的声音，赵磊的0429碎片的异常，陈小鱼的0428碎片的召唤。一切都是父亲设计好的，一切都是父亲留的路。",
+  "new": "叶文轩拼命思索着：system_core.py里面的注释，42碎片里面的声音，赵磊的0429碎片的异常，陈小鱼的0428碎片的召唤。一切都是父亲设计好的，一切都是父亲留的路。",
+  "at": 8,
+  "remove": "。"
+ },
+ {
+  "family": "D",
+  "ch": 477,
+  "path": "chapters/volume-4/chapter-477-polished.md",
+  "line": 35,
+  "old": "他往后退了一步。身后的门合拢，那些光的颗粒越来越稀疏，最终归于黑暗。叶文轩把眼睛睁开。的时候，首先看到的是赵大嘴的脸，那个笑容很真诚，眼睛弯成两道缝，跟他记忆中一模一样。「你出来了。」赵大嘴说，「看到什么了？」",
+  "new": "他往后退了一步。身后的门合拢，那些光的颗粒越来越稀疏，最终归于黑暗。叶文轩把眼睛睁开的时候，首先看到的是赵大嘴的脸，那个笑容很真诚，眼睛弯成两道缝，跟他记忆中一模一样。「你出来了。」赵大嘴说，「看到什么了？」",
+  "at": 42,
+  "remove": "。"
+ },
+ {
+  "family": "D",
+  "ch": 511,
+  "path": "chapters/volume-4/chapter-511-polished.md",
+  "line": 33,
+  "old": "周围的疗养院在淡出，墙壁的颜色在变，灯管的光在变。消毒水味变淡了，取而代之的是一种更潮湿的、带着泥土气息的味道。地面从瓷砖变成了泥土，踩上去软软的，感觉到草根的触感。叶文轩睁开了双眼。的时候，发现自己站在了一片空地上面。天是暗蓝色的，没有月亮，也没有星星，远处有一些模糊的树的轮廓。空气里面有一股潮湿的泥土味，还有一种很淡的、烧纸的味道。",
+  "new": "周围的疗养院在淡出，墙壁的颜色在变，灯管的光在变。消毒水味变淡了，取而代之的是一种更潮湿的、带着泥土气息的味道。地面从瓷砖变成了泥土，踩上去软软的，感觉到草根的触感。叶文轩睁开了双眼的时候，发现自己站在了一片空地上面。天是暗蓝色的，没有月亮，也没有星星，远处有一些模糊的树的轮廓。空气里面有一股潮湿的泥土味，还有一种很淡的、烧纸的味道。",
+  "at": 91,
+  "remove": "。"
+ },
+ {
+  "family": "D",
+  "ch": 559,
+  "path": "chapters/volume-5/chapter-559-polished.md",
+  "line": 103,
+  "old": "叶文轩的指尖还残留着0415碎片的温度。触摸一块冬天的铁。的感觉从指尖传到手腕，传到手臂，然后慢慢消散。",
+  "new": "叶文轩的指尖还残留着0415碎片的温度。触摸一块冬天的铁的感觉从指尖传到手腕，传到手臂，然后慢慢消散。",
+  "at": 28,
+  "remove": "。"
+ },
+ {
+  "family": "D",
+  "ch": 643,
+  "path": "chapters/volume-5/chapter-643-polished.md",
+  "line": 55,
+  "old": "的0429等了三年，三年中，0429一直在翻译，0429一直在保护，0429一直在陪伴。",
+  "new": "0429等了三年，三年中，0429一直在翻译，0429一直在保护，0429一直在陪伴。",
+  "at": 0,
+  "remove": "的"
+ },
+ {
+  "family": "D",
+  "ch": 643,
+  "path": "chapters/volume-5/chapter-643-polished.md",
+  "line": 67,
+  "old": "的0429一直在看锚点B。",
+  "new": "0429一直在看锚点B。",
+  "at": 0,
+  "remove": "的"
+ },
+ {
+  "family": "D",
+  "ch": 984,
+  "path": "chapters/volume-7/chapter-984-polished.md",
+  "line": 324,
+  "old": "叶文轩盯着那三个字看了一会儿，回复：等什么？，消息没有回音。他又问：等谁？",
+  "new": "叶文轩盯着那三个字看了一会儿，回复：等什么？消息没有回音。他又问：等谁？",
+  "at": 22,
+  "remove": "，"
+ },
+ {
+  "family": "D",
+  "ch": 985,
+  "path": "chapters/volume-7/chapter-985-polished.md",
+  "line": 61,
+  "old": "周经理秒回：你用了什么方法？，叶文轩停下，手指在屏幕上停了两秒。他回复：经验。",
+  "new": "周经理秒回：你用了什么方法？叶文轩停下，手指在屏幕上停了两秒。他回复：经验。",
+  "at": 14,
+  "remove": "，"
+ }
+]
