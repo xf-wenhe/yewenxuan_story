@@ -1,0 +1,142 @@
+[
+ {
+  "chapter": 675,
+  "kind": "delete",
+  "path": "chapters/volume-5/chapter-675-polished.md",
+  "lines": [
+   [
+    54,
+    "'''"
+   ],
+   [
+    56,
+    "marker = '"
+   ]
+  ]
+ },
+ {
+  "chapter": 677,
+  "kind": "delete",
+  "path": "chapters/volume-5/chapter-677-polished.md",
+  "lines": [
+   [
+    36,
+    "'''"
+   ],
+   [
+    38,
+    "marker = '"
+   ]
+  ]
+ },
+ {
+  "chapter": 678,
+  "kind": "delete",
+  "path": "chapters/volume-5/chapter-678-polished.md",
+  "lines": [
+   [
+    48,
+    "'''"
+   ],
+   [
+    50,
+    "marker = '"
+   ]
+  ]
+ },
+ {
+  "chapter": 679,
+  "kind": "delete",
+  "path": "chapters/volume-5/chapter-679-polished.md",
+  "lines": [
+   [
+    34,
+    "'''"
+   ],
+   [
+    36,
+    "marker = '"
+   ],
+   [
+    37,
+    ""
+   ]
+  ]
+ },
+ {
+  "chapter": 682,
+  "kind": "delete",
+  "path": "chapters/volume-5/chapter-682-polished.md",
+  "lines": [
+   [
+    62,
+    "'''"
+   ],
+   [
+    64,
+    "marker = '"
+   ]
+  ]
+ },
+ {
+  "chapter": 683,
+  "kind": "delete",
+  "path": "chapters/volume-5/chapter-683-polished.md",
+  "lines": [
+   [
+    102,
+    "'''"
+   ],
+   [
+    104,
+    "marker = '"
+   ]
+  ]
+ },
+ {
+  "chapter": 686,
+  "kind": "delete",
+  "path": "chapters/volume-5/chapter-686-polished.md",
+  "lines": [
+   [
+    96,
+    "'''"
+   ],
+   [
+    98,
+    "marker = '"
+   ],
+   [
+    99,
+    ""
+   ]
+  ]
+ },
+ {
+  "chapter": 688,
+  "kind": "delete",
+  "path": "chapters/volume-5/chapter-688-polished.md",
+  "lines": [
+   [
+    86,
+    "'''"
+   ],
+   [
+    88,
+    "marker = '"
+   ],
+   [
+    89,
+    ""
+   ]
+  ]
+ },
+ {
+  "chapter": 448,
+  "kind": "trim",
+  "path": "chapters/volume-4/chapter-448-polished.md",
+  "line": 59,
+  "before": "（第四百四十八章完）\"\"\"",
+  "after": "（第四百四十八章完）"
+ }
+]
