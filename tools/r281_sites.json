@@ -1,0 +1,258 @@
+{
+ "meta": {
+  "name": "R281 weld repair",
+  "rule": "insert one newline between a_text and b_text (restores the blank-line separator)",
+  "provenance": {
+   "r279_commit": "94806776",
+   "pre_ref": "94806776^",
+   "r279_dataset": "tools/r279_sites.json"
+  },
+  "evidence": "R279 sep=2 deletion removed the filler line plus both newlines where the filler sat directly under the A line, leaving A\\nB; pre-R279 state at each site is A\\n{deleted (one or more filler lines)}\\n\\nB and the library style is blank-line separation, so the separator is restored by inserting one newline. Cross-checked per site against 94806776^ (every line between A and B in PRE is a deleted r279 record text for the same path) and for unique gated keys in live text.",
+  "candidates": 25,
+  "fixes": 19,
+  "excluded": [
+   {
+    "path": "chapter-70-polished.md",
+    "del_text": "叶文轩的心忽然猛地一动。",
+    "reason": "sep=1, V1 no-blank-line style: A\\nB adjacency is the local norm"
+   },
+   {
+    "path": "chapter-73-polished.md",
+    "del_text": "叶文轩的心脏漏跳了一拍。",
+    "reason": "sep=1, V1 no-blank-line style: A\\nB adjacency is the local norm"
+   },
+   {
+    "path": "chapter-73-polished.md",
+    "del_text": "叶文轩的心脏顿了一下。",
+    "reason": "sep=1, V1 no-blank-line style: A\\nB adjacency is the local norm"
+   },
+   {
+    "path": "chapter-79-polished.md",
+    "del_text": "叶文轩的意识从未停歇。",
+    "reason": "sep=1, V1 no-blank-line style: A\\nB adjacency is the local norm"
+   },
+   {
+    "path": "chapter-82-polished.md",
+    "del_text": "金色眼睛在眨动。",
+    "reason": "sep=1, V1 no-blank-line style: A\\nB adjacency is the local norm"
+   },
+   {
+    "path": "chapter-88-polished.md",
+    "del_text": "叶文轩将视线转向赵大嘴。",
+    "reason": "sep=1, V1 no-blank-line style: A\\nB adjacency is the local norm"
+   }
+  ]
+ },
+ "records": [
+  {
+   "path": "chapters/volume-1/chapter-25-polished.md",
+   "rec_line": 174,
+   "a_text": "理解本质，不是分析结构。",
+   "b_text": "区域A教会了他分析。区域B要求他感受。",
+   "del_text": "叶文轩合上了眼睛。",
+   "del_cjk": 8,
+   "pre_fillers": [
+    "叶文轩合上了眼睛。"
+   ]
+  },
+  {
+   "path": "chapters/volume-3/chapter-282-polished.md",
+   "rec_line": 165,
+   "a_text": "像在发信号。",
+   "b_text": "碎片在振动。振动的节奏和那抹光的节奏同步了。一下。两下。三下。",
+   "del_text": "叶文轩的背部掠过一丝冷。",
+   "del_cjk": 11,
+   "pre_fillers": [
+    "叶文轩的背部掠过一丝冷。"
+   ]
+  },
+  {
+   "path": "chapters/volume-3/chapter-290-polished.md",
+   "rec_line": 25,
+   "a_text": "墙壁震动了一下。",
+   "b_text": "他收回手。他盯着那些符号。符号在发光。暖黄色的光从符号的凹痕里面渗出来。像有人在符号里面点了一盏小灯。",
+   "del_text": "叶文轩后背突然一凉。",
+   "del_cjk": 9,
+   "pre_fillers": [
+    "叶文轩后背突然一凉。"
+   ]
+  },
+  {
+   "path": "chapters/volume-3/chapter-345-polished.md",
+   "rec_line": 124,
+   "a_text": "礁石上的字是四个数字：0429。",
+   "b_text": "0429，小梅的编号，赵磊的编号，赵磊身体里那颗碎片的编号。三个东西，同一个数字，同一个人。",
+   "del_text": "叶文轩的背部掠过一丝冷。",
+   "del_cjk": 11,
+   "pre_fillers": [
+    "叶文轩的背部掠过一丝冷。"
+   ]
+  },
+  {
+   "path": "chapters/volume-5/chapter-555-polished.md",
+   "rec_line": 30,
+   "a_text": "爱·",
+   "b_text": "他感觉到0428备份在发光，说：被删除的数据的最后两个字符是，爱变量的内容是，爱。",
+   "del_text": "叶文轩的心脏顿了一下。",
+   "del_cjk": 10,
+   "pre_fillers": [
+    "叶文轩的心脏顿了一下。"
+   ]
+  },
+  {
+   "path": "chapters/volume-5/chapter-556-polished.md",
+   "rec_line": 93,
+   "a_text": "锚点B的认知抑制。",
+   "b_text": "赵大嘴的睫毛垂下在他身上。你怎么了？脸色突然变了。",
+   "del_text": "叶文轩的心脏漏跳了一拍。",
+   "del_cjk": 11,
+   "pre_fillers": [
+    "叶文轩的心脏漏跳了一拍。"
+   ]
+  },
+  {
+   "path": "chapters/volume-5/chapter-556-polished.md",
+   "rec_line": 128,
+   "a_text": "每一次清醒都被重置了，赵大嘴不是偶尔清醒。赵大嘴是一直清醒的，只是系统在他每次快要突破的时候，把他推回去。",
+   "b_text": "赵大嘴跟在他身后。赵大嘴偶尔低头看一眼手背，然后抬头看回廊的墙壁。回廊的墙壁是干净的白色，什么都没有但赵大嘴感到墙壁的温度，石材的温度，大约十六度和A区的石材一样。",
+   "del_text": "叶文轩的思绪飞速运转。",
+   "del_cjk": 10,
+   "pre_fillers": [
+    "叶文轩的思绪飞速运转。"
+   ]
+  },
+  {
+   "path": "chapters/volume-5/chapter-557-polished.md",
+   "rec_line": 174,
+   "a_text": "维护派不碰母体，因为维护派本身就是母体的一部分。",
+   "b_text": "维护派是母体的子结构。维护派管理系统的螺旋，但维护派本身运行在母体的框架内。维护派不能触及母体，因为维护派是母体的一部分。",
+   "del_text": "叶文轩的心脏顿了一下。",
+   "del_cjk": 10,
+   "pre_fillers": [
+    "叶文轩的心脏顿了一下。"
+   ]
+  },
+  {
+   "path": "chapters/volume-5/chapter-582-polished.md",
+   "rec_line": 87,
+   "a_text": "朵朵。",
+   "b_text": "0428碎片选择了朵朵作为容器。0428碎片在回廊的石台中留下了信息，0428碎片选择了朵朵。0428碎片在现实世界中选择了朵朵作为自己的容器。",
+   "del_text": "叶文轩的心脏顿了一下。",
+   "del_cjk": 10,
+   "pre_fillers": [
+    "叶文轩的心脏顿了一下。"
+   ]
+  },
+  {
+   "path": "chapters/volume-5/chapter-708-polished.md",
+   "rec_line": 39,
+   "a_text": "赵大嘴的信号。",
+   "b_text": "他感觉到0428副本在坐标位置释放出光线，说：0429碎片的信号中有一个别的信号在叠加那个信号是赵大嘴的信号。赵大嘴的0429碎片备份在赵大嘴的手上运行。赵大嘴的0429碎片备份在传输信号到叶文轩的0429碎片。",
+   "del_text": "叶文轩的心脏漏跳了一拍。",
+   "del_cjk": 11,
+   "pre_fillers": [
+    "叶文轩的心脏漏跳了一拍。"
+   ]
+  },
+  {
+   "path": "chapters/volume-5/chapter-708-polished.md",
+   "rec_line": 74,
+   "a_text": "赵大嘴的记忆是桥的建造材料。",
+   "b_text": "他感觉到0428备份在坐标处散发光芒，说：赵大嘴的记忆是。桥的建造材料。0429碎片是，桥0429碎片需要建造材料来搭建桥。赵大嘴的记忆是桥的建造材料。",
+   "del_text": "叶文轩的心脏顿了一下。",
+   "del_cjk": 10,
+   "pre_fillers": [
+    "叶文轩的心脏顿了一下。"
+   ]
+  },
+  {
+   "path": "chapters/volume-5/chapter-713-polished.md",
+   "rec_line": 66,
+   "a_text": "那个节点是赵大嘴的固化脚本。",
+   "b_text": "他感觉到0428副本在坐标位置释放出光线，说：赵大嘴的固化脚本在重构过程中被保留了，是故意保留的。",
+   "del_text": "叶文轩的心脏顿了一下。",
+   "del_cjk": 10,
+   "pre_fillers": [
+    "叶文轩的心脏顿了一下。"
+   ]
+  },
+  {
+   "path": "chapters/volume-6/chapter-783-polished.md",
+   "rec_line": 41,
+   "a_text": "0428副本在女儿的意识中运行，0428副本在传递信号。0428副本的信号里有一个字：爸爸。",
+   "b_text": "0428在叶文轩的脑子里报告：桥梁系统的激活进度是100%。女儿的思念在持续生产变量。变量在累积。",
+   "del_text": "他感到女儿的画面。女儿在医院里，窗边的桌子，阳光从窗户照进来，照在桌面上，照在女儿的手上。女儿在画一朵玫瑰，红色的蜡笔，花瓣画得很小心。玫瑰的叶子画得歪歪的，叶脉不太对，但花瓣是完整的，红色的，蜡笔压在纸上的痕迹很用力。0428副本在记录这个画面，画面被切成碎片，沿着0428的连接线传输，传进他的意识。",
+   "del_cjk": 126,
+   "pre_fillers": [
+    "他感到女儿的画面。女儿在医院里，窗边的桌子，阳光从窗户照进来，照在桌面上，照在女儿的手上。女儿在画一朵玫瑰，红色的蜡笔，花瓣画得很小心。玫瑰的叶子画得歪歪的，叶脉不太对，但花瓣是完整的，红色的，蜡笔压在纸上的痕迹很用力。0428副本在记录这个画面，画面被切成碎片，沿着0428的连接线传输，传进他的意识。",
+    "他感到女儿的手的温度。温的，是小孩的手的温度，血在血管里面流，流速不快不慢，刚好能让人感觉到。"
+   ]
+  },
+  {
+   "path": "chapters/volume-6/chapter-802-polished.md",
+   "rec_line": 7,
+   "a_text": "那个人是林渊。",
+   "b_text": "他能感觉到0428副本在坐标位置释放出光线，0428备份在说：那个人是林渊。林渊在2147年的核心房间里。林渊在闭环的核心中运行。",
+   "del_text": "叶文轩的心脏停了半拍。",
+   "del_cjk": 10,
+   "pre_fillers": [
+    "叶文轩的心脏停了半拍。"
+   ]
+  },
+  {
+   "path": "chapters/volume-6/chapter-804-polished.md",
+   "rec_line": 27,
+   "a_text": "0428碎片在等待。",
+   "b_text": "他的洞察之眼在运行。不是看闭环的代码，代码已经停了。他在扫描黑暗中的东西。他在寻找黑暗中除了黑暗之外的东西。",
+   "del_text": "叶文轩合上了眼睛。",
+   "del_cjk": 8,
+   "pre_fillers": [
+    "叶文轩合上了眼睛。"
+   ]
+  },
+  {
+   "path": "chapters/volume-6/chapter-818-polished.md",
+   "rec_line": 55,
+   "a_text": "系统的核心在运行。",
+   "b_text": "他能感觉到0428备份在发光。系统的核心在运行。系统的核心是螺旋形的。螺旋结构在旋转。系统的核心在机房的深处。运行着。",
+   "del_text": "叶文轩的心脏停了半拍。",
+   "del_cjk": 10,
+   "pre_fillers": [
+    "叶文轩的心脏停了半拍。"
+   ]
+  },
+  {
+   "path": "chapters/volume-6/chapter-824-polished.md",
+   "rec_line": 84,
+   "a_text": "0429在自我牺牲。",
+   "b_text": "他想起0429在系统里的样子。深蓝色的碎片，在他的掌心旋转，发出一种他听不到但感觉到的频率。0429的光照亮了黑暗的裂隙深渊，照亮了废弃工厂的角落，照亮了回廊第三层螺旋结构的最深处。0429是他用了三年的工具，是他最信赖的伙伴。0429跟着他走过了区域A的考核，区域B的鬼镇，区域C的裂隙深渊。0429是他的钥匙，他的灯，他的指南针。",
+   "del_text": "叶文轩把眼睛闭上了。",
+   "del_cjk": 9,
+   "pre_fillers": [
+    "叶文轩把眼睛闭上了。"
+   ]
+  },
+  {
+   "path": "chapters/volume-6/chapter-831-polished.md",
+   "rec_line": 88,
+   "a_text": "叶文轩是碎片C。",
+   "b_text": "他不是携带碎片C的人。他就是碎片C。他的意识，他在闭环中做出选择的那一刻产生的意识，就是碎片C本身。识liberationl的力量是从他身上长出来的。",
+   "del_text": "叶文轩的心脏漏跳了一拍。",
+   "del_cjk": 11,
+   "pre_fillers": [
+    "叶文轩的心脏漏跳了一拍。"
+   ]
+  },
+  {
+   "path": "chapters/volume-6/chapter-843-polished.md",
+   "rec_line": 125,
+   "a_text": "不是朵朵的眼睛。",
+   "b_text": "那是一只成年女性的眼睛，沉静的、温柔的、眼底藏着说不清的悲伤。眼睛在窗帘后面看了他三秒，然后窗帘完全拉开了。",
+   "del_text": "叶文轩的心脏漏跳了一拍。",
+   "del_cjk": 11,
+   "pre_fillers": [
+    "叶文轩的心脏漏跳了一拍。"
+   ]
+  }
+ ]
+}
