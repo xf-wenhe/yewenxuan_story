@@ -1,0 +1,195 @@
+{
+ "meta": {
+  "name": "R283 r268 family-C floor-blocked orphan tails",
+  "rule": "drop the orphan tail after its terminator (same semantics as the 78 applied r268 C sites); no text restored",
+  "baseline": "d510bafe",
+  "provenance": {
+   "r268_commit": "50fb0dd6",
+   "dataset": "tools/r268_punct_sites.json",
+   "note": "the 11 records the R268 FLOOR_BLOCKED screen held back; line numbers re-derived from live text"
+  },
+  "counts": {
+   "sites": 11,
+   "chapters": 8,
+   "cjk_drop": 55
+  },
+  "chapters": {
+   "341": {
+    "path": "chapters/volume-3/chapter-341-polished.md",
+    "sites": 1,
+    "cjk_before": 3191,
+    "cjk_drop": 5,
+    "cjk_after": 3186,
+    "r268_projected": 2998
+   },
+   "563": {
+    "path": "chapters/volume-5/chapter-563-polished.md",
+    "sites": 1,
+    "cjk_before": 3207,
+    "cjk_drop": 5,
+    "cjk_after": 3202,
+    "r268_projected": 2999
+   },
+   "677": {
+    "path": "chapters/volume-5/chapter-677-polished.md",
+    "sites": 1,
+    "cjk_before": 3065,
+    "cjk_drop": 5,
+    "cjk_after": 3060,
+    "r268_projected": 2998
+   },
+   "699": {
+    "path": "chapters/volume-5/chapter-699-polished.md",
+    "sites": 1,
+    "cjk_before": 3050,
+    "cjk_drop": 5,
+    "cjk_after": 3045,
+    "r268_projected": 2997
+   },
+   "702": {
+    "path": "chapters/volume-5/chapter-702-polished.md",
+    "sites": 1,
+    "cjk_before": 3060,
+    "cjk_drop": 5,
+    "cjk_after": 3055,
+    "r268_projected": 2998
+   },
+   "704": {
+    "path": "chapters/volume-5/chapter-704-polished.md",
+    "sites": 1,
+    "cjk_before": 3099,
+    "cjk_drop": 5,
+    "cjk_after": 3094,
+    "r268_projected": 2996
+   },
+   "906": {
+    "path": "chapters/volume-6/chapter-906-polished.md",
+    "sites": 3,
+    "cjk_before": 3152,
+    "cjk_drop": 15,
+    "cjk_after": 3137,
+    "r268_projected": 2987
+   },
+   "907": {
+    "path": "chapters/volume-6/chapter-907-polished.md",
+    "sites": 2,
+    "cjk_before": 3105,
+    "cjk_drop": 10,
+    "cjk_after": 3095,
+    "r268_projected": 2998
+   }
+  }
+ },
+ "sites": [
+  {
+   "ch": 341,
+   "path": "chapters/volume-3/chapter-341-polished.md",
+   "family": "C",
+   "line": 163,
+   "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+   "new": "这句话沉进了他心里，再也抹不掉。",
+   "at": 16,
+   "remove": "的那个角落。"
+  },
+  {
+   "ch": 563,
+   "path": "chapters/volume-5/chapter-563-polished.md",
+   "family": "C",
+   "line": 121,
+   "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+   "new": "这句话沉进了他心里，再也没浮上来。",
+   "at": 17,
+   "remove": "的那个角落。"
+  },
+  {
+   "ch": 677,
+   "path": "chapters/volume-5/chapter-677-polished.md",
+   "family": "C",
+   "line": 103,
+   "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+   "new": "这句话沉进了他心里，再也抹不掉。",
+   "at": 16,
+   "remove": "的那个角落。"
+  },
+  {
+   "ch": 699,
+   "path": "chapters/volume-5/chapter-699-polished.md",
+   "family": "C",
+   "line": 72,
+   "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+   "new": "这句话沉进了他心里，再也没浮上来。",
+   "at": 17,
+   "remove": "的那个角落。"
+  },
+  {
+   "ch": 702,
+   "path": "chapters/volume-5/chapter-702-polished.md",
+   "family": "C",
+   "line": 56,
+   "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+   "new": "这句话沉进了他心里，再也抹不掉。",
+   "at": 16,
+   "remove": "的那个角落。"
+  },
+  {
+   "ch": 704,
+   "path": "chapters/volume-5/chapter-704-polished.md",
+   "family": "C",
+   "line": 46,
+   "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+   "new": "这句话沉进了他心里，沉得极深。",
+   "at": 15,
+   "remove": "的那个角落。"
+  },
+  {
+   "ch": 906,
+   "path": "chapters/volume-6/chapter-906-polished.md",
+   "family": "C",
+   "line": 150,
+   "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+   "new": "这句话沉进了他心里，再也没浮上来。",
+   "at": 17,
+   "remove": "的那个角落。"
+  },
+  {
+   "ch": 906,
+   "path": "chapters/volume-6/chapter-906-polished.md",
+   "family": "C",
+   "line": 160,
+   "old": "这句话沉进了他心里，沉得极深。的那个角落。",
+   "new": "这句话沉进了他心里，沉得极深。",
+   "at": 15,
+   "remove": "的那个角落。"
+  },
+  {
+   "ch": 906,
+   "path": "chapters/volume-6/chapter-906-polished.md",
+   "family": "C",
+   "line": 166,
+   "old": "这句话沉进了他心里，沉到了底。的那个角落。",
+   "new": "这句话沉进了他心里，沉到了底。",
+   "at": 15,
+   "remove": "的那个角落。"
+  },
+  {
+   "ch": 907,
+   "path": "chapters/volume-6/chapter-907-polished.md",
+   "family": "C",
+   "line": 171,
+   "old": "这句话沉进了他心里，再也抹不掉。的那个角落。",
+   "new": "这句话沉进了他心里，再也抹不掉。",
+   "at": 16,
+   "remove": "的那个角落。"
+  },
+  {
+   "ch": 907,
+   "path": "chapters/volume-6/chapter-907-polished.md",
+   "family": "C",
+   "line": 181,
+   "old": "这句话沉进了他心里，再也没浮上来。的那个角落。",
+   "new": "这句话沉进了他心里，再也没浮上来。",
+   "at": 17,
+   "remove": "的那个角落。"
+  }
+ ]
+}
