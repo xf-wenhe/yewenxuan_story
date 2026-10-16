@@ -1,0 +1,82 @@
+{
+ "round": "R294",
+ "detector": "R274 non-verbatim docket (21) -- ROOT(e0040d63^)-attested punctuation restores + residual shape repairs",
+ "baseline": "ee02352c",
+ "records": [
+  {
+   "path": "chapters/volume-2/chapter-151-polished.md",
+   "chapter": 151,
+   "line": 59,
+   "op": "sub",
+   "old": "叶文轩结构透视扫过螺旋核心投影的地面。投影的表面不是普通的石面。里面有代码。不是系统的UI提示，是更底层的代码。代码嵌在0428螺旋的时间结构里面，像是被刻在石柱上的铭文叶文轩的程序员眼睛能看懂其中的一部分，代码的结构和他写的程序很像。不是巧合。系统是用人类熟悉的逻辑构建的系统本身是人类文明的产物。",
+   "new": "叶文轩结构透视扫过螺旋核心投影的地面。投影的表面不是普通的石面。里面有代码。不是系统的UI提示，是更底层的代码。代码嵌在0428螺旋的时间结构里面，像是被刻在石柱上的铭文。叶文轩的程序员眼睛能看懂其中的一部分，代码的结构和他写的程序很像。不是巧合。系统是用人类熟悉的逻辑构建的。系统本身是人类文明的产物。",
+   "root_witness": [
+    "铭文。叶文轩",
+    "构建的。系统本身"
+   ],
+   "note": "ROOT-attested punctuation restore"
+  },
+  {
+   "path": "chapters/volume-2/chapter-246-polished.md",
+   "chapter": 246,
+   "line": 11,
+   "op": "sub",
+   "old": "门没有动。纸上的门是画上去的。不是真的。他推的是纸纸纹丝不动。叶文轩看着那扇画上去的门，看了两秒。他瞬间懂了。不是他推开门是门要他走进去。门不是一扇真正的门。是一段路。一段画在纸上的路。他需要走的，是纸上的那几笔。",
+   "new": "门没有动。纸上的门是画上去的。不是真的。他推的是纸。纸纹丝不动。叶文轩看着那扇画上去的门，看了两秒。他瞬间懂了。不是他推开门。是门要他走进去。门不是一扇真正的门。是一段路。一段画在纸上的路。他需要走的，是纸上的那几笔。",
+   "root_witness": [
+    "他推的是纸。纸纹丝不动",
+    "不是他推开门。是门要他走进去"
+   ],
+   "note": "ROOT-attested punctuation restore"
+  },
+  {
+   "path": "chapters/volume-3/chapter-252-polished.md",
+   "chapter": 252,
+   "line": 7,
+   "op": "sub",
+   "old": "核心悬浮在他的面前。拳头大小的发光体。悬浮在螺旋的几何中心。三条螺旋纹路绕在核心的表面。每一圈都卡在精确的角度上。是计算过的。像工程师画的电路板布线。叶文轩用程序员的眼光看它。他清楚这种精度意味着什么。意味着有人或什么东西，花了很多时间，把它调整到这种程度。不是几天。不是几个月是很久很久。以人类的寿命来算。",
+   "new": "核心悬浮在他的面前。拳头大小的发光体。悬浮在螺旋的几何中心。三条螺旋纹路绕在核心的表面。每一圈都卡在精确的角度上。是计算过的。像工程师画的电路板布线。叶文轩用程序员的眼光看它。他清楚这种精度意味着什么。意味着有人或什么东西，花了很多时间，把它调整到这种程度。不是几天。不是几个月。是很久很久。以人类的寿命来算。",
+   "root_witness": [
+    "不是几个月。是很久很久"
+   ],
+   "note": "ROOT-attested punctuation restore"
+  },
+  {
+   "path": "chapters/volume-3/chapter-320-polished.md",
+   "chapter": 320,
+   "line": 101,
+   "op": "sub",
+   "old": "外面的天又变了。不是层变了。是山变了。山越来越高。越来越密。公路两边的树从松树变成了杉树。然后是桦树然后什么都没有了，只有雪。",
+   "new": "外面的天又变了。不是层变了。是山变了。山越来越高。越来越密。公路两边的树从松树变成了杉树。然后是桦树。然后什么都没有了，只有雪。",
+   "root_witness": [
+    "然后是桦树。然后什么都没有了"
+   ],
+   "note": "ROOT-attested punctuation restore"
+  },
+  {
+   "path": "chapters/volume-6/chapter-807-polished.md",
+   "chapter": 807,
+   "line": 89,
+   "op": "sub",
+   "old": "\"我能看到你的设计笔记，\"叶文轩在心里说。\"最后一页，「情感锚点的重要性被低估了。如果重新设计，我会把情感锚点放在核心位置。」\"\"",
+   "new": "\"我能看到你的设计笔记，\"叶文轩在心里说。\"最后一页，「情感锚点的重要性被低估了。如果重新设计，我会把情感锚点放在核心位置。」\"",
+   "root_witness": [
+    "quote parity: old odd -> new even (structural)"
+   ],
+   "note": "residual shape repair (extra closing quote)"
+  },
+  {
+   "path": "chapters/volume-6/chapter-802-polished.md",
+   "chapter": 802,
+   "line": 67,
+   "op": "block",
+   "lines": "67-70",
+   "old": "林渊走到终端前。灰色的终端在运行，屏幕上的代码在。林渊伸出手指，在屏幕上点了一下，代码停在了稳态协议的那一行。\n\n一下，代码停在了稳态协议的那一行。\n\n",
+   "new": "林渊走到终端前。灰色的终端在运行，屏幕上的代码在。林渊伸出手指，在屏幕上点了一下，代码停在了稳态协议的那一行。\n\n",
+   "root_witness": [
+    "一下，代码停在了\"稳态协议\"的那一行。"
+   ],
+   "note": "delete the duplicated paste fragment + its blank separator (ROOT shows the same duplication)"
+  }
+ ]
+}
