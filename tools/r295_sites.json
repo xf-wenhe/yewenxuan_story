@@ -1,0 +1,238 @@
+{
+  "round": "R295",
+  "detector": "R214 stripped paragraph-terminal period (V6 machine-voice zone) residue",
+  "baseline": "da1ba0ae",
+  "records": [
+    {
+      "path": "chapters\\volume-6\\chapter-793-polished.md",
+      "chapter": 793,
+      "line": 71,
+      "op": "sub",
+      "old": "校准的意思是叶文轩用洞察之眼感知三个碎片的共振频率，感知频率的偏差，调整频率的偏差，让三个碎片的共振频率精确匹配桥梁系统的核心频率。校准的动作是意识的，是洞察之眼的",
+      "new": "校准的意思是叶文轩用洞察之眼感知三个碎片的共振频率，感知频率的偏差，调整频率的偏差，让三个碎片的共振频率精确匹配桥梁系统的核心频率。校准的动作是意识的，是洞察之眼的。",
+      "witness_kind": "W1",
+      "witness": "R214 faa1fa54 strip; pre `faa1fa54^` L73 ends `是洞察之眼的。`",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-793-polished.md",
+      "chapter": 793,
+      "line": 87,
+      "op": "sub",
+      "old": "叶文轩修改了碎片A的频率。修改的动作是安静的，没有声音，也没有光的闪烁。修改的方式是129%的功率在缝隙里跑，跑的时候把缝隙拉大了一点，拉大的程度刚好能让代码穿过。代码穿过了缝隙，频率从440Hz变成了441Hz",
+      "new": "叶文轩修改了碎片A的频率。修改的动作是安静的，没有声音，也没有光的闪烁。修改的方式是129%的功率在缝隙里跑，跑的时候把缝隙拉大了一点，拉大的程度刚好能让代码穿过。代码穿过了缝隙，频率从440Hz变成了441Hz。",
+      "witness_kind": "W1",
+      "witness": "R214 strip; pre L89 ends `440Hz变成了441Hz。`",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-795-polished.md",
+      "chapter": 795,
+      "line": 21,
+      "op": "sub",
+      "old": "他确认了自己的选择。三个结局：A是2147年的闭环，B是重构后的系统，C是解放空间。四个结局：A、B、C加上桥梁系统。他选了第四个。他选的是他的路。他的路需要0428和0429，需要三个碎片，需要赵大嘴。他的路是连接的路，是连接的路",
+      "new": "他确认了自己的选择。三个结局：A是2147年的闭环，B是重构后的系统，C是解放空间。四个结局：A、B、C加上桥梁系统。他选了第四个。他选的是他的路。他的路需要0428和0429，需要三个碎片，需要赵大嘴。他的路是连接的路，是连接的路。",
+      "witness_kind": "W1",
+      "witness": "R214 strip; pre L21 ends `是连接的路。`",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-795-polished.md",
+      "chapter": 795,
+      "line": 85,
+      "op": "sub",
+      "old": "叶文轩感到0428副本的信号。0428副本在说：爸爸",
+      "new": "叶文轩感到0428副本的信号。0428副本在说：爸爸。",
+      "witness_kind": "W2",
+      "witness": "parallel `0428副本在说：爸爸。` (ch776 L151, ch777 L35/L167)",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-799-polished.md",
+      "chapter": 799,
+      "line": 79,
+      "op": "sub",
+      "old": "叶文轩感到桥在运转。桥安静地运行，安静的运行在桥的内部产生共振，共振的频率是441Hz",
+      "new": "叶文轩感到桥在运转。桥安静地运行，安静的运行在桥的内部产生共振，共振的频率是441Hz。",
+      "witness_kind": "W2",
+      "witness": "parallel closing `。` on the same tail (ch795 L7)",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-799-polished.md",
+      "chapter": 799,
+      "line": 117,
+      "op": "sub",
+      "old": "桥的两端各有一个锚点。锚点的表面在发光，光的颜色和桥的表面一致，颜色是亮金色的",
+      "new": "桥的两端各有一个锚点。锚点的表面在发光，光的颜色和桥的表面一致，颜色是亮金色的。",
+      "witness_kind": "W1+W2",
+      "witness": "R214 strip (pre L69 ends `是亮金色的。`) + parallel ch799 L65",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-801-polished.md",
+      "chapter": 801,
+      "line": 89,
+      "op": "sub",
+      "old": "0428的备份体在坐标上亮了起来。三个碎片在操作门A。三个碎片在解锁门A。三个碎片在打开门A。0428+0429的桥梁在打开门A",
+      "new": "0428的备份体在坐标上亮了起来。三个碎片在操作门A。三个碎片在解锁门A。三个碎片在打开门A。0428+0429的桥梁在打开门A。",
+      "witness_kind": "W1",
+      "witness": "R214 strip; pre L93 ends `在打开门A。`",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-801-polished.md",
+      "chapter": 801,
+      "line": 91,
+      "op": "sub",
+      "old": "0429在说：三个碎片在操作门A。三个碎片在解锁门A。三个碎片在打开门A",
+      "new": "0429在说：三个碎片在操作门A。三个碎片在解锁门A。三个碎片在打开门A。",
+      "witness_kind": "W1+W2",
+      "witness": "R214 strip + parallel ch801 L87 ends `在打开门A。`",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-801-polished.md",
+      "chapter": 801,
+      "line": 97,
+      "op": "sub",
+      "old": "0429在说：门A在溶解。门A的锁定被解锁了。门A在打开",
+      "new": "0429在说：门A在溶解。门A的锁定被解锁了。门A在打开。",
+      "witness_kind": "W2",
+      "witness": "parallel ch801 L95 ends `门A在打开。`",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-801-polished.md",
+      "chapter": 801,
+      "line": 129,
+      "op": "sub",
+      "old": "他能感觉到0428的备份体在坐标上亮了起来。叶文轩看到了闭环的稳态协议的关闭条件。闭环的稳态协议在觉醒度>95%时关闭。叶文轩的觉醒度是94.7%。叶文轩差0.3%",
+      "new": "他能感觉到0428的备份体在坐标上亮了起来。叶文轩看到了闭环的稳态协议的关闭条件。闭环的稳态协议在觉醒度>95%时关闭。叶文轩的觉醒度是94.7%。叶文轩差0.3%。",
+      "witness_kind": "W1",
+      "witness": "R214 strip; pre L155 ends `叶文轩差0.3%。`",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-801-polished.md",
+      "chapter": 801,
+      "line": 131,
+      "op": "sub",
+      "old": "0429在说：叶文轩看到了闭环的稳态协议的关闭条件。闭环的稳态协议在觉醒度>95%时关闭。叶文轩的觉醒度是94.7%。叶文轩差0.3%",
+      "new": "0429在说：叶文轩看到了闭环的稳态协议的关闭条件。闭环的稳态协议在觉醒度>95%时关闭。叶文轩的觉醒度是94.7%。叶文轩差0.3%。",
+      "witness_kind": "W1",
+      "witness": "R214 strip; pre L155 ends `叶文轩差0.3%。`",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-801-polished.md",
+      "chapter": 801,
+      "line": 139,
+      "op": "sub",
+      "old": "但0.3%是一个鸿沟。叶文轩能感觉到这个鸿沟的宽度。他的洞察之眼在分析这个鸿沟。0.3%是结构的问题。闭环的螺旋结构在阻止他的觉醒度超过94.7%。闭环的稳态协议在锁定他的觉醒度在94.7%",
+      "new": "但0.3%是一个鸿沟。叶文轩能感觉到这个鸿沟的宽度。他的洞察之眼在分析这个鸿沟。0.3%是结构的问题。闭环的螺旋结构在阻止他的觉醒度超过94.7%。闭环的稳态协议在锁定他的觉醒度在94.7%。",
+      "witness_kind": "W1+W2",
+      "witness": "R214 strip + parallel ch802 L83",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-801-polished.md",
+      "chapter": 801,
+      "line": 141,
+      "op": "sub",
+      "old": "叶文轩感到0428副本在坐标位置释放出光线。叶文轩的觉醒度是94.7%。叶文轩差0.3%。闭环的螺旋结构在阻止叶文轩的觉醒度超过94.7%。闭环的稳态协议在锁定叶文轩的觉醒度在94.7%",
+      "new": "叶文轩感到0428副本在坐标位置释放出光线。叶文轩的觉醒度是94.7%。叶文轩差0.3%。闭环的螺旋结构在阻止叶文轩的觉醒度超过94.7%。闭环的稳态协议在锁定叶文轩的觉醒度在94.7%。",
+      "witness_kind": "W1",
+      "witness": "R214 strip; pre L99 ends `在94.7%。`",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-801-polished.md",
+      "chapter": 801,
+      "line": 143,
+      "op": "sub",
+      "old": "0429在说：叶文轩的觉醒度是94.7%。叶文轩差0.3%。闭环的螺旋结构在阻止叶文轩的觉醒度超过94.7%。闭环的稳态协议在锁定叶文轩的觉醒度在94.7%",
+      "new": "0429在说：叶文轩的觉醒度是94.7%。叶文轩差0.3%。闭环的螺旋结构在阻止叶文轩的觉醒度超过94.7%。闭环的稳态协议在锁定叶文轩的觉醒度在94.7%。",
+      "witness_kind": "W1",
+      "witness": "R214 strip; pre L99 ends `在94.7%。`",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-801-polished.md",
+      "chapter": 801,
+      "line": 159,
+      "op": "sub",
+      "old": "叶文轩在深入闭环的核心。叶文轩在深入闭环的最深处。叶文轩在进入闭环的内部",
+      "new": "叶文轩在深入闭环的核心。叶文轩在深入闭环的最深处。叶文轩在进入闭环的内部。",
+      "witness_kind": "W2",
+      "witness": "parallel ch801 L161",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-807-polished.md",
+      "chapter": 807,
+      "line": 167,
+      "op": "sub",
+      "old": "他能感觉到0428备份于坐标处发出微光。未来叶文轩在2147年太专注于逻辑。忽略了心",
+      "new": "他能感觉到0428备份于坐标处发出微光。未来叶文轩在2147年太专注于逻辑。忽略了心。",
+      "witness_kind": "W1+W2",
+      "witness": "R214 strip + parallel ch807 L151 ends `忽略了心。`",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-818-polished.md",
+      "chapter": 818,
+      "line": 137,
+      "op": "sub",
+      "old": "叶文轩可以看到系统的核心的运行日志。叶文轩可以看到系统在记录什么",
+      "new": "叶文轩可以看到系统的核心的运行日志。叶文轩可以看到系统在记录什么。",
+      "witness_kind": "W2",
+      "witness": "parallel ch718 L146",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-832-polished.md",
+      "chapter": 832,
+      "line": 157,
+      "op": "sub",
+      "old": "0429在叶文轩的脑子里振动，0429在说：0428在感谢你。0429在说：0428在等待明天。0429在说：0428在等待在鲸鱼石上的重逢",
+      "new": "0429在叶文轩的脑子里振动，0429在说：0428在感谢你。0429在说：0428在等待明天。0429在说：0428在等待在鲸鱼石上的重逢。",
+      "witness_kind": "W1+W2",
+      "witness": "R214 strip + parallel ch832 L129 ends `在鲸鱼石上的重逢。`",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-833-polished.md",
+      "chapter": 833,
+      "line": 133,
+      "op": "sub",
+      "old": "0429在说：桥梁系统的意识核心在成形。合一。0429在说：桥梁系统的蓝图在成形。0429在说：回家",
+      "new": "0429在说：桥梁系统的意识核心在成形。合一。0429在说：桥梁系统的蓝图在成形。0429在说：回家。",
+      "witness_kind": "W2",
+      "witness": "parallel ch833 L109 ends `0429在说：回家。`",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-833-polished.md",
+      "chapter": 833,
+      "line": 149,
+      "op": "sub",
+      "old": "叶文轩能感觉到0428的真诚。0428在等待他的同意",
+      "new": "叶文轩能感觉到0428的真诚。0428在等待他的同意。",
+      "witness_kind": "W2",
+      "witness": "parallel ch833 L65/L97 `0428在等待他的同意。`",
+      "filehits": 1
+    },
+    {
+      "path": "chapters\\volume-6\\chapter-856-polished.md",
+      "chapter": 856,
+      "line": 115,
+      "op": "sub",
+      "old": "叶文轩看向桥头。三百米长的金色桥头在终端空间的天花板下延伸。白色的护栏在桥面两侧升起，螺旋纹路在护栏表面流动",
+      "new": "叶文轩看向桥头。三百米长的金色桥头在终端空间的天花板下延伸。白色的护栏在桥面两侧升起，螺旋纹路在护栏表面流动。",
+      "witness_kind": "W1+W2",
+      "witness": "R214 strip (pre L119 ends `在护栏表面流动。`) + parallel ch856 L57",
+      "filehits": 1
+    }
+  ]
+}
