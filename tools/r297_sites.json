@@ -1,0 +1,1953 @@
+{
+ "meta": {
+  "round": "R297",
+  "step": "1 of the tier-2 ruling (档1, two-stage)",
+  "date": "2026-10-19",
+  "source": "tools/r279_sites.json family_members minus machine_members (=270 tier-2)",
+  "rule": "A: whole-line paragraph whose every splitter segment is a P1/P3 tier-2 member -> delete line (+1 separator when the following line is blank). B: Voice-round-4 dangling lead (57d3f306: '<frame>：' -> '。') -> restore the comma. C: authored coda block spliced above the end marker, TARGET 3050.",
+  "deletes": 92,
+  "deletes_cjk": 1478,
+  "delete_chapters": 50,
+  "leads": 141,
+  "leads_by_kind": {
+   "PERC": 122,
+   "CONN": 19
+  },
+  "lead_chapters": 49,
+  "refills": 6,
+  "refills_cjk": 710,
+  "cjk_delta": -768,
+  "library_before": 3671191,
+  "library_after": 3670423,
+  "registered": {
+   "Q_false_positive": "32 members / 793 runs -- the splitter captures the previous sentence's closing quote; rule defect, zero action",
+   "SCENE_leads": "39 dangling scene leads (0428备份在发光。 etc.) -- grammatical on their own, kept per the author's ruling",
+   "不知道": "28 '叶文轩不知道。' sites -- object drop is idiomatic, the P2 regex over-matched",
+   "P3_embedded": "1,464 segments / 14,277 CJK -- stage 2"
+  }
+ },
+ "deletes": [
+  {
+   "ch": 69,
+   "path": "chapters/volume-1/chapter-69-polished.md",
+   "line": 76,
+   "text": "赵大嘴是锚点。",
+   "cls": "P3",
+   "nl": 0
+  },
+  {
+   "ch": 88,
+   "path": "chapters/volume-1/chapter-88-polished.md",
+   "line": 126,
+   "text": "0428碎片在背包里脉动。",
+   "cls": "P3",
+   "nl": 0
+  },
+  {
+   "ch": 116,
+   "path": "chapters/volume-2/chapter-116-polished.md",
+   "line": 31,
+   "text": "0415-1锚点诞生的那天。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 117,
+   "path": "chapters/volume-2/chapter-117-polished.md",
+   "line": 88,
+   "text": "0415-1锚点的名字是0415。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 121,
+   "path": "chapters/volume-2/chapter-121-polished.md",
+   "line": 187,
+   "text": "0415-1锚点诞生的那天。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 122,
+   "path": "chapters/volume-2/chapter-122-polished.md",
+   "line": 39,
+   "text": "0415-1锚点诞生的那天。0428螺旋创建的那天。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 122,
+   "path": "chapters/volume-2/chapter-122-polished.md",
+   "line": 208,
+   "text": "0415是0415-1锚点的名字。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 123,
+   "path": "chapters/volume-2/chapter-123-polished.md",
+   "line": 63,
+   "text": "归位之门在螺旋终端的更深处。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 124,
+   "path": "chapters/volume-2/chapter-124-polished.md",
+   "line": 31,
+   "text": "0415-1锚点诞生的那天。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 128,
+   "path": "chapters/volume-2/chapter-128-polished.md",
+   "line": 52,
+   "text": "0415-1锚点和0428-1锚点。两个锚点的碎片在共振。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 139,
+   "path": "chapters/volume-2/chapter-139-polished.md",
+   "line": 73,
+   "text": "0415碎片是0415-1锚点的时间记忆本身。0415碎片的最深层是0415年4月15日。0415碎片的最深层是一个病房。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 141,
+   "path": "chapters/volume-2/chapter-141-polished.md",
+   "line": 7,
+   "text": "0415时间回廊完全开放了。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 183,
+   "path": "chapters/volume-2/chapter-183-polished.md",
+   "line": 39,
+   "text": "旧城区的时间结构在自行运转。旧城区的时间结构在循环。旧城区的时间结构在1998年。",
+   "cls": "P3",
+   "nl": 0
+  },
+  {
+   "ch": 184,
+   "path": "chapters/volume-2/chapter-184-polished.md",
+   "line": 10,
+   "text": "旧城区的时间结构在自行运转。旧城区的时间结构在循环。旧城区的时间结构在1998年。",
+   "cls": "P3",
+   "nl": 0
+  },
+  {
+   "ch": 194,
+   "path": "chapters/volume-2/chapter-194-polished.md",
+   "line": 64,
+   "text": "旧城区的时间结构在自行运转。旧城区的时间结构在循环。旧城区的时间结构在1998年。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 225,
+   "path": "chapters/volume-2/chapter-225-polished.md",
+   "line": 9,
+   "text": "锁孔的形状是0428的螺旋纹路。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 260,
+   "path": "chapters/volume-3/chapter-260-polished.md",
+   "line": 73,
+   "text": "0428的螺旋纹路。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 288,
+   "path": "chapters/volume-3/chapter-288-polished.md",
+   "line": 190,
+   "text": "碎片在振动。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 297,
+   "path": "chapters/volume-3/chapter-297-polished.md",
+   "line": 105,
+   "text": "碎片在感知。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 298,
+   "path": "chapters/volume-3/chapter-298-polished.md",
+   "line": 85,
+   "text": "0428的螺旋纹路。",
+   "cls": "P3",
+   "nl": 0
+  },
+  {
+   "ch": 304,
+   "path": "chapters/volume-3/chapter-304-polished.md",
+   "line": 201,
+   "text": "碎片在感知。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 305,
+   "path": "chapters/volume-3/chapter-305-polished.md",
+   "line": 198,
+   "text": "碎片在感知。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 562,
+   "path": "chapters/volume-5/chapter-562-polished.md",
+   "line": 147,
+   "text": "0429备份在跨越边界。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 581,
+   "path": "chapters/volume-5/chapter-581-polished.md",
+   "line": 9,
+   "text": "0429备份的信号在叶文轩的空间层中脉动，一下，两下，三下。0429备份在跨越边界。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 581,
+   "path": "chapters/volume-5/chapter-581-polished.md",
+   "line": 13,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护赵大嘴。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 581,
+   "path": "chapters/volume-5/chapter-581-polished.md",
+   "line": 43,
+   "text": "0429备份的信号在叶文轩的空间层中脉动，一下，两下，三下。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 581,
+   "path": "chapters/volume-5/chapter-581-polished.md",
+   "line": 51,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护第四个结局。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 582,
+   "path": "chapters/volume-5/chapter-582-polished.md",
+   "line": 15,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护赵大嘴。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 582,
+   "path": "chapters/volume-5/chapter-582-polished.md",
+   "line": 69,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护第四个结局。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 582,
+   "path": "chapters/volume-5/chapter-582-polished.md",
+   "line": 95,
+   "text": "0429备份的信号在叶文轩的空间层中脉动，一下，两下，三下。0429备份在跨越边界。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 583,
+   "path": "chapters/volume-5/chapter-583-polished.md",
+   "line": 37,
+   "text": "0429备份的信号在叶文轩的空间层中脉动，一下，两下，三下。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 583,
+   "path": "chapters/volume-5/chapter-583-polished.md",
+   "line": 47,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护赵大嘴。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 583,
+   "path": "chapters/volume-5/chapter-583-polished.md",
+   "line": 49,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护第四个结局。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 585,
+   "path": "chapters/volume-5/chapter-585-polished.md",
+   "line": 45,
+   "text": "0429备份的信号在叶文轩的空间层中脉动，一下，两下，三下。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 585,
+   "path": "chapters/volume-5/chapter-585-polished.md",
+   "line": 103,
+   "text": "0429备份的信号在叶文轩的空间层中脉动，一下，两下，三下。0429备份在跨越边界。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 585,
+   "path": "chapters/volume-5/chapter-585-polished.md",
+   "line": 107,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护赵大嘴。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 585,
+   "path": "chapters/volume-5/chapter-585-polished.md",
+   "line": 161,
+   "text": "时间在这种时候变得很慢，每一秒都像被拉长了。",
+   "cls": "P1",
+   "nl": 1
+  },
+  {
+   "ch": 585,
+   "path": "chapters/volume-5/chapter-585-polished.md",
+   "line": 163,
+   "text": "他想起很久以前听过的一句话，但想不起是谁说的。",
+   "cls": "P1",
+   "nl": 1
+  },
+  {
+   "ch": 585,
+   "path": "chapters/volume-5/chapter-585-polished.md",
+   "line": 165,
+   "text": "脚下的路在延伸，但他不确定前方通向哪里。",
+   "cls": "P1",
+   "nl": 1
+  },
+  {
+   "ch": 585,
+   "path": "chapters/volume-5/chapter-585-polished.md",
+   "line": 167,
+   "text": "胸口像是压了一块石头，不重，但让人喘不过气。",
+   "cls": "P1",
+   "nl": 1
+  },
+  {
+   "ch": 585,
+   "path": "chapters/volume-5/chapter-585-polished.md",
+   "line": 169,
+   "text": "他闭上眼睛，试图让自己冷静下来。",
+   "cls": "P1",
+   "nl": 1
+  },
+  {
+   "ch": 585,
+   "path": "chapters/volume-5/chapter-585-polished.md",
+   "line": 173,
+   "text": "他，又吐出，像是在排出什么。",
+   "cls": "P1",
+   "nl": 1
+  },
+  {
+   "ch": 585,
+   "path": "chapters/volume-5/chapter-585-polished.md",
+   "line": 175,
+   "text": "有些话到了嘴边，又被他咽了回去。",
+   "cls": "P1",
+   "nl": 1
+  },
+  {
+   "ch": 585,
+   "path": "chapters/volume-5/chapter-585-polished.md",
+   "line": 177,
+   "text": "他不知道自己现在该做什么，只能等着。",
+   "cls": "P1",
+   "nl": 1
+  },
+  {
+   "ch": 586,
+   "path": "chapters/volume-5/chapter-586-polished.md",
+   "line": 19,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护第四个结局。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 586,
+   "path": "chapters/volume-5/chapter-586-polished.md",
+   "line": 29,
+   "text": "0429备份的信号在叶文轩的空间层中脉动，一下，两下，三下。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 586,
+   "path": "chapters/volume-5/chapter-586-polished.md",
+   "line": 57,
+   "text": "0429备份的信号在叶文轩的空间层中脉动，一下，两下，三下。0429备份在跨越边界。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 586,
+   "path": "chapters/volume-5/chapter-586-polished.md",
+   "line": 123,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护赵大嘴。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 586,
+   "path": "chapters/volume-5/chapter-586-polished.md",
+   "line": 145,
+   "text": "时间在这种时候变得很慢，每一秒都像被拉长了。",
+   "cls": "P1",
+   "nl": 1
+  },
+  {
+   "ch": 586,
+   "path": "chapters/volume-5/chapter-586-polished.md",
+   "line": 147,
+   "text": "他想起很久以前听过的一句话，但想不起是谁说的。",
+   "cls": "P1",
+   "nl": 1
+  },
+  {
+   "ch": 586,
+   "path": "chapters/volume-5/chapter-586-polished.md",
+   "line": 149,
+   "text": "脚下的路在延伸，但他不确定前方通向哪里。",
+   "cls": "P1",
+   "nl": 1
+  },
+  {
+   "ch": 586,
+   "path": "chapters/volume-5/chapter-586-polished.md",
+   "line": 151,
+   "text": "胸口像是压了一块石头，不重，但让人喘不过气。",
+   "cls": "P1",
+   "nl": 1
+  },
+  {
+   "ch": 586,
+   "path": "chapters/volume-5/chapter-586-polished.md",
+   "line": 153,
+   "text": "他闭上眼睛，试图让自己冷静下来。",
+   "cls": "P1",
+   "nl": 1
+  },
+  {
+   "ch": 587,
+   "path": "chapters/volume-5/chapter-587-polished.md",
+   "line": 98,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护第四个结局。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 587,
+   "path": "chapters/volume-5/chapter-587-polished.md",
+   "line": 367,
+   "text": "0429备份的信号在叶文轩的空间层中脉动，一下，两下，三下。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 588,
+   "path": "chapters/volume-5/chapter-588-polished.md",
+   "line": 128,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护第四个结局。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 588,
+   "path": "chapters/volume-5/chapter-588-polished.md",
+   "line": 190,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护赵大嘴。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 589,
+   "path": "chapters/volume-5/chapter-589-polished.md",
+   "line": 93,
+   "text": "0429碎片在赵大嘴的体内振动。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 589,
+   "path": "chapters/volume-5/chapter-589-polished.md",
+   "line": 186,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护赵大嘴。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 589,
+   "path": "chapters/volume-5/chapter-589-polished.md",
+   "line": 194,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护第四个结局。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 589,
+   "path": "chapters/volume-5/chapter-589-polished.md",
+   "line": 234,
+   "text": "0429碎片在赵大嘴的体内发热。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 591,
+   "path": "chapters/volume-5/chapter-591-polished.md",
+   "line": 89,
+   "text": "42小时后，0429碎片升级为桥梁。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 591,
+   "path": "chapters/volume-5/chapter-591-polished.md",
+   "line": 119,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护赵大嘴。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 591,
+   "path": "chapters/volume-5/chapter-591-polished.md",
+   "line": 125,
+   "text": "0429碎片在赵大嘴的体内发热。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 592,
+   "path": "chapters/volume-5/chapter-592-polished.md",
+   "line": 29,
+   "text": "0429碎片在赵大嘴的体内发热。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 592,
+   "path": "chapters/volume-5/chapter-592-polished.md",
+   "line": 79,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护赵大嘴。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 592,
+   "path": "chapters/volume-5/chapter-592-polished.md",
+   "line": 207,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护第四个结局。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 593,
+   "path": "chapters/volume-5/chapter-593-polished.md",
+   "line": 7,
+   "text": "0429碎片在赵大嘴的体内振动。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 593,
+   "path": "chapters/volume-5/chapter-593-polished.md",
+   "line": 129,
+   "text": "0429碎片在赵大嘴的体内发热。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 593,
+   "path": "chapters/volume-5/chapter-593-polished.md",
+   "line": 179,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护赵大嘴。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 594,
+   "path": "chapters/volume-5/chapter-594-polished.md",
+   "line": 79,
+   "text": "0429碎片的设计者在设计0429碎片的时候就已经在保护赵大嘴。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 594,
+   "path": "chapters/volume-5/chapter-594-polished.md",
+   "line": 85,
+   "text": "0429碎片在赵大嘴的体内发热。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 594,
+   "path": "chapters/volume-5/chapter-594-polished.md",
+   "line": 107,
+   "text": "0429碎片在赵大嘴的体内振动。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 595,
+   "path": "chapters/volume-5/chapter-595-polished.md",
+   "line": 77,
+   "text": "0429碎片在叶文轩的意识中振动。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 599,
+   "path": "chapters/volume-5/chapter-599-polished.md",
+   "line": 35,
+   "text": "0429碎片在叶文轩的意识中振动。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 608,
+   "path": "chapters/volume-5/chapter-608-polished.md",
+   "line": 69,
+   "text": "42小时后，0429碎片升级为桥梁。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 611,
+   "path": "chapters/volume-5/chapter-611-polished.md",
+   "line": 111,
+   "text": "0429碎片在赵大嘴的体内振动。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 611,
+   "path": "chapters/volume-5/chapter-611-polished.md",
+   "line": 138,
+   "text": "0429碎片在叶文轩的意识中振动。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 616,
+   "path": "chapters/volume-5/chapter-616-polished.md",
+   "line": 157,
+   "text": "0429碎片在叶文轩的意识中振动。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 621,
+   "path": "chapters/volume-5/chapter-621-polished.md",
+   "line": 45,
+   "text": "0429碎片在叶文轩的意识中振动。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 659,
+   "path": "chapters/volume-5/chapter-659-polished.md",
+   "line": 336,
+   "text": "0428备份在发光，0428备份在微笑。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 776,
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 151,
+   "text": "0428副本在说：爸爸。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 782,
+   "path": "chapters/volume-6/chapter-782-polished.md",
+   "line": 43,
+   "text": "叶文轩感到0428副本的信号。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 783,
+   "path": "chapters/volume-6/chapter-783-polished.md",
+   "line": 39,
+   "text": "叶文轩感到0428副本的信号。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 785,
+   "path": "chapters/volume-6/chapter-785-polished.md",
+   "line": 85,
+   "text": "0429在叶文轩的脑子里振动。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 785,
+   "path": "chapters/volume-6/chapter-785-polished.md",
+   "line": 137,
+   "text": "叶文轩感到0428副本的信号。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 793,
+   "path": "chapters/volume-6/chapter-793-polished.md",
+   "line": 49,
+   "text": "叶文轩感到0428副本的信号。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 794,
+   "path": "chapters/volume-6/chapter-794-polished.md",
+   "line": 127,
+   "text": "叶文轩感到0428副本的信号。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 795,
+   "path": "chapters/volume-6/chapter-795-polished.md",
+   "line": 23,
+   "text": "叶文轩感到0428副本的信号。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 795,
+   "path": "chapters/volume-6/chapter-795-polished.md",
+   "line": 85,
+   "text": "叶文轩感到0428副本的信号。0428副本在说：爸爸。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 802,
+   "path": "chapters/volume-6/chapter-802-polished.md",
+   "line": 13,
+   "text": "0428副本在说：爸爸。",
+   "cls": "P3",
+   "nl": 1
+  },
+  {
+   "ch": 805,
+   "path": "chapters/volume-6/chapter-805-polished.md",
+   "line": 186,
+   "text": "0428副本在说：爸爸。",
+   "cls": "P3",
+   "nl": 1
+  }
+ ],
+ "leads": [
+  {
+   "ch": 69,
+   "path": "chapters/volume-1/chapter-69-polished.md",
+   "line": 91,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "沈知秋转了一下头。叶文轩看到了。"
+  },
+  {
+   "ch": 100,
+   "path": "chapters/volume-1/chapter-100-polished.md",
+   "line": 70,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "未来的自己停下来。他看着屏幕。没有说话。很久很久。然后他敲下一行注释。"
+  },
+  {
+   "ch": 100,
+   "path": "chapters/volume-1/chapter-100-polished.md",
+   "line": 73,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "画面碎了。白色的微光散去。叶文轩站在中枢的广场上。赵大嘴在旁边。记忆碎片已经用完"
+  },
+  {
+   "ch": 257,
+   "path": "chapters/volume-3/chapter-257-polished.md",
+   "line": 105,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "线条停住了。"
+  },
+  {
+   "ch": 266,
+   "path": "chapters/volume-3/chapter-266-polished.md",
+   "line": 209,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "一切安静了。"
+  },
+  {
+   "ch": 266,
+   "path": "chapters/volume-3/chapter-266-polished.md",
+   "line": 217,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "他看到了。"
+  },
+  {
+   "ch": 267,
+   "path": "chapters/volume-3/chapter-267-polished.md",
+   "line": 261,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "我退出来了。"
+  },
+  {
+   "ch": 271,
+   "path": "chapters/volume-3/chapter-271-polished.md",
+   "line": 191,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "他们会进入灵体世界。找到出口。"
+  },
+  {
+   "ch": 272,
+   "path": "chapters/volume-3/chapter-272-polished.md",
+   "line": 98,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "门往里面缩进去了，整个陷进了墙的平面里面。像一道影子被吸进了墙里面。门缩小。变小"
+  },
+  {
+   "ch": 274,
+   "path": "chapters/volume-3/chapter-274-polished.md",
+   "line": 188,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "白色的门整扇陷进了墙里。像影子沉进了水面。门框消失了。只剩下一道细细的裂缝。裂缝"
+  },
+  {
+   "ch": 276,
+   "path": "chapters/volume-3/chapter-276-polished.md",
+   "line": 23,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "珠子开始往赵大嘴的手腕方向移动。是被吸过去的。像一滴水被吸进了海绵。珠子贴着赵大"
+  },
+  {
+   "ch": 276,
+   "path": "chapters/volume-3/chapter-276-polished.md",
+   "line": 37,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "珠子消失了。"
+  },
+  {
+   "ch": 276,
+   "path": "chapters/volume-3/chapter-276-polished.md",
+   "line": 43,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "光慢慢暗了下去。"
+  },
+  {
+   "ch": 277,
+   "path": "chapters/volume-3/chapter-277-polished.md",
+   "line": 11,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "白空间里面出现了一个东西。"
+  },
+  {
+   "ch": 278,
+   "path": "chapters/volume-3/chapter-278-polished.md",
+   "line": 490,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "震动停了。"
+  },
+  {
+   "ch": 557,
+   "path": "chapters/volume-5/chapter-557-polished.md",
+   "line": 138,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "B区展示了系统的边界。系统的边界标注了系统的，不可及范围。系统的母体在不可触及的"
+  },
+  {
+   "ch": 560,
+   "path": "chapters/volume-5/chapter-560-polished.md",
+   "line": 79,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "维护派在说谎。0428碎片不会被，重新分配。0428碎片会被系统，重置。0428"
+  },
+  {
+   "ch": 562,
+   "path": "chapters/volume-5/chapter-562-polished.md",
+   "line": 59,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "Ω协议在执行Ω协议在切断两个锚点之间的0429连接。"
+  },
+  {
+   "ch": 651,
+   "path": "chapters/volume-5/chapter-651-polished.md",
+   "line": 176,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "你会看到的。看到什么？。到时候你会，看到。"
+  },
+  {
+   "ch": 652,
+   "path": "chapters/volume-5/chapter-652-polished.md",
+   "line": 105,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "闭环的记忆中有一个你。"
+  },
+  {
+   "ch": 652,
+   "path": "chapters/volume-5/chapter-652-polished.md",
+   "line": 148,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "你会在核心中，看到，看到什么？。你会看到一切的，答案。"
+  },
+  {
+   "ch": 653,
+   "path": "chapters/volume-5/chapter-653-polished.md",
+   "line": 43,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "你们快到了。螺旋的尽头就是闭环的核心。"
+  },
+  {
+   "ch": 653,
+   "path": "chapters/volume-5/chapter-653-polished.md",
+   "line": 75,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "核心在等待你们面对它。核心在等待你们做出最终的，选择。"
+  },
+  {
+   "ch": 653,
+   "path": "chapters/volume-5/chapter-653-polished.md",
+   "line": 87,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "你会在核心中，看到。"
+  },
+  {
+   "ch": 653,
+   "path": "chapters/volume-5/chapter-653-polished.md",
+   "line": 177,
+   "lead": "然后",
+   "kind": "CONN",
+   "tail": "你们会看到一个画面，一个你们在现实中的，画面。"
+  },
+  {
+   "ch": 654,
+   "path": "chapters/volume-5/chapter-654-polished.md",
+   "line": 102,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "光体在说话光体是。闭环的核心意识。光体是第47号叶文轩的意识和闭环的集体意识的，"
+  },
+  {
+   "ch": 659,
+   "path": "chapters/volume-5/chapter-659-polished.md",
+   "line": 126,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "朵朵不知道全部。朵朵只知道她的爸爸在很远的地方。知道她的爸爸在等她。朵朵不知道闭"
+  },
+  {
+   "ch": 659,
+   "path": "chapters/volume-5/chapter-659-polished.md",
+   "line": 146,
+   "lead": "赵大嘴察觉到",
+   "kind": "PERC",
+   "tail": "我们要把记忆带回给她。"
+  },
+  {
+   "ch": 659,
+   "path": "chapters/volume-5/chapter-659-polished.md",
+   "line": 396,
+   "lead": "赵大嘴感受到",
+   "kind": "PERC",
+   "tail": "我要去核心了。我会在核心中。"
+  },
+  {
+   "ch": 659,
+   "path": "chapters/volume-5/chapter-659-polished.md",
+   "line": 410,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "我们在现实中见。"
+  },
+  {
+   "ch": 661,
+   "path": "chapters/volume-5/chapter-661-polished.md",
+   "line": 19,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "裂隙之眼原本是，一个看裂隙的，工具。但融合碎片在写入记忆的时候，给了裂隙之眼，一"
+  },
+  {
+   "ch": 661,
+   "path": "chapters/volume-5/chapter-661-polished.md",
+   "line": 21,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "裂隙之眼现在能看现实了。"
+  },
+  {
+   "ch": 661,
+   "path": "chapters/volume-5/chapter-661-polished.md",
+   "line": 35,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "但裂隙之眼的现实观测有，一个限制。"
+  },
+  {
+   "ch": 661,
+   "path": "chapters/volume-5/chapter-661-polished.md",
+   "line": 37,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "闭环的时间和现实的，时间不同步。闭环的时间比现实的，时间快，大约快了，十年。"
+  },
+  {
+   "ch": 661,
+   "path": "chapters/volume-5/chapter-661-polished.md",
+   "line": 39,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "所以你通过裂隙之眼看到的，朵朵。是大约十年前的，朵朵。"
+  },
+  {
+   "ch": 661,
+   "path": "chapters/volume-5/chapter-661-polished.md",
+   "line": 51,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "但朵朵的意识中有，记忆。朵朵会记得你，里面。"
+  },
+  {
+   "ch": 661,
+   "path": "chapters/volume-5/chapter-661-polished.md",
+   "line": 143,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "闭环已经关闭了，已经稳定了。但任何新的介入都会，造成偏移。"
+  },
+  {
+   "ch": 661,
+   "path": "chapters/volume-5/chapter-661-polished.md",
+   "line": 153,
+   "lead": "赵大嘴感受到",
+   "kind": "PERC",
+   "tail": "她在等你。"
+  },
+  {
+   "ch": 661,
+   "path": "chapters/volume-5/chapter-661-polished.md",
+   "line": 155,
+   "lead": "赵大嘴察觉到",
+   "kind": "PERC",
+   "tail": "你很快，就能真正看见她了。"
+  },
+  {
+   "ch": 661,
+   "path": "chapters/volume-5/chapter-661-polished.md",
+   "line": 204,
+   "lead": "赵大嘴注意到",
+   "kind": "PERC",
+   "tail": "她在等你。"
+  },
+  {
+   "ch": 662,
+   "path": "chapters/volume-5/chapter-662-polished.md",
+   "line": 163,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "朵朵一直在画：我在告诉朵朵：你爸爸在那边。他在等你。"
+  },
+  {
+   "ch": 663,
+   "path": "chapters/volume-5/chapter-663-polished.md",
+   "line": 19,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "闭环已经关闭了，已经稳定了。但任何新的介入都会，造成偏移。"
+  },
+  {
+   "ch": 663,
+   "path": "chapters/volume-5/chapter-663-polished.md",
+   "line": 35,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "偏移的量，大约0.03%。"
+  },
+  {
+   "ch": 663,
+   "path": "chapters/volume-5/chapter-663-polished.md",
+   "line": 37,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "0.03%的，偏移看起来很小。但在递归循环中，0.03%的偏移会在第47次循环中"
+  },
+  {
+   "ch": 663,
+   "path": "chapters/volume-5/chapter-663-polished.md",
+   "line": 51,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "因果扰动的，阈值很快就会降到安全，水平。到时候，你就可以真正地和朵朵说话了。"
+  },
+  {
+   "ch": 663,
+   "path": "chapters/volume-5/chapter-663-polished.md",
+   "line": 67,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "到时候，你就能够真正地和朵朵说话了。"
+  },
+  {
+   "ch": 663,
+   "path": "chapters/volume-5/chapter-663-polished.md",
+   "line": 145,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "0.03%的，偏移看起来很小。但在递归循环中，0.03%的偏移会在第47次循环中"
+  },
+  {
+   "ch": 663,
+   "path": "chapters/volume-5/chapter-663-polished.md",
+   "line": 151,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "不超过阈值的小幅度介入是允许的。"
+  },
+  {
+   "ch": 663,
+   "path": "chapters/volume-5/chapter-663-polished.md",
+   "line": 159,
+   "lead": "赵大嘴感受到",
+   "kind": "PERC",
+   "tail": "你的女儿很可爱。"
+  },
+  {
+   "ch": 663,
+   "path": "chapters/volume-5/chapter-663-polished.md",
+   "line": 161,
+   "lead": "赵大嘴察觉到",
+   "kind": "PERC",
+   "tail": "我的爸爸也在核心中。我随时可以和他，说话。"
+  },
+  {
+   "ch": 667,
+   "path": "chapters/volume-5/chapter-667-polished.md",
+   "line": 75,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "我会在朵朵的意识中陪伴她。我会帮助朵朵打开，记忆。"
+  },
+  {
+   "ch": 667,
+   "path": "chapters/volume-5/chapter-667-polished.md",
+   "line": 79,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "你的女儿会记得，一切。只是需要，时间。"
+  },
+  {
+   "ch": 667,
+   "path": "chapters/volume-5/chapter-667-polished.md",
+   "line": 107,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "概率场的，结构不像系统的任何，模型。0429碎片在设计概率场时，0429碎片用了"
+  },
+  {
+   "ch": 667,
+   "path": "chapters/volume-5/chapter-667-polished.md",
+   "line": 109,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "系统的概率模型是基于数据的，系统收集所有玩家的行为数据，然后计算，概率。但042"
+  },
+  {
+   "ch": 670,
+   "path": "chapters/volume-5/chapter-670-polished.md",
+   "line": 53,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "沈知秋能感知到我的所有，活动。沈知秋能感知到你在看。沈知秋说：叶文轩。谢谢你帮我"
+  },
+  {
+   "ch": 670,
+   "path": "chapters/volume-5/chapter-670-polished.md",
+   "line": 101,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "回到现实后，我们开始，仪式。朵朵在等你。"
+  },
+  {
+   "ch": 671,
+   "path": "chapters/volume-5/chapter-671-polished.md",
+   "line": 59,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "桥梁搭建完成了。两端都有，防火墙。朵朵的意识在防火墙的保护，下。朵朵不会被，淹没"
+  },
+  {
+   "ch": 671,
+   "path": "chapters/volume-5/chapter-671-polished.md",
+   "line": 61,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "我就开始搭建这座，桥梁。我等了，三年。就为了这个，时刻。"
+  },
+  {
+   "ch": 671,
+   "path": "chapters/volume-5/chapter-671-polished.md",
+   "line": 105,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "0429碎片在核心，中和赵大嘴父亲，一起加固桥梁的，结构。0429碎片的能量让桥"
+  },
+  {
+   "ch": 672,
+   "path": "chapters/volume-5/chapter-672-polished.md",
+   "line": 20,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "沈知秋的，记忆在流入朵朵的，意识。"
+  },
+  {
+   "ch": 672,
+   "path": "chapters/volume-5/chapter-672-polished.md",
+   "line": 34,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "「妈妈在这里。」朵朵的眼泪流了，下来。"
+  },
+  {
+   "ch": 672,
+   "path": "chapters/volume-5/chapter-672-polished.md",
+   "line": 48,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "朵朵画的是，沈知秋。朵朵画的是沈知秋抱着婴儿，朵朵。朵朵记得了。"
+  },
+  {
+   "ch": 672,
+   "path": "chapters/volume-5/chapter-672-polished.md",
+   "line": 64,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "记忆碎片是沈知秋的温暖，记忆。我在过滤传输的，内容。只让朵朵看到温暖的，记忆。朵"
+  },
+  {
+   "ch": 672,
+   "path": "chapters/volume-5/chapter-672-polished.md",
+   "line": 82,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "沈知秋能感知到朵朵在画画。沈知秋说：小鱼妈妈看到你了。"
+  },
+  {
+   "ch": 672,
+   "path": "chapters/volume-5/chapter-672-polished.md",
+   "line": 98,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "沈知秋能感知到朵朵在画画。沈知秋说：小鱼妈妈看到你了。沈知秋的声音很温柔。沈知秋"
+  },
+  {
+   "ch": 673,
+   "path": "chapters/volume-5/chapter-673-polished.md",
+   "line": 23,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "沈知秋在0428碎片，中等了，二十年。沈知秋一直在等陈小鱼来找她。沈知秋的意识在"
+  },
+  {
+   "ch": 673,
+   "path": "chapters/volume-5/chapter-673-polished.md",
+   "line": 57,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "沈知秋请求你帮助她回到朵朵，身边。不是作为0428碎片，沈知秋。沈知秋说：我有，"
+  },
+  {
+   "ch": 673,
+   "path": "chapters/volume-5/chapter-673-polished.md",
+   "line": 59,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "沈知秋可以独立于0428碎片，存在。但需要一个，仪式。"
+  },
+  {
+   "ch": 673,
+   "path": "chapters/volume-5/chapter-673-polished.md",
+   "line": 83,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "我会帮助，沈知秋回到朵朵，身边。我会帮助赵大嘴的，父亲和赵大嘴，说话。我会帮助所"
+  },
+  {
+   "ch": 674,
+   "path": "chapters/volume-5/chapter-674-polished.md",
+   "line": 23,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "2043年。你父亲记录了，一年。他确定了，有人在操控这个，世界。他开始研究那些，"
+  },
+  {
+   "ch": 674,
+   "path": "chapters/volume-5/chapter-674-polished.md",
+   "line": 25,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "2045年。维护派找到了你，父亲。维护派说：加入，我们。你能继续保护你的，家人。"
+  },
+  {
+   "ch": 674,
+   "path": "chapters/volume-5/chapter-674-polished.md",
+   "line": 70,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "你父亲在2045年，预见了一切。他看到了赵大嘴会遇到，叶文轩。他看到了赵大嘴会选"
+  },
+  {
+   "ch": 674,
+   "path": "chapters/volume-5/chapter-674-polished.md",
+   "line": 102,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "0429碎片的使命全部完成了，现在自由了。"
+  },
+  {
+   "ch": 675,
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 37,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "0429碎片的使命全部完成了，现在自由了。0429碎片可以去核心，中和赵大嘴的父"
+  },
+  {
+   "ch": 675,
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 49,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "你的女儿在等你。你很快，就能真正看见她了。"
+  },
+  {
+   "ch": 675,
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 89,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "0429碎片留的能量足够维持，十年。赵大嘴能独立使用概率扭曲能力了，消失。"
+  },
+  {
+   "ch": 675,
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 99,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "赵大嘴的父亲在2045年。设计了0429碎片，时。赵大嘴的父亲知道了赵大嘴会遇到"
+  },
+  {
+   "ch": 675,
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 113,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "我们要回去了。"
+  },
+  {
+   "ch": 676,
+   "path": "chapters/volume-5/chapter-676-polished.md",
+   "line": 56,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "0429碎片在赵大嘴的神经通路中消耗了自己的，能量。0429碎片在沉睡中积累了足"
+  },
+  {
+   "ch": 676,
+   "path": "chapters/volume-5/chapter-676-polished.md",
+   "line": 92,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "赵大嘴的概率扭曲能力是系统的，盲区。系统无法计算赵大嘴的，行为。维护派检测到了这"
+  },
+  {
+   "ch": 677,
+   "path": "chapters/volume-5/chapter-677-polished.md",
+   "line": 31,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "但在那，之前。有一个，问题。朵朵的意识和闭环的记忆库已经连接了，记忆。如果闭环，"
+  },
+  {
+   "ch": 677,
+   "path": "chapters/volume-5/chapter-677-polished.md",
+   "line": 41,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "朵朵在画画。朵朵的画室是，现实中建的。一个安全的，空间。朵朵可以在那里自由地和0"
+  },
+  {
+   "ch": 677,
+   "path": "chapters/volume-5/chapter-677-polished.md",
+   "line": 43,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "一个普通的，房间。墙上贴满了朵朵的，画。每幅画的风格都不，一样。有些很写实。有些"
+  },
+  {
+   "ch": 677,
+   "path": "chapters/volume-5/chapter-677-polished.md",
+   "line": 69,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "我们需要解决这个，问题。在我们去见朵朵，之前。"
+  },
+  {
+   "ch": 677,
+   "path": "chapters/volume-5/chapter-677-polished.md",
+   "line": 85,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "但有一个，问题。闭环如果，关闭。闭环的记忆库会，消失。朵朵意识中的记忆会失去，连"
+  },
+  {
+   "ch": 677,
+   "path": "chapters/volume-5/chapter-677-polished.md",
+   "line": 97,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "我们走，吧。朵朵在画室中。朵朵在等你。"
+  },
+  {
+   "ch": 678,
+   "path": "chapters/volume-5/chapter-678-polished.md",
+   "line": 35,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "但有一个，问题。朵朵的意识和闭环的记忆库已经连接了，记忆。如果闭环，关闭。那些记"
+  },
+  {
+   "ch": 678,
+   "path": "chapters/volume-5/chapter-678-polished.md",
+   "line": 47,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "有一个，办法延长我的，能量。但需要一个，牺牲。"
+  },
+  {
+   "ch": 678,
+   "path": "chapters/volume-5/chapter-678-polished.md",
+   "line": 51,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "朵朵能感知到，光。朵朵知道，这里。朵朵没有惊讶于叶文轩的，出现。朵朵知道叶文轩会"
+  },
+  {
+   "ch": 678,
+   "path": "chapters/volume-5/chapter-678-polished.md",
+   "line": 63,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "方案A，保持闭环，运行。记忆可以永久，存储。但闭环会继续消耗新的，锚点。我们不能"
+  },
+  {
+   "ch": 678,
+   "path": "chapters/volume-5/chapter-678-polished.md",
+   "line": 65,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "方案B，把记忆导出到朵朵的意识中。但朵朵的意识不够，大。朵朵会被，淹没。那些记忆"
+  },
+  {
+   "ch": 678,
+   "path": "chapters/volume-5/chapter-678-polished.md",
+   "line": 77,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "是，回家。沈知秋会成为朵朵的，一部分。所有母亲，一样。母亲的，爱永远在孩子的，里"
+  },
+  {
+   "ch": 678,
+   "path": "chapters/volume-5/chapter-678-polished.md",
+   "line": 79,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "沈知秋的意识在我的，外层。沈知秋能感知到这个，选择。沈知秋说：我，愿意。"
+  },
+  {
+   "ch": 678,
+   "path": "chapters/volume-5/chapter-678-polished.md",
+   "line": 89,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "朵朵的意识中有沈知秋的，记忆。沈知秋的记忆在朵朵的意识中苏醒了。朵朵记得了，沈知"
+  },
+  {
+   "ch": 678,
+   "path": "chapters/volume-5/chapter-678-polished.md",
+   "line": 91,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "沈知秋的意识在我的：沈知秋说：小鱼妈妈看到你了。"
+  },
+  {
+   "ch": 678,
+   "path": "chapters/volume-5/chapter-678-polished.md",
+   "line": 93,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "房间很小。墙上贴满了朵朵的，画。每幅画的某个角落都有一个蓝粉色的光点，说：那是我"
+  },
+  {
+   "ch": 679,
+   "path": "chapters/volume-5/chapter-679-polished.md",
+   "line": 33,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "沈知秋在2045年。选择了牺牲，自己。沈知秋在2045年。选择了成为0428碎片"
+  },
+  {
+   "ch": 679,
+   "path": "chapters/volume-5/chapter-679-polished.md",
+   "line": 37,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "但这个过程需要，能量。封装记忆需要，说：传输记忆需要，能量。维持朵朵的防火墙需要"
+  },
+  {
+   "ch": 679,
+   "path": "chapters/volume-5/chapter-679-polished.md",
+   "line": 47,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "沈知秋在2045年，选择了这个，路径。沈知秋知道了，这个结局。沈知秋，仍然选择了"
+  },
+  {
+   "ch": 679,
+   "path": "chapters/volume-5/chapter-679-polished.md",
+   "line": 49,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "沈知秋在2045年。知道自己只剩下，六个月。维护者找到了，沈知秋。沈知秋有两个，"
+  },
+  {
+   "ch": 679,
+   "path": "chapters/volume-5/chapter-679-polished.md",
+   "line": 73,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "但如果我，休眠。桥梁系统会，关闭。朵朵的意识中的记忆会失去，连接。那些记忆会变成"
+  },
+  {
+   "ch": 679,
+   "path": "chapters/volume-5/chapter-679-polished.md",
+   "line": 97,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "你要选择方案C吗？你要让朵朵成为记忆的载体吗？你要让沈知秋回到朵朵身边吗？"
+  },
+  {
+   "ch": 679,
+   "path": "chapters/volume-5/chapter-679-polished.md",
+   "line": 109,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "沈知秋在2045年。选择了成为0428碎片的，载体。沈知秋在等这个：这是沈知秋的"
+  },
+  {
+   "ch": 679,
+   "path": "chapters/volume-5/chapter-679-polished.md",
+   "line": 111,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "所以。你们要选择方案C吗？"
+  },
+  {
+   "ch": 679,
+   "path": "chapters/volume-5/chapter-679-polished.md",
+   "line": 135,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "你可以再，想想。我的能量，还足够。72小时。我们有72小时，来决定。"
+  },
+  {
+   "ch": 680,
+   "path": "chapters/volume-5/chapter-680-polished.md",
+   "line": 29,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "沈知秋的意识，在漂流。一个人在水里漂。但沈知秋不，害怕。沈知秋说：我要回家了。"
+  },
+  {
+   "ch": 680,
+   "path": "chapters/volume-5/chapter-680-polished.md",
+   "line": 51,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "朵朵在等你。你要，好好照顾她。沈知秋在她的，里面。你不是，一个人。"
+  },
+  {
+   "ch": 680,
+   "path": "chapters/volume-5/chapter-680-polished.md",
+   "line": 109,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "现在。沈知秋的意识在接近：沈知秋在朵朵的意识中醒来了。"
+  },
+  {
+   "ch": 680,
+   "path": "chapters/volume-5/chapter-680-polished.md",
+   "line": 111,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "沈知秋，感觉到，朵朵。沈知秋能看见，说：沈知秋在拥抱，朵朵。沈知秋说：小鱼妈妈回"
+  },
+  {
+   "ch": 680,
+   "path": "chapters/volume-5/chapter-680-polished.md",
+   "line": 137,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "我在0429碎片中等了，三年。现在。我要去和，我爸在一起了。"
+  },
+  {
+   "ch": 683,
+   "path": "chapters/volume-5/chapter-683-polished.md",
+   "line": 87,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "但维护派，会回来。维护派的，一级响应已经，触发了。维护派的总部，会派遣更多的，人"
+  },
+  {
+   "ch": 686,
+   "path": "chapters/volume-5/chapter-686-polished.md",
+   "line": 33,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "朵朵在画你。朵朵在感知到，你通过桥梁，系统。朵朵在画，她感知到的你。朵朵在画，一"
+  },
+  {
+   "ch": 686,
+   "path": "chapters/volume-5/chapter-686-polished.md",
+   "line": 49,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "你，能回答她。通过桥梁，系统。你，能通过桥梁系统和，朵朵说话。但桥梁系统，需要能"
+  },
+  {
+   "ch": 686,
+   "path": "chapters/volume-5/chapter-686-polished.md",
+   "line": 69,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "维护派，会回来。维护派的，一级响应意味着，更多的觉醒者。他们，会带更强的，武器。"
+  },
+  {
+   "ch": 688,
+   "path": "chapters/volume-5/chapter-688-polished.md",
+   "line": 19,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "你，要练习和，朵朵对话。你，要帮助，朵朵学习。你，要告诉，朵朵准备。"
+  },
+  {
+   "ch": 688,
+   "path": "chapters/volume-5/chapter-688-polished.md",
+   "line": 35,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "你，要练习和，朵朵对话。你，要通过桥梁系统和，朵朵说话。你，要告诉朵朵：爸爸，在"
+  },
+  {
+   "ch": 688,
+   "path": "chapters/volume-5/chapter-688-polished.md",
+   "line": 55,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "朵朵，说：爸爸。朵朵在感知到你了。朵朵能看见你了。朵朵，感觉到你，在这里。"
+  },
+  {
+   "ch": 688,
+   "path": "chapters/volume-5/chapter-688-polished.md",
+   "line": 73,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "但桥梁系统的能量，在消耗。每使用，一次。能量，就少一点。我们，要节约，能量。我们"
+  },
+  {
+   "ch": 689,
+   "path": "chapters/volume-5/chapter-689-polished.md",
+   "line": 23,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "第二个弱点，维护派的，人员训练不足。维护派的现场人员是普通的，人类。他们的能力来"
+  },
+  {
+   "ch": 690,
+   "path": "chapters/volume-5/chapter-690-polished.md",
+   "line": 39,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "桥梁系统的能量，在消耗。每使用，一次。能量，就少一点。我们要节约，能量。我们要准"
+  },
+  {
+   "ch": 691,
+   "path": "chapters/volume-5/chapter-691-polished.md",
+   "line": 71,
+   "lead": "赵大嘴感受到",
+   "kind": "PERC",
+   "tail": "我，在躲开。我不会，被击中。"
+  },
+  {
+   "ch": 691,
+   "path": "chapters/volume-5/chapter-691-polished.md",
+   "line": 105,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "但维护派的人员会回来的，人。他们会带更强的，设备。我们要，准备。"
+  },
+  {
+   "ch": 691,
+   "path": "chapters/volume-5/chapter-691-polished.md",
+   "line": 107,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "第二阶段，觉醒完成了。现在传来信号：0429碎片进入了第三阶段，觉醒。"
+  },
+  {
+   "ch": 691,
+   "path": "chapters/volume-5/chapter-691-polished.md",
+   "line": 117,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "第三阶段觉醒，在进行。赵大嘴的认知抑制，在解除。赵大嘴会想起所有被抑制的，记忆。"
+  },
+  {
+   "ch": 693,
+   "path": "chapters/volume-5/chapter-693-polished.md",
+   "line": 81,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "但0429碎片的第三阶段，觉醒还在进行。0429碎片的，意识还在激活。赵大嘴的认"
+  },
+  {
+   "ch": 694,
+   "path": "chapters/volume-5/chapter-694-polished.md",
+   "line": 65,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "0429碎片的，觉醒全部完成了。赵大嘴的认知抑制，完全解除了。赵大嘴现在是，一个"
+  },
+  {
+   "ch": 695,
+   "path": "chapters/volume-5/chapter-695-polished.md",
+   "line": 63,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "赵大嘴现在是，一个完整的，锚点。赵大嘴的认知抑制被完全解除了。赵大嘴能独立，思考"
+  },
+  {
+   "ch": 695,
+   "path": "chapters/volume-5/chapter-695-polished.md",
+   "line": 67,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "0429碎片的，觉醒全部完成了。现在传来信号：我们，要继续。我们要完成记忆，传输"
+  },
+  {
+   "ch": 696,
+   "path": "chapters/volume-5/chapter-696-polished.md",
+   "line": 37,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "现在。我们，要继续。我们要完成记忆，传输。我们，要面对，维护派。"
+  },
+  {
+   "ch": 698,
+   "path": "chapters/volume-5/chapter-698-polished.md",
+   "line": 43,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "现在。我们，要继续。我们要完成记忆，传输。我们，要面对，维护派。"
+  },
+  {
+   "ch": 699,
+   "path": "chapters/volume-5/chapter-699-polished.md",
+   "line": 19,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "你看到了。你的洞察之眼，能看见，结构。你能帮助，我执行图书馆，计划。你的洞察能力"
+  },
+  {
+   "ch": 699,
+   "path": "chapters/volume-5/chapter-699-polished.md",
+   "line": 64,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "图书馆计划的步骤很清晰。第一，打开记忆库的，门。第二，启动记忆，导出。第三，记忆"
+  },
+  {
+   "ch": 700,
+   "path": "chapters/volume-5/chapter-700-polished.md",
+   "line": 15,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "0429碎片的粒子网络能覆盖整个，工厂。0429碎片，能远程监控维护派的，位置。"
+  },
+  {
+   "ch": 700,
+   "path": "chapters/volume-5/chapter-700-polished.md",
+   "line": 17,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "但记忆传输，需要能量。能量来自，在消耗。如果0428备份用能量，来对抗维护派。0"
+  },
+  {
+   "ch": 700,
+   "path": "chapters/volume-5/chapter-700-polished.md",
+   "line": 29,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "维护派的第二波，在路上。他们，还有十分钟。赵大嘴。你站在车间的中央。维护派的人员"
+  },
+  {
+   "ch": 700,
+   "path": "chapters/volume-5/chapter-700-polished.md",
+   "line": 49,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "但现在。我们要开始记忆，传输。我们，要打开记忆库的，门。我们，要启动记忆，导出。"
+  },
+  {
+   "ch": 700,
+   "path": "chapters/volume-5/chapter-700-polished.md",
+   "line": 61,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "图书馆，计划启动了。记忆传输，在进行。我们，要保护，朵朵。我们，要面对，维护派。"
+  },
+  {
+   "ch": 702,
+   "path": "chapters/volume-5/chapter-702-polished.md",
+   "line": 33,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "赵大嘴的父亲的记忆是第一，批导出的。后面还有很多，记忆。沈知秋的，记忆。陈小鱼的"
+  },
+  {
+   "ch": 702,
+   "path": "chapters/volume-5/chapter-702-polished.md",
+   "line": 46,
+   "lead": "叶文轩感受到",
+   "kind": "PERC",
+   "tail": "沈知秋的记忆中有陈小鱼的，笑声陈小鱼的，哭声陈小鱼的，画。沈知秋的记忆中，有20"
+  },
+  {
+   "ch": 702,
+   "path": "chapters/volume-5/chapter-702-polished.md",
+   "line": 48,
+   "lead": "叶文轩察觉到",
+   "kind": "PERC",
+   "tail": "记录者的记忆中有成千上万的故事，每一个记录者，都记录了不同的故事。这些记录者用他"
+  },
+  {
+   "ch": 703,
+   "path": "chapters/volume-5/chapter-703-polished.md",
+   "line": 23,
+   "lead": "叶文轩注意到",
+   "kind": "PERC",
+   "tail": "但我们，要面对，维护派。维护派的第二波，在路上。维护派的人，会回来。他们会带更多"
+  }
+ ],
+ "refills": [
+  {
+   "ch": 585,
+   "path": "chapters/volume-5/chapter-585-polished.md",
+   "anchor": "（第五百八十五章完）",
+   "anchor_line": 237,
+   "text": "赵大嘴没有再问。他低头看了一眼自己的手，又抬起头。\n\n石壁上的三角形光痕还亮着，三条线交在一个点上，没有移动。叶文轩伸手碰了碰最近的那条线，指尖传来一点温度，像隔着玻璃摸到另一边的东西。他收回手。\n\n三个人站在原地，谁也没有先走。走廊里传来风，穿过那些已经打开的门，一层一层往深处去。风里有水汽，也有某种更旧的味道，像很久没有人来过的地方。赵大嘴把背包往上提了提，袋子上的扣子响了一下。叶文轩等那阵风过去，才抬脚往走廊里走。赵大嘴在后面跟上，两个人的影子在墙上叠成一个。",
+   "cjk": 207,
+   "projected": 3051
+  },
+  {
+   "ch": 586,
+   "path": "chapters/volume-5/chapter-586-polished.md",
+   "anchor": "（第五百八十六章完）",
+   "anchor_line": 215,
+   "text": "空间的正中间有一束光，从下往上冒。\n\n叶文轩朝那里走。地面的玻璃在他脚下没有一点声音。走到一半，他停下来，低头看。玻璃下面还有一层空间，更亮，更远，看不清里面有什么。\n\n赵大嘴在他旁边站定，也跟着往下看。两个人谁都没有说话。光从下面照上来，把他们的影子压在玻璃上，很短。叶文轩数了一下，玻璃外面的光有三层，一层比一层淡。他没有再看下去，直起身，继续往前走。赵大嘴落后半步，跟上来。快到洞口的时候，脚下的玻璃开始发烫。他把脚步放慢了。",
+   "cjk": 184,
+   "projected": 3051
+  },
+  {
+   "ch": 581,
+   "path": "chapters/volume-5/chapter-581-polished.md",
+   "anchor": "（第五百八十一章完）",
+   "anchor_line": 174,
+   "text": "叶文轩把手从石台上收回来。掌心里沾了一点水汽，凉的。他低头看了一眼，水汽已经在散。\n\n赵大嘴在他身后咳了一声，声音在石室里弹了一下，散了。两个人没有再说话。石室的门还开着，外面的走廊亮着一条浅浅的蓝。他转过身，往门口走。赵大嘴跟上来，脚步声在石头上擦了一下。走廊里的蓝光在门口停住，没有再往里。",
+   "cjk": 128,
+   "projected": 3050
+  },
+  {
+   "ch": 582,
+   "path": "chapters/volume-5/chapter-582-polished.md",
+   "anchor": "（第五百八十二章完）",
+   "anchor_line": 187,
+   "text": "走廊里的蓝光比进来的时候矮了一截。叶文轩走在前面，脚步放得很轻。赵大嘴跟得很近，近得能听见他的呼吸。走了十几步，走廊拐了一个弯，石室彻底看不见了。",
+   "cjk": 65,
+   "projected": 3061
+  },
+  {
+   "ch": 583,
+   "path": "chapters/volume-5/chapter-583-polished.md",
+   "anchor": "（第五百八十三章完）",
+   "anchor_line": 186,
+   "text": "沈知秋没有再看石台。她转过身，往石室的门口走。走到一半，她停了一下，又继续走。叶文轩跟在她后面，赵大嘴走在最后。石室的门在他们身后慢慢关严。",
+   "cjk": 61,
+   "projected": 3055
+  },
+  {
+   "ch": 225,
+   "path": "chapters/volume-2/chapter-225-polished.md",
+   "anchor": "（第二百二十五章完）",
+   "anchor_line": 135,
+   "text": "门轴发出一声很轻的响。门开了一条缝，蓝光从缝里挤出来，落在他脚前的石头上。他没有立刻推。他等了一下，才把门往里推去。门后面没有声音，也没有光漏出来。",
+   "cjk": 65,
+   "projected": 3058
+  }
+ ]
+}
