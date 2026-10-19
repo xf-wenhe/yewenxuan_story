@@ -1,0 +1,150 @@
+{
+ "meta": {
+  "round": "R298",
+  "date": "2026-10-19",
+  "rule": "line-anchored whole-line replacement for the registered station backlog; every new line is the smallest witnessed edit",
+  "records": 14,
+  "chapters": 7,
+  "cjk_delta": 6,
+  "library_before": 3670423,
+  "library_after": 3670429,
+  "registered_not_repaired": [
+   "ch180 L47 deleted sentences 像在商量什么/像在等谁 -- no witness in any commit",
+   "voice-form heads ch116 L253 / ch156 L53 / ch157 L35 / ch722 L139 / ch723 L79 / ch709 L35 / ch809 L35 -- grammatical machine voice, no loss",
+   "ch246 / ch252 A2 rebuild choices -- kept",
+   "ch405 L33 / ch836 L7 看着看着 -- author text, kept",
+   "ch20 L186 / ch37 L241 心脏重重一跳了一下 -- 重重 is legal, anchor unmapped",
+   "R295 32 terminator-less lines -- per-station adjudication pending",
+   "R285 45 sub-5-CJK / 13 sub_m / 255 t_in_mixed -- family census pending",
+   "R284 63 T-EOL + unbalanced 30 / quoted_attr 19 / trail_unq 124"
+  ]
+ },
+ "records": [
+  {
+   "ch": 203,
+   "path": "chapters/volume-2/chapter-203-polished.md",
+   "line": 3,
+   "old": "旧城区的地面在动。是地底的东西在动。叶文轩蹲下来，把手按在灰色的地面上。地面在他手掌下面震。震得很规律。四下的地方没有来，像数数数到三就停。像有节拍器在很远的地方敲。节拍器在传上来，经过了一层一层的土，传上来的时候已经沉了，沉得像一声叹息。叹息从地底传上来，传到他的手腕。",
+   "new": "旧城区的地面在动。是地底的东西在动。叶文轩蹲下来，把手按在灰色的地面上。地面在他手掌下面震。震得很规律。一下。两下。三下。四下的地方没有来，像数数数到三就停。像有节拍器在很远的地方敲。节拍器在传上来，经过了一层一层的土，传上来的时候已经沉了，沉得像一声叹息。叹息从地底传上来，传到他的手腕。",
+   "evidence": "956fbc1f: parent carries 一下。两下。三下。",
+   "cjk_delta": 6
+  },
+  {
+   "ch": 499,
+   "path": "chapters/volume-4/chapter-499-polished.md",
+   "line": 39,
+   "old": "因为系统不让我选。\"赵大嘴的声调平低面有一种叶文轩从来没有听过的平静，是从骨头里面透出来的安静，他一直在等一个可以开口说话的场合，等了很多次循环，终于等到了。\"闭环需要我选或者B。A是重启，闭环继续运转。B是继续，闭环接着运转，不管选哪个闭环都在，选不一样选C=闭环结束。系统不允许我选C。所以我每次选了之后，系统就把我送回去，让我忘掉自己选了什么。\"",
+   "new": "\"因为系统不让我选。\"赵大嘴的声调平低面有一种叶文轩从来没有听过的平静，是从骨头里面透出来的安静，他一直在等一个可以开口说话的场合，等了很多次循环，终于等到了。\"闭环需要我选或者B。A是重启，闭环继续运转。B是继续，闭环接着运转，不管选哪个闭环都在，选不一样选C=闭环结束。系统不允许我选C。所以我每次选了之后，系统就把我送回去，让我忘掉自己选了什么。\"",
+   "evidence": "stray opening quote relocated to the head of the speech",
+   "cjk_delta": 0
+  },
+  {
+   "ch": 502,
+   "path": "chapters/volume-4/chapter-502-polished.md",
+   "line": 84,
+   "old": "沈，沈知秋叶文轩的手指从面板上移开。房间里面的代码光还在流动，蓝色的，不急不缓，呼吸0429的振动从急促的脉冲变回了平稳的嗡鸣，在对他说：这就是疗养院。这就是她留下的东西。她不是Boss，她是来帮你的。叶文轩看向房间的角落。角落里面有一个东西，他刚才没有注意到。一件红色的连衣裙，叠得好好的，放在一个 wooden box 上面。",
+   "new": "沈，沈知秋。叶文轩的手指从面板上移开。房间里面的代码光还在流动，蓝色的，不急不缓，呼吸。0429的振动从急促的脉冲变回了平稳的嗡鸣，在对他说：这就是疗养院。这就是她留下的东西。她不是Boss，她是来帮你的。叶文轩看向房间的角落。角落里面有一个东西，他刚才没有注意到。一件红色的连衣裙，叠得好好的，放在一个 wooden box 上面。",
+   "evidence": "f7622c68^ carries 沈。沈知秋。 and 像呼吸。0429",
+   "cjk_delta": 0
+  },
+  {
+   "ch": 502,
+   "path": "chapters/volume-4/chapter-502-polished.md",
+   "line": 86,
+   "old": "连衣裙旁边有一个泰迪熊，缺了一只眼睛，棉花从破口里面露出来0429在说那是朵朵的衣服。那是她的泰迪熊。它们在这里面存放了很多年了。沈知秋把它们放在这里了，在代码里面在副本的核心里面。赵大嘴走到叶文轩身边，顺着他的目光看向角落，他的表情变了。那是赵大嘴的声调低了下去，\"是上次副本里面朵朵穿的衣服。",
+   "new": "连衣裙旁边有一个泰迪熊，缺了一只眼睛，棉花从破口里面露出来。0429在说那是朵朵的衣服。那是她的泰迪熊。它们在这里面存放了很多年了。沈知秋把它们放在这里了，在代码里面在副本的核心里面。赵大嘴走到叶文轩身边，顺着他的目光看向角落，他的表情变了。那是赵大嘴的声调低了下去，\"是上次副本里面朵朵穿的衣服。\"",
+   "evidence": "f7622c68^ carries 露出来。0429在说; the closing quote of the speech was lost",
+   "cjk_delta": 0
+  },
+  {
+   "ch": 589,
+   "path": "chapters/volume-5/chapter-589-polished.md",
+   "line": 25,
+   "old": "\"我明白，\"赵大嘴说，说话语气刻板\"系统的C是崩溃。你的C是桥梁。我用三个精华碎片帮你改写C的代码。\"",
+   "new": "\"我明白，\"赵大嘴说，说话语气刻板，\"系统的C是崩溃。你的C是桥梁。我用三个精华碎片帮你改写C的代码。\"",
+   "evidence": "missing comma before the quoted continuation",
+   "cjk_delta": 0
+  },
+  {
+   "ch": 589,
+   "path": "chapters/volume-5/chapter-589-polished.md",
+   "line": 35,
+   "old": "\"0429在削弱认知抑制，\"叶文轩说，声音有些干\"你感到吗？\"",
+   "new": "\"0429在削弱认知抑制，\"叶文轩说，声音有些干，\"你感到吗？\"",
+   "evidence": "missing comma before the quoted continuation",
+   "cjk_delta": 0
+  },
+  {
+   "ch": 589,
+   "path": "chapters/volume-5/chapter-589-polished.md",
+   "line": 43,
+   "old": "\"我能想起更多事了，\"赵大嘴说，嗓音带沙\"我父亲，我母亲我三年前在呼叫中心的工作，我的真名赵磊。0429在把这些记忆还给我。\"",
+   "new": "\"我能想起更多事了，\"赵大嘴说，嗓音带沙，\"我父亲，我母亲我三年前在呼叫中心的工作，我的真名赵磊。0429在把这些记忆还给我。\"",
+   "evidence": "missing comma before the quoted continuation",
+   "cjk_delta": 0
+  },
+  {
+   "ch": 589,
+   "path": "chapters/volume-5/chapter-589-polished.md",
+   "line": 61,
+   "old": "但核心结构说\"48小时内系统不会主动攻击，\"系统的扫描程序需要18小时确认0428碎片离开，确认后系统需要更多时间来定位0429碎片，0429碎片在赵大嘴的神经系统中，不是系统能轻易扫描到的。",
+   "new": "但核心结构说，\"48小时内系统不会主动攻击，\"系统的扫描程序需要18小时确认0428碎片离开，确认后系统需要更多时间来定位0429碎片，0429碎片在赵大嘴的神经系统中，不是系统能轻易扫描到的。",
+   "evidence": "missing comma between the attribution and the quote",
+   "cjk_delta": 0
+  },
+  {
+   "ch": 589,
+   "path": "chapters/volume-5/chapter-589-polished.md",
+   "line": 101,
+   "old": "\"我想起我爸了，\"赵大嘴说，声音有些哑\"0429在把我的记忆还给我，我父亲的脸他的声音。他以前下班回家给我带糖葫芦。\"",
+   "new": "\"我想起我爸了，\"赵大嘴说，声音有些哑，\"0429在把我的记忆还给我，我父亲的脸他的声音。他以前下班回家给我带糖葫芦。\"",
+   "evidence": "missing comma before the quoted continuation",
+   "cjk_delta": 0
+  },
+  {
+   "ch": 589,
+   "path": "chapters/volume-5/chapter-589-polished.md",
+   "line": 260,
+   "old": "\"大嘴，\"叶文轩说，语气很平淡\"我需要你做一件事。当我们在终局之门面前做选择的时候，不管系统给你看什么。\"",
+   "new": "\"大嘴，\"叶文轩说，语气很平淡，\"我需要你做一件事。当我们在终局之门面前做选择的时候，不管系统给你看什么。\"",
+   "evidence": "missing comma before the quoted continuation",
+   "cjk_delta": 0
+  },
+  {
+   "ch": 589,
+   "path": "chapters/volume-5/chapter-589-polished.md",
+   "line": 264,
+   "old": "\"我知道，\"赵大嘴说，说话语气冷然\"选C。我已经答应过你了。\"",
+   "new": "\"我知道，\"赵大嘴说，说话语气冷然，\"选C。我已经答应过你了。\"",
+   "evidence": "missing comma before the quoted continuation",
+   "cjk_delta": 0
+  },
+  {
+   "ch": 633,
+   "path": "chapters/volume-5/chapter-633-polished.md",
+   "line": 191,
+   "old": "爸爸去了一个很远的地方，叶文轩的声音有些平，但是很快就回来了。",
+   "new": "\"爸爸去了一个很远的地方，\"叶文轩的声音有些平，\"但是很快就回来了。\"",
+   "evidence": "registered: dialogue quotes lost",
+   "cjk_delta": 0
+  },
+  {
+   "ch": 674,
+   "path": "chapters/volume-5/chapter-674-polished.md",
+   "line": 40,
+   "old": "你父亲是一个，机械师。他在修自行车的，时候。发现了，规律。螺丝刀掉了，三次。每次都掉在同一个，位置。他开始记录。记录了，一年。他确定了，有人在操控。",
+   "new": "你父亲是一个，机械师。他在修自行车的，时候。发现了，规律。螺丝刀掉了，三次。每次都掉在同一个，位置。他开始记录。记录了一年。他确定了，有人在操控。",
+   "evidence": "9252b142^: 他\"记录\"了。\"一年\"。 -> one clause",
+   "cjk_delta": 0
+  },
+  {
+   "ch": 678,
+   "path": "chapters/volume-5/chapter-678-polished.md",
+   "line": 11,
+   "old": "他的手在推门。门很轻他的眼睛在看向房间中。",
+   "new": "他的手在推门。门很轻。他的眼睛在看向房间中。",
+   "evidence": "registered: lost period at 很轻他的眼睛",
+   "cjk_delta": 0
+  }
+ ]
+}
