@@ -1,7 +1,7 @@
 {
  "meta": {
   "round": "R300",
-  "step": "P3 tier-2 embedded deletion (R297 step 2) — COMPLETED",
+  "step": "P3 tier-2 embedded deletion (R297 step 2) — COMPLETED + refill",
   "base": "36b14b25",
   "pre": "13db9b4c^",
   "rule": "All 80 P3 tier-2 members PRE root=0, all deleted.",
@@ -100,192 +100,192 @@
   },
   "floor": {
    "blocked": 0,
-   "total_deficit": 1400,
+   "total_deficit": -6939,
    "chapters": [
     {
-     "path": "chapters/volume-1/chapter-62-polished.md",
-     "before": 3003,
-     "after": 2997
+     "path": "chapters/volume-1/chapter-062-polished.md",
+     "before": 2997,
+     "after": 3112
     },
     {
-     "path": "chapters/volume-1/chapter-74-polished.md",
-     "before": 3010,
-     "after": 2985
+     "path": "chapters/volume-1/chapter-074-polished.md",
+     "before": 2985,
+     "after": 3174
     },
     {
-     "path": "chapters/volume-1/chapter-81-polished.md",
-     "before": 3007,
-     "after": 2993
+     "path": "chapters/volume-1/chapter-081-polished.md",
+     "before": 2993,
+     "after": 3107
     },
     {
-     "path": "chapters/volume-1/chapter-84-polished.md",
-     "before": 3023,
-     "after": 2995
+     "path": "chapters/volume-1/chapter-084-polished.md",
+     "before": 2995,
+     "after": 3133
     },
     {
      "path": "chapters/volume-2/chapter-125-polished.md",
-     "before": 3003,
-     "after": 2868
+     "before": 2868,
+     "after": 3028
     },
     {
      "path": "chapters/volume-2/chapter-127-polished.md",
-     "before": 3020,
-     "after": 2991
+     "before": 2991,
+     "after": 3156
     },
     {
      "path": "chapters/volume-2/chapter-128-polished.md",
-     "before": 3023,
-     "after": 2907
+     "before": 2868,
+     "after": 3097
     },
     {
      "path": "chapters/volume-2/chapter-134-polished.md",
-     "before": 3007,
-     "after": 2904
+     "before": 2904,
+     "after": 3122
     },
     {
      "path": "chapters/volume-2/chapter-135-polished.md",
-     "before": 3020,
-     "after": 2917
+     "before": 2917,
+     "after": 3150
     },
     {
      "path": "chapters/volume-2/chapter-136-polished.md",
-     "before": 3020,
-     "after": 2912
+     "before": 2900,
+     "after": 3072
     },
     {
      "path": "chapters/volume-2/chapter-137-polished.md",
-     "before": 3020,
-     "after": 2923
+     "before": 2923,
+     "after": 3208
     },
     {
      "path": "chapters/volume-2/chapter-139-polished.md",
-     "before": 3020,
-     "after": 2949
+     "before": 2949,
+     "after": 3099
     },
     {
      "path": "chapters/volume-2/chapter-152-polished.md",
-     "before": 3007,
-     "after": 2997
+     "before": 2997,
+     "after": 3196
     },
     {
      "path": "chapters/volume-2/chapter-158-polished.md",
-     "before": 3010,
-     "after": 2869
+     "before": 2869,
+     "after": 3114
     },
     {
      "path": "chapters/volume-2/chapter-170-polished.md",
-     "before": 3007,
-     "after": 2993
+     "before": 2993,
+     "after": 3325
     },
     {
      "path": "chapters/volume-2/chapter-194-polished.md",
-     "before": 3007,
-     "after": 2983
+     "before": 2983,
+     "after": 3212
     },
     {
      "path": "chapters/volume-2/chapter-204-polished.md",
-     "before": 3010,
-     "after": 2994
+     "before": 2994,
+     "after": 3217
     },
     {
      "path": "chapters/volume-2/chapter-209-polished.md",
-     "before": 3007,
-     "after": 2975
+     "before": 2975,
+     "after": 3149
     },
     {
      "path": "chapters/volume-2/chapter-212-polished.md",
-     "before": 3007,
-     "after": 2951
+     "before": 2951,
+     "after": 3119
     },
     {
      "path": "chapters/volume-2/chapter-217-polished.md",
-     "before": 3007,
-     "after": 2983
+     "before": 2983,
+     "after": 3433
     },
     {
      "path": "chapters/volume-3/chapter-302-polished.md",
-     "before": 3007,
-     "after": 2948
+     "before": 2948,
+     "after": 3159
     },
     {
      "path": "chapters/volume-3/chapter-308-polished.md",
-     "before": 3007,
-     "after": 2955
+     "before": 2955,
+     "after": 3173
     },
     {
      "path": "chapters/volume-3/chapter-309-polished.md",
-     "before": 3007,
-     "after": 2982
+     "before": 2982,
+     "after": 3203
     },
     {
      "path": "chapters/volume-3/chapter-310-polished.md",
-     "before": 3010,
-     "after": 2966
+     "before": 2966,
+     "after": 3168
     },
     {
      "path": "chapters/volume-3/chapter-312-polished.md",
-     "before": 3007,
-     "after": 2970
+     "before": 2970,
+     "after": 3215
     },
     {
      "path": "chapters/volume-3/chapter-314-polished.md",
-     "before": 3007,
-     "after": 2931
+     "before": 2931,
+     "after": 3186
     },
     {
      "path": "chapters/volume-3/chapter-334-polished.md",
-     "before": 3007,
-     "after": 2974
+     "before": 2974,
+     "after": 3209
     },
     {
      "path": "chapters/volume-3/chapter-335-polished.md",
-     "before": 3007,
-     "after": 2986
+     "before": 2986,
+     "after": 3226
     },
     {
      "path": "chapters/volume-5/chapter-582-polished.md",
-     "before": 3007,
-     "after": 2973
+     "before": 2973,
+     "after": 3269
     },
     {
      "path": "chapters/volume-5/chapter-655-polished.md",
-     "before": 3010,
-     "after": 2998
+     "before": 2998,
+     "after": 3175
     },
     {
      "path": "chapters/volume-5/chapter-684-polished.md",
-     "before": 3007,
-     "after": 2997
+     "before": 2997,
+     "after": 3236
     },
     {
      "path": "chapters/volume-5/chapter-717-polished.md",
-     "before": 3007,
-     "after": 2991
+     "before": 2991,
+     "after": 3200
     },
     {
      "path": "chapters/volume-5/chapter-718-polished.md",
-     "before": 3007,
-     "after": 2953
+     "before": 2953,
+     "after": 3244
     },
     {
      "path": "chapters/volume-6/chapter-809-polished.md",
-     "before": 3007,
-     "after": 2944
+     "before": 2944,
+     "after": 3226
     },
     {
      "path": "chapters/volume-6/chapter-810-polished.md",
-     "before": 3010,
-     "after": 2999
+     "before": 2999,
+     "after": 3326
     },
     {
      "path": "chapters/volume-6/chapter-816-polished.md",
-     "before": 3007,
-     "after": 2990
+     "before": 2990,
+     "after": 3240
     },
     {
      "path": "chapters/volume-6/chapter-818-polished.md",
-     "before": 3007,
-     "after": 2957
+     "before": 2957,
+     "after": 3261
     }
    ]
   }
