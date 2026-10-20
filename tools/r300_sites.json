@@ -1,0 +1,294 @@
+{
+ "meta": {
+  "round": "R300",
+  "step": "P3 tier-2 embedded deletion (R297 step 2) — COMPLETED",
+  "base": "36b14b25",
+  "pre": "13db9b4c^",
+  "rule": "All 80 P3 tier-2 members PRE root=0, all deleted.",
+  "p3_members": [
+   "0415碎片是0415-1锚点的时间记忆本身。",
+   "0428副本在说：爸爸。",
+   "你现在是第零次。",
+   "0428碎片在背包里脉动。",
+   "0429在说：我们在这里。",
+   "0428备份在发光。",
+   "0415时间回廊完全开放了。",
+   "0428螺旋创建的那天。",
+   "0429在叶文轩的脑子里振动。",
+   "42片碎片在皮肤下面安静地发着光。",
+   "0415-1锚点诞生的那天。",
+   "0415碎片在背包里发热。",
+   "0428螺旋在背包里脉动。",
+   "0429残余在通信。",
+   "0429碎片在赵大嘴的体内发热。",
+   "改写副本 = 打破闭环。",
+   "0415年4月15日的时间结构线在光的周围流动。",
+   "0415碎片在最里层。",
+   "0428螺旋在赵大嘴的背包里脉动。",
+   "系统UI在叶文轩的视野边缘跳动。",
+   "叶文轩感到0429在叶文轩的脑子里振动，0429的主体和备份在共振。",
+   "归位之门在螺旋终端的更深处。",
+   "赵大嘴的0429碎片安静得像一块石头。",
+   "0415年4月15日的时间记忆完整地释放了。",
+   "0415时间封印解除了。",
+   "0415碎片的最深层是0415年4月15日。",
+   "桥梁系统在运行。",
+   "碎片在振动。",
+   "赵大嘴是锚点。",
+   "韩冰的0429碎片在手腕下面安静地发着光。",
+   "频率在加快。",
+   "0415-1锚点的名字是0415。",
+   "41段纹路在蓝色冷光中运转。",
+   "像碎片的颜色。",
+   "螺旋终端核心内有系统核心代码的原始副本。",
+   "0429备份在跨越边界。",
+   "0429碎片的时间结构线在她的皮肤下面自行消退。",
+   "42片碎片在振动。",
+   "两个锚点的碎片在共振。",
+   "叶文轩的42片碎片在手腕下面振动。",
+   "0429碎片在叶文轩的意识中振动。",
+   "他的42片碎片在手腕下面振动。",
+   "信号的闪烁和他的心跳同步。",
+   "变量在累积。",
+   "系统的声音很冷。",
+   "闭环的缺口在归位之门的方向。",
+   "0415-1锚点的诞生日。",
+   "0415是0415-1锚点的名字。",
+   "0415碎片的最深层已经打开了。",
+   "0415碎片解封了。",
+   "0428备份在发光，0428备份在微笑。",
+   "0428的螺旋纹路。",
+   "0428碎片指向裂隙的最深处。",
+   "0429碎片的力量在消退。",
+   "12个半小时后激活。",
+   "内圈2片过渡。",
+   "叶文轩的洞察者能力扫过42片0428碎片的时间结构。",
+   "外圈13片顺时针。",
+   "时间结构线在自行流动。",
+   "碎片在感知。",
+   "碎片在自行运转。",
+   "0415-1锚点和0428-1锚点。",
+   "0415时间回廊是0415-1锚点的专属通道。",
+   "0415时间回廊的出口在旧城区入口。",
+   "0415碎片的最深层是一个病房。",
+   "0429备份的信号在叶文轩的空间层中脉动，一下，两下，三下。",
+   "0429碎片的设计者在设计0429碎片的时候就已经在保护赵大嘴。",
+   "42小时后，0429碎片升级为桥梁。",
+   "像系统的颜色。",
+   "时间结构线在他的皮肤下面自行流动。",
+   "某些碎片上面长着草，某些上面是水泥地，某些上面是海水。",
+   "状态：运转中。",
+   "系统在强制引导他们去旧城区入口。",
+   "锁孔的形状是0428的螺旋纹路。",
+   "叶文轩感到0428副本的信号。",
+   "旧城区的时间结构在1998年。",
+   "0429碎片在赵大嘴的体内振动。",
+   "0429碎片的设计者在设计0429碎片的时候就已经在保护第四个结局。",
+   "旧城区的时间结构在循环。",
+   "旧城区的时间结构在自行运转。"
+  ],
+  "counts": {
+   "records": 0,
+   "segs": 0,
+   "cjk": 0,
+   "chapters": 0,
+   "lead_segs": 0,
+   "whole": 0,
+   "deleted_segs": 1244,
+   "deleted_cjk": 14296,
+   "deleted_chapters": 345
+  },
+  "floor": {
+   "blocked": 0,
+   "total_deficit": 1400,
+   "chapters": [
+    {
+     "path": "chapters/volume-1/chapter-62-polished.md",
+     "before": 3003,
+     "after": 2997
+    },
+    {
+     "path": "chapters/volume-1/chapter-74-polished.md",
+     "before": 3010,
+     "after": 2985
+    },
+    {
+     "path": "chapters/volume-1/chapter-81-polished.md",
+     "before": 3007,
+     "after": 2993
+    },
+    {
+     "path": "chapters/volume-1/chapter-84-polished.md",
+     "before": 3023,
+     "after": 2995
+    },
+    {
+     "path": "chapters/volume-2/chapter-125-polished.md",
+     "before": 3003,
+     "after": 2868
+    },
+    {
+     "path": "chapters/volume-2/chapter-127-polished.md",
+     "before": 3020,
+     "after": 2991
+    },
+    {
+     "path": "chapters/volume-2/chapter-128-polished.md",
+     "before": 3023,
+     "after": 2907
+    },
+    {
+     "path": "chapters/volume-2/chapter-134-polished.md",
+     "before": 3007,
+     "after": 2904
+    },
+    {
+     "path": "chapters/volume-2/chapter-135-polished.md",
+     "before": 3020,
+     "after": 2917
+    },
+    {
+     "path": "chapters/volume-2/chapter-136-polished.md",
+     "before": 3020,
+     "after": 2912
+    },
+    {
+     "path": "chapters/volume-2/chapter-137-polished.md",
+     "before": 3020,
+     "after": 2923
+    },
+    {
+     "path": "chapters/volume-2/chapter-139-polished.md",
+     "before": 3020,
+     "after": 2949
+    },
+    {
+     "path": "chapters/volume-2/chapter-152-polished.md",
+     "before": 3007,
+     "after": 2997
+    },
+    {
+     "path": "chapters/volume-2/chapter-158-polished.md",
+     "before": 3010,
+     "after": 2869
+    },
+    {
+     "path": "chapters/volume-2/chapter-170-polished.md",
+     "before": 3007,
+     "after": 2993
+    },
+    {
+     "path": "chapters/volume-2/chapter-194-polished.md",
+     "before": 3007,
+     "after": 2983
+    },
+    {
+     "path": "chapters/volume-2/chapter-204-polished.md",
+     "before": 3010,
+     "after": 2994
+    },
+    {
+     "path": "chapters/volume-2/chapter-209-polished.md",
+     "before": 3007,
+     "after": 2975
+    },
+    {
+     "path": "chapters/volume-2/chapter-212-polished.md",
+     "before": 3007,
+     "after": 2951
+    },
+    {
+     "path": "chapters/volume-2/chapter-217-polished.md",
+     "before": 3007,
+     "after": 2983
+    },
+    {
+     "path": "chapters/volume-3/chapter-302-polished.md",
+     "before": 3007,
+     "after": 2948
+    },
+    {
+     "path": "chapters/volume-3/chapter-308-polished.md",
+     "before": 3007,
+     "after": 2955
+    },
+    {
+     "path": "chapters/volume-3/chapter-309-polished.md",
+     "before": 3007,
+     "after": 2982
+    },
+    {
+     "path": "chapters/volume-3/chapter-310-polished.md",
+     "before": 3010,
+     "after": 2966
+    },
+    {
+     "path": "chapters/volume-3/chapter-312-polished.md",
+     "before": 3007,
+     "after": 2970
+    },
+    {
+     "path": "chapters/volume-3/chapter-314-polished.md",
+     "before": 3007,
+     "after": 2931
+    },
+    {
+     "path": "chapters/volume-3/chapter-334-polished.md",
+     "before": 3007,
+     "after": 2974
+    },
+    {
+     "path": "chapters/volume-3/chapter-335-polished.md",
+     "before": 3007,
+     "after": 2986
+    },
+    {
+     "path": "chapters/volume-5/chapter-582-polished.md",
+     "before": 3007,
+     "after": 2973
+    },
+    {
+     "path": "chapters/volume-5/chapter-655-polished.md",
+     "before": 3010,
+     "after": 2998
+    },
+    {
+     "path": "chapters/volume-5/chapter-684-polished.md",
+     "before": 3007,
+     "after": 2997
+    },
+    {
+     "path": "chapters/volume-5/chapter-717-polished.md",
+     "before": 3007,
+     "after": 2991
+    },
+    {
+     "path": "chapters/volume-5/chapter-718-polished.md",
+     "before": 3007,
+     "after": 2953
+    },
+    {
+     "path": "chapters/volume-6/chapter-809-polished.md",
+     "before": 3007,
+     "after": 2944
+    },
+    {
+     "path": "chapters/volume-6/chapter-810-polished.md",
+     "before": 3010,
+     "after": 2999
+    },
+    {
+     "path": "chapters/volume-6/chapter-816-polished.md",
+     "before": 3007,
+     "after": 2990
+    },
+    {
+     "path": "chapters/volume-6/chapter-818-polished.md",
+     "before": 3007,
+     "after": 2957
+    }
+   ]
+  }
+ },
+ "records": []
+}
