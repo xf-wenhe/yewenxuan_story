@@ -1,0 +1,31 @@
+{
+ "round": "R301",
+ "detector": ".claude/skills/story-review/scripts/check-ai-patterns.js --json",
+ "scope": "486 blocking sites adjudicated by git blame; 473 are author prose or normal-round output (KEEP); 13 trace to R274/R276 fold/stub records; of those, only 2 carry real damage.",
+ "adjudication": ".claude/tmp/r301_adjudicated.json (per-site cls=AUTHOR|REPAIR + blame commit)",
+ "note": "The 340 not-is-comparison sites are the author's own V2/V3 voice (V2 107 / V3 171 / V5 52 vs V1 1 / V4 1 / V6 8 / V7 0). The 11 remaining R274 sites are grammatically complete -- only the blank-line '不是X。 / 是Y' rhythm trips the detector, and ch331 L130 was dropped from this table after review: it is complete prose and the first draft of a 'fix' for it only added more negation runs. The 2 below are the ones where a fold/stub replacement welded its own sentence onto the preceding clause's tail, or swallowed a parent-attested transition sentence.",
+ "records": [
+  {
+   "path": "chapters/volume-3/chapter-350-polished.md",
+   "line": 79,
+   "chapter": 350,
+   "defect": "R274 stub (line 84, span '。\\n\\n叶文轩能听到声音。\\n\\n系。') swallowed the parent-attested transition sentence 「叶文轩能听到声音。」 and welded 「不是系统的声音」 onto the tail of 「像记忆的碎片」, leaving a run-on clause.",
+   "evidence": "c9f07d3d^:chapters/volume-3/chapter-350-polished.md L80-84 reads 「…像记忆的碎片。」 / blank / 「叶文轩能听到声音。」 / blank / 「系。」",
+   "op": "sub",
+   "old": "蓝色的，深蓝色的，像深海，像系统的底层，像记忆的海洋。无数个光点在海洋上漂浮，像气泡，像星星，像记忆的碎片不是系统的声音，不是数据流的噪音，不是怪物的吼叫，不是系统的广播。",
+   "new": "蓝色的，深蓝色的，像深海，像系统的底层，像记忆的海洋。无数个光点在海洋上漂浮，像气泡，像星星，像记忆的碎片。\n\n叶文轩能听到声音。不是系统的声音，不是数据流的噪音，不是怪物的吼叫，不是系统的广播。",
+   "net": 6
+  },
+  {
+   "path": "chapters/volume-5/chapter-594-polished.md",
+   "line": 182,
+   "chapter": 594,
+   "defect": "R274 fold (line 188, span '的。\\n') welded 「不是的合成音」 onto 「这次的声音有了一种，新的质感」, producing the ungrammatical 「新的质感不是的合成音」.",
+   "evidence": "c9f07d3d^:chapters/volume-5/chapter-594-polished.md L182 reads 「…这次的声音有了一种，新的质感的。」 -- the parent clause was itself damaged by e0040d63, so the current sentence has no grammatical reading.",
+   "op": "sub",
+   "old": "连接点中安静了几秒。然后系统的声音再次响起，这次的声音有了一种，新的质感不是的合成音。",
+   "new": "连接点中安静了几秒。然后系统的声音再次响起。这次的声音有了一种新的质感，不再是那种平的合成音。",
+   "net": -3
+  }
+ ]
+}
