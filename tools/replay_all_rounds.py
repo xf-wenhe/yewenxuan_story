@@ -18,6 +18,12 @@ that replaying again would invert -- ch650 is the proof: HEAD already carries
 the repaired line, so the R302 record's `old` is not there to be found.  Those
 tables stay on disk as the audit trail for what those commits did.
 
+R304/R305/R306 were uncommitted when this was written and PASSED with it
+(commit c78f30b0).  Run again after that commit, every anchor now fails,
+because HEAD is no longer the state those tables start from.  That failure
+means "nothing left to replay", not corruption.  To re-verify a committed
+round, replay it against the commit BEFORE it instead.
+
 Encoding: HEAD blobs are LF (the CRLF in the working tree is core.autocrlf
 fighting .gitattributes), so the comparison is done on text with CR stripped
 and the file's real BOM/CRLF state checked separately.
