@@ -1,0 +1,79 @@
+{
+ "round": "R306",
+ "detector": "regex: 。间。 at end of line",
+ "note": "R274 collapsed a periodless chain and stranded a single 间 after its sentence, in nine chapters. The host sentence is the recycled 「空气像被这句话X」 filler, and in every case the paragraphs on both sides carry real content, so the whole line is deleted. Each chapter is re-checked against the 3000 floor.",
+ "records": [
+  {
+   "path": "chapters/volume-2/chapter-142-polished.md",
+   "chapter": 142,
+   "line": 96,
+   "op": "del",
+   "old": "空气像被这句话冻了一下。间。",
+   "defect": "R274 折叠残渣：「空气像被这句话X。间。」——「间」字是被压塌的词根，句子本身也是跨章重复的填充模板。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-201-polished.md",
+   "chapter": 201,
+   "line": 147,
+   "op": "del",
+   "old": "空气像被这句话压了一下。间。",
+   "defect": "R274 折叠残渣：「空气像被这句话X。间。」——「间」字是被压塌的词根，句子本身也是跨章重复的填充模板。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-208-polished.md",
+   "chapter": 208,
+   "line": 46,
+   "op": "del",
+   "old": "空气像被这句话冻得凝滞。间。",
+   "defect": "R274 折叠残渣：「空气像被这句话X。间。」——「间」字是被压塌的词根，句子本身也是跨章重复的填充模板。"
+  },
+  {
+   "path": "chapters/volume-3/chapter-301-polished.md",
+   "chapter": 301,
+   "line": 179,
+   "op": "del",
+   "old": "空气像被这句话压得凝滞。间。",
+   "defect": "R274 折叠残渣：「空气像被这句话X。间。」——「间」字是被压塌的词根，句子本身也是跨章重复的填充模板。"
+  },
+  {
+   "path": "chapters/volume-3/chapter-313-polished.md",
+   "chapter": 313,
+   "line": 145,
+   "op": "del",
+   "old": "空气像被这句话冻得不动了。间。",
+   "defect": "R274 折叠残渣：「空气像被这句话X。间。」——「间」字是被压塌的词根，句子本身也是跨章重复的填充模板。"
+  },
+  {
+   "path": "chapters/volume-3/chapter-348-polished.md",
+   "chapter": 348,
+   "line": 93,
+   "op": "del",
+   "old": "空气像被这句话压得不动了。间。",
+   "defect": "R274 折叠残渣：「空气像被这句话X。间。」——「间」字是被压塌的词根，句子本身也是跨章重复的填充模板。"
+  },
+  {
+   "path": "chapters/volume-3/chapter-377-polished.md",
+   "chapter": 377,
+   "line": 113,
+   "op": "del",
+   "old": "空气像被这句话冻住了。间。",
+   "defect": "R274 折叠残渣：「空气像被这句话X。间。」——「间」字是被压塌的词根，句子本身也是跨章重复的填充模板。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-593-polished.md",
+   "chapter": 593,
+   "line": 183,
+   "op": "del",
+   "old": "空气像被这句话压住了。间。",
+   "defect": "R274 折叠残渣：「空气像被这句话X。间。」——「间」字是被压塌的词根，句子本身也是跨章重复的填充模板。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-696-polished.md",
+   "chapter": 696,
+   "line": 64,
+   "op": "del",
+   "old": "空气像被这句话压得静止。间。",
+   "defect": "R274 折叠残渣：「空气像被这句话X。间。」——「间」字是被压塌的词根，句子本身也是跨章重复的填充模板。"
+  }
+ ]
+}
