@@ -1,0 +1,836 @@
+{
+ "round": "R302",
+ "detector": "manual: R280/R133-R138 filler damage patterns (那些那 / 那个那 / 他抬N / 得…来)",
+ "origin": "9cd5e651 (Voice rounds R133-R138) -- verified by git show diff on every site",
+ "note": "Every 那些那/那个那 site traces to one commit, 9cd5e651, whose diff replaced complete author prose with a broken sentence (-脑子里那个声音转了转，然后消失了。 / +脑子里那个那嗓音绕了几次，终于散掉。). The 14 他抬 sites are the same family: R280 dropped the verb (他抬目光望向窗外). Sites whose author sentence could not be recovered from the diff are listed under \"unresolved\" and are not touched. Pass 2 recovered 36 more by fragment search in 9cd5e651^; 1 remain unresolved. The last unresolved site (ch580 L148) was recovered from 7671009^ and promoted.",
+ "records": [
+  {
+   "path": "chapters/volume-3/chapter-300-polished.md",
+   "chapter": 300,
+   "line": 59,
+   "pat": [
+    "那个那"
+   ],
+   "old": "\"我感觉到那个那声音消了。\"",
+   "new": "\"我感觉到那个声音了。\"",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-4/chapter-455-polished.md",
+   "chapter": 455,
+   "line": 50,
+   "pat": [
+    "他抬N"
+   ],
+   "old": "他没有再回头去看任何一扇门。那些画面已经收进了心里，和叶子、赵磊、还有所有还走在身边的人连在一起。他抬视线投向走廊更深处，下一道门的光正在黑暗里等着他。",
+   "new": "他没有再回头去看任何一扇门。那些画面已经收进了心里，和叶子、赵磊、还有所有还走在身边的人连在一起。他抬眼望向走廊更深处，下一道门的光正在黑暗里等着他。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-4/chapter-471-polished.md",
+   "chapter": 471,
+   "line": 51,
+   "pat": [
+    "他抬N"
+   ],
+   "old": "房间里只剩下服务器低鸣。叶文轩把老人说的每一个字都在心里排了一遍，闭环是他自己写的，桥梁系统是他要完成的使命，那些被删除的人都要回来。屏幕的灰光映着他的脸，那层暖意从肋骨后面慢慢散到四肢，让他久绷的肩膀松了一点。他抬眼投去房间深处，那一排排暗下去的屏幕后面，似乎还留着老人敲键的回声。",
+   "new": "房间里只剩下服务器低鸣。叶文轩把老人说的每一个字都在心里排了一遍，闭环是他自己写的，桥梁系统是他要完成的使命，那些被删除的人都要回来。屏幕的灰光映着他的脸，那层暖意从肋骨后面慢慢散到四肢，让他久绷的肩膀松了一点。他抬眼望向房间深处，那一排排暗下去的屏幕后面，似乎还留着老人敲键的回声。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-563-polished.md",
+   "chapter": 563,
+   "line": 127,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那声音久久徘徊在耳边。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-580-polished.md",
+   "chapter": 580,
+   "line": 150,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那句话久久回荡在耳边。",
+   "new": "叶文轩需要选择。选择之后没有回头路。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-585-polished.md",
+   "chapter": 585,
+   "line": 155,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那声音久久未消。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-600-polished.md",
+   "chapter": 600,
+   "line": 155,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那句话久久回荡在耳边。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-618-polished.md",
+   "chapter": 618,
+   "line": 82,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那声音久久回荡不停。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-650-polished.md",
+   "chapter": 650,
+   "line": 280,
+   "pat": [
+    "他抬N"
+   ],
+   "old": "他抬眼望过去窗外，外面空无一物。",
+   "new": "他抬起头，看向窗外，但窗外什么也没有。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-662-polished.md",
+   "chapter": 662,
+   "line": 240,
+   "pat": [
+    "他抬N"
+   ],
+   "old": "他抬眼投向窗外，外面空无一物。",
+   "new": "他抬起头，看向窗外，但窗外什么也没有。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-662-polished.md",
+   "chapter": 662,
+   "line": 242,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那句话久久回荡在耳边。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-667-polished.md",
+   "chapter": 667,
+   "line": 161,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那声音久久萦绕不散。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-670-polished.md",
+   "chapter": 670,
+   "line": 111,
+   "pat": [
+    "他抬N"
+   ],
+   "old": "他抬眼投去窗外，外面空无一物。",
+   "new": "他抬起头，看向窗外，但窗外什么也没有。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-670-polished.md",
+   "chapter": 670,
+   "line": 113,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那句话久久回荡在耳边。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-671-polished.md",
+   "chapter": 671,
+   "line": 125,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那声音久久在耳边盘旋。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-672-polished.md",
+   "chapter": 672,
+   "line": 114,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那声音久久徘徊在耳边。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-674-polished.md",
+   "chapter": 674,
+   "line": 106,
+   "pat": [
+    "他抬N"
+   ],
+   "old": "他抬眼望过去窗外，外面空无一物。",
+   "new": "他抬起头，看向窗外，但窗外什么也没有。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "chapter": 675,
+   "line": 119,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那句话久久回荡在耳边。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-677-polished.md",
+   "chapter": 677,
+   "line": 103,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那声音久久未消。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-678-polished.md",
+   "chapter": 678,
+   "line": 103,
+   "pat": [
+    "他抬N"
+   ],
+   "old": "他抬眼投向窗外，外面空无一物。",
+   "new": "他抬起头，看向窗外，但窗外什么也没有。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-688-polished.md",
+   "chapter": 688,
+   "line": 99,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那句话久久回荡在耳边。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-690-polished.md",
+   "chapter": 690,
+   "line": 121,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那耳边依旧回荡着他的声音。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-693-polished.md",
+   "chapter": 693,
+   "line": 91,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那声音久久回荡不停。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-694-polished.md",
+   "chapter": 694,
+   "line": 95,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那句话久久回荡在耳边。有些话到了嘴边，又被他咽了回去。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。有些话到了嘴边，又被他咽了回去。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-695-polished.md",
+   "chapter": 695,
+   "line": 79,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那他的声音久久在耳边回旋。有些话到了嘴边，又被他咽了回去。他不知道自己现在该做什么，只能等着。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。有些话到了嘴边，又被他咽了回去。他不知道自己现在该做什么，只能等着。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-695-polished.md",
+   "chapter": 695,
+   "line": 93,
+   "pat": [
+    "他抬N"
+   ],
+   "old": "他抬眼投去窗外，外面空无一物。时间在这种时候变得很慢，每一秒都像被拉长了。",
+   "new": "他抬起头，看向窗外，但窗外什么也没有。时间在这种时候变得很慢，每一秒都像被拉长了。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-695-polished.md",
+   "chapter": 695,
+   "line": 95,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那声音久久萦绕不散。有些话到了嘴边，又被他咽了回去。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。有些话到了嘴边，又被他咽了回去。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-701-polished.md",
+   "chapter": 701,
+   "line": 76,
+   "pat": [
+    "他抬N"
+   ],
+   "old": "他抬眼望过去窗外，外面空无一物。",
+   "new": "他抬起头，看向窗外，但窗外什么也没有。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-732-polished.md",
+   "chapter": 732,
+   "line": 111,
+   "pat": [
+    "那些那"
+   ],
+   "old": "那些那句话久久回荡在耳边。有些话到了嘴边，又被他咽了回去。他不知道自己现在该做什么，只能等着。",
+   "new": "那些声音还在耳边回响，即使已经没人说话了。有些话到了嘴边，又被他咽了回去。他不知道自己现在该做什么，只能等着。",
+   "src": "R133-R138 diff minus line",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-2/chapter-102-polished.md",
+   "chapter": 102,
+   "line": 150,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那嗓音一圈圈荡开，终于归于寂静。",
+   "new": "脑子里那个声音一圈圈打转，终于平息。",
+   "pre_line": 152,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-2/chapter-127-polished.md",
+   "chapter": 127,
+   "line": 99,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那嗓音绕了几次，终于散掉。",
+   "new": "脑子里那个声音转了转，然后消失了。",
+   "pre_line": 99,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-2/chapter-132-polished.md",
+   "chapter": 132,
+   "line": 91,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那嗓音一圈圈荡开，终于淡出。",
+   "new": "脑子里那个声音一圈圈打转，最终消散。",
+   "pre_line": 112,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-2/chapter-142-polished.md",
+   "chapter": 142,
+   "line": 94,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那响动转了几轮，终归平息。",
+   "new": "脑子里那个声音来回转动，终于歇了。",
+   "pre_line": 97,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-2/chapter-147-polished.md",
+   "chapter": 147,
+   "line": 123,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑海中那个那声响迟迟未消。",
+   "new": "脑海中那个声音挥之不去。",
+   "pre_line": 131,
+   "src": "parent-blob search (fragment '脑海中那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-2/chapter-207-polished.md",
+   "chapter": 207,
+   "line": 39,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那响动转了几轮，终归平息。",
+   "new": "脑子里那个声音来回转动，终于歇了。",
+   "pre_line": 40,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-2/chapter-207-polished.md",
+   "chapter": 207,
+   "line": 47,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑海中那个那声响迟迟未消。",
+   "new": "脑海中那个声音挥之不去。",
+   "pre_line": 84,
+   "src": "parent-blob search (fragment '脑海中那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-2/chapter-217-polished.md",
+   "chapter": 217,
+   "line": 37,
+   "pat": [
+    "他抬N"
+   ],
+   "old": "叶文轩的后背在发麻。深层副本核心层。第一层。找到42片碎片的缺口。10分钟。系统的嗓音没有一丝波澜，很冷，没有感情，可里面压着紧迫感，像有人在赶时间，在催：快。快找缺口。快找到缺口。快。他把10分钟拆成两半，一半找，一半回。记录者说过，找到缺口，碎片就能完整运转；碎片完整运转，才能打开第二层的入口。第一层只是第一步，可第一步就限了时。他抬眼看了看走廊的尽头，门就在那里，锁孔就在门上，缺口不在这条走廊里，在门后面。10分钟，进门，找缺口，然后回来，时间刚好够，前提是门后面没有别的东西等着。",
+   "new": "叶文轩的后背在发麻。深层副本核心层。第一层。找到42片碎片的缺口。10分钟。系统的声音很平，很冷，没有感情，可里面压着紧迫感，像有人在赶时间，在催：快。快找缺口。快找到缺口。快。他把10分钟拆成两半，一半找，一半回。记录者说过，找到缺口，碎片就能完整运转；碎片完整运转，才能打开第二层的入口。第一层只是第一步，可第一步就限了时。他抬眼看了看走廊的尽头，门就在那里。10分钟，进门，找缺口，然后回来，时间刚好够，前提是门后面没有别的东西等着。",
+   "pre_line": 37,
+   "src": "parent-blob search (fragment '他抬')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-3/chapter-274-polished.md",
+   "chapter": 274,
+   "line": 217,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那声调一圈圈荡开，最终静止。",
+   "new": "脑子里那个声音一圈圈打转，终于平息。",
+   "pre_line": 220,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-3/chapter-297-polished.md",
+   "chapter": 297,
+   "line": 223,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那声调转了几回，终究散开。",
+   "new": "脑子里那个声音转了转，然后消失了。",
+   "pre_line": 231,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-3/chapter-308-polished.md",
+   "chapter": 308,
+   "line": 163,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那响动转了几轮，终归平息。",
+   "new": "脑子里那个声音来回转动，终于歇了。",
+   "pre_line": 176,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-3/chapter-310-polished.md",
+   "chapter": 310,
+   "line": 164,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑海中那个那声响迟迟未消。",
+   "new": "脑海中那个声音挥之不去。",
+   "pre_line": 166,
+   "src": "parent-blob search (fragment '脑海中那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-3/chapter-343-polished.md",
+   "chapter": 343,
+   "line": 95,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那声线一圈圈荡开，最后沉寂。",
+   "new": "脑子里那个声音一圈圈打转，终于平息。",
+   "pre_line": 98,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-3/chapter-344-polished.md",
+   "chapter": 344,
+   "line": 128,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那声线转了几圈，最终消散。",
+   "new": "脑子里那个声音转了转，然后消失了。",
+   "pre_line": 130,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-3/chapter-361-polished.md",
+   "chapter": 361,
+   "line": 155,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那响动转了几轮，终归平息。",
+   "new": "脑子里那个声音来回转动，终于歇了。",
+   "pre_line": 161,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-4/chapter-410-polished.md",
+   "chapter": 410,
+   "line": 173,
+   "pat": [
+    "那些那"
+   ],
+   "old": "叶文轩的胸口在发紧，很轻的。在没有身体的状态下面听了五十年的声音。不能理解它们的意义。不能知道它们说了什么0428碎片让回声能理解那些那声调没了。\"你愿意离开这座塔吗？\"叶文轩在问，嗓音细得即将飘散在空气里，很认真的。回声的眼睛里面的漩涡停了一下，很短的，看着叶文轩，看了很久的，在想。",
+   "new": "叶文轩的胸口在发紧，很轻的。回声等了五十年了。在美国塔的最上面。在东太平洋的海边的悬崖上面。在没有身体的状态下面听了五十年的声音。不能理解它们的意义。不能知道它们说了什么0428碎片让回声能理解那些声音了。\"你愿意离开这座塔吗？\"叶文轩在问，声音很轻，很认真的。回声的眼睛里面的漩涡停了一下，很短的，看着叶文轩，看了很久的，在想。",
+   "pre_line": 179,
+   "src": "parent-blob search (fragment '0428碎片让回声能理解')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-563-polished.md",
+   "chapter": 563,
+   "line": 125,
+   "pat": [
+    "他抬N"
+   ],
+   "old": "他抬目光掠过窗外，外面空无一物。",
+   "new": "他抬起头，看向窗外，但窗外什么也没有。",
+   "pre_line": 164,
+   "src": "parent-blob search (fragment '他抬')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-580-polished.md",
+   "chapter": 580,
+   "line": 160,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那嗓音绕了几次，终于散掉。",
+   "new": "叶文轩需要选择。选择之后没有回头路。",
+   "pre_line": 246,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-590-polished.md",
+   "chapter": 590,
+   "line": 153,
+   "pat": [
+    "他抬N"
+   ],
+   "old": "他抬目光钉在窗外，外面空无一物。",
+   "new": "他抬起头，看向窗外，但窗外什么也没有。",
+   "pre_line": 206,
+   "src": "parent-blob search (fragment '他抬')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-590-polished.md",
+   "chapter": 590,
+   "line": 157,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那声音来回几次，到底消散。",
+   "new": "脑子里那个声音转了转，最终消散。",
+   "pre_line": 232,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-596-polished.md",
+   "chapter": 596,
+   "line": 140,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那响动转了几轮，终归平息。",
+   "new": "脑子里那个声音来回转动，终于歇了。",
+   "pre_line": 148,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-598-polished.md",
+   "chapter": 598,
+   "line": 197,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑海中那个那声响迟迟未消。",
+   "new": "脑海中那个声音挥之不去。",
+   "pre_line": 228,
+   "src": "parent-blob search (fragment '脑海中那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-662-polished.md",
+   "chapter": 662,
+   "line": 246,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那声音回旋片刻，终于消失。",
+   "new": "脑子里那个声音一圈圈打转，终于平息。",
+   "pre_line": 254,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-662-polished.md",
+   "chapter": 662,
+   "line": 252,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那声音一圈圈荡开，最终消失。",
+   "new": "脑子里那个声音一圈圈打转，终于平息。",
+   "pre_line": 254,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-670-polished.md",
+   "chapter": 670,
+   "line": 115,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那声音一圈圈荡开，最后停止。",
+   "new": "脑子里那个声音来回转动，终于歇了。",
+   "pre_line": 105,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-671-polished.md",
+   "chapter": 671,
+   "line": 127,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那声音回旋数回，到底消失。",
+   "new": "脑子里那个声音转了转，然后消失了。",
+   "pre_line": 182,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-678-polished.md",
+   "chapter": 678,
+   "line": 107,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那响动转了几轮，终归平息。",
+   "new": "脑子里那个声音来回转动，终于歇了。",
+   "pre_line": 175,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-678-polished.md",
+   "chapter": 678,
+   "line": 115,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那声调回旋片刻，终究隐去。",
+   "new": "脑子里那个声音来回转动，终于歇了。",
+   "pre_line": 175,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-678-polished.md",
+   "chapter": 678,
+   "line": 119,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那声调一圈圈荡开，最后模糊。",
+   "new": "脑子里那个声音来回转动，终于歇了。",
+   "pre_line": 175,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-683-polished.md",
+   "chapter": 683,
+   "line": 105,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑海中那个那声响迟迟未消。",
+   "new": "脑海中那个声音挥之不去。",
+   "pre_line": 111,
+   "src": "parent-blob search (fragment '脑海中那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-693-polished.md",
+   "chapter": 693,
+   "line": 89,
+   "pat": [
+    "他抬N"
+   ],
+   "old": "他抬视线未移窗外，外面空无一物。",
+   "new": "他抬起头，看向窗外，但窗外什么也没有。",
+   "pre_line": 101,
+   "src": "parent-blob search (fragment '他抬')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-693-polished.md",
+   "chapter": 693,
+   "line": 129,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那声线回旋片刻，终于消散。",
+   "new": "脑子里那个声音转了转，最终消散。",
+   "pre_line": 199,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-694-polished.md",
+   "chapter": 694,
+   "line": 97,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那声线一圈圈荡开，最后消散。",
+   "new": "脑子里那个声音一圈圈打转，最终消散。",
+   "pre_line": 121,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-732-polished.md",
+   "chapter": 732,
+   "line": 119,
+   "pat": [
+    "他抬N"
+   ],
+   "old": "他抬目光紧锁窗外，外面空无一物。时间在这种时候变得很慢，每一秒都像被拉长了。他想起很久以前听过的一句话，但想不起是谁说的。",
+   "new": "他抬起头，看向窗外，但窗外什么也没有。时间在这种时候变得很慢，每一秒都像被拉长了。他想起很久以前听过的一句话，但想不起是谁说的。",
+   "pre_line": 135,
+   "src": "parent-blob search (fragment '他抬')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-6/chapter-906-polished.md",
+   "chapter": 906,
+   "line": 164,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那声调一圈圈荡开，最终静止。",
+   "new": "脑子里那个声音来回转动，终于歇了。",
+   "pre_line": 220,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-6/chapter-907-polished.md",
+   "chapter": 907,
+   "line": 171,
+   "pat": [
+    "那个那"
+   ],
+   "old": "脑子里那个那声调转了几回，终究散开。",
+   "new": "脑子里那个声音转了转，然后消失了。",
+   "pre_line": 195,
+   "src": "parent-blob search (fragment '脑子里那个')",
+   "verbatim_in_parent": true
+  },
+  {
+   "path": "chapters/volume-5/chapter-580-polished.md",
+   "chapter": 580,
+   "line": 148,
+   "op": "sub",
+   "old": "他得再等一会儿来理清思绪。",
+   "new": "叶文轩需要选择。选择之后没有回头路。",
+   "src": "R280 parent sentence (7671009^ L148)",
+   "defect": "R280 sub-floor refill replaced the parent-attested 「叶文轩站在白光中。0428备份传来信号：决定吧。0429碎片传来信号：选吧。叶文轩需要选择。选择之后没有回头路。叶文轩没有回应。叶文轩开口了。」 with the ungrammatical 「他得再等一会儿来理清思绪。」"
+  }
+ ],
+ "unresolved": [],
+ "dropped": []
+}
