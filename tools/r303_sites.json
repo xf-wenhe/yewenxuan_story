@@ -1,0 +1,920 @@
+{
+ "round": "R303",
+ "detector": "census_r303_filler.py + trace_r303_origin.py (cross-chapter repetition, then history trace)",
+ "note": "Whole-line deletes of the 50 sentences proven ORIGIN in a repair round, in chapters that stay >= 3000 CJK afterwards. 17 chapters would drop below the floor and are deferred -- they need refilling with real content, not deleting.",
+ "records": [
+  {
+   "path": "chapters/volume-2/chapter-106-polished.md",
+   "chapter": 106,
+   "line": 147,
+   "op": "del",
+   "old": "脑海中那个嗓音久久回荡。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-132-polished.md",
+   "chapter": 132,
+   "line": 89,
+   "op": "del",
+   "old": "这件事的来龙去脉，他需要更多时间才能弄懂。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-142-polished.md",
+   "chapter": 142,
+   "line": 98,
+   "op": "del",
+   "old": "这件事的来龙去脉，他需要时间才能弄通。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-151-polished.md",
+   "chapter": 151,
+   "line": 83,
+   "op": "del",
+   "old": "这件事的来龙去脉，他需要时间才能弄懂。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-159-polished.md",
+   "chapter": 159,
+   "line": 101,
+   "op": "del",
+   "old": "这件事的来龙去脉，把这事弄明白还要花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-175-polished.md",
+   "chapter": 175,
+   "line": 177,
+   "op": "del",
+   "old": "这件事的来龙去脉，理清这件事还需要时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-177-polished.md",
+   "chapter": 177,
+   "line": 190,
+   "op": "del",
+   "old": "这件事的来龙去脉，他需要把思绪梳理清楚。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-177-polished.md",
+   "chapter": 177,
+   "line": 198,
+   "op": "del",
+   "old": "这件事的来龙去脉，理清这事还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-182-polished.md",
+   "chapter": 182,
+   "line": 95,
+   "op": "del",
+   "old": "这件事的来龙去脉，他需要把思路梳理清楚。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-183-polished.md",
+   "chapter": 183,
+   "line": 108,
+   "op": "del",
+   "old": "这件事的来龙去脉，弄懂还需要一点时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-192-polished.md",
+   "chapter": 192,
+   "line": 121,
+   "op": "del",
+   "old": "这件事的来龙去脉，理清还需要些时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-193-polished.md",
+   "chapter": 193,
+   "line": 77,
+   "op": "del",
+   "old": "这件事的来龙去脉，想弄懂还需要些时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-194-polished.md",
+   "chapter": 194,
+   "line": 66,
+   "op": "del",
+   "old": "这件事的来龙去脉，理顺思路还需要些时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-194-polished.md",
+   "chapter": 194,
+   "line": 74,
+   "op": "del",
+   "old": "这件事的来龙去脉，想弄通还需要时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-198-polished.md",
+   "chapter": 198,
+   "line": 85,
+   "op": "del",
+   "old": "这件事的来龙去脉，把思绪理顺还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-204-polished.md",
+   "chapter": 204,
+   "line": 101,
+   "op": "del",
+   "old": "这件事的来龙去脉，弄懂这些还需要些时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-206-polished.md",
+   "chapter": 206,
+   "line": 35,
+   "op": "del",
+   "old": "这件事的来龙去脉，弄通这些还需要些时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-206-polished.md",
+   "chapter": 206,
+   "line": 41,
+   "op": "del",
+   "old": "这件事的来龙去脉，他需要点时间才能想通。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-206-polished.md",
+   "chapter": 206,
+   "line": 49,
+   "op": "del",
+   "old": "这件事的来龙去脉，他需要点时间才能弄懂。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-207-polished.md",
+   "chapter": 207,
+   "line": 45,
+   "op": "del",
+   "old": "这件事的来龙去脉，理顺还得再花点时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-207-polished.md",
+   "chapter": 207,
+   "line": 51,
+   "op": "del",
+   "old": "这件事的来龙去脉，弄明白还得花点时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-209-polished.md",
+   "chapter": 209,
+   "line": 43,
+   "op": "del",
+   "old": "这件事的来龙去脉，他还要花时间理顺思路。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-209-polished.md",
+   "chapter": 209,
+   "line": 47,
+   "op": "del",
+   "old": "这件事的来龙去脉，弄懂还需要一点时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-209-polished.md",
+   "chapter": 209,
+   "line": 55,
+   "op": "del",
+   "old": "这件事的来龙去脉，理清还需要些时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-2/chapter-217-polished.md",
+   "chapter": 217,
+   "line": 59,
+   "op": "del",
+   "old": "这件事的来龙去脉，想通还需要些时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-3/chapter-310-polished.md",
+   "chapter": 310,
+   "line": 172,
+   "op": "del",
+   "old": "这件事的来龙去脉，弄通还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-3/chapter-313-polished.md",
+   "chapter": 313,
+   "line": 149,
+   "op": "del",
+   "old": "这件事的来龙去脉，想明白还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-3/chapter-318-polished.md",
+   "chapter": 318,
+   "line": 146,
+   "op": "del",
+   "old": "这件事的来龙去脉，理清思绪还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-3/chapter-319-polished.md",
+   "chapter": 319,
+   "line": 152,
+   "op": "del",
+   "old": "这件事的来龙去脉，弄通还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-3/chapter-320-polished.md",
+   "chapter": 320,
+   "line": 173,
+   "op": "del",
+   "old": "这件事的来龙去脉，理清思路还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-3/chapter-327-polished.md",
+   "chapter": 327,
+   "line": 145,
+   "op": "del",
+   "old": "这件事的来龙去脉，弄懂还需要一点时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-3/chapter-340-polished.md",
+   "chapter": 340,
+   "line": 167,
+   "op": "del",
+   "old": "这件事的来龙去脉，他需要更多时间才能弄懂。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-3/chapter-341-polished.md",
+   "chapter": 341,
+   "line": 155,
+   "op": "del",
+   "old": "这件事的来龙去脉，梳理思路还要花些时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-3/chapter-341-polished.md",
+   "chapter": 341,
+   "line": 159,
+   "op": "del",
+   "old": "这件事的来龙去脉，他需要时间才能弄通。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-3/chapter-342-polished.md",
+   "chapter": 342,
+   "line": 129,
+   "op": "del",
+   "old": "这件事的来龙去脉，他需要时间才能想通。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-3/chapter-373-polished.md",
+   "chapter": 373,
+   "line": 155,
+   "op": "del",
+   "old": "这件事的来龙去脉，他需要时间才能弄懂。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-3/chapter-377-polished.md",
+   "chapter": 377,
+   "line": 117,
+   "op": "del",
+   "old": "这件事的来龙去脉，理清这些还需要时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-3/chapter-381-polished.md",
+   "chapter": 381,
+   "line": 81,
+   "op": "del",
+   "old": "这件事的来龙去脉，把这事弄明白还要花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-3/chapter-386-polished.md",
+   "chapter": 386,
+   "line": 89,
+   "op": "del",
+   "old": "这件事的来龙去脉，理清这件事还需要时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-3/chapter-392-polished.md",
+   "chapter": 392,
+   "line": 39,
+   "op": "del",
+   "old": "这件事的来龙去脉，他需要把思绪梳理清楚。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-563-polished.md",
+   "chapter": 563,
+   "line": 119,
+   "op": "del",
+   "old": "这件事的来龙去脉，理清这事还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-563-polished.md",
+   "chapter": 563,
+   "line": 129,
+   "op": "del",
+   "old": "他不确定自己看到的是真的还是幻觉。",
+   "origin": "264dffcf5"
+  },
+  {
+   "path": "chapters/volume-5/chapter-563-polished.md",
+   "chapter": 563,
+   "line": 131,
+   "op": "del",
+   "old": "胸口那股暖意又出现了，像是有人在那里点了一盏灯。",
+   "origin": "264dffcf5"
+  },
+  {
+   "path": "chapters/volume-5/chapter-563-polished.md",
+   "chapter": 563,
+   "line": 133,
+   "op": "del",
+   "old": "他没有回头看，但感觉到后面有人在看他。",
+   "origin": "3b5d4e9d7"
+  },
+  {
+   "path": "chapters/volume-5/chapter-563-polished.md",
+   "chapter": 563,
+   "line": 135,
+   "op": "del",
+   "old": "空气里弥漫着一股味道，说不清楚是什么。",
+   "origin": "793c8cb4d"
+  },
+  {
+   "path": "chapters/volume-5/chapter-563-polished.md",
+   "chapter": 563,
+   "line": 137,
+   "op": "del",
+   "old": "他把手插进衣服口袋，试图让自己暖和一点。",
+   "origin": "264dffcf5"
+  },
+  {
+   "path": "chapters/volume-5/chapter-563-polished.md",
+   "chapter": 563,
+   "line": 139,
+   "op": "del",
+   "old": "那些画面在他眼前闪烁，像是老旧电影的画面。",
+   "origin": "264dffcf5"
+  },
+  {
+   "path": "chapters/volume-5/chapter-566-polished.md",
+   "chapter": 566,
+   "line": 253,
+   "op": "del",
+   "old": "叶文轩的洞察之眼扫向边界，边界的缝隙在扩大缝隙从头发丝那么细变成了针尖那么粗。缝隙在继续扩大。缝隙在继续增长。",
+   "origin": "264dffcf5"
+  },
+  {
+   "path": "chapters/volume-5/chapter-569-polished.md",
+   "chapter": 569,
+   "line": 171,
+   "op": "del",
+   "old": "叶文轩的洞察之眼扫向边界，边界的缝隙在扩大缝隙从头发丝那么细变成了针尖那么粗。缝隙在继续扩大。缝隙在继续增长。",
+   "origin": "264dffcf5"
+  },
+  {
+   "path": "chapters/volume-5/chapter-570-polished.md",
+   "chapter": 570,
+   "line": 191,
+   "op": "del",
+   "old": "叶文轩的洞察之眼扫向边界，边界的缝隙在扩大缝隙从头发丝那么细变成了针尖那么粗。缝隙在继续扩大。缝隙在继续增长。",
+   "origin": "264dffcf5"
+  },
+  {
+   "path": "chapters/volume-5/chapter-571-polished.md",
+   "chapter": 571,
+   "line": 109,
+   "op": "del",
+   "old": "叶文轩的洞察之眼扫向边界，边界的缝隙在扩大缝隙从头发丝那么细变成了针尖那么粗。缝隙在继续扩大。缝隙在继续增长。",
+   "origin": "264dffcf5"
+  },
+  {
+   "path": "chapters/volume-5/chapter-573-polished.md",
+   "chapter": 573,
+   "line": 170,
+   "op": "del",
+   "old": "这件事的来龙去脉，他需要把思路梳理清楚。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-574-polished.md",
+   "chapter": 574,
+   "line": 167,
+   "op": "del",
+   "old": "这件事的来龙去脉，弄懂还需要一点时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-575-polished.md",
+   "chapter": 575,
+   "line": 141,
+   "op": "del",
+   "old": "这件事的来龙去脉，理清还需要些时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-582-polished.md",
+   "chapter": 582,
+   "line": 119,
+   "op": "del",
+   "old": "缝隙在继续扩大。",
+   "origin": "eee816406"
+  },
+  {
+   "path": "chapters/volume-5/chapter-586-polished.md",
+   "chapter": 586,
+   "line": 131,
+   "op": "del",
+   "old": "这件事的来龙去脉，把这事想通还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-596-polished.md",
+   "chapter": 596,
+   "line": 144,
+   "op": "del",
+   "old": "这件事的来龙去脉，想通这事还需要时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-598-polished.md",
+   "chapter": 598,
+   "line": 195,
+   "op": "del",
+   "old": "这件事的来龙去脉，把思路理顺还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-600-polished.md",
+   "chapter": 600,
+   "line": 151,
+   "op": "del",
+   "old": "这件事的来龙去脉，弄懂还需要一点时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-612-polished.md",
+   "chapter": 612,
+   "line": 182,
+   "op": "del",
+   "old": "这件事的来龙去脉，弄懂这些还需要些时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-637-polished.md",
+   "chapter": 637,
+   "line": 209,
+   "op": "del",
+   "old": "这件事的来龙去脉，他需要点时间才能想通。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-640-polished.md",
+   "chapter": 640,
+   "line": 158,
+   "op": "del",
+   "old": "这件事的来龙去脉，他需要点时间才能弄懂。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-644-polished.md",
+   "chapter": 644,
+   "line": 217,
+   "op": "del",
+   "old": "这件事的来龙去脉，理顺还得再花点时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-645-polished.md",
+   "chapter": 645,
+   "line": 215,
+   "op": "del",
+   "old": "这件事的来龙去脉，弄明白还得花点时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-651-polished.md",
+   "chapter": 651,
+   "line": 201,
+   "op": "del",
+   "old": "这件事的来龙去脉，他还要花时间理顺思绪。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-652-polished.md",
+   "chapter": 652,
+   "line": 215,
+   "op": "del",
+   "old": "这件事的来龙去脉，把这事弄明白还要花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-653-polished.md",
+   "chapter": 653,
+   "line": 208,
+   "op": "del",
+   "old": "这件事的来龙去脉，他还要花时间理顺思路。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-661-polished.md",
+   "chapter": 661,
+   "line": 218,
+   "op": "del",
+   "old": "这件事的来龙去脉，理清还需要些时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-661-polished.md",
+   "chapter": 661,
+   "line": 224,
+   "op": "del",
+   "old": "他不确定自己看到的是真的还是幻觉。",
+   "origin": "264dffcf5"
+  },
+  {
+   "path": "chapters/volume-5/chapter-667-polished.md",
+   "chapter": 667,
+   "line": 157,
+   "op": "del",
+   "old": "这件事的来龙去脉，想通还需要些时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-670-polished.md",
+   "chapter": 670,
+   "line": 107,
+   "op": "del",
+   "old": "这件事的来龙去脉，弄通还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-671-polished.md",
+   "chapter": 671,
+   "line": 115,
+   "op": "del",
+   "old": "这件事的来龙去脉，想明白还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-672-polished.md",
+   "chapter": 672,
+   "line": 112,
+   "op": "del",
+   "old": "他抬头看着窗外，窗外空荡荡的。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-673-polished.md",
+   "chapter": 673,
+   "line": 93,
+   "op": "del",
+   "old": "这件事的来龙去脉，理清思绪还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-674-polished.md",
+   "chapter": 674,
+   "line": 104,
+   "op": "del",
+   "old": "这件事的来龙去脉，弄通还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-676-polished.md",
+   "chapter": 676,
+   "line": 108,
+   "op": "del",
+   "old": "这件事的来龙去脉，弄懂还需要一点时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-676-polished.md",
+   "chapter": 676,
+   "line": 118,
+   "op": "del",
+   "old": "他抬头看着窗外，窗外空荡荡的。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-677-polished.md",
+   "chapter": 677,
+   "line": 101,
+   "op": "del",
+   "old": "这件事的来龙去脉，理清还需要些时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-686-polished.md",
+   "chapter": 686,
+   "line": 101,
+   "op": "del",
+   "old": "这件事的来龙去脉，梳理思路还要花些时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-688-polished.md",
+   "chapter": 688,
+   "line": 89,
+   "op": "del",
+   "old": "这件事的来龙去脉，他需要时间才能想通。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-688-polished.md",
+   "chapter": 688,
+   "line": 97,
+   "op": "del",
+   "old": "他抬头看着窗外，窗外空荡荡的。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-690-polished.md",
+   "chapter": 690,
+   "line": 113,
+   "op": "del",
+   "old": "这件事的来龙去脉，他需要时间才能弄懂。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-696-polished.md",
+   "chapter": 696,
+   "line": 66,
+   "op": "del",
+   "old": "这件事的来龙去脉，理清这件事还需要时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-697-polished.md",
+   "chapter": 697,
+   "line": 86,
+   "op": "del",
+   "old": "他抬头看着窗外，窗外空荡荡的。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-698-polished.md",
+   "chapter": 698,
+   "line": 76,
+   "op": "del",
+   "old": "这件事的来龙去脉，把思绪理顺还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-699-polished.md",
+   "chapter": 699,
+   "line": 70,
+   "op": "del",
+   "old": "这件事的来龙去脉，理清这事还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-700-polished.md",
+   "chapter": 700,
+   "line": 84,
+   "op": "del",
+   "old": "这件事的来龙去脉，把思路理顺还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-701-polished.md",
+   "chapter": 701,
+   "line": 70,
+   "op": "del",
+   "old": "这件事的来龙去脉，弄懂还需要一点时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-702-polished.md",
+   "chapter": 702,
+   "line": 52,
+   "op": "del",
+   "old": "这件事的来龙去脉，理清还需要些时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-703-polished.md",
+   "chapter": 703,
+   "line": 40,
+   "op": "del",
+   "old": "他抬头看着窗外，窗外空荡荡的。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-705-polished.md",
+   "chapter": 705,
+   "line": 56,
+   "op": "del",
+   "old": "这件事的来龙去脉，想弄懂还需要些时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-706-polished.md",
+   "chapter": 706,
+   "line": 83,
+   "op": "del",
+   "old": "这件事的来龙去脉，理顺思路还需要些时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-724-polished.md",
+   "chapter": 724,
+   "line": 115,
+   "op": "del",
+   "old": "这件事的来龙去脉，把这事想通还得花时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-734-polished.md",
+   "chapter": 734,
+   "line": 143,
+   "op": "del",
+   "old": "这件事的来龙去脉，他还要花时间理顺思绪。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-5/chapter-734-polished.md",
+   "chapter": 734,
+   "line": 153,
+   "op": "del",
+   "old": "他抬头看着窗外，窗外空荡荡的。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-6/chapter-906-polished.md",
+   "chapter": 906,
+   "line": 146,
+   "op": "del",
+   "old": "这件事的来龙去脉，想通这事还需要时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-6/chapter-906-polished.md",
+   "chapter": 906,
+   "line": 154,
+   "op": "del",
+   "old": "这件事的来龙去脉，他还要花时间理顺思路。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-6/chapter-906-polished.md",
+   "chapter": 906,
+   "line": 158,
+   "op": "del",
+   "old": "这件事的来龙去脉，弄懂还需要一点时间。",
+   "origin": "9cd5e6519"
+  },
+  {
+   "path": "chapters/volume-6/chapter-907-polished.md",
+   "chapter": 907,
+   "line": 169,
+   "op": "del",
+   "old": "这件事的来龙去脉，理清还需要些时间。",
+   "origin": "9cd5e6519"
+  }
+ ],
+ "deferred": [
+  {
+   "path": "chapters/volume-2/chapter-133-polished.md",
+   "chapter": 133,
+   "cjk_now": 3002,
+   "cjk_after": 2984,
+   "sites": 1
+  },
+  {
+   "path": "chapters/volume-2/chapter-147-polished.md",
+   "chapter": 147,
+   "cjk_now": 3005,
+   "cjk_after": 2988,
+   "sites": 1
+  },
+  {
+   "path": "chapters/volume-2/chapter-157-polished.md",
+   "chapter": 157,
+   "cjk_now": 3006,
+   "cjk_after": 2989,
+   "sites": 1
+  },
+  {
+   "path": "chapters/volume-2/chapter-199-polished.md",
+   "chapter": 199,
+   "cjk_now": 3000,
+   "cjk_after": 2948,
+   "sites": 3
+  },
+  {
+   "path": "chapters/volume-2/chapter-208-polished.md",
+   "chapter": 208,
+   "cjk_now": 3033,
+   "cjk_after": 2996,
+   "sites": 2
+  },
+  {
+   "path": "chapters/volume-5/chapter-580-polished.md",
+   "chapter": 580,
+   "cjk_now": 3019,
+   "cjk_after": 2918,
+   "sites": 6
+  },
+  {
+   "path": "chapters/volume-5/chapter-581-polished.md",
+   "chapter": 581,
+   "cjk_now": 3028,
+   "cjk_after": 2998,
+   "sites": 3
+  },
+  {
+   "path": "chapters/volume-5/chapter-583-polished.md",
+   "chapter": 583,
+   "cjk_now": 3008,
+   "cjk_after": 2994,
+   "sites": 2
+  },
+  {
+   "path": "chapters/volume-5/chapter-585-polished.md",
+   "chapter": 585,
+   "cjk_now": 3012,
+   "cjk_after": 2992,
+   "sites": 2
+  },
+  {
+   "path": "chapters/volume-5/chapter-593-polished.md",
+   "chapter": 593,
+   "cjk_now": 3000,
+   "cjk_after": 2982,
+   "sites": 1
+  },
+  {
+   "path": "chapters/volume-5/chapter-603-polished.md",
+   "chapter": 603,
+   "cjk_now": 3007,
+   "cjk_after": 2991,
+   "sites": 1
+  },
+  {
+   "path": "chapters/volume-5/chapter-618-polished.md",
+   "chapter": 618,
+   "cjk_now": 3043,
+   "cjk_after": 2877,
+   "sites": 9
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "chapter": 675,
+   "cjk_now": 3066,
+   "cjk_after": 2959,
+   "sites": 6
+  },
+  {
+   "path": "chapters/volume-5/chapter-693-polished.md",
+   "chapter": 693,
+   "cjk_now": 3064,
+   "cjk_after": 2933,
+   "sites": 7
+  },
+  {
+   "path": "chapters/volume-5/chapter-694-polished.md",
+   "chapter": 694,
+   "cjk_now": 3046,
+   "cjk_after": 2956,
+   "sites": 2
+  },
+  {
+   "path": "chapters/volume-5/chapter-695-polished.md",
+   "chapter": 695,
+   "cjk_now": 3088,
+   "cjk_after": 2805,
+   "sites": 7
+  },
+  {
+   "path": "chapters/volume-5/chapter-732-polished.md",
+   "chapter": 732,
+   "cjk_now": 3013,
+   "cjk_after": 2782,
+   "sites": 5
+  }
+ ]
+}
