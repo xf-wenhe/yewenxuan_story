@@ -1,0 +1,26 @@
+{
+  "round": "R309-repair",
+  "note": "Remove the three not-is-comparison templates introduced by R309 stage 1. Applied after stage 1, text-anchored, in this order.",
+  "records": [
+    {
+      "path": "chapters/volume-2/chapter-206-polished.md",
+      "old": "门面上的纹路不是刻上去的，是从门里透出来的，透出来的地方亮，别处暗。",
+      "new": "门面上的纹路从门里透出来，透出来的地方亮，别处暗。亮处贴着门板走，走到锁孔边上收住。"
+    },
+    {
+      "path": "chapters/volume-2/chapter-206-polished.md",
+      "old": "碎片还认出一个方向，那个方向不是门，是门后面更远的地方。",
+      "new": "碎片还认出一个方向，那方向在门的后面，穿过整扇门，比门更远。"
+    },
+    {
+      "path": "chapters/volume-2/chapter-213-polished.md",
+      "old": "中间那条不是通道，是裂缝的延伸。",
+      "new": "中间那条是裂缝自己延下来的，从深处一直延到入口。"
+    },
+    {
+      "path": "chapters/volume-2/chapter-199-polished.md",
+      "old": "42片碎片的时间结构线在缺口处流动。线往外扩，扩到一半又收回来，收完再往外走。",
+      "new": "缺口处的结构线一直在动，扩出去，又缩回来，缩完再往外走，这一轮走得比刚才急。"
+    }
+  ]
+}
