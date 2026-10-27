@@ -23,6 +23,7 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r309b_sites_b3.json', 'tools/r309b_sites_b4.json',
           'tools/r309b_sites_b5.json', 'tools/r309b_sites_b6.json',
           'tools/r309b_sites_b7.json', 'tools/r309b_sites_b8.json',
+          'tools/r310_sites_ch809.json', 'tools/r310_sites_runs.json',
           'tools/r309b_topup.json']
 
 
