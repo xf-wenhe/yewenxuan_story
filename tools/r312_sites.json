@@ -1,0 +1,1278 @@
+{
+ "round": "R309b",
+ "source": ".claude/tmp/r312_batch.json",
+ "records": [
+  {
+   "path": "chapters/volume-2/chapter-118-polished.md",
+   "line": 40,
+   "old": "像中心点在。",
+   "new": "像中心点在等待。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-118-polished.md",
+   "line": 115,
+   "old": "汇点的时间结构线在。",
+   "new": "汇点的时间结构线在折叠。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-179-polished.md",
+   "line": 16,
+   "old": "可轮廓还在。",
+   "new": "可轮廓还在好好学习天天向上。"
+  },
+  {
+   "path": "chapters/volume-3/chapter-257-polished.md",
+   "line": 73,
+   "old": "感到0429碎片在。",
+   "new": "感到0429碎片在睡觉。"
+  },
+  {
+   "path": "chapters/volume-3/chapter-257-polished.md",
+   "line": 133,
+   "old": "看着裂隙在。",
+   "new": "看着裂隙在吸气。"
+  },
+  {
+   "path": "chapters/volume-3/chapter-257-polished.md",
+   "line": 213,
+   "old": "在。",
+   "new": "在睡觉。"
+  },
+  {
+   "path": "chapters/volume-3/chapter-260-polished.md",
+   "line": 202,
+   "old": "在。",
+   "new": "在吸气。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-760-polished.md",
+   "line": 111,
+   "old": "0429在。",
+   "new": "0429在适应。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-767-polished.md",
+   "line": 33,
+   "old": "在。",
+   "new": "在问问题。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-767-polished.md",
+   "line": 37,
+   "old": "C结局的解放空间在。",
+   "new": "C结局的解放空间在等待。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-767-polished.md",
+   "line": 53,
+   "old": "在。",
+   "new": "在问问题。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-767-polished.md",
+   "line": 111,
+   "old": "在。",
+   "new": "在问问题。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-769-polished.md",
+   "line": 41,
+   "old": "在。",
+   "new": "在等待。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-769-polished.md",
+   "line": 47,
+   "old": "我们和孙鹏在。",
+   "new": "我们和孙鹏在赛跑。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-769-polished.md",
+   "line": 85,
+   "old": "在。",
+   "new": "在等待。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-769-polished.md",
+   "line": 133,
+   "old": "像在。",
+   "new": "像在打招呼。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-769-polished.md",
+   "line": 181,
+   "old": "在。",
+   "new": "在等待。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-769-polished.md",
+   "line": 187,
+   "old": "像在。",
+   "new": "像在打招呼。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-770-polished.md",
+   "line": 55,
+   "old": "像在。",
+   "new": "像在点头。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-770-polished.md",
+   "line": 63,
+   "old": "两个意识在。",
+   "new": "两个意识在共存。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-770-polished.md",
+   "line": 111,
+   "old": "但她不知道是谁在。",
+   "new": "但她不知道是谁在说话。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-770-polished.md",
+   "line": 153,
+   "old": "像在。",
+   "new": "像在点头。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-770-polished.md",
+   "line": 185,
+   "old": "知秋的融合让进度在。",
+   "new": "知秋的融合让进度在加速。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-770-polished.md",
+   "line": 217,
+   "old": "连接的质量在。",
+   "new": "连接的质量在提升。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-770-polished.md",
+   "line": 223,
+   "old": "连接在。",
+   "new": "连接在变强。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-771-polished.md",
+   "line": 29,
+   "old": "0429在。",
+   "new": "0429在分享。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-771-polished.md",
+   "line": 45,
+   "old": "里的0429碎片在。",
+   "new": "里的0429碎片在共振。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-771-polished.md",
+   "line": 63,
+   "old": "在。",
+   "new": "在分享。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-771-polished.md",
+   "line": 91,
+   "old": "光在。",
+   "new": "光在变亮。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-771-polished.md",
+   "line": 127,
+   "old": "像结构在。",
+   "new": "像结构在搭建。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-771-polished.md",
+   "line": 177,
+   "old": "我的意识会被。",
+   "new": "我的意识会被压缩。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-771-polished.md",
+   "line": 191,
+   "old": "像在。",
+   "new": "像在感谢。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-771-polished.md",
+   "line": 209,
+   "old": "女儿的0428）正在。",
+   "new": "女儿的0428）正在对接。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-771-polished.md",
+   "line": 296,
+   "old": "0429在。",
+   "new": "0429在分享。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-771-polished.md",
+   "line": 296,
+   "old": "42碎片在。",
+   "new": "42碎片在充能。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-771-polished.md",
+   "line": 320,
+   "old": "桥梁系统在。",
+   "new": "桥梁系统在生长。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-771-polished.md",
+   "line": 324,
+   "old": "0429在。",
+   "new": "0429在分享。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-772-polished.md",
+   "line": 17,
+   "old": "0428副本在。",
+   "new": "0428副本在工作。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-772-polished.md",
+   "line": 37,
+   "old": "像一把。",
+   "new": "像一把锁。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-772-polished.md",
+   "line": 93,
+   "old": "结果中有一个。",
+   "new": "结果中有一个词。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-772-polished.md",
+   "line": 283,
+   "old": "0429在。",
+   "new": "0429在告别。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-772-polished.md",
+   "line": 291,
+   "old": "0428在。",
+   "new": "0428在报告。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-773-polished.md",
+   "line": 37,
+   "old": "0429在。",
+   "new": "0429在回应。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-773-polished.md",
+   "line": 107,
+   "old": "428副本记录了一个。",
+   "new": "428副本记录了一个变量。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-773-polished.md",
+   "line": 169,
+   "old": "0428在。",
+   "new": "0428在报告。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-773-polished.md",
+   "line": 189,
+   "old": "功率在。",
+   "new": "功率在下降。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-773-polished.md",
+   "line": 199,
+   "old": "到0429的功率在。",
+   "new": "到0429的功率在下降。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-773-polished.md",
+   "line": 223,
+   "old": "428副本记录了一个。",
+   "new": "428副本记录了一个变量。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-773-polished.md",
+   "line": 253,
+   "old": "墙的底部有一个。",
+   "new": "墙的底部有一个门。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-773-polished.md",
+   "line": 273,
+   "old": "赵大嘴体内的功率在。",
+   "new": "赵大嘴体内的功率在下降。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-773-polished.md",
+   "line": 279,
+   "old": "0428在。",
+   "new": "0428在报告。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-773-polished.md",
+   "line": 287,
+   "old": "屏幕上显示着一个。",
+   "new": "屏幕上显示着一个未知号码。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-773-polished.md",
+   "line": 301,
+   "old": "一个。",
+   "new": "一个结果。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-773-polished.md",
+   "line": 301,
+   "old": "桥梁系统在。",
+   "new": "桥梁系统在启动。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-773-polished.md",
+   "line": 375,
+   "old": "429的备份功率在。",
+   "new": "429的备份功率在下降。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-773-polished.md",
+   "line": 381,
+   "old": "隔离墙在。",
+   "new": "隔离墙在变薄。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-773-polished.md",
+   "line": 387,
+   "old": "0429在。",
+   "new": "0429在回应。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-774-polished.md",
+   "line": 11,
+   "old": "功率在。",
+   "new": "功率在下降。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-774-polished.md",
+   "line": 43,
+   "old": "0428在。",
+   "new": "0428在报告。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-774-polished.md",
+   "line": 53,
+   "old": "0429在。",
+   "new": "0429在回应。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-774-polished.md",
+   "line": 187,
+   "old": "0428在。",
+   "new": "0428在报告。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-774-polished.md",
+   "line": 265,
+   "old": "备用功率在。",
+   "new": "备用功率在下降。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-774-polished.md",
+   "line": 278,
+   "old": "在。",
+   "new": "在抵抗。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-774-polished.md",
+   "line": 448,
+   "old": "一个。",
+   "new": "一个替代方案。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-774-polished.md",
+   "line": 488,
+   "old": "备份在。",
+   "new": "备份在那个位置。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-775-polished.md",
+   "line": 191,
+   "old": "0428在。",
+   "new": "0428在确认。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-775-polished.md",
+   "line": 443,
+   "old": "有一个。",
+   "new": "有一个延迟。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 19,
+   "old": "和0429的对接被。",
+   "new": "和0429的对接被切断。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 33,
+   "old": "在。",
+   "new": "在融合。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 45,
+   "old": "很。",
+   "new": "很重。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 65,
+   "old": "0428备份在。",
+   "new": "0428备份在告别。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 69,
+   "old": "远处的车流声在。",
+   "new": "远处的车流声在响。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 71,
+   "old": "呼吸在。",
+   "new": "呼吸在进行。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 85,
+   "old": "在。",
+   "new": "在融合。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 95,
+   "old": "在。",
+   "new": "在融合。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 99,
+   "old": "0428碎片在。",
+   "new": "0428碎片在变强。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 115,
+   "old": "桥梁系统在。",
+   "new": "桥梁系统在生长。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 125,
+   "old": "0428在。",
+   "new": "0428在确认。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 133,
+   "old": "远处的车流声在。",
+   "new": "远处的车流声在响。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 143,
+   "old": "在。",
+   "new": "在融合。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 211,
+   "old": "在。",
+   "new": "在融合。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 261,
+   "old": "428备份的功率在。",
+   "new": "428备份的功率在消耗。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 275,
+   "old": "楼梯的每一步都在。",
+   "new": "楼梯的每一步都在响。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 283,
+   "old": "呼吸在。",
+   "new": "呼吸在进行。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 295,
+   "old": "在。",
+   "new": "在融合。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 299,
+   "old": "0429的主体在。",
+   "new": "0429的主体在确认。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 305,
+   "old": "0428在。",
+   "new": "0428在确认。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 311,
+   "old": "在沈知秋的上方）在。",
+   "new": "在沈知秋的上方）在同步。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 315,
+   "old": "0429在。",
+   "new": "0429在确认。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 321,
+   "old": "在。",
+   "new": "在融合。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 339,
+   "old": "我们在。",
+   "new": "我们在一起。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 369,
+   "old": "0428碎片在。",
+   "new": "0428碎片在变强。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 379,
+   "old": "隔离墙在。",
+   "new": "隔离墙在变厚。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 395,
+   "old": "金色的光在。",
+   "new": "金色的光在流动。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 419,
+   "old": "在。",
+   "new": "在融合。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 425,
+   "old": "像在。",
+   "new": "像在微笑。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 429,
+   "old": "呼吸在。",
+   "new": "呼吸在进行。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 443,
+   "old": "金色的光在。",
+   "new": "金色的光在流动。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 447,
+   "old": "像在确认一个。",
+   "new": "像在确认一个梦。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 451,
+   "old": "手在。",
+   "new": "手在颤抖。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 461,
+   "old": "在。",
+   "new": "在融合。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 465,
+   "old": "在。",
+   "new": "在融合。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 477,
+   "old": "在。",
+   "new": "在融合。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 481,
+   "old": "孙鹏的系统在。",
+   "new": "孙鹏的系统在安静。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 521,
+   "old": "然后。",
+   "new": "然后消失。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 529,
+   "old": "在。",
+   "new": "在融合。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 537,
+   "old": "在。",
+   "new": "在融合。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 547,
+   "old": "0429在。",
+   "new": "0429在确认。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 559,
+   "old": "在。",
+   "new": "在融合。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 563,
+   "old": "留下了一个。",
+   "new": "留下了一个残余。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 565,
+   "old": "金色的光在。",
+   "new": "金色的光在流动。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 587,
+   "old": "0428碎片在。",
+   "new": "0428碎片在变强。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 599,
+   "old": "像0428碎片在。",
+   "new": "像0428碎片在运行。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-802-polished.md",
+   "line": 5,
+   "old": "但眼神很。",
+   "new": "但眼神很熟悉。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-802-polished.md",
+   "line": 13,
+   "old": "女儿在。",
+   "new": "女儿在睡着。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-802-polished.md",
+   "line": 13,
+   "old": "儿的手腕上的手环在。",
+   "new": "儿的手腕上的手环在发热。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-802-polished.md",
+   "line": 65,
+   "old": "屏幕上的代码在。",
+   "new": "屏幕上的代码在滚动。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-802-polished.md",
+   "line": 79,
+   "old": "叶文轩的心脏在。",
+   "new": "叶文轩的心脏在狂跳。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-802-polished.md",
+   "line": 115,
+   "old": "未来叶文轩在。",
+   "new": "未来叶文轩在害怕。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-802-polished.md",
+   "line": 173,
+   "old": "0428碎片在。",
+   "new": "0428碎片在加热。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-802-polished.md",
+   "line": 175,
+   "old": "0428碎片在。",
+   "new": "0428碎片在加热。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-802-polished.md",
+   "line": 193,
+   "old": "闭环在。",
+   "new": "闭环在进化。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-802-polished.md",
+   "line": 205,
+   "old": "闭环在。",
+   "new": "闭环在进化。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-802-polished.md",
+   "line": 211,
+   "old": "林渊在。",
+   "new": "林渊在淡去。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-802-polished.md",
+   "line": 213,
+   "old": "林渊在。",
+   "new": "林渊在淡去。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-802-polished.md",
+   "line": 239,
+   "old": "白光在。",
+   "new": "白光在扩散。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-805-polished.md",
+   "line": 48,
+   "old": "备用通道有一个。",
+   "new": "备用通道有一个开关。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-805-polished.md",
+   "line": 90,
+   "old": "我在。",
+   "new": "我在耗尽。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-805-polished.md",
+   "line": 102,
+   "old": "429碎片的能量在。",
+   "new": "429碎片的能量在下降。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-805-polished.md",
+   "line": 104,
+   "old": "我的能量在。",
+   "new": "我的能量在下降。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-805-polished.md",
+   "line": 172,
+   "old": "29碎片的微能源在。",
+   "new": "29碎片的微能源在消耗。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-805-polished.md",
+   "line": 178,
+   "old": "微能源的能量在。",
+   "new": "微能源的能量在下降。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-805-polished.md",
+   "line": 180,
+   "old": "微能源在。",
+   "new": "微能源在消耗。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-811-polished.md",
+   "line": 109,
+   "old": "但0428碎片在。",
+   "new": "但0428碎片在运行。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-811-polished.md",
+   "line": 123,
+   "old": "三个人的信号在。",
+   "new": "三个人的信号在混合。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-811-polished.md",
+   "line": 127,
+   "old": "温度在。",
+   "new": "温度在上升。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-811-polished.md",
+   "line": 127,
+   "old": "30%的效率在。",
+   "new": "30%的效率在累积。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-811-polished.md",
+   "line": 131,
+   "old": "闭环的核心在。",
+   "new": "闭环的核心在变暖。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-811-polished.md",
+   "line": 133,
+   "old": "闭环的核心在。",
+   "new": "闭环的核心在变暖。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-811-polished.md",
+   "line": 167,
+   "old": "47个叶文轩在。",
+   "new": "47个叶文轩在重复。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 9,
+   "old": "紫色光在。",
+   "new": "紫色光在重构。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 22,
+   "old": "像一条河在。",
+   "new": "像一条河在流动。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 22,
+   "old": "闭环在。",
+   "new": "闭环在重构。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 24,
+   "old": "在。",
+   "new": "在重构。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 30,
+   "old": "闭环的螺旋在。",
+   "new": "闭环的螺旋在被解开。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 34,
+   "old": "所有玩家的意识在。",
+   "new": "所有玩家的意识在被释放。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 36,
+   "old": "中所有玩家的意识在。",
+   "new": "中所有玩家的意识在被释放。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 38,
+   "old": "所有玩家的意识在。",
+   "new": "所有玩家的意识在被释放。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 40,
+   "old": "所有玩家的意识在。",
+   "new": "所有玩家的意识在被释放。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 52,
+   "old": "重构的过程很。",
+   "new": "重构的过程很痛。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 54,
+   "old": "重构的过程很。",
+   "new": "重构的过程很痛。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 56,
+   "old": "像一个人被。",
+   "new": "像一个人被撕开。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 64,
+   "old": "代码在。",
+   "new": "代码在流动。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 92,
+   "old": "本在重构过程中会被。",
+   "new": "本在重构过程中会被保留。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 114,
+   "old": "重构过程在。",
+   "new": "重构过程在完成。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 114,
+   "old": "闭环的螺旋结构被。",
+   "new": "闭环的螺旋结构被拆开。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 114,
+   "old": "所有玩家的意识被。",
+   "new": "所有玩家的意识被释放。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 122,
+   "old": "重构过程在。",
+   "new": "重构过程在完成。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 126,
+   "old": "嘴不知道这个程序在。",
+   "new": "嘴不知道这个程序在运行。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 126,
+   "old": "系统知道这个程序在。",
+   "new": "系统知道这个程序在运行。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 140,
+   "old": "新的结构在。",
+   "new": "新的结构在形成。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 146,
+   "old": "看到了闭环的螺旋被。",
+   "new": "看到了闭环的螺旋被拆开。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 148,
+   "old": "赵大嘴的固化脚本被。",
+   "new": "赵大嘴的固化脚本被故意保留。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 150,
+   "old": "终局空间在。",
+   "new": "终局空间在发光。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 164,
+   "old": "30%的效率在。",
+   "new": "30%的效率在累积。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 168,
+   "old": "终局空间的深处有一个。",
+   "new": "终局空间的深处有一个门。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 170,
+   "old": "终局空间的深处有一个。",
+   "new": "终局空间的深处有一个门。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 176,
+   "old": "7个叶文轩的记忆在。",
+   "new": "7个叶文轩的记忆在传递。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 176,
+   "old": "1轮叶文轩的遗言在。",
+   "new": "1轮叶文轩的遗言在传递。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 178,
+   "old": "两个0429碎片在。",
+   "new": "两个0429碎片在共振。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 180,
+   "old": "银色的门在。",
+   "new": "银色的门在发光。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 186,
+   "old": "47个叶文轩在。",
+   "new": "47个叶文轩在重复。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-818-polished.md",
+   "line": 39,
+   "old": "系统的核心还在。",
+   "new": "系统的核心还在运行。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-818-polished.md",
+   "line": 85,
+   "old": "但系统的核心还在。",
+   "new": "但系统的核心还在运行。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-838-polished.md",
+   "line": 15,
+   "old": "螺旋的中心有一个。",
+   "new": "螺旋的中心有一个光点。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-838-polished.md",
+   "line": 17,
+   "old": "像电路在。",
+   "new": "像电路在通电。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-838-polished.md",
+   "line": 19,
+   "old": "每个节点对应一个。",
+   "new": "每个节点对应一个锚点。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-838-polished.md",
+   "line": 19,
+   "old": "个节点之间的连线在。",
+   "new": "个节点之间的连线在闪烁。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-838-polished.md",
+   "line": 161,
+   "old": "0428在。",
+   "new": "0428在等。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-838-polished.md",
+   "line": 181,
+   "old": "429备份的信号在。",
+   "new": "429备份的信号在发热。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-838-polished.md",
+   "line": 301,
+   "old": "429备份的信号在。",
+   "new": "429备份的信号在发热。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-838-polished.md",
+   "line": 461,
+   "old": "两个心跳在。",
+   "new": "两个心跳在同步。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-838-polished.md",
+   "line": 506,
+   "old": "归位之门在。",
+   "new": "归位之门在等。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-838-polished.md",
+   "line": 506,
+   "old": "0428在。",
+   "new": "0428在等。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-838-polished.md",
+   "line": 506,
+   "old": "桥梁系统在。",
+   "new": "桥梁系统在等。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-861-polished.md",
+   "line": 81,
+   "old": "在。",
+   "new": "在共鸣。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-865-polished.md",
+   "line": 90,
+   "old": "形成一个。",
+   "new": "形成一个网络。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-867-polished.md",
+   "line": 19,
+   "old": "0429在。",
+   "new": "0429在微笑。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-867-polished.md",
+   "line": 115,
+   "old": "金属在。",
+   "new": "金属在呼吸。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-867-polished.md",
+   "line": 117,
+   "old": "铁盒子正在。",
+   "new": "铁盒子正在激活。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-867-polished.md",
+   "line": 117,
+   "old": "29副本的核心是一个。",
+   "new": "29副本的核心是一个按钮。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-867-polished.md",
+   "line": 191,
+   "old": "四个意识在。",
+   "new": "四个意识在对话。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-867-polished.md",
+   "line": 201,
+   "old": "桥梁系统在。",
+   "new": "桥梁系统在思考。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-867-polished.md",
+   "line": 205,
+   "old": "我很。",
+   "new": "我很快乐。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-867-polished.md",
+   "line": 221,
+   "old": "感到0429残余在。",
+   "new": "感到0429残余在那里。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-867-polished.md",
+   "line": 231,
+   "old": "0428残余在。",
+   "new": "0428残余在呼吸。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-867-polished.md",
+   "line": 245,
+   "old": "桥梁系统在。",
+   "new": "桥梁系统在思考。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-868-polished.md",
+   "line": 7,
+   "old": "429副本的核心在。",
+   "new": "429副本的核心在呼吸。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-868-polished.md",
+   "line": 29,
+   "old": "429残余的节奏在。",
+   "new": "429残余的节奏在跳动。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-868-polished.md",
+   "line": 41,
+   "old": "四个意识在。",
+   "new": "四个意识在对话。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-868-polished.md",
+   "line": 55,
+   "old": "螺旋结构在。",
+   "new": "螺旋结构在消退。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-868-polished.md",
+   "line": 59,
+   "old": "在白色门前形成了一个。",
+   "new": "在白色门前形成了一个平台。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-868-polished.md",
+   "line": 83,
+   "old": "桥梁系统在。",
+   "new": "桥梁系统在运行。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-868-polished.md",
+   "line": 87,
+   "old": "0428残余在。",
+   "new": "0428残余在呼吸。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-868-polished.md",
+   "line": 93,
+   "old": "0428残余在。",
+   "new": "0428残余在呼吸。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-868-polished.md",
+   "line": 119,
+   "old": "桥梁系统在。",
+   "new": "桥梁系统在运行。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-868-polished.md",
+   "line": 137,
+   "old": "429副本的核心在。",
+   "new": "429副本的核心在呼吸。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-878-polished.md",
+   "line": 67,
+   "old": "0429残余在。",
+   "new": "0429残余在期待。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-878-polished.md",
+   "line": 232,
+   "old": "像在。",
+   "new": "像在点头。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-878-polished.md",
+   "line": 280,
+   "old": "0429残余在。",
+   "new": "0429残余在期待。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-878-polished.md",
+   "line": 288,
+   "old": "0429主体在。",
+   "new": "0429主体在等你。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-878-polished.md",
+   "line": 383,
+   "old": "0428碎片在。",
+   "new": "0428碎片在准备。"
+  }
+ ]
+}

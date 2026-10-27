@@ -69,6 +69,29 @@ def head_text(path):
     return raw.decode('utf-8')
 
 
+def already_applied(line, old, new):
+    """Is this record already in the line?
+
+    `new` in the line is not enough.  Two shapes look the same and are not:
+
+      containment -- `醒了一部分。` -> `答得很短：醒了一部分。`.  After applying,
+        the old string survives *inside* the new one, so its presence says
+        nothing; `new` being there is the proof.
+      coincidence -- ch773 L189 already had a well-formed `功率在下降。` and a
+        broken `功率在。` beside it.  `new` was present before the record ran,
+        so skipping it left the broken clause in place (212 sites declared,
+        210 applied, and the engine's CJK delta check caught it).
+
+    So: if old is a substring of new, presence of new means done.  Otherwise
+    the record is done only when its own anchor is gone.
+    """
+    if new not in line:
+        return False
+    if old in new:
+        return True
+    return old not in line
+
+
 def apply_sites(text, rs, label):
     lines = text.split('\n')
     for r in sorted(rs, key=lambda r: -r['line']):
@@ -77,10 +100,7 @@ def apply_sites(text, rs, label):
             raise SystemExit('ABORT(%s): %s line %s out of range'
                              % (label, r['path'], r['line']))
         n = lines[i].count(r['old'])
-        # A replacement may *contain* the original string (`醒了一部分。` ->
-        # `答得很短：醒了一部分。`), so `count == 1` alone would apply it twice
-        # on a re-run.  `new` in place means the record is already done.
-        if r['new'] in lines[i]:
+        if already_applied(lines[i], r['old'], r['new']):
             continue
         if n != 1:
             raise SystemExit('ABORT(%s): %s line %s anchor count=%d  [%s]'

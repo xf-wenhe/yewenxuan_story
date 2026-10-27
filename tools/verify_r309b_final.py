@@ -30,7 +30,10 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r310_sites_810.json', 'tools/r310_sites_817.json',
           'tools/r311_sites_810.json', 'tools/r311_sites_817.json',
           'tools/r311b_sites_810.json', 'tools/r311b_sites_817.json',
-          'tools/r311c_sites_810.json', 'tools/r311_sites_812.json']
+          'tools/r311c_sites_810.json', 'tools/r311_sites_812.json',
+          'tools/r312_sites.json',
+          'tools/r312b_sites.json', 'tools/r312c_sites.json',
+          'tools/r312d_sites.json']
 
 
 def head_many(paths):
@@ -97,10 +100,13 @@ def main():
         for r in rs:
             i = r['line'] - 1
             n = lines[i].count(r['old']) if 0 <= i < len(lines) else 0
-            # `new` is checked first on purpose: a replacement that contains the
-            # original string (`醒了一部分。` -> `答得很短：醒了一部分。`) would
-            # otherwise be applied a second time on replay.
+            # `new` being present is not proof: see fix_r309b.already_applied.
+            # When `old` sits inside `new` (containment) presence of `new` is the
+            # proof; otherwise the record is done only when its anchor is gone.
+            done = False
             if 0 <= i < len(lines) and r['new'] in lines[i]:
+                done = (r['old'] in r['new']) or (r['old'] not in lines[i])
+            if done:
                 skipped += 1          # already committed by an earlier batch
             elif n == 1:
                 lines[i] = lines[i].replace(r['old'], r['new'], 1)
