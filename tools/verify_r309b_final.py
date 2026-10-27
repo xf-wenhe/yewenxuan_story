@@ -25,7 +25,7 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r309b_sites_b7.json', 'tools/r309b_sites_b8.json',
           'tools/r310_sites_ch809.json', 'tools/r310_sites_runs.json',
           'tools/r310_sites_813_814.json', 'tools/r310_sites_812a.json',
-          'tools/r310_sites_812b.json', 'tools/r310_sites_812c.json', 'tools/r310_sites_818.json',
+          'tools/r310_sites_812b.json', 'tools/r310_sites_812c.json', 'tools/r310_sites_818.json', 'tools/r310_sites_816.json',
           'tools/r309b_topup.json']
 
 
