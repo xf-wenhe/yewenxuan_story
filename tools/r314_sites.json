@@ -1,0 +1,69 @@
+{
+ "round": "R314",
+ "note": "displaced quote pairs in plain narration",
+ "records": [
+  {
+   "path": "chapters/volume-1/chapter-46-polished.md",
+   "line": 197,
+   "old": "\"，W角色\"",
+   "new": "\"W角色\"",
+   "why": "the inscription line; the pair already wraps W角色, the comma is debris"
+  },
+  {
+   "path": "chapters/volume-2/chapter-118-polished.md",
+   "line": 83,
+   "old": "但测试的内容是选错\"，是看他面对\"选错\"的时候怎么反应。",
+   "new": "但测试的内容是选错，是看他面对选错的时候怎么反应。",
+   "why": "three quotes on one span -- the pair had slipped, the third was orphaned"
+  },
+  {
+   "path": "chapters/volume-6/chapter-762-polished.md",
+   "line": 27,
+   "old": "0429回答：\"没有。他选了。\"不选\"。\"",
+   "new": "0429回答：\"没有。他选了不选。\"",
+   "why": "R238 turned 他选了。\"不选\"。 into 他选了不选。 elsewhere in the same book; the odd quote count stopped it here"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 409,
+   "old": "研究完成\"，在等待\"0428碎片。觉醒。",
+   "new": "研究完成，在等待0428碎片觉醒。",
+   "why": "pair intended to wrap 0428碎片觉醒 and landed one phrase early"
+  },
+  {
+   "path": "chapters/volume-6/chapter-776-polished.md",
+   "line": 521,
+   "old": "副本会逐渐淡出\"，然后消失。消失\"。",
+   "new": "副本会逐渐淡出，然后消失。",
+   "why": "pair wraps ，然后消失。消失 -- 消失 is said twice, once outside the pair"
+  },
+  {
+   "path": "chapters/volume-6/chapter-814-polished.md",
+   "line": 43,
+   "old": "在创造变量\"，但不会。失控\"。",
+   "new": "在创造变量，但不会失控。",
+   "why": "v5 ch714 L39 already reads this; the twin chapter is the witness"
+  },
+  {
+   "path": "chapters/volume-6/chapter-814-polished.md",
+   "line": 45,
+   "old": "在创造变量\"，但不会。失控\"。",
+   "new": "在创造变量，但不会失控。",
+   "why": "same paragraph repeated inside ch814 -- see the note in the round record"
+  },
+  {
+   "path": "chapters/volume-6/chapter-816-polished.md",
+   "line": 47,
+   "old": "欢乐鬼屋主题餐厅幽灵照相馆\"。鬼镇文创店\"。",
+   "new": "欢乐鬼屋主题餐厅、幽灵照相馆、鬼镇文创店。",
+   "why": "a list of three shop names; the separators were eaten, not the words"
+  },
+  {
+   "path": "chapters/volume-6/chapter-830-polished.md",
+   "line": 209,
+   "old": "前方路口左转继续直行\"。目的地即将到达\"。",
+   "new": "前方路口左转，继续直行。目的地即将到达。",
+   "why": "quoted navigation text -- the pair wrapped the sentence break and both commas inside it"
+  }
+ ]
+}
