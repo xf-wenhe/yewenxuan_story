@@ -1,0 +1,36 @@
+{
+  "round": "R309b",
+  "source": "tools/r309b_sites_b7.json",
+  "records": [
+    {
+      "path": "chapters/volume-5/chapter-699-polished.md",
+      "line": 33,
+      "old": "他的脑子在转，赵大嘴自己在转脑子。",
+      "new": "他不出声，脑子在转，转来转去都是这一件事。"
+    },
+    {
+      "path": "chapters/volume-5/chapter-698-polished.md",
+      "line": 17,
+      "old": "赵大嘴注意到他的脑子在转，赵大嘴自己在转脑子。他在想几件事：",
+      "new": "赵大嘴的脑子在转，转的是几件事。他在想："
+    },
+    {
+      "path": "chapters/volume-5/chapter-688-polished.md",
+      "line": 81,
+      "old": "也能顺着0428备份一路。看到你，认出你。",
+      "new": "也能顺着0428备份，一路看到你，认出你。"
+    },
+    {
+      "path": "chapters/volume-5/chapter-690-polished.md",
+      "line": 41,
+      "old": "也能借0428备份。看到你。看到你。",
+      "new": "也能借0428备份，在那边看到你。"
+    },
+    {
+      "path": "chapters/volume-6/chapter-833-polished.md",
+      "line": 83,
+      "old": "0428在护着朵朵，在当她妈妈，在爱她。",
+      "new": "0428在护着朵朵，当她妈妈，爱着她。"
+    }
+  ]
+}
