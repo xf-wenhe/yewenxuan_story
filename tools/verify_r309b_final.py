@@ -36,7 +36,7 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r312d_sites.json',
           'tools/r313_sites.json', 'tools/r313b_sites.json', 'tools/r313c_sites.json',
           'tools/r314_sites.json', 'tools/r314f_sites.json',
-          'tools/r315_sites.json']
+          'tools/r315_sites.json', 'tools/r317_sites.json']
 
 
 def head_many(paths):
@@ -121,6 +121,14 @@ def main():
                 # that splits a paragraph inserts a line, and every record after
                 # it shifts.  The text is the truth, the line number is the
                 # authoring aid.
+                skipped += 1
+            elif r['old'] not in text and r['new'] not in text:
+                # Superseded by a table that is not in this chain (r314b/r314e
+                # rewrote volume-6 emphasis runs and r314f, not they, is the
+                # one chained).  Neither side survives in HEAD, so there is
+                # nothing to replay.  Safe to skip because the byte comparison
+                # below is the actual proof: a record wrongly skipped here
+                # shows up as a MISMATCH, not as a pass.
                 skipped += 1
             else:
                 raise SystemExit('ABORT: %s L%d anchor count=%d  [%s]'
