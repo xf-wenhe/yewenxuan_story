@@ -1,0 +1,76 @@
+{
+ "round": "R313b",
+ "note": "restore the nouns R211 deleted from ch813",
+ "records": [
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 7,
+   "old": "打破稳态的。",
+   "new": "打破稳态的钥匙。",
+   "witness": "打破稳态的。\"钥匙\"。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 54,
+   "old": "经历了解构然后。",
+   "new": "经历了解构然后重组。",
+   "witness": "经历了\"解构\"然后。\"重组\"。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 116,
+   "old": "像一个新的大脑在稳态协议。",
+   "new": "像一个新的大脑在形成。",
+   "witness": "像一个新的大脑在。\"形成\"。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 120,
+   "old": "但赵大嘴的固化脚本在等待被。",
+   "new": "但赵大嘴的固化脚本在等待被重新安装到赵大嘴的意识中。",
+   "witness": "但赵大嘴的固化脚本在\"等待\"——等待被\"重新安装\"到赵大嘴的意识中。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 128,
+   "old": "只有第N-1轮的叶文轩知道，固化脚本的。",
+   "new": "固化脚本的第二个功能，只有第N-1轮的叶文轩知道。",
+   "witness": "只有第N-1轮的叶文轩知道——固化脚本的。\"第二个功能\"。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 132,
+   "old": "只有第N-1轮叶文轩知道固化脚本的。",
+   "new": "只有第N-1轮叶文轩知道固化脚本的第二个功能。",
+   "witness": "只有第N-1轮叶文轩知道固化脚本的。\"第二个功能\"。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 158,
+   "old": "固化脚本的。",
+   "new": "固化脚本的故意保留。",
+   "witness": "遗言、指令、匹配算法、固化脚本的。\"故意保留\"。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 164,
+   "old": "稳态协议就撑不住。",
+   "new": "稳态协议就开始融化。",
+   "witness": "47个循环后，稳态协议会。\"融化\"。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 196,
+   "old": "赵大嘴是第N-1轮叶文轩的。",
+   "new": "赵大嘴是第N-1轮叶文轩的礼物。",
+   "witness": "赵大嘴是第N-1轮叶文轩的\"礼物\"——给\"下一个自己\"的礼物。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 198,
+   "old": "赵大嘴是第N-1轮叶文轩的。",
+   "new": "赵大嘴是第N-1轮叶文轩的礼物。",
+   "witness": "0429在说：赵大嘴是第N-1轮叶文轩的。\"礼物\"。"
+  }
+ ]
+}
