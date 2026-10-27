@@ -1,0 +1,204 @@
+{
+ "round": "R309b",
+ "source": ".claude/tmp/r309b_batch4.json",
+ "records": [
+  {
+   "path": "chapters/volume-2/chapter-194-polished.md",
+   "line": 27,
+   "old": "书架的时间结构在自行运转。书架的时间结构在循环。书架的时间结构在1998年。",
+   "new": "书架的时间结构在自行运转，循环在每一层上停一下，停完再往1998年去。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-194-polished.md",
+   "line": 48,
+   "old": "走廊的时间结构在自行运转。走廊的时间结构在循环。走廊的时间结构在1998年。",
+   "new": "走廊的时间结构在自行运转，循环贴着踢脚线走，走到头再退回来，退到1998年。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-196-polished.md",
+   "line": 5,
+   "old": "42片碎片在吸收0429碎片的力量。42片碎片在吸收漩涡中心的力量。42片碎片在吸收灰色的空间的力量。",
+   "new": "42片碎片把这三股力量一并吸进去：0429碎片的，漩涡中心的，灰色空间的。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-196-polished.md",
+   "line": 27,
+   "old": "42片碎片在吸收。42片碎片在吸收六片0429碎片的力量。42片碎片在吸收0429碎片的时间结构。",
+   "new": "42片碎片在吸收，先吸六片0429碎片的力量，再吸它们的时间结构。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-196-polished.md",
+   "line": 31,
+   "old": "空间的时间结构在自行运转。空间的时间结构在循环。空间的时间结构在1998年。",
+   "new": "空间的时间结构在自行运转，循环没有边，转到最后总是回到1998年。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-199-polished.md",
+   "line": 7,
+   "old": "走廊的时间结构在自行运转。走廊的时间结构在循环。走廊的时间结构在1998年。",
+   "new": "走廊的时间结构在自行运转，循环踩在每一块砖上，一块也不少，最后一步落在1998年。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-199-polished.md",
+   "line": 17,
+   "old": "门的时间结构在自行运转。门的时间结构在循环。门的时间结构在1998年。",
+   "new": "门的时间结构在自行运转，循环卡在锁孔那一处，卡得很死，卡完才回到1998年。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-199-polished.md",
+   "line": 37,
+   "old": "书架的时间结构在自行运转。书架的时间结构在循环。书架的时间结构在1998年。",
+   "new": "书架的时间结构在自行运转，循环沿着隔板往里收，收到最里面那一层，那里是1998年。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-200-polished.md",
+   "line": 23,
+   "old": "像有人在加速敲门。像有人在那边等不及了。像有人在那边催促。",
+   "new": "敲声一下紧过一下，像门那边的人已经等不下去。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-201-polished.md",
+   "line": 9,
+   "old": "像有人在赶时间。像有人在催。像有人在说，快。",
+   "new": "那份急压在句子缝里，一句赶着下一句，像后头有人在推。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-201-polished.md",
+   "line": 23,
+   "old": "像有人在加速敲门。像有人在那边等不及了。像有人在那边催促。",
+   "new": "那节奏越来越密，密到听得出门里有人已经不耐烦，在等它停下。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-202-polished.md",
+   "line": 55,
+   "old": "像有人在赶时间。像有人在催。像有人在说，快。",
+   "new": "每个字都往前赶，标点像被谁掐掉了半截。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-203-polished.md",
+   "line": 45,
+   "old": "像有人在赶时间。像有人在催。像有人在说，快。",
+   "new": "字句之间挤得没有余地，一开口就想把话说完。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-204-polished.md",
+   "line": 37,
+   "old": "像有人在加速敲门。像有人在那边等不及了。像有人在那边催促。",
+   "new": "敲的间隔一次比一次短，像门外的人急着让它开。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-204-polished.md",
+   "line": 79,
+   "old": "像有人在赶时间。像有人在催。像有人在说，快。",
+   "new": "语速没变，可每个字都往后头赶，赶得叠了音。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-205-polished.md",
+   "line": 55,
+   "old": "像有人在赶时间。像有人在催。像有人在说，快。",
+   "new": "句尾收得太快，像被什么东西拽着往前走。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-206-polished.md",
+   "line": 20,
+   "old": "像有人在赶时间。像有人在催。像有人在说，快。",
+   "new": "每个词都往前顶，顶得句号站不稳，落在纸上像摔了一跤。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-206-polished.md",
+   "line": 29,
+   "old": "裂缝的空气的时间结构在自行运转。裂缝的空气的时间结构在循环。裂缝的空气的时间结构在1998年。",
+   "new": "裂缝里的空气在自行运转，循环比外面慢半拍，慢了十二年，还是落在1998年。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-206-polished.md",
+   "line": 31,
+   "old": "裂缝的时间结构在自行运转。裂缝的时间结构在循环。裂缝的时间结构在1998年。",
+   "new": "裂缝的时间结构在自行运转，循环没有断口，一圈一圈压回1998年。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-207-polished.md",
+   "line": 30,
+   "old": "像有人在赶时间。像有人在催。像有人在说，快。",
+   "new": "话被说得很碎，碎得接不上，像有人在心里数秒。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-208-polished.md",
+   "line": 4,
+   "old": "裂缝的时间结构在自行运转。裂缝的时间结构在循环。裂缝的时间结构在1998年。",
+   "new": "裂缝的时间结构在自行运转，循环从门的方向退回来，退到最深处，那里是1998年。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-208-polished.md",
+   "line": 10,
+   "old": "像有人在加速敲门。像有人在那边等不及了。像有人在那边催促。",
+   "new": "敲声追着敲声，中间的空当越来越窄，窄到后来分不出是几下。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-208-polished.md",
+   "line": 16,
+   "old": "灰色的灰在金色的42片0428碎片上面浮动。灰色的灰在金色的光上面浮动。灰色的灰在自行浮动。",
+   "new": "灰不往下掉，一粒一粒悬在金色上面，悬久了像结了一层，擦不掉。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-208-polished.md",
+   "line": 17,
+   "old": "裂缝的空气的时间结构在自行运转。裂缝的空气的时间结构在循环。裂缝的空气的时间结构在1998年。",
+   "new": "裂缝里的空气没有一处是静的，循环推着它走，走完一圈就落回1998年，然后再走。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-208-polished.md",
+   "line": 27,
+   "old": "像有人在赶时间。像有人在催。像有人在说，快。",
+   "new": "每个字都催着下一个字，中间不留喘气的地方。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-209-polished.md",
+   "line": 20,
+   "old": "像有人在赶时间。像有人在催。像有人在说，快。",
+   "new": "句子越说越短，短的后面全是没说完的意思。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-209-polished.md",
+   "line": 30,
+   "old": "灰色的灰在金色的42片0428碎片上面浮动。灰色的灰在金色的光上面浮动。灰色的灰在自行浮动。",
+   "new": "灰落在金色的碎片上面，落在金色的光上面，最后什么也不靠，自己就在半空里浮着，浮得很慢。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-209-polished.md",
+   "line": 37,
+   "old": "裂缝的时间结构在自行运转。裂缝的时间结构在循环。裂缝的时间结构在1998年。",
+   "new": "裂缝的时间结构在自行运转，循环只有一层，那一层从头到尾都是1998年。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-210-polished.md",
+   "line": 45,
+   "old": "像有人在赶时间。像有人在催。像有人在说，快。",
+   "new": "声音还是那个声音，可它把每个字都往前推了半步。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-216-polished.md",
+   "line": 63,
+   "old": "闭环结构在深层副本核心层的中心。闭环结构在深层副本核心层的中心的深处。闭环结构在深层副本核心层的中心的深处的最深处。",
+   "new": "闭环结构就在核心层的中心，中心再往里是深处，深处还有一层，最深的那一层才装着它。"
+  },
+  {
+   "path": "chapters/volume-3/chapter-253-polished.md",
+   "line": 23,
+   "old": "有些光点在靠近灵体心脏。有些光点在远离心脏。有些光点在围绕核心空腔漂移。",
+   "new": "有些光点往灵体的心脏靠，有些正相反，退开去，还有一些绕着核心的空腔打转。"
+  },
+  {
+   "path": "chapters/volume-3/chapter-310-polished.md",
+   "line": 124,
+   "old": "有一条在春风镇。有一条在东北。有一条在海的南面。",
+   "new": "一条留在春风镇，一条在东北，还有一条去了海的南面。"
+  },
+  {
+   "path": "chapters/volume-3/chapter-316-polished.md",
+   "line": 109,
+   "old": "有一条在春风镇。有一条在东北。有一条在海的南面。",
+   "new": "其中一条在春风镇，一条落在东北，第三条在海的南面。"
+  }
+ ]
+}
