@@ -25,7 +25,7 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r309b_sites_b7.json', 'tools/r309b_sites_b8.json',
           'tools/r310_sites_ch809.json', 'tools/r310_sites_runs.json',
           'tools/r310_sites_813_814.json', 'tools/r310_sites_812a.json',
-          'tools/r310_sites_812b.json', 'tools/r310_sites_812c.json',
+          'tools/r310_sites_812b.json', 'tools/r310_sites_812c.json', 'tools/r310_sites_818.json',
           'tools/r309b_topup.json']
 
 
@@ -68,10 +68,13 @@ def main():
         for r in rs:
             i = r['line'] - 1
             n = lines[i].count(r['old'])
-            if n == 1:
-                lines[i] = lines[i].replace(r['old'], r['new'], 1)
-            elif r['new'] in lines[i]:
+            # `new` is checked first on purpose: a replacement that contains the
+            # original string (`醒了一部分。` -> `答得很短：醒了一部分。`) would
+            # otherwise be applied a second time on replay.
+            if r['new'] in lines[i]:
                 skipped += 1          # already committed by an earlier batch
+            elif n == 1:
+                lines[i] = lines[i].replace(r['old'], r['new'], 1)
             elif any(o in lines[i] for o in news[(r['path'], r['line'])]
                      if o != r['new']):
                 skipped += 1          # committed, then superseded by a later table

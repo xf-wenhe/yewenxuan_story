@@ -77,6 +77,11 @@ def apply_sites(text, rs, label):
             raise SystemExit('ABORT(%s): %s line %s out of range'
                              % (label, r['path'], r['line']))
         n = lines[i].count(r['old'])
+        # A replacement may *contain* the original string (`醒了一部分。` ->
+        # `答得很短：醒了一部分。`), so `count == 1` alone would apply it twice
+        # on a re-run.  `new` in place means the record is already done.
+        if r['new'] in lines[i]:
+            continue
         if n != 1:
             raise SystemExit('ABORT(%s): %s line %s anchor count=%d  [%s]'
                              % (label, r['path'], r['line'], n, r['old'][:30]))
