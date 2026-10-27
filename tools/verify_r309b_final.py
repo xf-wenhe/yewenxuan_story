@@ -22,7 +22,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r309b_sites_b3.json', 'tools/r309b_sites_b4.json',
           'tools/r309b_sites_b5.json', 'tools/r309b_sites_b6.json',
-          'tools/r309b_sites_b7.json', 'tools/r309b_topup.json']
+          'tools/r309b_sites_b7.json', 'tools/r309b_sites_b8.json',
+          'tools/r309b_topup.json']
 
 
 def head(path):
@@ -48,6 +49,13 @@ def main():
     for r in applied:
         by_file.setdefault(r['path'], []).append(r)
 
+    # A record can be superseded twice over: committed (so HEAD holds its `new`)
+    # and then rewritten again by a later table (so HEAD holds neither side).
+    # Index every `new` per line to recognise that second case.
+    news = {}
+    for r in applied:
+        news.setdefault((r['path'], r['line']), []).append(r['new'])
+
     bad = 0
     skipped = 0
     for path, rs in sorted(by_file.items()):
@@ -61,6 +69,9 @@ def main():
                 lines[i] = lines[i].replace(r['old'], r['new'], 1)
             elif r['new'] in lines[i]:
                 skipped += 1          # already committed by an earlier batch
+            elif any(o in lines[i] for o in news[(r['path'], r['line'])]
+                     if o != r['new']):
+                skipped += 1          # committed, then superseded by a later table
             else:
                 raise SystemExit('ABORT: %s L%d anchor count=%d  [%s]'
                                  % (path, r['line'], n, r['old'][:30]))
