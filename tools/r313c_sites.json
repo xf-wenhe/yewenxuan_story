@@ -1,0 +1,13 @@
+{
+ "round": "R313c",
+ "note": "restore the verb in ch813 last line",
+ "records": [
+  {
+   "path": "chapters/volume-6/chapter-813-polished.md",
+   "line": 206,
+   "old": "门向两侧。",
+   "new": "门向两侧滑开。",
+   "witness": "门向两侧。\"滑开\"。"
+  }
+ ]
+}
