@@ -1,0 +1,556 @@
+{
+ "round": "R325 queue",
+ "rule": "within-chapter paragraph pairs, similarity >=0.90, both >=20 CJK, excluded: headings, blockquotes, （第…章完）",
+ "chapters": 137,
+ "surplus": 276,
+ "items": [
+  {
+   "surplus": 11,
+   "path": "chapters\\volume-5\\chapter-583-polished.md"
+  },
+  {
+   "surplus": 9,
+   "path": "chapters\\volume-5\\chapter-715-polished.md"
+  },
+  {
+   "surplus": 6,
+   "path": "chapters\\volume-5\\chapter-674-polished.md"
+  },
+  {
+   "surplus": 5,
+   "path": "chapters\\volume-6\\chapter-765-polished.md"
+  },
+  {
+   "surplus": 5,
+   "path": "chapters\\volume-5\\chapter-663-polished.md"
+  },
+  {
+   "surplus": 5,
+   "path": "chapters\\volume-5\\chapter-644-polished.md"
+  },
+  {
+   "surplus": 5,
+   "path": "chapters\\volume-5\\chapter-571-polished.md"
+  },
+  {
+   "surplus": 5,
+   "path": "chapters\\volume-5\\chapter-570-polished.md"
+  },
+  {
+   "surplus": 5,
+   "path": "chapters\\volume-5\\chapter-568-polished.md"
+  },
+  {
+   "surplus": 5,
+   "path": "chapters\\volume-2\\chapter-179-polished.md"
+  },
+  {
+   "surplus": 4,
+   "path": "chapters\\volume-6\\chapter-778-polished.md"
+  },
+  {
+   "surplus": 4,
+   "path": "chapters\\volume-6\\chapter-777-polished.md"
+  },
+  {
+   "surplus": 4,
+   "path": "chapters\\volume-5\\chapter-675-polished.md"
+  },
+  {
+   "surplus": 4,
+   "path": "chapters\\volume-5\\chapter-671-polished.md"
+  },
+  {
+   "surplus": 4,
+   "path": "chapters\\volume-5\\chapter-654-polished.md"
+  },
+  {
+   "surplus": 4,
+   "path": "chapters\\volume-5\\chapter-639-polished.md"
+  },
+  {
+   "surplus": 4,
+   "path": "chapters\\volume-2\\chapter-177-polished.md"
+  },
+  {
+   "surplus": 4,
+   "path": "chapters\\volume-2\\chapter-161-polished.md"
+  },
+  {
+   "surplus": 3,
+   "path": "chapters\\volume-6\\chapter-807-polished.md"
+  },
+  {
+   "surplus": 3,
+   "path": "chapters\\volume-6\\chapter-804-polished.md"
+  },
+  {
+   "surplus": 3,
+   "path": "chapters\\volume-6\\chapter-798-polished.md"
+  },
+  {
+   "surplus": 3,
+   "path": "chapters\\volume-5\\chapter-734-polished.md"
+  },
+  {
+   "surplus": 3,
+   "path": "chapters\\volume-5\\chapter-680-polished.md"
+  },
+  {
+   "surplus": 3,
+   "path": "chapters\\volume-5\\chapter-676-polished.md"
+  },
+  {
+   "surplus": 3,
+   "path": "chapters\\volume-5\\chapter-635-polished.md"
+  },
+  {
+   "surplus": 3,
+   "path": "chapters\\volume-5\\chapter-634-polished.md"
+  },
+  {
+   "surplus": 3,
+   "path": "chapters\\volume-5\\chapter-594-polished.md"
+  },
+  {
+   "surplus": 3,
+   "path": "chapters\\volume-5\\chapter-586-polished.md"
+  },
+  {
+   "surplus": 3,
+   "path": "chapters\\volume-2\\chapter-195-polished.md"
+  },
+  {
+   "surplus": 3,
+   "path": "chapters\\volume-2\\chapter-176-polished.md"
+  },
+  {
+   "surplus": 3,
+   "path": "chapters\\volume-2\\chapter-151-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-6\\chapter-833-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-6\\chapter-811-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-6\\chapter-801-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-6\\chapter-797-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-6\\chapter-796-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-6\\chapter-794-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-6\\chapter-774-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-6\\chapter-763-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-733-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-708-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-705-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-700-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-696-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-690-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-678-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-673-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-670-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-643-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-642-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-638-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-633-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-632-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-618-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-598-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-591-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-585-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-577-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-569-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-5\\chapter-566-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-4\\chapter-453-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-3\\chapter-320-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-3\\chapter-307-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-2\\chapter-200-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-2\\chapter-192-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-2\\chapter-191-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-2\\chapter-130-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-2\\chapter-122-polished.md"
+  },
+  {
+   "surplus": 2,
+   "path": "chapters\\volume-1\\chapter-68-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-7\\chapter-947-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-6\\chapter-855-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-6\\chapter-850-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-6\\chapter-837-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-6\\chapter-814-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-6\\chapter-793-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-6\\chapter-783-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-6\\chapter-781-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-6\\chapter-780-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-6\\chapter-779-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-6\\chapter-776-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-736-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-735-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-718-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-710-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-709-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-702-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-698-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-692-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-691-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-689-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-683-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-682-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-681-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-677-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-669-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-662-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-661-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-637-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-631-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-611-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-609-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-608-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-605-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-589-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-587-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-582-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-580-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-575-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-5\\chapter-563-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-3\\chapter-341-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-3\\chapter-330-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-3\\chapter-328-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-3\\chapter-322-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-3\\chapter-303-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-3\\chapter-297-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-3\\chapter-296-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-3\\chapter-286-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-3\\chapter-271-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-3\\chapter-268-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-3\\chapter-251-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-2\\chapter-228-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-2\\chapter-201-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-2\\chapter-185-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-2\\chapter-183-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-2\\chapter-180-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-2\\chapter-169-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-2\\chapter-168-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-2\\chapter-162-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-2\\chapter-153-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-2\\chapter-123-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-2\\chapter-120-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-2\\chapter-119-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-2\\chapter-113-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-2\\chapter-112-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-1\\chapter-98-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-1\\chapter-70-polished.md"
+  },
+  {
+   "surplus": 1,
+   "path": "chapters\\volume-1\\chapter-63-polished.md"
+  }
+ ]
+}
