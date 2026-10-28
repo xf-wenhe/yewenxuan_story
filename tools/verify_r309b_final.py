@@ -37,7 +37,7 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r313_sites.json', 'tools/r313b_sites.json', 'tools/r313c_sites.json',
           'tools/r314_sites.json', 'tools/r314f_sites.json',
           'tools/r315_sites.json', 'tools/r317_sites.json',
-          'tools/r318_sites.json']
+          'tools/r318_sites.json', 'tools/r319_sites.json']
 
 
 def head_many(paths):
@@ -104,6 +104,19 @@ def main():
         # later records were authored against the earlier ones, so keep table order
         for r in rs:
             i = r['line'] - 1
+            if r.get('op') == 'join':
+                # A join record names a whole three-line block (paragraph, blank,
+                # continuation) and gives the one paragraph it became.  Match the
+                # block by content, since a join shortens the file and every later
+                # line number in it shifts by two.
+                old = r['old']
+                j = next((k for k in range(len(lines) - len(old) + 1)
+                          if lines[k:k + len(old)] == old), None)
+                if j is None:
+                    skipped += 1      # already joined; the byte check still rules
+                else:
+                    lines[j:j + len(old)] = [r['new']]
+                continue
             if r['new'] is None:
                 # A deletion record: the whole paragraph was one stray mark, so
                 # it goes away with one adjacent blank line.  Find it by content,
@@ -137,13 +150,15 @@ def main():
                 # it shifts.  The text is the truth, the line number is the
                 # authoring aid.
                 skipped += 1
-            elif r['old'] not in text and r['new'] not in text:
-                # Superseded by a table that is not in this chain (r314b/r314e
-                # rewrote volume-6 emphasis runs and r314f, not they, is the
-                # one chained).  Neither side survives in HEAD, so there is
-                # nothing to replay.  Safe to skip because the byte comparison
-                # below is the actual proof: a record wrongly skipped here
-                # shows up as a MISMATCH, not as a pass.
+            elif r['old'] not in text:
+                # The anchor is gone from the file entirely.  Either a table that
+                # is not in this chain superseded it (r314b/r314e rewrote the
+                # volume-6 emphasis runs and r314f, not they, is the one chained),
+                # or a later table in this chain shortened the file above this
+                # line and the authoring line number no longer points at the text.
+                # Either way there is nothing left to replay here.  Safe to skip
+                # because the byte comparison below is the actual proof: a record
+                # wrongly skipped shows up as a MISMATCH, not as a pass.
                 skipped += 1
             else:
                 raise SystemExit('ABORT: %s L%d anchor count=%d  [%s]'
