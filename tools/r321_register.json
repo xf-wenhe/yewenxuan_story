@@ -1,0 +1,74 @@
+{
+ "round": "R321",
+ "family": "B",
+ "status": "closed except three",
+ "what": "emphasis/term pairs left inside volume-6 speech by R238, which broke the left-to-right pairing of the whole paragraph",
+ "openedAt": 47,
+ "atRoundStart": 44,
+ "reconciliation": {
+  "note": "the 47 in the R314f record was true when it was written; three of those lines were closed by later rounds, checked one by one against the old text each record carries",
+  "by": [
+   {
+    "where": "ch829 L163",
+    "by": "R318",
+    "record": "tools/r318_sites.json"
+   },
+   {
+    "where": "ch831 L90",
+    "by": "R318",
+    "record": "tools/r318_sites.json"
+   },
+   {
+    "where": "ch774 L66",
+    "by": "R320 batch 9",
+    "record": "tools/r320i_sites.json"
+   }
+  ]
+ },
+ "scopeProbe": {
+  "method": "R314f's own solver, re-run at HEAD, volume by volume",
+  "result": {
+   "volume-1": 3,
+   "volume-2": 3,
+   "volume-3": 2,
+   "volume-4": 0,
+   "volume-5": 1,
+   "volume-6": 44,
+   "volume-7": 0
+  },
+  "reading": "only volume-6 is this family; the three volume-1 lines are two legit \"???\" spans the solver cannot and should not solve, plus ch73 L26 which R314 already closed"
+ },
+ "batches": [
+  "tools/r321_sites.json",
+  "tools/r321b_sites.json",
+  "tools/r321c_sites.json",
+  "tools/r321d_sites.json",
+  "tools/r321e_sites.json"
+ ],
+ "fixed": 41,
+ "cjk": {
+  "r321": 0,
+  "r321b": 0,
+  "r321c": 0,
+  "r321d": -2,
+  "r321e": 5,
+  "net": 3
+ },
+ "left": [
+  {
+   "where": "chapter-773 L327",
+   "text": "\"我知道，\"孙鹏的开口冷硬如常静，但0428副本的副本\"在我的地下室中运行，0428副本的\"主体\"在你女儿的脑子中。我能\"修改的是副本\"。\"主体\"。0428副本的\"主体\"在你女儿的脑子中运行，0428副本的\"副本\"在我的地下室中运行。两个0428副本是\"同一个\"0428。但我能\"修改副本而不影响。修改后的副本会覆盖。副本的代码会覆盖到主体上。",
+   "why": "needs a sentence rebuilt, not a mark moved"
+  },
+  {
+   "where": "chapter-774 L98",
+   "text": "\"桥梁系统的激活进度会\"变慢沈知秋的意识在叶文轩的脑子里\"但激活进度不会。\"停\"。0428副本还在运行，只是变慢了。变量还在生产，只是变慢了。\"",
+   "why": "needs a sentence rebuilt, not a mark moved"
+  },
+  {
+   "where": "chapter-774 L148",
+   "text": "\"0428在\"分心沈知秋的在叶文轩的脑子里0428同时在维持通道和抵抗\"修改。0428的\"注意力\"被分成了两半。0428的\"运行速度\"已经降为50%。在\"借用\"备用功率后，0428的运行速度降为50%。现在0428又在\"分心\"。0428的\"有效运行速度\"可能只有25%。\"",
+   "why": "needs a sentence rebuilt, not a mark moved"
+  }
+ ]
+}
