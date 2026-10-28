@@ -1,0 +1,15 @@
+{
+ "round": "R322",
+ "batch": 7,
+ "pair": "709/809",
+ "note": "the 0428-signal paragraph the twin test could not see",
+ "lengthPolicy": "exact; 3010 against a 3000 floor",
+ "records": [
+  {
+   "path": "chapters/volume-6/chapter-809-polished.md",
+   "line": 35,
+   "old": "叶文轩能感觉到0428副本在坐标位置执行运算，0428备份在说：赵大嘴在裂缝空间中醒着。赵大嘴在裂缝空间中看着47个叶文轩。赵大嘴在等待第48个叶文轩——你。",
+   "new": "坐标上的0428副本在跑运算，跑完又把结果推到他这里。它说：那个人在裂缝空间里醒着，一直醒着，看着47个叶文轩一个一个从他眼前过去，他等的第48个——你。"
+  }
+ ]
+}
