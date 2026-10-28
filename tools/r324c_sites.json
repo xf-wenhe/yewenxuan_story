@@ -1,0 +1,50 @@
+{
+ "round": "R324",
+ "tier": "mend",
+ "note": "dropped characters and doubled marks, five defects out of sixteen pattern hits",
+ "floor": 3000,
+ "records": [
+  {
+   "path": "chapters/volume-2/chapter-181-polished.md",
+   "line": 67,
+   "old": "吞噬一切。包括我我自己。\"",
+   "new": "吞噬一切。包括我自己。\""
+  },
+  {
+   "path": "chapters/volume-4/chapter-535-polished.md",
+   "line": 17,
+   "old": "让这个系统从一开始就不是的机器。",
+   "new": "让这个系统从一开始就不是死的机器。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-636-polished.md",
+   "line": 273,
+   "old": "赵大嘴的母亲的信在说，，你要好好活着。",
+   "new": "赵大嘴的母亲的信在说，你要好好活着。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-653-polished.md",
+   "line": 39,
+   "old": "闭环的记忆库不是的数据库闭环的记忆库是有温度的。",
+   "new": "闭环的记忆库不是死的数据库。闭环的记忆库是有温度的。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-653-polished.md",
+   "line": 39,
+   "old": "每一个光点都凝结了，情感。",
+   "new": "每一个光点都凝结了情感。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-856-polished.md",
+   "line": 97,
+   "old": "0444的光芒在她的他眼底跳动。",
+   "new": "0444的光芒在她的眼底跳动。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-856-polished.md",
+   "line": 101,
+   "old": "0428不是的数据碎片，0428有情感，有回忆，有喜欢和不喜欢。",
+   "new": "0428不是死的数据碎片，0428有情感，有回忆，有喜欢和不喜欢。"
+  }
+ ]
+}
