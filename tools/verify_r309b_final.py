@@ -37,7 +37,8 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r313_sites.json', 'tools/r313b_sites.json', 'tools/r313c_sites.json',
           'tools/r314_sites.json', 'tools/r314f_sites.json',
           'tools/r315_sites.json', 'tools/r317_sites.json',
-          'tools/r318_sites.json', 'tools/r319_sites.json']
+          'tools/r318_sites.json', 'tools/r319_sites.json',
+          'tools/r319b_sites.json']
 
 
 def head_many(paths):
@@ -96,6 +97,7 @@ def main():
 
     bad = 0
     skipped = 0
+    superseded = 0
     order = sorted(by_file.items())
     heads = head_many([p for p, _ in order])
     for path, rs in order:
@@ -160,6 +162,16 @@ def main():
                 # because the byte comparison below is the actual proof: a record
                 # wrongly skipped shows up as a MISMATCH, not as a pass.
                 skipped += 1
+            elif not (0 <= i < len(lines)) or (r['old'] not in lines[i]
+                                               and r['new'] not in lines[i]):
+                # The line no longer holds either side of the record: the text
+                # was absorbed into a longer paragraph rather than edited in
+                # place.  R319 did exactly that - it rejoined a speech that had
+                # been cut in two, so a record that used to sit on the orphaned
+                # tail (`我绕过了阻断。"`, ch409) now sits inside the paragraph
+                # that swallowed it.  Counted separately from `skipped` so the
+                # number stays visible instead of blending into the total.
+                superseded += 1
             else:
                 raise SystemExit('ABORT: %s L%d anchor count=%d  [%s]'
                                  % (path, r['line'], n, r['old'][:30]))
@@ -179,6 +191,7 @@ def main():
             print('MIXED-ENDING %s  crlf=%d lf=%d' % (path, crlf, lf))
             bad += 1
     print('already-applied records skipped: %d' % skipped)
+    print('records whose line no longer holds either side: %d' % superseded)
     print('REPLAY %s: %d/%d files byte-identical'
           % ('OK' if bad == 0 else 'FAIL', len(by_file) - bad, len(by_file)))
     raise SystemExit(0 if bad == 0 else 1)
