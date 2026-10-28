@@ -1,4 +1,48 @@
 {
+ "status": "closed",
+ "statusWhy": "R320 九批已把 88 条全部重写；全书带奇数颗引号的非空段落为 0，家族 C 的关闭条件达成。",
+ "closedBy": [
+  "tools/r320_sites.json",
+  "tools/r320b_sites.json",
+  "tools/r320c_sites.json",
+  "tools/r320d_sites.json",
+  "tools/r320e_sites.json",
+  "tools/r320f_sites.json",
+  "tools/r320g_sites.json",
+  "tools/r320h_sites.json",
+  "tools/r320i_sites.json"
+ ],
+ "census": {
+  "paragraphs": 90752,
+  "oddMarkParagraphs": 0,
+  "chaptersWithOdd": 0,
+  "oddBeforeRound": 88,
+  "oddAtOpen": 497,
+  "oddAtV315Open": 753
+ },
+ "docketShapes": {
+  "orphan": 5,
+  "original": 83
+ },
+ "residual": [
+  {
+   "family": "B",
+   "count": 47,
+   "shape": "mark must move (。核心\" 。 -> 核心。\" )",
+   "note": "动作是移不是增删，多数同时带多处伤，需另立一轮"
+  },
+  {
+   "family": "A",
+   "count": 1,
+   "where": "ch773 L111",
+   "note": "沈知秋的\"他的感知里里出现 —— 自 R314 起需要作者裁定"
+  },
+  {
+   "family": "R238",
+   "count": null,
+   "note": "术语引号风格未回改，属既定裁定，不在任何修复轮的授权内"
+  }
+ ],
  "records": [
   {
    "path": "chapters/volume-1/chapter-52-polished.md",
