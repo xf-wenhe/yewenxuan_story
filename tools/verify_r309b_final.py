@@ -36,7 +36,8 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r312d_sites.json',
           'tools/r313_sites.json', 'tools/r313b_sites.json', 'tools/r313c_sites.json',
           'tools/r314_sites.json', 'tools/r314f_sites.json',
-          'tools/r315_sites.json', 'tools/r317_sites.json']
+          'tools/r315_sites.json', 'tools/r317_sites.json',
+          'tools/r318_sites.json']
 
 
 def head_many(paths):
@@ -90,7 +91,8 @@ def main():
     # Index every `new` per line to recognise that second case.
     news = {}
     for r in applied:
-        news.setdefault((r['path'], r['line']), []).append(r['new'])
+        if r['new'] is not None:
+            news.setdefault((r['path'], r['line']), []).append(r['new'])
 
     bad = 0
     skipped = 0
@@ -102,6 +104,19 @@ def main():
         # later records were authored against the earlier ones, so keep table order
         for r in rs:
             i = r['line'] - 1
+            if r['new'] is None:
+                # A deletion record: the whole paragraph was one stray mark, so
+                # it goes away with one adjacent blank line.  Find it by content,
+                # not by index - the authoring line number is stale once an
+                # earlier record in the same file also deleted a block.
+                j = next((k for k in range(1, len(lines) - 1)
+                          if lines[k] == r['old']
+                          and lines[k - 1] == '' and lines[k + 1] == ''), None)
+                if j is None:
+                    skipped += 1      # already gone; the byte check still rules
+                else:
+                    del lines[j:j + 2]
+                continue
             n = lines[i].count(r['old']) if 0 <= i < len(lines) else 0
             # `new` being present is not proof: see fix_r309b.already_applied.
             # When `old` sits inside `new` (containment) presence of `new` is the

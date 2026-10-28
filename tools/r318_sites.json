@@ -1,0 +1,194 @@
+{
+ "round": "R318",
+ "note": "delete the punctuation an opening mark sits in front of, and remove paragraphs that are nothing but a stray mark",
+ "records": [
+  {
+   "path": "chapters/volume-2/chapter-148-polished.md",
+   "line": 35,
+   "old": "\"。但出口不是回家的路。出口是另一个循环的开始。叶文轩，如果你看到这行字，说明你已经走到了这一步。我留给你的是选择。\"",
+   "new": "\"但出口不是回家的路。出口是另一个循环的开始。叶文轩，如果你看到这行字，说明你已经走到了这一步。我留给你的是选择。\"",
+   "op": "punct",
+   "ops": [
+    "p0"
+   ],
+   "why": "a period after an opening mark: 0/39,745 in sound pairs"
+  },
+  {
+   "path": "chapters/volume-2/chapter-148-polished.md",
+   "line": 55,
+   "old": "\"。但出口回。\"",
+   "new": "\"但出口回。\"",
+   "op": "punct",
+   "ops": [
+    "p0"
+   ],
+   "why": "a period after an opening mark: 0/39,745 in sound pairs"
+  },
+  {
+   "path": "chapters/volume-4/chapter-402-polished.md",
+   "line": 93,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-4/chapter-407-polished.md",
+   "line": 93,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-4/chapter-409-polished.md",
+   "line": 81,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-4/chapter-412-polished.md",
+   "line": 23,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-4/chapter-412-polished.md",
+   "line": 205,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-4/chapter-415-polished.md",
+   "line": 31,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-4/chapter-420-polished.md",
+   "line": 11,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-4/chapter-420-polished.md",
+   "line": 17,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-4/chapter-430-polished.md",
+   "line": 34,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-4/chapter-440-polished.md",
+   "line": 69,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-4/chapter-471-polished.md",
+   "line": 37,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-4/chapter-483-polished.md",
+   "line": 19,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-4/chapter-493-polished.md",
+   "line": 57,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-4/chapter-495-polished.md",
+   "line": 11,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-4/chapter-502-polished.md",
+   "line": 169,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-4/chapter-504-polished.md",
+   "line": 17,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-4/chapter-508-polished.md",
+   "line": 85,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-4/chapter-511-polished.md",
+   "line": 85,
+   "old": "\"",
+   "new": null,
+   "op": "drop",
+   "why": "paragraph is one stray mark; removed with one adjacent blank"
+  },
+  {
+   "path": "chapters/volume-6/chapter-829-polished.md",
+   "line": 163,
+   "old": "\"0429说，\"叶文轩顿了一下。\"。桥已经建好了。我们需要激活它。\"",
+   "new": "\"0429说，\"叶文轩顿了一下。\"桥已经建好了。我们需要激活它。\"",
+   "op": "punct",
+   "ops": [
+    "p16"
+   ],
+   "why": "a period after an opening mark: 0/39,745 in sound pairs"
+  },
+  {
+   "path": "chapters/volume-6/chapter-831-polished.md",
+   "line": 90,
+   "old": "\"0429说，\"叶文轩的声音沙哑又粗。\"。我是碎片C。我的意识就是解放碎片。三个碎片加上我，加上碎片C。才能构成完整的桥梁系统。\"",
+   "new": "\"0429说，\"叶文轩的声音沙哑又粗。\"我是碎片C。我的意识就是解放碎片。三个碎片加上我，加上碎片C。才能构成完整的桥梁系统。\"",
+   "op": "punct",
+   "ops": [
+    "p19"
+   ],
+   "why": "a period after an opening mark: 0/39,745 in sound pairs"
+  }
+ ]
+}
