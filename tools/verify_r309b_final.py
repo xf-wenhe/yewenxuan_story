@@ -54,7 +54,9 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r325c_sites.json', 'tools/r325d_sites.json',
           'tools/r325e_sites.json', 'tools/r325f_sites.json',
           'tools/r325g_sites.json', 'tools/r325h_sites.json',
-          'tools/r325i_sites.json', 'tools/r325j_sites.json']
+          'tools/r325i_sites.json', 'tools/r325j_sites.json',
+          'tools/r325k_sites.json', 'tools/r325l_sites.json',
+          'tools/r325m_sites.json']
 
 
 def head_many(paths):
@@ -173,6 +175,13 @@ def main():
                 skipped += 1          # already committed by an earlier batch
             elif n == 1:
                 lines[i] = lines[i].replace(r['old'], r['new'], 1)
+                # A record whose replacement carries paragraph breaks inserts
+                # lines where the table expected one.  ch675 does exactly that:
+                # one record swaps a broadcast block for a sixty-paragraph
+                # scene.  Without re-splitting, every later record in the table
+                # is indexed against a list that no longer matches the file.
+                if '\n' in r['new']:
+                    lines = '\n'.join(lines).split('\n')
             elif any(o in lines[i] for o in news[(r['path'], r['line'])]
                      if o != r['new']):
                 skipped += 1          # committed, then superseded by a later table

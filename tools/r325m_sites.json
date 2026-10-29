@@ -1,0 +1,20 @@
+{
+ "round": "R325",
+ "batch": "m",
+ "note": "ch675: two paragraphs of unmarked speech in the tail",
+ "floor": 3000,
+ "records": [
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 187,
+   "old": "我小时候老觉得你走得太急。那天早上你连早饭都没吃完。我妈说你去外地干活，后来她也不说了。我上初中的时候翻过你的工具箱，底下有个本子。我那时候看不懂，现在我懂了。你写的是云。",
+   "new": "\"我小时候老觉得你走得太急。那天早上你连早饭都没吃完。我妈说你去外地干活，后来她也不说了。我上初中的时候翻过你的工具箱，底下有个本子。我那时候看不懂，现在我懂了。你写的是云。\""
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 181,
+   "old": "爸。我做到了。",
+   "new": "\"爸。我做到了。\""
+  }
+ ]
+}

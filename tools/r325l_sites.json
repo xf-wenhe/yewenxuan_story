@@ -1,0 +1,170 @@
+{
+ "round": "R325",
+ "batch": "l",
+ "note": "ch675: R325k scene put into the book voice, three beats repaired, tail filler replaced in place",
+ "floor": 3000,
+ "records": [
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 165,
+   "old": "赵大嘴的呼吸放轻，他感觉到0429碎片在体内完成了新一轮的扫描。",
+   "new": "赵大嘴的呼吸放轻。0429碎片在他体内完成了新一轮的扫描，扫得很慢。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 163,
+   "old": "0429碎片的光线在空气中略微颤动，频率稳定下来。",
+   "new": "数据的最后一行还在动。动着动着频率稳定下来，落在一个固定的数上。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 157,
+   "old": "被遗忘的东西在光影中颤动，影子在震动。",
+   "new": "他把手翻过来又翻过去，看了很久，什么也没说。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 155,
+   "old": "他还需要一些时间去梳理思路。",
+   "new": "掌心那层蓝已经淡到底了，只剩一点，像化开的糖水。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 153,
+   "old": "被遗忘的东西在光影中晃动，影子在跳动。",
+   "new": "赵大嘴蹲在旁边。他没有看缝，他在看自己的手。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 151,
+   "old": "那句话烙进他的意识里，永远无法擦除。",
+   "new": "这条缝在换气。像一条鱼被搁在岸上，鳃一开，一合。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 149,
+   "old": "时间还需要再多一点。",
+   "new": "他数着变色的间隔。一开始五秒一次，后来短了一点。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 147,
+   "old": "光里晃动的影子上下翻飞，被遗忘的东西在涌起。",
+   "new": "叶文轩盯着看了三分钟。光的颜色在慢慢偏，从白偏到灰，又偏回来。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 145,
+   "old": "光里晃动的影子飘来飘去，被遗忘的东西在漂流。",
+   "new": "缝里的光在动。它动得不明显，是那种要盯着看一会儿才看得出的动。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 117,
+   "old": "赵大嘴问：小鱼是谁。",
+   "new": "\"小鱼是谁。\"赵大嘴问。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 115,
+   "old": "叶文轩站在两步之外。他听得见开头，听不见后面。0428备份把后半段一段一段切给他，像有人在他耳朵里念。",
+   "new": "赵大嘴还跪在那儿。他摊开手掌看了看，掌心什么都没有，只剩一层很淡的蓝。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 107,
+   "old": "叶文轩问：还有多久。",
+   "new": "\"还有多久。\"叶文轩问。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 99,
+   "old": "蓝光漫上来，把整片白色照成半透明。光的边缘起了一圈很小的棱角。",
+   "new": "蓝光漫上来，把整片白色照成半透明。原来有边的地方现在看不清边了。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 97,
+   "old": "赵大嘴抬起头，对着那个散开的点说：谢谢。谢谢你带我找到我爸。",
+   "new": "赵大嘴抬起头，对着那个散开的点说：\"谢谢。谢谢你带我找到我爸。\""
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 81,
+   "old": "赵大嘴把眼睛闭上。他说：我一直在。",
+   "new": "赵大嘴把眼睛闭上。\"我一直在。\"他说。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 71,
+   "old": "\"留给你的能量在神经通路里。\"0429碎片说，\"够用十年。概率场以后你自己操作，不用我扶。\"",
+   "new": "\"十年以后你会自己找到新的路。\"0429碎片说，\"你一直比自己以为的能干。\""
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 69,
+   "old": "\"十年以后你自己会找到新的路。\"0429碎片说，\"你一直都比自己以为的能干。\"",
+   "new": "\"十年以后呢。\"赵大嘴问。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 67,
+   "old": "赵大嘴问：十年以后呢。",
+   "new": "\"留给你的是能量，在你神经通路里。\"0429碎片说，\"够用十年。概率场从今天起你自己操作。\""
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 59,
+   "old": "0429碎片在他胸口的温度往上走了一格。它说：他想说的话，我替他讲。他等了三年，就等这一句。",
+   "new": "0429碎片在他胸口的温度往上走了一格。它没有出声，只把那股暖往上顶了顶，顶到肋骨底下。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 55,
+   "old": "赵大嘴说：那你为什么不早点出来。",
+   "new": "\"那你为什么不早点出来。\"赵大嘴说。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 51,
+   "old": "赵大嘴说：爸，我这三年一直在装。装傻，装没用，装到所有人都懒得看我一眼。",
+   "new": "\"爸，我这三年一直在装。\"赵大嘴说，\"装傻，装没用，装到所有人都懒得看我一眼。\""
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 47,
+   "old": "赵大嘴沉默了几秒。他说：她不知道。我没敢告诉她。",
+   "new": "赵大嘴沉默了几秒。\"她不知道。\"他说，\"我没敢告诉她。\""
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 41,
+   "old": "这五个字之后，白色空间安静了很久。赵大嘴把手从脸上拿下来，眼睛红着，人已经稳住了。他说：爸，你说话，我听着。",
+   "new": "这五个字之后，白色空间安静了很久。赵大嘴把手从脸上拿下来，眼睛红着，人已经稳住了。\"爸，你说话，我听着。\""
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 37,
+   "old": "赵大嘴的喉咙动了一下。他说：我没想过能听见你说这句话。",
+   "new": "赵大嘴的喉咙动了一下。\"我没想过能听见你说这句话。\""
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 23,
+   "old": "赵大嘴说：你数这个干什么。",
+   "new": "\"你数这个干什么。\"赵大嘴说。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 19,
+   "old": "赵大嘴说：我没哭过几次。",
+   "new": "\"我没哭过几次。\"赵大嘴说。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-675-polished.md",
+   "line": 15,
+   "old": "赵大嘴问：你在哪。",
+   "new": "\"你在哪。\"赵大嘴问。"
+  }
+ ]
+}
