@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-29T10:04:33.954Z",
+  "scannedAt": "2026-10-29T11:47:11.835Z",
   "totals": {
     "chapters": 1000,
     "files": 1000,
@@ -53,11 +53,11 @@
     },
     "V6": {
       "chapters": 168,
-      "totalCJK": 639637,
+      "totalCJK": 638037,
       "avgL1": "0.04",
       "avgBlocking": "0.11",
       "avgCliche": "0.03",
-      "avgComposite": "2.88",
+      "avgComposite": "2.87",
       "worst": []
     },
     "V7": {
@@ -369,15 +369,6 @@
       "clicheDensity": "0.00"
     },
     {
-      "vol": "V6",
-      "chNum": 794,
-      "cjk": 3048,
-      "composite": 10.3,
-      "l1Density": "0.00",
-      "blocking": 0,
-      "clicheDensity": "0.00"
-    },
-    {
       "vol": "V3",
       "chNum": 350,
       "cjk": 3163,
@@ -430,6 +421,15 @@
       "l1Density": "0.00",
       "blocking": 2,
       "clicheDensity": "0.00"
+    },
+    {
+      "vol": "V5",
+      "chNum": 645,
+      "cjk": 3065,
+      "composite": 9.3,
+      "l1Density": "0.65",
+      "blocking": 1,
+      "clicheDensity": "0.98"
     }
   ],
   "all": [
@@ -1325,33 +1325,6 @@
       "composite": 10.3
     },
     {
-      "vol": "V6",
-      "volDir": "volume-6",
-      "chNum": 794,
-      "cjk": 3048,
-      "l1Hits": 0,
-      "l1Density": "0.00",
-      "blockingTotal": 0,
-      "notIs": 3,
-      "voiceContrast": 0,
-      "negationParade": 0,
-      "emDash": 0,
-      "reverseNotIs": 0,
-      "trailerEnding": 0,
-      "trailerSummary": 0,
-      "crossNeg": 0,
-      "clicheHits": 0,
-      "clicheDensity": "0.00",
-      "metaphorDensity": "0.00",
-      "reasoningDensity": "19.36",
-      "abstractDensity": "0.00",
-      "microActionDensity": "0.66",
-      "dialogDensity": "5000.0",
-      "avgParaSentences": "3.23",
-      "longParas": 1,
-      "composite": 10.3
-    },
-    {
       "vol": "V3",
       "volDir": "volume-3",
       "chNum": 350,
@@ -1780,6 +1753,33 @@
       "microActionDensity": "0.33",
       "dialogDensity": "303.3",
       "avgParaSentences": "3.68",
+      "longParas": 0,
+      "composite": 8.8
+    },
+    {
+      "vol": "V6",
+      "volDir": "volume-6",
+      "chNum": 794,
+      "cjk": 3078,
+      "l1Hits": 0,
+      "l1Density": "0.00",
+      "blockingTotal": 0,
+      "notIs": 2,
+      "voiceContrast": 0,
+      "negationParade": 0,
+      "emDash": 0,
+      "reverseNotIs": 0,
+      "trailerEnding": 0,
+      "trailerSummary": 0,
+      "crossNeg": 0,
+      "clicheHits": 0,
+      "clicheDensity": "0.00",
+      "metaphorDensity": "0.00",
+      "reasoningDensity": "8.77",
+      "abstractDensity": "0.00",
+      "microActionDensity": "3.57",
+      "dialogDensity": "920.0",
+      "avgParaSentences": "2.78",
       "longParas": 0,
       "composite": 8.8
     },
@@ -6914,33 +6914,6 @@
       "composite": 4.9
     },
     {
-      "vol": "V6",
-      "volDir": "volume-6",
-      "chNum": 793,
-      "cjk": 4829,
-      "l1Hits": 0,
-      "l1Density": "0.00",
-      "blockingTotal": 0,
-      "notIs": 0,
-      "voiceContrast": 0,
-      "negationParade": 0,
-      "emDash": 0,
-      "reverseNotIs": 0,
-      "trailerEnding": 0,
-      "trailerSummary": 0,
-      "crossNeg": 0,
-      "clicheHits": 0,
-      "clicheDensity": "0.00",
-      "metaphorDensity": "0.00",
-      "reasoningDensity": "6.01",
-      "abstractDensity": "0.00",
-      "microActionDensity": "0.21",
-      "dialogDensity": "0",
-      "avgParaSentences": "3.29",
-      "longParas": 1,
-      "composite": 4.9
-    },
-    {
       "vol": "V1",
       "volDir": "volume-1",
       "chNum": 57,
@@ -8963,6 +8936,33 @@
       "dialogDensity": "1020.0",
       "avgParaSentences": "3.89",
       "longParas": 2,
+      "composite": 4.2
+    },
+    {
+      "vol": "V6",
+      "volDir": "volume-6",
+      "chNum": 793,
+      "cjk": 3199,
+      "l1Hits": 0,
+      "l1Density": "0.00",
+      "blockingTotal": 0,
+      "notIs": 0,
+      "voiceContrast": 0,
+      "negationParade": 0,
+      "emDash": 0,
+      "reverseNotIs": 0,
+      "trailerEnding": 0,
+      "trailerSummary": 0,
+      "crossNeg": 0,
+      "clicheHits": 0,
+      "clicheDensity": "0.00",
+      "metaphorDensity": "0.00",
+      "reasoningDensity": "3.44",
+      "abstractDensity": "0.00",
+      "microActionDensity": "2.81",
+      "dialogDensity": "0",
+      "avgParaSentences": "2.81",
+      "longParas": 0,
       "composite": 4.2
     },
     {
