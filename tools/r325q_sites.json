@@ -1,0 +1,20 @@
+{
+ "round": "R325",
+ "batch": "q",
+ "note": "ch177: the last pair, one sentence with the subject swapped",
+ "floor": 3000,
+ "records": [
+  {
+   "path": "chapters/volume-2/chapter-177-polished.md",
+   "line": 174,
+   "old": "右手感到它在响应。42片碎片在感知书架的时间结构。",
+   "new": "右手先动了。碎片顺着他手腕往上爬，爬到肩胛就停住。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-177-polished.md",
+   "line": 147,
+   "old": "赵大嘴感到它在响应。42片碎片在感知书架的时间结构。",
+   "new": "赵大嘴感到它在响应。42片碎片在读那一排书脊，一册一册地过。"
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "round": "R325",
+ "batch": "r",
+ "note": "ch177: three people do not leave two lines of prints",
+ "floor": 3000,
+ "records": [
+  {
+   "path": "chapters/volume-2/chapter-177-polished.md",
+   "line": 97,
+   "old": "三人站在一条街道的中间。这条路他们刚才走过，地上的脚印还是新的，一共六行，只有两行是他们的。",
+   "new": "三人站在一条街道的中间。这条路他们刚才走过，脚印还是新的，一共六行，三行是刚踩的，另外三行也是。"
+  }
+ ]
+}
