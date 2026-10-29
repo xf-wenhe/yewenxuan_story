@@ -1,556 +1,2248 @@
 {
  "round": "R325 queue",
  "rule": "within-chapter paragraph pairs, similarity >=0.90, both >=20 CJK, excluded: headings, blockquotes, （第…章完）",
- "chapters": 137,
+ "chapters": 135,
  "surplus": 276,
+ "note": "pairs are [earlier, later] line numbers of paragraphs scoring >=0.90; cost is the CJK carried by the later ones -- what a rewrite has to supply, or what a deletion would cost; headroom is how much can be dropped before the 3000 floor; contiguous means the later ones form one run, i.e. a second pass rather than scattered twins",
  "items": [
   {
-   "surplus": 11,
-   "path": "chapters\\volume-5\\chapter-583-polished.md"
-  },
-  {
-   "surplus": 9,
-   "path": "chapters\\volume-5\\chapter-715-polished.md"
-  },
-  {
-   "surplus": 6,
-   "path": "chapters\\volume-5\\chapter-674-polished.md"
-  },
-  {
-   "surplus": 5,
-   "path": "chapters\\volume-6\\chapter-765-polished.md"
-  },
-  {
-   "surplus": 5,
-   "path": "chapters\\volume-5\\chapter-663-polished.md"
-  },
-  {
-   "surplus": 5,
-   "path": "chapters\\volume-5\\chapter-644-polished.md"
-  },
-  {
-   "surplus": 5,
-   "path": "chapters\\volume-5\\chapter-571-polished.md"
-  },
-  {
-   "surplus": 5,
-   "path": "chapters\\volume-5\\chapter-570-polished.md"
-  },
-  {
-   "surplus": 5,
-   "path": "chapters\\volume-5\\chapter-568-polished.md"
-  },
-  {
-   "surplus": 5,
-   "path": "chapters\\volume-2\\chapter-179-polished.md"
-  },
-  {
-   "surplus": 4,
-   "path": "chapters\\volume-6\\chapter-778-polished.md"
-  },
-  {
-   "surplus": 4,
-   "path": "chapters\\volume-6\\chapter-777-polished.md"
-  },
-  {
-   "surplus": 4,
-   "path": "chapters\\volume-5\\chapter-675-polished.md"
-  },
-  {
-   "surplus": 4,
-   "path": "chapters\\volume-5\\chapter-671-polished.md"
-  },
-  {
-   "surplus": 4,
-   "path": "chapters\\volume-5\\chapter-654-polished.md"
-  },
-  {
-   "surplus": 4,
-   "path": "chapters\\volume-5\\chapter-639-polished.md"
-  },
-  {
-   "surplus": 4,
-   "path": "chapters\\volume-2\\chapter-177-polished.md"
-  },
-  {
-   "surplus": 4,
-   "path": "chapters\\volume-2\\chapter-161-polished.md"
-  },
-  {
-   "surplus": 3,
-   "path": "chapters\\volume-6\\chapter-807-polished.md"
-  },
-  {
-   "surplus": 3,
-   "path": "chapters\\volume-6\\chapter-804-polished.md"
-  },
-  {
-   "surplus": 3,
-   "path": "chapters\\volume-6\\chapter-798-polished.md"
-  },
-  {
-   "surplus": 3,
-   "path": "chapters\\volume-5\\chapter-734-polished.md"
-  },
-  {
-   "surplus": 3,
-   "path": "chapters\\volume-5\\chapter-680-polished.md"
-  },
-  {
-   "surplus": 3,
-   "path": "chapters\\volume-5\\chapter-676-polished.md"
-  },
-  {
-   "surplus": 3,
-   "path": "chapters\\volume-5\\chapter-635-polished.md"
-  },
-  {
-   "surplus": 3,
-   "path": "chapters\\volume-5\\chapter-634-polished.md"
-  },
-  {
-   "surplus": 3,
-   "path": "chapters\\volume-5\\chapter-594-polished.md"
-  },
-  {
-   "surplus": 3,
-   "path": "chapters\\volume-5\\chapter-586-polished.md"
-  },
-  {
-   "surplus": 3,
-   "path": "chapters\\volume-2\\chapter-195-polished.md"
-  },
-  {
-   "surplus": 3,
-   "path": "chapters\\volume-2\\chapter-176-polished.md"
-  },
-  {
-   "surplus": 3,
-   "path": "chapters\\volume-2\\chapter-151-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-6\\chapter-833-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-6\\chapter-811-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-6\\chapter-801-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-6\\chapter-797-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-6\\chapter-796-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-6\\chapter-794-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-6\\chapter-774-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-6\\chapter-763-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-733-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-708-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-705-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-700-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-696-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-690-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-678-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-673-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-670-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-643-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-642-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-638-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-633-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-632-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-618-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-598-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-591-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-585-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-577-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-569-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-5\\chapter-566-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-4\\chapter-453-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-3\\chapter-320-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-3\\chapter-307-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-2\\chapter-200-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-2\\chapter-192-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-2\\chapter-191-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-2\\chapter-130-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-2\\chapter-122-polished.md"
-  },
-  {
-   "surplus": 2,
-   "path": "chapters\\volume-1\\chapter-68-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-7\\chapter-947-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-6\\chapter-855-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-6\\chapter-850-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-6\\chapter-837-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-6\\chapter-814-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-6\\chapter-793-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-6\\chapter-783-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-6\\chapter-781-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-6\\chapter-780-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-6\\chapter-779-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-6\\chapter-776-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-736-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-735-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-718-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-710-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-709-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-702-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-698-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-692-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-691-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-689-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-683-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-682-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-681-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-677-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-669-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-662-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-661-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-637-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-631-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-611-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-609-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-608-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-605-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-589-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-587-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-582-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-580-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-575-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-5\\chapter-563-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-3\\chapter-341-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-3\\chapter-330-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-3\\chapter-328-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-3\\chapter-322-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-3\\chapter-303-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-3\\chapter-297-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-3\\chapter-296-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-3\\chapter-286-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-3\\chapter-271-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-3\\chapter-268-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-3\\chapter-251-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-2\\chapter-228-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-2\\chapter-201-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-2\\chapter-185-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-2\\chapter-183-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-2\\chapter-180-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-2\\chapter-169-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-2\\chapter-168-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-2\\chapter-162-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-2\\chapter-153-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-2\\chapter-123-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-2\\chapter-120-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-2\\chapter-119-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-2\\chapter-113-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-2\\chapter-112-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-1\\chapter-98-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-1\\chapter-70-polished.md"
-  },
-  {
-   "surplus": 1,
-   "path": "chapters\\volume-1\\chapter-63-polished.md"
+   "path": "chapters\\volume-5\\chapter-639-polished.md",
+   "pairs": [
+    [
+     115,
+     127
+    ],
+    [
+     117,
+     129
+    ],
+    [
+     127,
+     177
+    ],
+    [
+     129,
+     179
+    ]
+   ],
+   "cost": 372,
+   "total": 3093,
+   "headroom": 93,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-151-polished.md",
+   "pairs": [
+    [
+     29,
+     67
+    ],
+    [
+     49,
+     73
+    ],
+    [
+     59,
+     81
+    ]
+   ],
+   "cost": 351,
+   "total": 3157,
+   "headroom": 157,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-765-polished.md",
+   "pairs": [
+    [
+     63,
+     73
+    ],
+    [
+     122,
+     134
+    ],
+    [
+     124,
+     136
+    ],
+    [
+     128,
+     140
+    ],
+    [
+     132,
+     144
+    ]
+   ],
+   "cost": 349,
+   "total": 3614,
+   "headroom": 614,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-674-polished.md",
+   "pairs": [
+    [
+     25,
+     64
+    ],
+    [
+     50,
+     74
+    ],
+    [
+     52,
+     88
+    ],
+    [
+     62,
+     78
+    ],
+    [
+     68,
+     82
+    ],
+    [
+     74,
+     86
+    ]
+   ],
+   "cost": 333,
+   "total": 3042,
+   "headroom": 42,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-4\\chapter-453-polished.md",
+   "pairs": [
+    [
+     41,
+     49
+    ],
+    [
+     43,
+     51
+    ]
+   ],
+   "cost": 272,
+   "total": 3100,
+   "headroom": 100,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-778-polished.md",
+   "pairs": [
+    [
+     65,
+     93
+    ],
+    [
+     71,
+     101
+    ],
+    [
+     79,
+     109
+    ],
+    [
+     83,
+     111
+    ]
+   ],
+   "cost": 237,
+   "total": 3022,
+   "headroom": 22,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-161-polished.md",
+   "pairs": [
+    [
+     17,
+     25
+    ],
+    [
+     61,
+     225
+    ],
+    [
+     69,
+     209
+    ],
+    [
+     91,
+     167
+    ]
+   ],
+   "cost": 221,
+   "total": 5899,
+   "headroom": 2899,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-571-polished.md",
+   "pairs": [
+    [
+     5,
+     119
+    ],
+    [
+     63,
+     135
+    ],
+    [
+     99,
+     101
+    ],
+    [
+     107,
+     123
+    ],
+    [
+     107,
+     151
+    ]
+   ],
+   "cost": 210,
+   "total": 3028,
+   "headroom": 28,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-675-polished.md",
+   "pairs": [
+    [
+     29,
+     81
+    ],
+    [
+     35,
+     63
+    ],
+    [
+     35,
+     73
+    ],
+    [
+     85,
+     103
+    ]
+   ],
+   "cost": 188,
+   "total": 3192,
+   "headroom": 192,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-179-polished.md",
+   "pairs": [
+    [
+     6,
+     30
+    ],
+    [
+     6,
+     130
+    ],
+    [
+     14,
+     38
+    ],
+    [
+     52,
+     160
+    ],
+    [
+     114,
+     140
+    ]
+   ],
+   "cost": 175,
+   "total": 4100,
+   "headroom": 1100,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-777-polished.md",
+   "pairs": [
+    [
+     35,
+     167
+    ],
+    [
+     37,
+     83
+    ],
+    [
+     41,
+     99
+    ],
+    [
+     43,
+     159
+    ]
+   ],
+   "cost": 175,
+   "total": 3278,
+   "headroom": 278,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-671-polished.md",
+   "pairs": [
+    [
+     13,
+     53
+    ],
+    [
+     23,
+     57
+    ],
+    [
+     29,
+     59
+    ],
+    [
+     45,
+     65
+    ]
+   ],
+   "cost": 170,
+   "total": 3030,
+   "headroom": 30,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-177-polished.md",
+   "pairs": [
+    [
+     25,
+     43
+    ],
+    [
+     39,
+     87
+    ],
+    [
+     45,
+     99
+    ],
+    [
+     147,
+     174
+    ]
+   ],
+   "cost": 167,
+   "total": 3040,
+   "headroom": 40,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-643-polished.md",
+   "pairs": [
+    [
+     165,
+     177
+    ],
+    [
+     241,
+     249
+    ]
+   ],
+   "cost": 165,
+   "total": 3188,
+   "headroom": 188,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-570-polished.md",
+   "pairs": [
+    [
+     17,
+     25
+    ],
+    [
+     121,
+     157
+    ],
+    [
+     129,
+     131
+    ],
+    [
+     137,
+     147
+    ],
+    [
+     183,
+     185
+    ]
+   ],
+   "cost": 161,
+   "total": 3469,
+   "headroom": 469,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-705-polished.md",
+   "pairs": [
+    [
+     9,
+     21
+    ],
+    [
+     13,
+     25
+    ]
+   ],
+   "cost": 157,
+   "total": 3060,
+   "headroom": 60,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-654-polished.md",
+   "pairs": [
+    [
+     157,
+     185
+    ],
+    [
+     201,
+     240
+    ],
+    [
+     203,
+     242
+    ],
+    [
+     205,
+     244
+    ]
+   ],
+   "cost": 155,
+   "total": 3312,
+   "headroom": 312,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-796-polished.md",
+   "pairs": [
+    [
+     35,
+     43
+    ],
+    [
+     35,
+     51
+    ]
+   ],
+   "cost": 151,
+   "total": 3964,
+   "headroom": 964,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-797-polished.md",
+   "pairs": [
+    [
+     31,
+     37
+    ],
+    [
+     71,
+     105
+    ]
+   ],
+   "cost": 149,
+   "total": 3741,
+   "headroom": 741,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-663-polished.md",
+   "pairs": [
+    [
+     37,
+     145
+    ],
+    [
+     69,
+     121
+    ],
+    [
+     117,
+     133
+    ],
+    [
+     121,
+     199
+    ],
+    [
+     123,
+     201
+    ]
+   ],
+   "cost": 143,
+   "total": 3031,
+   "headroom": 31,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-676-polished.md",
+   "pairs": [
+    [
+     28,
+     78
+    ],
+    [
+     36,
+     70
+    ],
+    [
+     38,
+     94
+    ]
+   ],
+   "cost": 142,
+   "total": 3043,
+   "headroom": 43,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-807-polished.md",
+   "pairs": [
+    [
+     7,
+     149
+    ],
+    [
+     137,
+     163
+    ],
+    [
+     159,
+     177
+    ]
+   ],
+   "cost": 142,
+   "total": 3504,
+   "headroom": 504,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-568-polished.md",
+   "pairs": [
+    [
+     39,
+     79
+    ],
+    [
+     59,
+     229
+    ],
+    [
+     79,
+     87
+    ],
+    [
+     99,
+     101
+    ],
+    [
+     159,
+     187
+    ]
+   ],
+   "cost": 134,
+   "total": 4137,
+   "headroom": 1137,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-642-polished.md",
+   "pairs": [
+    [
+     17,
+     167
+    ],
+    [
+     279,
+     297
+    ]
+   ],
+   "cost": 134,
+   "total": 3767,
+   "headroom": 767,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-638-polished.md",
+   "pairs": [
+    [
+     145,
+     177
+    ],
+    [
+     279,
+     313
+    ]
+   ],
+   "cost": 132,
+   "total": 4362,
+   "headroom": 1362,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-176-polished.md",
+   "pairs": [
+    [
+     3,
+     135
+    ],
+    [
+     63,
+     91
+    ],
+    [
+     87,
+     99
+    ]
+   ],
+   "cost": 125,
+   "total": 3154,
+   "headroom": 154,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-634-polished.md",
+   "pairs": [
+    [
+     138,
+     194
+    ],
+    [
+     178,
+     214
+    ],
+    [
+     227,
+     309
+    ]
+   ],
+   "cost": 123,
+   "total": 4065,
+   "headroom": 1065,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-794-polished.md",
+   "pairs": [
+    [
+     75,
+     101
+    ],
+    [
+     95,
+     123
+    ]
+   ],
+   "cost": 123,
+   "total": 3048,
+   "headroom": 48,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-644-polished.md",
+   "pairs": [
+    [
+     13,
+     87
+    ],
+    [
+     109,
+     121
+    ],
+    [
+     109,
+     171
+    ],
+    [
+     109,
+     183
+    ],
+    [
+     109,
+     207
+    ]
+   ],
+   "cost": 122,
+   "total": 3020,
+   "headroom": 20,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-804-polished.md",
+   "pairs": [
+    [
+     11,
+     25
+    ],
+    [
+     98,
+     130
+    ],
+    [
+     112,
+     134
+    ]
+   ],
+   "cost": 119,
+   "total": 3070,
+   "headroom": 70,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-798-polished.md",
+   "pairs": [
+    [
+     75,
+     77
+    ],
+    [
+     75,
+     79
+    ],
+    [
+     89,
+     131
+    ]
+   ],
+   "cost": 111,
+   "total": 3153,
+   "headroom": 153,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-3\\chapter-307-polished.md",
+   "pairs": [
+    [
+     3,
+     93
+    ],
+    [
+     5,
+     95
+    ]
+   ],
+   "cost": 107,
+   "total": 3035,
+   "headroom": 35,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-673-polished.md",
+   "pairs": [
+    [
+     19,
+     41
+    ],
+    [
+     21,
+     49
+    ]
+   ],
+   "cost": 105,
+   "total": 3038,
+   "headroom": 38,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-680-polished.md",
+   "pairs": [
+    [
+     57,
+     131
+    ],
+    [
+     73,
+     143
+    ],
+    [
+     79,
+     149
+    ]
+   ],
+   "cost": 102,
+   "total": 3097,
+   "headroom": 97,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-763-polished.md",
+   "pairs": [
+    [
+     89,
+     189
+    ],
+    [
+     91,
+     191
+    ]
+   ],
+   "cost": 101,
+   "total": 4408,
+   "headroom": 1408,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-678-polished.md",
+   "pairs": [
+    [
+     35,
+     61
+    ],
+    [
+     57,
+     97
+    ]
+   ],
+   "cost": 100,
+   "total": 3055,
+   "headroom": 55,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-696-polished.md",
+   "pairs": [
+    [
+     3,
+     7
+    ],
+    [
+     43,
+     52
+    ]
+   ],
+   "cost": 99,
+   "total": 3043,
+   "headroom": 43,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-708-polished.md",
+   "pairs": [
+    [
+     105,
+     163
+    ],
+    [
+     137,
+     179
+    ]
+   ],
+   "cost": 96,
+   "total": 3429,
+   "headroom": 429,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-153-polished.md",
+   "pairs": [
+    [
+     37,
+     67
+    ]
+   ],
+   "cost": 96,
+   "total": 3203,
+   "headroom": 203,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-594-polished.md",
+   "pairs": [
+    [
+     21,
+     208
+    ],
+    [
+     103,
+     140
+    ],
+    [
+     132,
+     210
+    ]
+   ],
+   "cost": 95,
+   "total": 3312,
+   "headroom": 312,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-586-polished.md",
+   "pairs": [
+    [
+     37,
+     69
+    ],
+    [
+     73,
+     119
+    ],
+    [
+     109,
+     125
+    ]
+   ],
+   "cost": 95,
+   "total": 3012,
+   "headroom": 12,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-635-polished.md",
+   "pairs": [
+    [
+     19,
+     61
+    ],
+    [
+     109,
+     311
+    ],
+    [
+     239,
+     327
+    ]
+   ],
+   "cost": 94,
+   "total": 5698,
+   "headroom": 2698,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-690-polished.md",
+   "pairs": [
+    [
+     17,
+     87
+    ],
+    [
+     49,
+     71
+    ]
+   ],
+   "cost": 92,
+   "total": 3106,
+   "headroom": 106,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-3\\chapter-303-polished.md",
+   "pairs": [
+    [
+     5,
+     23
+    ]
+   ],
+   "cost": 91,
+   "total": 3083,
+   "headroom": 83,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-811-polished.md",
+   "pairs": [
+    [
+     49,
+     147
+    ],
+    [
+     51,
+     149
+    ]
+   ],
+   "cost": 89,
+   "total": 3222,
+   "headroom": 222,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-1\\chapter-63-polished.md",
+   "pairs": [
+    [
+     85,
+     129
+    ]
+   ],
+   "cost": 88,
+   "total": 3459,
+   "headroom": 459,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-734-polished.md",
+   "pairs": [
+    [
+     13,
+     43
+    ],
+    [
+     43,
+     111
+    ],
+    [
+     57,
+     91
+    ]
+   ],
+   "cost": 87,
+   "total": 3069,
+   "headroom": 69,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-670-polished.md",
+   "pairs": [
+    [
+     25,
+     65
+    ],
+    [
+     27,
+     67
+    ]
+   ],
+   "cost": 86,
+   "total": 3095,
+   "headroom": 95,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-700-polished.md",
+   "pairs": [
+    [
+     39,
+     68
+    ],
+    [
+     86,
+     92
+    ]
+   ],
+   "cost": 85,
+   "total": 3047,
+   "headroom": 47,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-632-polished.md",
+   "pairs": [
+    [
+     93,
+     196
+    ],
+    [
+     198,
+     339
+    ]
+   ],
+   "cost": 82,
+   "total": 5144,
+   "headroom": 2144,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-585-polished.md",
+   "pairs": [
+    [
+     17,
+     119
+    ],
+    [
+     117,
+     141
+    ]
+   ],
+   "cost": 82,
+   "total": 3075,
+   "headroom": 75,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-7\\chapter-947-polished.md",
+   "pairs": [
+    [
+     154,
+     202
+    ]
+   ],
+   "cost": 81,
+   "total": 3008,
+   "headroom": 8,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-563-polished.md",
+   "pairs": [
+    [
+     113,
+     115
+    ]
+   ],
+   "cost": 81,
+   "total": 3137,
+   "headroom": 137,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-591-polished.md",
+   "pairs": [
+    [
+     43,
+     129
+    ],
+    [
+     53,
+     137
+    ]
+   ],
+   "cost": 80,
+   "total": 3934,
+   "headroom": 934,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-3\\chapter-320-polished.md",
+   "pairs": [
+    [
+     21,
+     79
+    ],
+    [
+     97,
+     143
+    ]
+   ],
+   "cost": 78,
+   "total": 3022,
+   "headroom": 22,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-577-polished.md",
+   "pairs": [
+    [
+     47,
+     65
+    ],
+    [
+     87,
+     135
+    ]
+   ],
+   "cost": 76,
+   "total": 3047,
+   "headroom": 47,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-779-polished.md",
+   "pairs": [
+    [
+     33,
+     77
+    ]
+   ],
+   "cost": 75,
+   "total": 3062,
+   "headroom": 62,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-200-polished.md",
+   "pairs": [
+    [
+     57,
+     106
+    ],
+    [
+     132,
+     154
+    ]
+   ],
+   "cost": 74,
+   "total": 3300,
+   "headroom": 300,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-195-polished.md",
+   "pairs": [
+    [
+     102,
+     210
+    ],
+    [
+     102,
+     220
+    ],
+    [
+     130,
+     253
+    ]
+   ],
+   "cost": 72,
+   "total": 3974,
+   "headroom": 974,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-633-polished.md",
+   "pairs": [
+    [
+     31,
+     155
+    ],
+    [
+     155,
+     291
+    ]
+   ],
+   "cost": 69,
+   "total": 3947,
+   "headroom": 947,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-855-polished.md",
+   "pairs": [
+    [
+     25,
+     51
+    ]
+   ],
+   "cost": 69,
+   "total": 3152,
+   "headroom": 152,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-191-polished.md",
+   "pairs": [
+    [
+     103,
+     121
+    ],
+    [
+     103,
+     151
+    ]
+   ],
+   "cost": 67,
+   "total": 4625,
+   "headroom": 1625,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-192-polished.md",
+   "pairs": [
+    [
+     59,
+     79
+    ],
+    [
+     59,
+     101
+    ]
+   ],
+   "cost": 67,
+   "total": 3175,
+   "headroom": 175,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-801-polished.md",
+   "pairs": [
+    [
+     15,
+     67
+    ],
+    [
+     57,
+     147
+    ]
+   ],
+   "cost": 66,
+   "total": 3400,
+   "headroom": 400,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-833-polished.md",
+   "pairs": [
+    [
+     65,
+     97
+    ],
+    [
+     121,
+     151
+    ]
+   ],
+   "cost": 66,
+   "total": 3195,
+   "headroom": 195,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-130-polished.md",
+   "pairs": [
+    [
+     29,
+     49
+    ],
+    [
+     39,
+     89
+    ]
+   ],
+   "cost": 66,
+   "total": 3123,
+   "headroom": 123,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-718-polished.md",
+   "pairs": [
+    [
+     108,
+     158
+    ]
+   ],
+   "cost": 65,
+   "total": 3024,
+   "headroom": 24,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-169-polished.md",
+   "pairs": [
+    [
+     39,
+     89
+    ]
+   ],
+   "cost": 64,
+   "total": 3237,
+   "headroom": 237,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-168-polished.md",
+   "pairs": [
+    [
+     31,
+     101
+    ]
+   ],
+   "cost": 64,
+   "total": 3490,
+   "headroom": 490,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-733-polished.md",
+   "pairs": [
+    [
+     17,
+     89
+    ],
+    [
+     39,
+     79
+    ]
+   ],
+   "cost": 61,
+   "total": 3327,
+   "headroom": 327,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-1\\chapter-68-polished.md",
+   "pairs": [
+    [
+     69,
+     146
+    ],
+    [
+     99,
+     156
+    ]
+   ],
+   "cost": 60,
+   "total": 5613,
+   "headroom": 2613,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-736-polished.md",
+   "pairs": [
+    [
+     149,
+     185
+    ]
+   ],
+   "cost": 60,
+   "total": 3841,
+   "headroom": 841,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-228-polished.md",
+   "pairs": [
+    [
+     23,
+     39
+    ]
+   ],
+   "cost": 57,
+   "total": 3003,
+   "headroom": 3,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-3\\chapter-296-polished.md",
+   "pairs": [
+    [
+     242,
+     264
+    ]
+   ],
+   "cost": 53,
+   "total": 3525,
+   "headroom": 525,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-698-polished.md",
+   "pairs": [
+    [
+     3,
+     31
+    ]
+   ],
+   "cost": 52,
+   "total": 3012,
+   "headroom": 12,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-3\\chapter-251-polished.md",
+   "pairs": [
+    [
+     21,
+     37
+    ]
+   ],
+   "cost": 52,
+   "total": 3070,
+   "headroom": 70,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-783-polished.md",
+   "pairs": [
+    [
+     133,
+     233
+    ]
+   ],
+   "cost": 51,
+   "total": 6582,
+   "headroom": 3582,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-618-polished.md",
+   "pairs": [
+    [
+     122,
+     134
+    ],
+    [
+     122,
+     162
+    ]
+   ],
+   "cost": 50,
+   "total": 3128,
+   "headroom": 128,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-793-polished.md",
+   "pairs": [
+    [
+     89,
+     93
+    ]
+   ],
+   "cost": 50,
+   "total": 4829,
+   "headroom": 1829,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-611-polished.md",
+   "pairs": [
+    [
+     138,
+     184
+    ]
+   ],
+   "cost": 50,
+   "total": 3018,
+   "headroom": 18,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-702-polished.md",
+   "pairs": [
+    [
+     3,
+     31
+    ]
+   ],
+   "cost": 49,
+   "total": 3010,
+   "headroom": 10,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-566-polished.md",
+   "pairs": [
+    [
+     65,
+     95
+    ],
+    [
+     203,
+     205
+    ]
+   ],
+   "cost": 48,
+   "total": 4489,
+   "headroom": 1489,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-774-polished.md",
+   "pairs": [
+    [
+     364,
+     386
+    ],
+    [
+     378,
+     432
+    ]
+   ],
+   "cost": 48,
+   "total": 9061,
+   "headroom": 6061,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-850-polished.md",
+   "pairs": [
+    [
+     99,
+     173
+    ]
+   ],
+   "cost": 48,
+   "total": 4427,
+   "headroom": 1427,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-575-polished.md",
+   "pairs": [
+    [
+     41,
+     115
+    ]
+   ],
+   "cost": 48,
+   "total": 3051,
+   "headroom": 51,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-709-polished.md",
+   "pairs": [
+    [
+     83,
+     119
+    ]
+   ],
+   "cost": 47,
+   "total": 3010,
+   "headroom": 10,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-609-polished.md",
+   "pairs": [
+    [
+     65,
+     109
+    ]
+   ],
+   "cost": 47,
+   "total": 3045,
+   "headroom": 45,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-3\\chapter-297-polished.md",
+   "pairs": [
+    [
+     9,
+     143
+    ]
+   ],
+   "cost": 47,
+   "total": 3124,
+   "headroom": 124,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-598-polished.md",
+   "pairs": [
+    [
+     103,
+     147
+    ],
+    [
+     103,
+     173
+    ]
+   ],
+   "cost": 46,
+   "total": 3025,
+   "headroom": 25,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-692-polished.md",
+   "pairs": [
+    [
+     3,
+     95
+    ]
+   ],
+   "cost": 46,
+   "total": 3081,
+   "headroom": 81,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-608-polished.md",
+   "pairs": [
+    [
+     143,
+     155
+    ]
+   ],
+   "cost": 45,
+   "total": 3266,
+   "headroom": 266,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-122-polished.md",
+   "pairs": [
+    [
+     46,
+     63
+    ],
+    [
+     101,
+     102
+    ]
+   ],
+   "cost": 44,
+   "total": 4647,
+   "headroom": 1647,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-683-polished.md",
+   "pairs": [
+    [
+     79,
+     93
+    ]
+   ],
+   "cost": 44,
+   "total": 3101,
+   "headroom": 101,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-3\\chapter-268-polished.md",
+   "pairs": [
+    [
+     217,
+     237
+    ]
+   ],
+   "cost": 44,
+   "total": 3952,
+   "headroom": 952,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-183-polished.md",
+   "pairs": [
+    [
+     52,
+     98
+    ]
+   ],
+   "cost": 44,
+   "total": 3021,
+   "headroom": 21,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-569-polished.md",
+   "pairs": [
+    [
+     39,
+     53
+    ],
+    [
+     101,
+     113
+    ]
+   ],
+   "cost": 43,
+   "total": 3199,
+   "headroom": 199,
+   "contiguous": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-781-polished.md",
+   "pairs": [
+    [
+     79,
+     87
+    ]
+   ],
+   "cost": 43,
+   "total": 3068,
+   "headroom": 68,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-637-polished.md",
+   "pairs": [
+    [
+     79,
+     131
+    ]
+   ],
+   "cost": 43,
+   "total": 3039,
+   "headroom": 39,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-201-polished.md",
+   "pairs": [
+    [
+     95,
+     117
+    ]
+   ],
+   "cost": 43,
+   "total": 3006,
+   "headroom": 6,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-681-polished.md",
+   "pairs": [
+    [
+     173,
+     237
+    ]
+   ],
+   "cost": 42,
+   "total": 3496,
+   "headroom": 496,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-669-polished.md",
+   "pairs": [
+    [
+     105,
+     133
+    ]
+   ],
+   "cost": 42,
+   "total": 3189,
+   "headroom": 189,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-814-polished.md",
+   "pairs": [
+    [
+     103,
+     175
+    ]
+   ],
+   "cost": 40,
+   "total": 3906,
+   "headroom": 906,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-691-polished.md",
+   "pairs": [
+    [
+     97,
+     125
+    ]
+   ],
+   "cost": 40,
+   "total": 3005,
+   "headroom": 5,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-587-polished.md",
+   "pairs": [
+    [
+     189,
+     319
+    ]
+   ],
+   "cost": 40,
+   "total": 8430,
+   "headroom": 5430,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-1\\chapter-98-polished.md",
+   "pairs": [
+    [
+     87,
+     89
+    ]
+   ],
+   "cost": 40,
+   "total": 3064,
+   "headroom": 64,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-3\\chapter-341-polished.md",
+   "pairs": [
+    [
+     49,
+     115
+    ]
+   ],
+   "cost": 39,
+   "total": 3123,
+   "headroom": 123,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-112-polished.md",
+   "pairs": [
+    [
+     256,
+     342
+    ]
+   ],
+   "cost": 38,
+   "total": 7752,
+   "headroom": 4752,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-162-polished.md",
+   "pairs": [
+    [
+     69,
+     93
+    ]
+   ],
+   "cost": 37,
+   "total": 3117,
+   "headroom": 117,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-837-polished.md",
+   "pairs": [
+    [
+     91,
+     115
+    ]
+   ],
+   "cost": 36,
+   "total": 3060,
+   "headroom": 60,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-3\\chapter-330-polished.md",
+   "pairs": [
+    [
+     35,
+     182
+    ]
+   ],
+   "cost": 36,
+   "total": 3642,
+   "headroom": 642,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-780-polished.md",
+   "pairs": [
+    [
+     65,
+     101
+    ]
+   ],
+   "cost": 35,
+   "total": 3033,
+   "headroom": 33,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-689-polished.md",
+   "pairs": [
+    [
+     45,
+     63
+    ]
+   ],
+   "cost": 32,
+   "total": 3058,
+   "headroom": 58,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-589-polished.md",
+   "pairs": [
+    [
+     51,
+     111
+    ]
+   ],
+   "cost": 32,
+   "total": 4168,
+   "headroom": 1168,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-119-polished.md",
+   "pairs": [
+    [
+     129,
+     147
+    ]
+   ],
+   "cost": 32,
+   "total": 4523,
+   "headroom": 1523,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-580-polished.md",
+   "pairs": [
+    [
+     35,
+     103
+    ]
+   ],
+   "cost": 31,
+   "total": 3087,
+   "headroom": 87,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-3\\chapter-322-polished.md",
+   "pairs": [
+    [
+     43,
+     51
+    ]
+   ],
+   "cost": 31,
+   "total": 3054,
+   "headroom": 54,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-735-polished.md",
+   "pairs": [
+    [
+     33,
+     65
+    ]
+   ],
+   "cost": 30,
+   "total": 3320,
+   "headroom": 320,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-631-polished.md",
+   "pairs": [
+    [
+     227,
+     344
+    ]
+   ],
+   "cost": 30,
+   "total": 6209,
+   "headroom": 3209,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-3\\chapter-286-polished.md",
+   "pairs": [
+    [
+     195,
+     245
+    ]
+   ],
+   "cost": 29,
+   "total": 4715,
+   "headroom": 1715,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-661-polished.md",
+   "pairs": [
+    [
+     87,
+     139
+    ]
+   ],
+   "cost": 28,
+   "total": 3047,
+   "headroom": 47,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-710-polished.md",
+   "pairs": [
+    [
+     5,
+     85
+    ]
+   ],
+   "cost": 27,
+   "total": 3068,
+   "headroom": 68,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-3\\chapter-271-polished.md",
+   "pairs": [
+    [
+     79,
+     121
+    ]
+   ],
+   "cost": 27,
+   "total": 3246,
+   "headroom": 246,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-180-polished.md",
+   "pairs": [
+    [
+     53,
+     79
+    ]
+   ],
+   "cost": 27,
+   "total": 3569,
+   "headroom": 569,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-3\\chapter-328-polished.md",
+   "pairs": [
+    [
+     23,
+     73
+    ]
+   ],
+   "cost": 26,
+   "total": 3008,
+   "headroom": 8,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-605-polished.md",
+   "pairs": [
+    [
+     158,
+     198
+    ]
+   ],
+   "cost": 24,
+   "total": 3984,
+   "headroom": 984,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-776-polished.md",
+   "pairs": [
+    [
+     415,
+     421
+    ]
+   ],
+   "cost": 23,
+   "total": 9813,
+   "headroom": 6813,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-677-polished.md",
+   "pairs": [
+    [
+     63,
+     93
+    ]
+   ],
+   "cost": 23,
+   "total": 3020,
+   "headroom": 20,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-185-polished.md",
+   "pairs": [
+    [
+     15,
+     39
+    ]
+   ],
+   "cost": 22,
+   "total": 4360,
+   "headroom": 1360,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-123-polished.md",
+   "pairs": [
+    [
+     83,
+     84
+    ]
+   ],
+   "cost": 22,
+   "total": 3210,
+   "headroom": 210,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-1\\chapter-70-polished.md",
+   "pairs": [
+    [
+     77,
+     109
+    ]
+   ],
+   "cost": 22,
+   "total": 6188,
+   "headroom": 3188,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-682-polished.md",
+   "pairs": [
+    [
+     113,
+     117
+    ]
+   ],
+   "cost": 21,
+   "total": 3047,
+   "headroom": 47,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-662-polished.md",
+   "pairs": [
+    [
+     35,
+     152
+    ]
+   ],
+   "cost": 21,
+   "total": 3108,
+   "headroom": 108,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-113-polished.md",
+   "pairs": [
+    [
+     142,
+     150
+    ]
+   ],
+   "cost": 21,
+   "total": 7172,
+   "headroom": 4172,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-5\\chapter-582-polished.md",
+   "pairs": [
+    [
+     87,
+     109
+    ]
+   ],
+   "cost": 20,
+   "total": 3008,
+   "headroom": 8,
+   "contiguous": true
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-120-polished.md",
+   "pairs": [
+    [
+     111,
+     159
+    ]
+   ],
+   "cost": 20,
+   "total": 3950,
+   "headroom": 950,
+   "contiguous": true
   }
  ]
 }
