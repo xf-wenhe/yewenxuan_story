@@ -1,9 +1,8 @@
 {
- "round": "R325 queue",
- "rule": "within-chapter paragraph pairs, similarity >=0.90, both >=20 CJK, excluded: headings, blockquotes, （第…章完）",
- "chapters": 135,
- "surplus": 276,
- "note": "pairs are [earlier, later] line numbers of paragraphs scoring >=0.90; cost is the CJK carried by the later ones -- what a rewrite has to supply, or what a deletion would cost; headroom is how much can be dropped before the 3000 floor; contiguous means the later ones form one run, i.e. a second pass rather than scattered twins refrain=true means >=3 paragraphs open with the same 34-character run and differ only by what was appended: a device (see ch813 arc refrain), not a defect -- do not touch.",
+ "round": "R325",
+ "floor": 3000,
+ "note": "in-chapter near-duplicates, recosted after every chapter that has been cleared",
+ "cost": 9505,
  "items": [
   {
    "path": "chapters\\volume-5\\chapter-639-polished.md",
@@ -41,110 +40,6 @@
    ]
   },
   {
-   "path": "chapters\\volume-2\\chapter-151-polished.md",
-   "pairs": [
-    [
-     29,
-     67
-    ],
-    [
-     49,
-     73
-    ],
-    [
-     59,
-     81
-    ]
-   ],
-   "cost": 351,
-   "total": 3157,
-   "headroom": 157,
-   "contiguous": false,
-   "refrain": false
-  },
-  {
-   "path": "chapters\\volume-6\\chapter-765-polished.md",
-   "pairs": [
-    [
-     63,
-     73
-    ],
-    [
-     122,
-     134
-    ],
-    [
-     124,
-     136
-    ],
-    [
-     128,
-     140
-    ],
-    [
-     132,
-     144
-    ]
-   ],
-   "cost": 349,
-   "total": 3614,
-   "headroom": 614,
-   "contiguous": false,
-   "refrain": false
-  },
-  {
-   "path": "chapters\\volume-5\\chapter-674-polished.md",
-   "pairs": [
-    [
-     25,
-     64
-    ],
-    [
-     50,
-     74
-    ],
-    [
-     52,
-     88
-    ],
-    [
-     62,
-     78
-    ],
-    [
-     68,
-     82
-    ],
-    [
-     74,
-     86
-    ]
-   ],
-   "cost": 333,
-   "total": 3042,
-   "headroom": 42,
-   "contiguous": false,
-   "refrain": false
-  },
-  {
-   "path": "chapters\\volume-4\\chapter-453-polished.md",
-   "pairs": [
-    [
-     41,
-     49
-    ],
-    [
-     43,
-     51
-    ]
-   ],
-   "cost": 272,
-   "total": 3100,
-   "headroom": 100,
-   "contiguous": true,
-   "refrain": false
-  },
-  {
    "path": "chapters\\volume-6\\chapter-778-polished.md",
    "pairs": [
     [
@@ -171,88 +66,6 @@
    "refrain": true,
    "refrain_kind": "countdown",
    "refrain_note": "the 裂缝报告 repeats its frame on purpose: 第42层/十七小时 becomes 第47层/十五小时, and the daughter picture gains \"写了两个字，爸爸\".  A countdown is supposed to repeat."
-  },
-  {
-   "path": "chapters\\volume-2\\chapter-161-polished.md",
-   "pairs": [
-    [
-     17,
-     25
-    ],
-    [
-     61,
-     225
-    ],
-    [
-     69,
-     209
-    ],
-    [
-     91,
-     167
-    ]
-   ],
-   "cost": 221,
-   "total": 5899,
-   "headroom": 2899,
-   "contiguous": false,
-   "refrain": false
-  },
-  {
-   "path": "chapters\\volume-5\\chapter-571-polished.md",
-   "pairs": [
-    [
-     5,
-     119
-    ],
-    [
-     63,
-     135
-    ],
-    [
-     99,
-     101
-    ],
-    [
-     107,
-     123
-    ],
-    [
-     107,
-     151
-    ]
-   ],
-   "cost": 210,
-   "total": 3028,
-   "headroom": 28,
-   "contiguous": false,
-   "refrain": false
-  },
-  {
-   "path": "chapters\\volume-5\\chapter-675-polished.md",
-   "pairs": [
-    [
-     29,
-     81
-    ],
-    [
-     35,
-     63
-    ],
-    [
-     35,
-     73
-    ],
-    [
-     85,
-     103
-    ]
-   ],
-   "cost": 188,
-   "total": 3192,
-   "headroom": 192,
-   "contiguous": false,
-   "refrain": false
   },
   {
    "path": "chapters\\volume-2\\chapter-179-polished.md",
@@ -2370,6 +2183,22 @@
    "headroom": 4172,
    "contiguous": true,
    "refrain": false
+  },
+  {
+   "path": "chapters\\volume-2\\chapter-161-polished.md",
+   "pairs": [
+    [
+     91,
+     167
+    ]
+   ],
+   "cost": 20,
+   "total": 5588,
+   "headroom": 2588,
+   "contiguous": false,
+   "refrain": false,
+   "exempt": "doorway",
+   "note": "入口/出口门槛对句，中间隔整段路程，有意呼应，不是口吃"
   },
   {
    "path": "chapters\\volume-5\\chapter-582-polished.md",
