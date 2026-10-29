@@ -1,0 +1,50 @@
+{
+ "round": "R325",
+ "batch": "o",
+ "note": "ch777 bookend relay made a return, four unfinished sentences; ch179 one duplicated descent",
+ "floor": 3000,
+ "records": [
+  {
+   "path": "chapters/volume-6/chapter-777-polished.md",
+   "line": 167,
+   "old": "叶文轩感到0428副本的信号，0428副本在女儿的意识中运行，0428副本在传递叶文轩的信号。",
+   "new": "叶文轩还留在那条信号上。女儿的意识里，0428副本还在运行，替他守着一个位置。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-777-polished.md",
+   "line": 159,
+   "old": "叶文轩感到女儿的手的温度，0428副本在记录女儿的手的温度，在传输给叶文轩。",
+   "new": "手还是那只手，温度没变。这三年他摸到的每一次，都是0428副本替他记下来的。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-777-polished.md",
+   "line": 139,
+   "old": "二十小时后，裂缝会打开球",
+   "new": "二十小时后，裂缝会打开球。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-777-polished.md",
+   "line": 129,
+   "old": "沈知秋的叶文轩的意识里响起响了，沈知秋在0428碎片中感知到清零协议的失效。沈知秋在说：清零协议失效了。你能感知到系统的全部了。",
+   "new": "沈知秋的声音在叶文轩的意识里响起。她在0428碎片中感知到了清零协议的失效，说：清零协议失效了。你能感知到系统的全部了。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-777-polished.md",
+   "line": 95,
+   "old": "0428在叶文轩的脑子里报告，桥梁系统的激活进度是95%",
+   "new": "0428在叶文轩的脑子里报告，桥梁系统的激活进度是95%。"
+  },
+  {
+   "path": "chapters/volume-6/chapter-777-polished.md",
+   "line": 33,
+   "old": "沈知秋的声音进入叶文轩的意识响了，沈知秋在0428碎片中等待，在说：我在0428碎片中。无论你选择什么，我都在。",
+   "new": "沈知秋的声音进入叶文轩的意识。她在0428碎片中等着，在说：我在0428碎片中。无论你选择什么，我都在。"
+  },
+  {
+   "path": "chapters/volume-2/chapter-179-polished.md",
+   "line": 80,
+   "old": "三人往楼梯下面走。往下走和往上走看到的东西一样，只有方向反了。",
+   "new": "往下走没人说话。脚步声在楼梯井里叠成两层，一层是他们的，一层慢半拍。"
+  }
+ ]
+}

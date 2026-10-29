@@ -121,7 +121,9 @@
    "total": 3278,
    "headroom": 278,
    "contiguous": false,
-   "refrain": false
+   "refrain": true,
+   "refrain_kind": "counter",
+   "note": "桥梁系统 82→86→95→100%，女儿的画多出「写了两个字，爸爸」，二十小时倒计时——数字在走，重复即滴答"
   },
   {
    "path": "chapters\\volume-5\\chapter-671-polished.md",
