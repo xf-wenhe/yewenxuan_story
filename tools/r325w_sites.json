@@ -1,0 +1,26 @@
+{
+ "round": "R325",
+ "batch": "w",
+ "note": "ch570: three leftovers rewritten at equal length",
+ "floor": 3000,
+ "records": [
+  {
+   "path": "chapters/volume-5/chapter-570-polished.md",
+   "line": 139,
+   "old": "\"M-007发了一条加密信息帮我们。但M-007为什么帮我们，我们还不知道。\"",
+   "new": "\"他发了一条加密信息帮我们。可为什么帮，我们还不知道。\""
+  },
+  {
+   "path": "chapters/volume-5/chapter-570-polished.md",
+   "line": 143,
+   "old": "叶文轩感觉到0428备份在发光，说：M-007在维护派内部是同情叶文轩和赵大嘴的。",
+   "new": "叶文轩感觉到0428备份在发光，说：他同情我们，可同情救不了任何人。"
+  },
+  {
+   "path": "chapters/volume-5/chapter-570-polished.md",
+   "line": 157,
+   "old": "0429碎片在赵大嘴的体内发热，0429碎片在确认。这条路是对的。",
+   "new": "碎片又应了一声。这条路是对的，它没再说别的。"
+  }
+ ]
+}
