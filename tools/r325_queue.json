@@ -2,7 +2,7 @@
  "round": "R325",
  "floor": 3000,
  "note": "in-chapter near-duplicates, recosted after every chapter that has been cleared",
- "cost": 9505,
+ "cost": 9120,
  "items": [
   {
    "path": "chapters\\volume-5\\chapter-639-polished.md",
@@ -68,64 +68,6 @@
    "refrain_note": "the 裂缝报告 repeats its frame on purpose: 第42层/十七小时 becomes 第47层/十五小时, and the daughter picture gains \"写了两个字，爸爸\".  A countdown is supposed to repeat."
   },
   {
-   "path": "chapters\\volume-2\\chapter-179-polished.md",
-   "pairs": [
-    [
-     6,
-     30
-    ],
-    [
-     6,
-     130
-    ],
-    [
-     14,
-     38
-    ],
-    [
-     52,
-     160
-    ],
-    [
-     114,
-     140
-    ]
-   ],
-   "cost": 175,
-   "total": 4100,
-   "headroom": 1100,
-   "contiguous": false,
-   "refrain": false
-  },
-  {
-   "path": "chapters\\volume-6\\chapter-777-polished.md",
-   "pairs": [
-    [
-     35,
-     167
-    ],
-    [
-     37,
-     83
-    ],
-    [
-     41,
-     99
-    ],
-    [
-     43,
-     159
-    ]
-   ],
-   "cost": 175,
-   "total": 3278,
-   "headroom": 278,
-   "contiguous": false,
-   "refrain": true,
-   "refrain_kind": "counter",
-   "note": "桥梁系统 82→86→95→100%，女儿的画多出「写了两个字，爸爸」，二十小时倒计时——数字在走，重复即滴答"
-  },
-  {
    "path": "chapters\\volume-5\\chapter-671-polished.md",
    "pairs": [
     [
@@ -151,32 +93,6 @@
    "contiguous": false,
    "refrain": true,
    "refrain_kind": "counter"
-  },
-  {
-   "path": "chapters\\volume-2\\chapter-177-polished.md",
-   "pairs": [
-    [
-     25,
-     43
-    ],
-    [
-     39,
-     87
-    ],
-    [
-     45,
-     99
-    ],
-    [
-     147,
-     174
-    ]
-   ],
-   "cost": 167,
-   "total": 3040,
-   "headroom": 40,
-   "contiguous": false,
-   "refrain": false
   },
   {
    "path": "chapters\\volume-5\\chapter-643-polished.md",
@@ -427,6 +343,30 @@
    "headroom": 767,
    "contiguous": false,
    "refrain": false
+  },
+  {
+   "path": "chapters\\volume-6\\chapter-777-polished.md",
+   "pairs": [
+    [
+     37,
+     83
+    ],
+    [
+     41,
+     99
+    ],
+    [
+     95,
+     103
+    ]
+   ],
+   "cost": 132,
+   "total": 3268,
+   "headroom": 268,
+   "contiguous": false,
+   "refrain": true,
+   "refrain_kind": "counter",
+   "note": "桥梁系统 82→86→95→100%，女儿的画多出「写了两个字，爸爸」，二十小时倒计时——数字在走，重复即滴答"
   },
   {
    "path": "chapters\\volume-5\\chapter-638-polished.md",
