@@ -67,7 +67,8 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r325ab_sites.json', 'tools/r325ac_sites.json',
           'tools/r325ad_sites.json',
           'tools/r325ae_sites.json',
-          'tools/r325af_sites.json']
+          'tools/r325af_sites.json',
+          'tools/r325ag_sites.json', 'tools/r325ah_sites.json']
 
 
 def block_present(new, lines):
@@ -148,6 +149,7 @@ def main():
     bad = 0
     skipped = 0
     superseded = 0
+    crlf_files = []
     order = sorted(by_file.items())
     heads = head_many([p for p, _ in order])
     for path, rs in order:
@@ -295,10 +297,27 @@ def main():
         if crlf not in (0, lf):
             print('MIXED-ENDING %s  crlf=%d lf=%d' % (path, crlf, lf))
             bad += 1
+        elif crlf:
+            # A whole-CRLF file used to sail through: the comparison above is
+            # done in LF space, so line endings never entered it, and this
+            # check only looked for a *mix*.  A chapter could sit in the tree
+            # with every line ending doubled and still be reported
+            # "byte-identical" - the proof quietly stopped meaning what it
+            # said.  Now every all-CRLF file is named, and the summary below
+            # stops claiming byte identity.
+            crlf_files.append(path)
     print('already-applied records skipped: %d' % skipped)
     print('records whose line no longer holds either side: %d' % superseded)
-    print('REPLAY %s: %d/%d files byte-identical'
-          % ('OK' if bad == 0 else 'FAIL', len(by_file) - bad, len(by_file)))
+    if crlf_files:
+        print('all-CRLF files touched: %d  (index is LF, tree is not)'
+              % len(crlf_files))
+        for p in crlf_files[:8]:
+            print('   %s' % p)
+    print('REPLAY %s: %d/%d files %s'
+          % ('OK' if bad == 0 else 'FAIL', len(by_file) - bad, len(by_file),
+             'byte-identical' if not crlf_files
+             else 'text-identical (%d carry CRLF, not byte-identical)'
+                  % len(crlf_files)))
     raise SystemExit(0 if bad == 0 else 1)
 
 
