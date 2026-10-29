@@ -168,7 +168,9 @@
    "total": 3022,
    "headroom": 22,
    "contiguous": false,
-   "refrain": false
+   "refrain": true,
+   "refrain_kind": "countdown",
+   "refrain_note": "the 裂缝报告 repeats its frame on purpose: 第42层/十七小时 becomes 第47层/十五小时, and the daughter picture gains \"写了两个字，爸爸\".  A countdown is supposed to repeat."
   },
   {
    "path": "chapters\\volume-2\\chapter-161-polished.md",
@@ -332,7 +334,8 @@
    "total": 3030,
    "headroom": 30,
    "contiguous": false,
-   "refrain": false
+   "refrain": true,
+   "refrain_kind": "counter"
   },
   {
    "path": "chapters\\volume-2\\chapter-177-polished.md",
@@ -1375,7 +1378,8 @@
    "total": 3195,
    "headroom": 195,
    "contiguous": false,
-   "refrain": false
+   "refrain": true,
+   "refrain_kind": "counter"
   },
   {
    "path": "chapters\\volume-2\\chapter-130-polished.md",
@@ -1651,7 +1655,8 @@
    "total": 9061,
    "headroom": 6061,
    "contiguous": false,
-   "refrain": false
+   "refrain": true,
+   "refrain_kind": "counter"
   },
   {
    "path": "chapters\\volume-6\\chapter-850-polished.md",
@@ -1739,7 +1744,8 @@
    "total": 3025,
    "headroom": 25,
    "contiguous": false,
-   "refrain": false
+   "refrain": true,
+   "refrain_kind": "counter"
   },
   {
    "path": "chapters\\volume-5\\chapter-692-polished.md",

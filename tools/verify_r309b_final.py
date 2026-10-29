@@ -51,7 +51,8 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r324c_sites.json',
           'tools/r325a_sites.json',
           'tools/r325b_sites.json',
-          'tools/r325c_sites.json', 'tools/r325d_sites.json']
+          'tools/r325c_sites.json', 'tools/r325d_sites.json',
+          'tools/r325e_sites.json', 'tools/r325f_sites.json']
 
 
 def head_many(paths):
@@ -133,10 +134,17 @@ def main():
                     lines[j:j + len(old)] = [r['new']]
                 continue
             if r['new'] is None:
-                # A deletion record: the whole paragraph was one stray mark, so
-                # it goes away with one adjacent blank line.  Find it by content,
-                # not by index - the authoring line number is stale once an
-                # earlier record in the same file also deleted a block.
+                # A deletion record: the whole paragraph goes with one adjacent
+                # blank line.  Try the authoring line first -- when the table is
+                # in descending line order no earlier record has moved it, and
+                # the line is the only way to pick one of two identical
+                # paragraphs.  ch765 has three such pairs.  Fall back to content
+                # for the older tables, whose order and numbering are stale.
+                i = r['line'] - 1
+                if (0 < i < len(lines) - 1 and lines[i] == r['old']
+                        and lines[i - 1] == '' and lines[i + 1] == ''):
+                    del lines[i:i + 2]
+                    continue
                 j = next((k for k in range(1, len(lines) - 1)
                           if lines[k] == r['old']
                           and lines[k - 1] == '' and lines[k + 1] == ''), None)
