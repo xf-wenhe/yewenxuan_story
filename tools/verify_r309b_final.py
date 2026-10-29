@@ -52,7 +52,8 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r325a_sites.json',
           'tools/r325b_sites.json',
           'tools/r325c_sites.json', 'tools/r325d_sites.json',
-          'tools/r325e_sites.json', 'tools/r325f_sites.json']
+          'tools/r325e_sites.json', 'tools/r325f_sites.json',
+          'tools/r325g_sites.json', 'tools/r325h_sites.json']
 
 
 def head_many(paths):
@@ -148,7 +149,14 @@ def main():
                 j = next((k for k in range(1, len(lines) - 1)
                           if lines[k] == r['old']
                           and lines[k - 1] == '' and lines[k + 1] == ''), None)
-                if j is None:
+                # An identical paragraph EARLIER in the chapter is not this
+                # record's target: a deletion record is written against the
+                # later of two copies, which is the whole reason it exists.
+                # ch765 keeps three such pairs, and a content search always
+                # finds the copy the record was meant to leave standing.
+                if j is not None and j < i:
+                    skipped += 1      # the twin before it; this record is done
+                elif j is None:
                     skipped += 1      # already gone; the byte check still rules
                 else:
                     del lines[j:j + 2]
