@@ -63,7 +63,26 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r325t_sites.json', 'tools/r325u_sites.json',
           'tools/r325v_sites.json', 'tools/r325w_sites.json',
           'tools/r325x_sites.json', 'tools/r325y_sites.json',
-          'tools/r325z_sites.json', 'tools/r325aa_sites.json']
+          'tools/r325z_sites.json', 'tools/r325aa_sites.json',
+          'tools/r325ab_sites.json', 'tools/r325ac_sites.json',
+          'tools/r325ad_sites.json']
+
+
+def block_present(new, lines):
+    """True when every paragraph of `new` already sits in the file as a line.
+
+    A whole-chapter table writes one 3,000-character block, and the blocks
+    have to be recognised on the second run or they replay on top of
+    themselves.  Contiguous matching is not enough: r325ab then inserted three
+    paragraphs into the middle of ch796's block, which broke the block in two
+    and made the whole table look unapplied.  Paragraph-by-paragraph is the
+    invariant that survives later insertions.
+    """
+    parts = [p for p in new.split('\n\n') if p.strip()]
+    if not parts:
+        return False
+    have = set(lines)
+    return all(p in have for p in parts)
 
 
 def head_many(paths):
@@ -141,7 +160,8 @@ def main():
         # whole-chapter block is already present, the table has been applied --
         # skip all of its records for this file rather than half of them.
         block_table = set(r['_t'] for r in rs
-                          if r['new'] and '\n' in r['new'] and r['new'] in text)
+                          if r['new'] and '\n' in r['new']
+                          and block_present(r['new'], lines))
         # later records were authored against the earlier ones, so keep table order
         for r in rs:
             if r['_t'] in block_table:

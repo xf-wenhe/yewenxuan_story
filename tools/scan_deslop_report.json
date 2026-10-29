@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-29T09:54:53.962Z",
+  "scannedAt": "2026-10-29T09:58:15.418Z",
   "totals": {
     "chapters": 1000,
     "files": 1000,
@@ -53,11 +53,11 @@
     },
     "V6": {
       "chapters": 168,
-      "totalCJK": 639571,
+      "totalCJK": 639645,
       "avgL1": "0.04",
       "avgBlocking": "0.12",
       "avgCliche": "0.03",
-      "avgComposite": "2.87",
+      "avgComposite": "2.86",
       "worst": []
     },
     "V7": {
@@ -2378,33 +2378,6 @@
       "composite": 7.9
     },
     {
-      "vol": "V6",
-      "volDir": "volume-6",
-      "chNum": 795,
-      "cjk": 3028,
-      "l1Hits": 0,
-      "l1Density": "0.00",
-      "blockingTotal": 0,
-      "notIs": 1,
-      "voiceContrast": 0,
-      "negationParade": 0,
-      "emDash": 0,
-      "reverseNotIs": 0,
-      "trailerEnding": 0,
-      "trailerSummary": 0,
-      "crossNeg": 0,
-      "clicheHits": 0,
-      "clicheDensity": "0.00",
-      "metaphorDensity": "0.00",
-      "reasoningDensity": "9.91",
-      "abstractDensity": "0.00",
-      "microActionDensity": "0.00",
-      "dialogDensity": "0",
-      "avgParaSentences": "3.73",
-      "longParas": 2,
-      "composite": 7.9
-    },
-    {
       "vol": "V7",
       "volDir": "volume-7",
       "chNum": 944,
@@ -2834,6 +2807,33 @@
       "dialogDensity": "234.5",
       "avgParaSentences": "5.16",
       "longParas": 1,
+      "composite": 7.4
+    },
+    {
+      "vol": "V6",
+      "volDir": "volume-6",
+      "chNum": 795,
+      "cjk": 3102,
+      "l1Hits": 0,
+      "l1Density": "0.00",
+      "blockingTotal": 0,
+      "notIs": 0,
+      "voiceContrast": 0,
+      "negationParade": 0,
+      "emDash": 0,
+      "reverseNotIs": 0,
+      "trailerEnding": 0,
+      "trailerSummary": 0,
+      "crossNeg": 0,
+      "clicheHits": 0,
+      "clicheDensity": "0.00",
+      "metaphorDensity": "0.00",
+      "reasoningDensity": "8.06",
+      "abstractDensity": "0.00",
+      "microActionDensity": "1.93",
+      "dialogDensity": "7100.0",
+      "avgParaSentences": "2.70",
+      "longParas": 0,
       "composite": 7.4
     },
     {
