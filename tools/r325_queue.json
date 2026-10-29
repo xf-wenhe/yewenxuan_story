@@ -2,7 +2,7 @@
  "round": "R325",
  "floor": 3000,
  "note": "in-chapter near-duplicates, recosted after every chapter that has been cleared",
- "cost": 8331,
+ "cost": 8182,
  "items": [
   {
    "path": "chapters\\volume-5\\chapter-639-polished.md",
@@ -93,24 +93,6 @@
    "contiguous": false,
    "refrain": true,
    "refrain_kind": "counter"
-  },
-  {
-   "path": "chapters\\volume-6\\chapter-797-polished.md",
-   "pairs": [
-    [
-     31,
-     37
-    ],
-    [
-     71,
-     105
-    ]
-   ],
-   "cost": 149,
-   "total": 3741,
-   "headroom": 741,
-   "contiguous": false,
-   "refrain": false
   },
   {
    "path": "chapters\\volume-5\\chapter-663-polished.md",
