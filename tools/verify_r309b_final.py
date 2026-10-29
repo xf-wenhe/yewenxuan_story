@@ -61,7 +61,8 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r325p_sites.json', 'tools/r325q_sites.json',
           'tools/r325r_sites.json', 'tools/r325s_sites.json',
           'tools/r325t_sites.json', 'tools/r325u_sites.json',
-          'tools/r325v_sites.json', 'tools/r325w_sites.json']
+          'tools/r325v_sites.json', 'tools/r325w_sites.json',
+          'tools/r325x_sites.json', 'tools/r325y_sites.json']
 
 
 def head_many(paths):
@@ -153,6 +154,17 @@ def main():
                 if (0 < i < len(lines) - 1 and lines[i] == r['old']
                         and lines[i - 1] == '' and lines[i + 1] == ''):
                     del lines[i:i + 2]
+                    continue
+                if 0 < i < len(lines) and lines[i] == r['old']:
+                    # ch705 L43/L44: two paragraphs that were authored with no
+                    # blank line between them.  Deleting "paragraph plus the
+                    # blank after it" then eats the paragraph below, so a
+                    # neighbour test can never match and both records were
+                    # silently skipped.  When the authoring line holds exactly
+                    # this text, drop the one line and leave the blanks alone;
+                    # the next record up (L43) then finds itself blank-bounded
+                    # and takes the ordinary path.
+                    del lines[i]
                     continue
                 j = next((k for k in range(1, len(lines) - 1)
                           if lines[k] == r['old']
