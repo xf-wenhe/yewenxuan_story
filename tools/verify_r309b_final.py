@@ -63,7 +63,7 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r325t_sites.json', 'tools/r325u_sites.json',
           'tools/r325v_sites.json', 'tools/r325w_sites.json',
           'tools/r325x_sites.json', 'tools/r325y_sites.json',
-          'tools/r325z_sites.json']
+          'tools/r325z_sites.json', 'tools/r325aa_sites.json']
 
 
 def head_many(paths):
@@ -105,13 +105,17 @@ def main():
         if not os.path.exists(fp):
             raise SystemExit('ABORT: missing table ' + t)
         for r in json.load(io.open(fp, encoding='utf-8'))['records']:
+            r = dict(r)
+            # Which table a record came from decides a whole-table question
+            # further down: a table that swaps an entire chapter for one block
+            # must be replayed all-or-nothing, never half.
+            r['_t'] = t
             applied.append(r)
     print('records: %d' % len(applied))
 
     by_file = {}
     for r in applied:
         by_file.setdefault(r['path'], []).append(r)
-
     # A record can be superseded twice over: committed (so HEAD holds its `new`)
     # and then rewritten again by a later table (so HEAD holds neither side).
     # Index every `new` per line to recognise that second case.
@@ -128,8 +132,21 @@ def main():
     for path, rs in order:
         text = heads[path]
         lines = text.split('\n')
+        # Table-level idempotence.  ch654 and ch796 each replace a whole chapter
+        # with one 3,000-character block and generate a deletion record for every
+        # paragraph they overwrote.  Those deletions cannot be idempotent on a
+        # file that already holds the new text: `闭环的核心。` is both an overwritten
+        # paragraph and a paragraph of the rewrite, so on the second run the
+        # deletion removes a line the block had just restored.  When a table's
+        # whole-chapter block is already present, the table has been applied --
+        # skip all of its records for this file rather than half of them.
+        block_table = set(r['_t'] for r in rs
+                          if r['new'] and '\n' in r['new'] and r['new'] in text)
         # later records were authored against the earlier ones, so keep table order
         for r in rs:
+            if r['_t'] in block_table:
+                skipped += 1
+                continue
             i = r['line'] - 1
             if r.get('op') == 'join':
                 # A join record names a whole three-line block (paragraph, blank,
@@ -240,6 +257,15 @@ def main():
         # CRLF; normalising only one side calls that a mismatch.
         if text.replace('\r\n', '\n') != live.replace('\r\n', '\n'):
             print('MISMATCH %s' % path)
+            a, b = text.split('\n'), live.split('\n')
+            for k in range(min(len(a), len(b))):
+                if a[k] != b[k]:
+                    print('  first diff at line %d' % (k + 1))
+                    print('  replay: %r' % a[k][:90])
+                    print('  live  : %r' % b[k][:90])
+                    break
+            else:
+                print('  lengths %d vs %d' % (len(a), len(b)))
             bad += 1
         # The invariant is not "must be CRLF" but "must not end up a mix": a
         # table that inserts `\n\n` into a CRLF file is exactly how that happens.
