@@ -50,7 +50,8 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r324_sites.json',
           'tools/r324c_sites.json',
           'tools/r325a_sites.json',
-          'tools/r325b_sites.json']
+          'tools/r325b_sites.json',
+          'tools/r325c_sites.json', 'tools/r325d_sites.json']
 
 
 def head_many(paths):
