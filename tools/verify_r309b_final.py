@@ -74,7 +74,8 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r326c_sites.json',
           'tools/r326d_sites.json',
           'tools/r326e_sites.json', 'tools/r326f_sites.json',
-          'tools/r326g_sites.json', 'tools/r326h_sites.json']
+          'tools/r326g_sites.json', 'tools/r326h_sites.json',
+          'tools/r327_sites.json', 'tools/r327b_sites.json']
 
 
 def block_present(new, lines):
