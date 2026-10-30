@@ -71,7 +71,10 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r325ag_sites.json', 'tools/r325ah_sites.json',
           'tools/r326a_sites.json',
           'tools/r326b_sites.json',
-          'tools/r326c_sites.json']
+          'tools/r326c_sites.json',
+          'tools/r326d_sites.json',
+          'tools/r326e_sites.json', 'tools/r326f_sites.json',
+          'tools/r326g_sites.json', 'tools/r326h_sites.json']
 
 
 def block_present(new, lines):
@@ -293,6 +296,9 @@ def main():
                 # that swallowed it.  Counted separately from `skipped` so the
                 # number stays visible instead of blending into the total.
                 superseded += 1
+                if os.environ.get('REPLAY_VERBOSE'):
+                    print('  SUPERSEDED %s L%d  [%s]'
+                          % (path, r['line'], r['old'][:28]))
             else:
                 raise SystemExit('ABORT: %s L%d anchor count=%d  [%s]'
                                  % (path, r['line'], n, r['old'][:30]))
