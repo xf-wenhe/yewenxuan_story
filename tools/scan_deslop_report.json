@@ -1,5 +1,5 @@
 {
-  "scannedAt": "2026-10-30T02:34:49.028Z",
+  "scannedAt": "2026-10-30T02:56:09.000Z",
   "totals": {
     "chapters": 1000,
     "files": 1000,
@@ -44,11 +44,11 @@
     },
     "V5": {
       "chapters": 200,
-      "totalCJK": 694241,
+      "totalCJK": 694202,
       "avgL1": "0.09",
       "avgBlocking": "0.59",
       "avgCliche": "0.10",
-      "avgComposite": "4.54",
+      "avgComposite": "4.57",
       "worst": []
     },
     "V6": {
@@ -698,7 +698,7 @@
       "reasoningDensity": "1.31",
       "abstractDensity": "0.00",
       "microActionDensity": "0.33",
-      "dialogDensity": "224.0",
+      "dialogDensity": "215.4",
       "avgParaSentences": "2.18",
       "longParas": 0,
       "composite": 15
@@ -725,7 +725,7 @@
       "reasoningDensity": "1.16",
       "abstractDensity": "0.00",
       "microActionDensity": "1.94",
-      "dialogDensity": "104.8",
+      "dialogDensity": "95.6",
       "avgParaSentences": "3.52",
       "longParas": 0,
       "composite": 14.6
@@ -941,7 +941,7 @@
       "reasoningDensity": "5.12",
       "abstractDensity": "0.00",
       "microActionDensity": "4.26",
-      "dialogDensity": "357.7",
+      "dialogDensity": "258.3",
       "avgParaSentences": "4.52",
       "longParas": 0,
       "composite": 12.2
@@ -968,7 +968,7 @@
       "reasoningDensity": "1.87",
       "abstractDensity": "0.00",
       "microActionDensity": "3.27",
-      "dialogDensity": "123.4",
+      "dialogDensity": "121.5",
       "avgParaSentences": "3.58",
       "longParas": 0,
       "composite": 12.1
@@ -995,7 +995,7 @@
       "reasoningDensity": "1.05",
       "abstractDensity": "0.00",
       "microActionDensity": "3.03",
-      "dialogDensity": "115.2",
+      "dialogDensity": "109.3",
       "avgParaSentences": "3.57",
       "longParas": 0,
       "composite": 12
@@ -1130,7 +1130,7 @@
       "reasoningDensity": "3.27",
       "abstractDensity": "0.00",
       "microActionDensity": "0.65",
-      "dialogDensity": "218.5",
+      "dialogDensity": "178.8",
       "avgParaSentences": "5.20",
       "longParas": 0,
       "composite": 10.8
@@ -1265,7 +1265,7 @@
       "reasoningDensity": "1.53",
       "abstractDensity": "0.00",
       "microActionDensity": "0.31",
-      "dialogDensity": "205.3",
+      "dialogDensity": "185.7",
       "avgParaSentences": "2.89",
       "longParas": 0,
       "composite": 10.4
@@ -1427,7 +1427,7 @@
       "reasoningDensity": "2.75",
       "abstractDensity": "0.00",
       "microActionDensity": "4.22",
-      "dialogDensity": "0",
+      "dialogDensity": "211.3",
       "avgParaSentences": "5.65",
       "longParas": 0,
       "composite": 9.5
@@ -1670,7 +1670,7 @@
       "reasoningDensity": "1.98",
       "abstractDensity": "0.00",
       "microActionDensity": "2.64",
-      "dialogDensity": "800.0",
+      "dialogDensity": "533.3",
       "avgParaSentences": "3.03",
       "longParas": 0,
       "composite": 8.9
@@ -1778,7 +1778,7 @@
       "reasoningDensity": "0.97",
       "abstractDensity": "0.00",
       "microActionDensity": "3.51",
-      "dialogDensity": "158.9",
+      "dialogDensity": "150.8",
       "avgParaSentences": "3.49",
       "longParas": 0,
       "composite": 8.7
@@ -1832,7 +1832,7 @@
       "reasoningDensity": "2.97",
       "abstractDensity": "0.00",
       "microActionDensity": "0.56",
-      "dialogDensity": "119.2",
+      "dialogDensity": "100.0",
       "avgParaSentences": "2.91",
       "longParas": 0,
       "composite": 8.7
@@ -2129,7 +2129,7 @@
       "reasoningDensity": "3.65",
       "abstractDensity": "0.00",
       "microActionDensity": "7.29",
-      "dialogDensity": "233.3",
+      "dialogDensity": "207.4",
       "avgParaSentences": "5.21",
       "longParas": 0,
       "composite": 8.2
@@ -2480,7 +2480,7 @@
       "reasoningDensity": "3.31",
       "abstractDensity": "0.00",
       "microActionDensity": "4.30",
-      "dialogDensity": "189.5",
+      "dialogDensity": "171.4",
       "avgParaSentences": "3.63",
       "longParas": 0,
       "composite": 7.8
@@ -2561,7 +2561,7 @@
       "reasoningDensity": "0.28",
       "abstractDensity": "0.00",
       "microActionDensity": "2.79",
-      "dialogDensity": "125.0",
+      "dialogDensity": "103.9",
       "avgParaSentences": "3.75",
       "longParas": 0,
       "composite": 7.6
@@ -2588,7 +2588,7 @@
       "reasoningDensity": "5.81",
       "abstractDensity": "0.00",
       "microActionDensity": "5.81",
-      "dialogDensity": "0",
+      "dialogDensity": "740.0",
       "avgParaSentences": "6.37",
       "longParas": 0,
       "composite": 7.6
@@ -2669,7 +2669,7 @@
       "reasoningDensity": "1.62",
       "abstractDensity": "0.00",
       "microActionDensity": "2.92",
-      "dialogDensity": "242.3",
+      "dialogDensity": "225.0",
       "avgParaSentences": "3.11",
       "longParas": 0,
       "composite": 7.5
@@ -2777,7 +2777,7 @@
       "reasoningDensity": "4.27",
       "abstractDensity": "0.00",
       "microActionDensity": "4.27",
-      "dialogDensity": "234.5",
+      "dialogDensity": "219.4",
       "avgParaSentences": "5.16",
       "longParas": 1,
       "composite": 7.4
@@ -2858,7 +2858,7 @@
       "reasoningDensity": "1.79",
       "abstractDensity": "0.00",
       "microActionDensity": "5.67",
-      "dialogDensity": "311.8",
+      "dialogDensity": "265.0",
       "avgParaSentences": "5.38",
       "longParas": 1,
       "composite": 7.3
@@ -2966,7 +2966,7 @@
       "reasoningDensity": "2.99",
       "abstractDensity": "0.00",
       "microActionDensity": "2.32",
-      "dialogDensity": "0",
+      "dialogDensity": "278.3",
       "avgParaSentences": "3.62",
       "longParas": 3,
       "composite": 7.2
@@ -3236,7 +3236,7 @@
       "reasoningDensity": "4.31",
       "abstractDensity": "0.00",
       "microActionDensity": "0.72",
-      "dialogDensity": "553.8",
+      "dialogDensity": "480.0",
       "avgParaSentences": "2.84",
       "longParas": 0,
       "composite": 6.8
@@ -3317,7 +3317,7 @@
       "reasoningDensity": "3.56",
       "abstractDensity": "0.00",
       "microActionDensity": "1.62",
-      "dialogDensity": "321.7",
+      "dialogDensity": "255.2",
       "avgParaSentences": "3.06",
       "longParas": 0,
       "composite": 6.7
@@ -3344,7 +3344,7 @@
       "reasoningDensity": "2.33",
       "abstractDensity": "0.00",
       "microActionDensity": "3.66",
-      "dialogDensity": "0",
+      "dialogDensity": "2166.7",
       "avgParaSentences": "3.41",
       "longParas": 0,
       "composite": 6.7
@@ -3452,7 +3452,7 @@
       "reasoningDensity": "4.25",
       "abstractDensity": "0.00",
       "microActionDensity": "0.30",
-      "dialogDensity": "1540.0",
+      "dialogDensity": "641.7",
       "avgParaSentences": "2.98",
       "longParas": 0,
       "composite": 6.6
@@ -3614,7 +3614,7 @@
       "reasoningDensity": "2.61",
       "abstractDensity": "0.00",
       "microActionDensity": "2.61",
-      "dialogDensity": "147.2",
+      "dialogDensity": "143.2",
       "avgParaSentences": "3.64",
       "longParas": 2,
       "composite": 6.4
@@ -3749,7 +3749,7 @@
       "reasoningDensity": "3.05",
       "abstractDensity": "0.00",
       "microActionDensity": "4.57",
-      "dialogDensity": "0",
+      "dialogDensity": "507.7",
       "avgParaSentences": "5.61",
       "longParas": 1,
       "composite": 6.4
@@ -3884,7 +3884,7 @@
       "reasoningDensity": "5.82",
       "abstractDensity": "0.00",
       "microActionDensity": "3.23",
-      "dialogDensity": "0",
+      "dialogDensity": "288.5",
       "avgParaSentences": "5.67",
       "longParas": 0,
       "composite": 6.3
@@ -3911,7 +3911,7 @@
       "reasoningDensity": "3.94",
       "abstractDensity": "0.00",
       "microActionDensity": "0.33",
-      "dialogDensity": "385.7",
+      "dialogDensity": "300.0",
       "avgParaSentences": "3.29",
       "longParas": 0,
       "composite": 6.3
@@ -4127,7 +4127,7 @@
       "reasoningDensity": "4.48",
       "abstractDensity": "0.00",
       "microActionDensity": "1.60",
-      "dialogDensity": "4150.0",
+      "dialogDensity": "197.6",
       "avgParaSentences": "3.46",
       "longParas": 0,
       "composite": 6.1
@@ -4262,7 +4262,7 @@
       "reasoningDensity": "3.84",
       "abstractDensity": "0.00",
       "microActionDensity": "3.39",
-      "dialogDensity": "234.3",
+      "dialogDensity": "227.8",
       "avgParaSentences": "4.68",
       "longParas": 0,
       "composite": 6
@@ -4424,7 +4424,7 @@
       "reasoningDensity": "4.21",
       "abstractDensity": "0.00",
       "microActionDensity": "2.59",
-      "dialogDensity": "473.7",
+      "dialogDensity": "428.6",
       "avgParaSentences": "6.53",
       "longParas": 1,
       "composite": 5.9
@@ -4505,7 +4505,7 @@
       "reasoningDensity": "2.39",
       "abstractDensity": "0.00",
       "microActionDensity": "4.78",
-      "dialogDensity": "208.6",
+      "dialogDensity": "192.1",
       "avgParaSentences": "3.89",
       "longParas": 0,
       "composite": 5.8
@@ -4586,9 +4586,36 @@
       "reasoningDensity": "0.32",
       "abstractDensity": "0.00",
       "microActionDensity": "4.14",
-      "dialogDensity": "0",
+      "dialogDensity": "688.9",
       "avgParaSentences": "5.62",
       "longParas": 1,
+      "composite": 5.8
+    },
+    {
+      "vol": "V5",
+      "volDir": "volume-5",
+      "chNum": 672,
+      "cjk": 3019,
+      "l1Hits": 0,
+      "l1Density": "0.00",
+      "blockingTotal": 1,
+      "notIs": 6,
+      "voiceContrast": 0,
+      "negationParade": 0,
+      "emDash": 0,
+      "reverseNotIs": 1,
+      "trailerEnding": 0,
+      "trailerSummary": 0,
+      "crossNeg": 0,
+      "clicheHits": 0,
+      "clicheDensity": "0.00",
+      "metaphorDensity": "0.00",
+      "reasoningDensity": "0.66",
+      "abstractDensity": "0.00",
+      "microActionDensity": "4.64",
+      "dialogDensity": "6700.0",
+      "avgParaSentences": "3.67",
+      "longParas": 0,
       "composite": 5.8
     },
     {
@@ -4748,7 +4775,7 @@
       "reasoningDensity": "2.89",
       "abstractDensity": "0.00",
       "microActionDensity": "3.21",
-      "dialogDensity": "176.5",
+      "dialogDensity": "166.7",
       "avgParaSentences": "5.10",
       "longParas": 0,
       "composite": 5.7
@@ -4802,7 +4829,7 @@
       "reasoningDensity": "0.66",
       "abstractDensity": "0.00",
       "microActionDensity": "2.99",
-      "dialogDensity": "0",
+      "dialogDensity": "363.6",
       "avgParaSentences": "5.70",
       "longParas": 0,
       "composite": 5.7
@@ -4829,7 +4856,7 @@
       "reasoningDensity": "1.31",
       "abstractDensity": "0.00",
       "microActionDensity": "5.58",
-      "dialogDensity": "0",
+      "dialogDensity": "192.6",
       "avgParaSentences": "5.45",
       "longParas": 0,
       "composite": 5.7
@@ -4856,7 +4883,7 @@
       "reasoningDensity": "3.37",
       "abstractDensity": "0.00",
       "microActionDensity": "3.89",
-      "dialogDensity": "0",
+      "dialogDensity": "225.0",
       "avgParaSentences": "5.41",
       "longParas": 0,
       "composite": 5.7
@@ -4883,7 +4910,7 @@
       "reasoningDensity": "2.31",
       "abstractDensity": "0.00",
       "microActionDensity": "1.65",
-      "dialogDensity": "646.2",
+      "dialogDensity": "442.1",
       "avgParaSentences": "2.99",
       "longParas": 0,
       "composite": 5.7
@@ -4964,7 +4991,7 @@
       "reasoningDensity": "2.74",
       "abstractDensity": "0.00",
       "microActionDensity": "0.98",
-      "dialogDensity": "144.8",
+      "dialogDensity": "136.6",
       "avgParaSentences": "3.06",
       "longParas": 0,
       "composite": 5.7
@@ -5072,7 +5099,7 @@
       "reasoningDensity": "2.65",
       "abstractDensity": "0.00",
       "microActionDensity": "3.31",
-      "dialogDensity": "0",
+      "dialogDensity": "274.1",
       "avgParaSentences": "6.53",
       "longParas": 1,
       "composite": 5.6
@@ -5099,7 +5126,7 @@
       "reasoningDensity": "2.65",
       "abstractDensity": "0.00",
       "microActionDensity": "3.98",
-      "dialogDensity": "0",
+      "dialogDensity": "409.1",
       "avgParaSentences": "6.49",
       "longParas": 0,
       "composite": 5.6
@@ -5126,7 +5153,7 @@
       "reasoningDensity": "4.30",
       "abstractDensity": "0.00",
       "microActionDensity": "4.30",
-      "dialogDensity": "186.6",
+      "dialogDensity": "177.9",
       "avgParaSentences": "4.34",
       "longParas": 0,
       "composite": 5.6
@@ -5153,7 +5180,7 @@
       "reasoningDensity": "2.27",
       "abstractDensity": "0.00",
       "microActionDensity": "1.62",
-      "dialogDensity": "2500.0",
+      "dialogDensity": "1666.7",
       "avgParaSentences": "3.22",
       "longParas": 0,
       "composite": 5.6
@@ -5423,7 +5450,7 @@
       "reasoningDensity": "1.27",
       "abstractDensity": "0.00",
       "microActionDensity": "2.78",
-      "dialogDensity": "208.3",
+      "dialogDensity": "170.5",
       "avgParaSentences": "3.57",
       "longParas": 0,
       "composite": 5.4
@@ -5504,7 +5531,7 @@
       "reasoningDensity": "0.32",
       "abstractDensity": "0.00",
       "microActionDensity": "3.18",
-      "dialogDensity": "0",
+      "dialogDensity": "914.3",
       "avgParaSentences": "5.63",
       "longParas": 0,
       "composite": 5.4
@@ -5531,7 +5558,7 @@
       "reasoningDensity": "3.27",
       "abstractDensity": "0.00",
       "microActionDensity": "2.95",
-      "dialogDensity": "0",
+      "dialogDensity": "151.7",
       "avgParaSentences": "4.83",
       "longParas": 0,
       "composite": 5.4
@@ -5558,7 +5585,7 @@
       "reasoningDensity": "2.41",
       "abstractDensity": "0.00",
       "microActionDensity": "0.97",
-      "dialogDensity": "128.6",
+      "dialogDensity": "120.6",
       "avgParaSentences": "3.12",
       "longParas": 0,
       "composite": 5.4
@@ -5774,7 +5801,7 @@
       "reasoningDensity": "1.96",
       "abstractDensity": "0.00",
       "microActionDensity": "3.93",
-      "dialogDensity": "292.0",
+      "dialogDensity": "260.7",
       "avgParaSentences": "5.13",
       "longParas": 0,
       "composite": 5.3
@@ -5801,7 +5828,7 @@
       "reasoningDensity": "2.17",
       "abstractDensity": "0.00",
       "microActionDensity": "3.37",
-      "dialogDensity": "259.1",
+      "dialogDensity": "232.7",
       "avgParaSentences": "5.41",
       "longParas": 0,
       "composite": 5.3
@@ -6017,7 +6044,7 @@
       "reasoningDensity": "5.79",
       "abstractDensity": "0.00",
       "microActionDensity": "1.05",
-      "dialogDensity": "280.6",
+      "dialogDensity": "271.9",
       "avgParaSentences": "4.27",
       "longParas": 0,
       "composite": 5.2
@@ -6044,7 +6071,7 @@
       "reasoningDensity": "1.29",
       "abstractDensity": "0.00",
       "microActionDensity": "1.29",
-      "dialogDensity": "0",
+      "dialogDensity": "171.4",
       "avgParaSentences": "3.99",
       "longParas": 0,
       "composite": 5.2
@@ -6071,7 +6098,7 @@
       "reasoningDensity": "1.46",
       "abstractDensity": "0.00",
       "microActionDensity": "2.01",
-      "dialogDensity": "240.0",
+      "dialogDensity": "235.3",
       "avgParaSentences": "2.93",
       "longParas": 0,
       "composite": 5.2
@@ -6260,7 +6287,7 @@
       "reasoningDensity": "0.61",
       "abstractDensity": "0.00",
       "microActionDensity": "2.45",
-      "dialogDensity": "271.4",
+      "dialogDensity": "253.3",
       "avgParaSentences": "5.12",
       "longParas": 1,
       "composite": 5.1
@@ -6503,7 +6530,7 @@
       "reasoningDensity": "0.64",
       "abstractDensity": "0.00",
       "microActionDensity": "1.93",
-      "dialogDensity": "0",
+      "dialogDensity": "247.6",
       "avgParaSentences": "4.88",
       "longParas": 0,
       "composite": 5
@@ -6530,7 +6557,7 @@
       "reasoningDensity": "4.49",
       "abstractDensity": "0.00",
       "microActionDensity": "2.81",
-      "dialogDensity": "275.0",
+      "dialogDensity": "235.7",
       "avgParaSentences": "5.20",
       "longParas": 0,
       "composite": 5
@@ -6773,7 +6800,7 @@
       "reasoningDensity": "2.53",
       "abstractDensity": "0.00",
       "microActionDensity": "3.22",
-      "dialogDensity": "268.0",
+      "dialogDensity": "257.7",
       "avgParaSentences": "5.14",
       "longParas": 1,
       "composite": 4.9
@@ -6800,7 +6827,7 @@
       "reasoningDensity": "2.59",
       "abstractDensity": "0.00",
       "microActionDensity": "3.80",
-      "dialogDensity": "264.4",
+      "dialogDensity": "242.9",
       "avgParaSentences": "5.15",
       "longParas": 0,
       "composite": 4.9
@@ -6854,7 +6881,7 @@
       "reasoningDensity": "2.23",
       "abstractDensity": "0.00",
       "microActionDensity": "3.80",
-      "dialogDensity": "221.5",
+      "dialogDensity": "205.7",
       "avgParaSentences": "6.08",
       "longParas": 1,
       "composite": 4.9
@@ -6881,7 +6908,7 @@
       "reasoningDensity": "3.67",
       "abstractDensity": "0.00",
       "microActionDensity": "3.90",
-      "dialogDensity": "0",
+      "dialogDensity": "176.5",
       "avgParaSentences": "5.98",
       "longParas": 0,
       "composite": 4.9
@@ -6989,7 +7016,7 @@
       "reasoningDensity": "1.40",
       "abstractDensity": "0.00",
       "microActionDensity": "1.40",
-      "dialogDensity": "93.8",
+      "dialogDensity": "85.7",
       "avgParaSentences": "3.51",
       "longParas": 0,
       "composite": 4.8
@@ -7016,7 +7043,7 @@
       "reasoningDensity": "0.59",
       "abstractDensity": "0.00",
       "microActionDensity": "2.65",
-      "dialogDensity": "122.2",
+      "dialogDensity": "115.8",
       "avgParaSentences": "3.48",
       "longParas": 0,
       "composite": 4.8
@@ -7151,7 +7178,7 @@
       "reasoningDensity": "3.03",
       "abstractDensity": "0.00",
       "microActionDensity": "4.66",
-      "dialogDensity": "4900.0",
+      "dialogDensity": "227.9",
       "avgParaSentences": "5.71",
       "longParas": 0,
       "composite": 4.8
@@ -7178,7 +7205,7 @@
       "reasoningDensity": "2.17",
       "abstractDensity": "0.00",
       "microActionDensity": "2.79",
-      "dialogDensity": "0",
+      "dialogDensity": "353.3",
       "avgParaSentences": "5.94",
       "longParas": 1,
       "composite": 4.8
@@ -7205,7 +7232,7 @@
       "reasoningDensity": "3.57",
       "abstractDensity": "0.00",
       "microActionDensity": "3.90",
-      "dialogDensity": "0",
+      "dialogDensity": "387.5",
       "avgParaSentences": "6.72",
       "longParas": 0,
       "composite": 4.8
@@ -7421,7 +7448,7 @@
       "reasoningDensity": "2.74",
       "abstractDensity": "0.00",
       "microActionDensity": "3.65",
-      "dialogDensity": "8200.0",
+      "dialogDensity": "400.0",
       "avgParaSentences": "6.44",
       "longParas": 5,
       "composite": 4.7
@@ -7637,7 +7664,7 @@
       "reasoningDensity": "0.96",
       "abstractDensity": "0.00",
       "microActionDensity": "1.61",
-      "dialogDensity": "1100.0",
+      "dialogDensity": "880.0",
       "avgParaSentences": "4.23",
       "longParas": 3,
       "composite": 4.6
@@ -7691,7 +7718,7 @@
       "reasoningDensity": "2.94",
       "abstractDensity": "0.00",
       "microActionDensity": "2.03",
-      "dialogDensity": "459.3",
+      "dialogDensity": "442.9",
       "avgParaSentences": "4.12",
       "longParas": 0,
       "composite": 4.6
@@ -7826,7 +7853,7 @@
       "reasoningDensity": "3.49",
       "abstractDensity": "0.00",
       "microActionDensity": "3.49",
-      "dialogDensity": "293.3",
+      "dialogDensity": "244.4",
       "avgParaSentences": "5.90",
       "longParas": 1,
       "composite": 4.5
@@ -7853,7 +7880,7 @@
       "reasoningDensity": "2.25",
       "abstractDensity": "0.00",
       "microActionDensity": "5.39",
-      "dialogDensity": "321.9",
+      "dialogDensity": "302.9",
       "avgParaSentences": "5.39",
       "longParas": 0,
       "composite": 4.5
@@ -7880,7 +7907,7 @@
       "reasoningDensity": "3.59",
       "abstractDensity": "0.00",
       "microActionDensity": "2.02",
-      "dialogDensity": "246.3",
+      "dialogDensity": "237.6",
       "avgParaSentences": "5.69",
       "longParas": 1,
       "composite": 4.5
@@ -7934,7 +7961,7 @@
       "reasoningDensity": "4.42",
       "abstractDensity": "0.00",
       "microActionDensity": "1.98",
-      "dialogDensity": "1266.7",
+      "dialogDensity": "345.5",
       "avgParaSentences": "3.31",
       "longParas": 0,
       "composite": 4.5
@@ -7961,7 +7988,7 @@
       "reasoningDensity": "2.57",
       "abstractDensity": "0.00",
       "microActionDensity": "3.04",
-      "dialogDensity": "182.0",
+      "dialogDensity": "178.4",
       "avgParaSentences": "3.18",
       "longParas": 0,
       "composite": 4.5
@@ -7988,7 +8015,7 @@
       "reasoningDensity": "2.63",
       "abstractDensity": "0.00",
       "microActionDensity": "2.19",
-      "dialogDensity": "264.3",
+      "dialogDensity": "258.1",
       "avgParaSentences": "2.78",
       "longParas": 0,
       "composite": 4.4
@@ -8015,7 +8042,7 @@
       "reasoningDensity": "2.76",
       "abstractDensity": "0.00",
       "microActionDensity": "4.29",
-      "dialogDensity": "228.1",
+      "dialogDensity": "214.7",
       "avgParaSentences": "3.59",
       "longParas": 0,
       "composite": 4.4
@@ -8150,7 +8177,7 @@
       "reasoningDensity": "1.74",
       "abstractDensity": "0.00",
       "microActionDensity": "2.90",
-      "dialogDensity": "0",
+      "dialogDensity": "494.7",
       "avgParaSentences": "7.13",
       "longParas": 1,
       "composite": 4.4
@@ -8177,7 +8204,7 @@
       "reasoningDensity": "2.62",
       "abstractDensity": "0.00",
       "microActionDensity": "4.59",
-      "dialogDensity": "0",
+      "dialogDensity": "394.1",
       "avgParaSentences": "6.20",
       "longParas": 0,
       "composite": 4.4
@@ -8204,7 +8231,7 @@
       "reasoningDensity": "3.24",
       "abstractDensity": "0.00",
       "microActionDensity": "3.64",
-      "dialogDensity": "0",
+      "dialogDensity": "201.7",
       "avgParaSentences": "6.46",
       "longParas": 0,
       "composite": 4.4
@@ -8771,7 +8798,7 @@
       "reasoningDensity": "2.21",
       "abstractDensity": "0.00",
       "microActionDensity": "1.26",
-      "dialogDensity": "0",
+      "dialogDensity": "472.7",
       "avgParaSentences": "6.54",
       "longParas": 3,
       "composite": 4.2
@@ -8798,7 +8825,7 @@
       "reasoningDensity": "0.94",
       "abstractDensity": "0.00",
       "microActionDensity": "6.92",
-      "dialogDensity": "0",
+      "dialogDensity": "360.0",
       "avgParaSentences": "5.34",
       "longParas": 1,
       "composite": 4.2
@@ -8852,7 +8879,7 @@
       "reasoningDensity": "4.25",
       "abstractDensity": "0.00",
       "microActionDensity": "1.64",
-      "dialogDensity": "0",
+      "dialogDensity": "4300.0",
       "avgParaSentences": "6.64",
       "longParas": 0,
       "composite": 4.2
@@ -8879,7 +8906,7 @@
       "reasoningDensity": "2.55",
       "abstractDensity": "0.00",
       "microActionDensity": "2.55",
-      "dialogDensity": "0",
+      "dialogDensity": "202.4",
       "avgParaSentences": "6.70",
       "longParas": 1,
       "composite": 4.2
@@ -8906,7 +8933,7 @@
       "reasoningDensity": "2.25",
       "abstractDensity": "0.00",
       "microActionDensity": "2.14",
-      "dialogDensity": "545.2",
+      "dialogDensity": "281.7",
       "avgParaSentences": "3.32",
       "longParas": 0,
       "composite": 4.2
@@ -9149,7 +9176,7 @@
       "reasoningDensity": "0.00",
       "abstractDensity": "0.00",
       "microActionDensity": "2.27",
-      "dialogDensity": "81.8",
+      "dialogDensity": "73.5",
       "avgParaSentences": "3.66",
       "longParas": 0,
       "composite": 4.1
@@ -9365,7 +9392,7 @@
       "reasoningDensity": "2.93",
       "abstractDensity": "0.00",
       "microActionDensity": "3.58",
-      "dialogDensity": "728.6",
+      "dialogDensity": "637.5",
       "avgParaSentences": "6.04",
       "longParas": 2,
       "composite": 4.1
@@ -9392,7 +9419,7 @@
       "reasoningDensity": "2.00",
       "abstractDensity": "0.00",
       "microActionDensity": "1.33",
-      "dialogDensity": "525.0",
+      "dialogDensity": "420.0",
       "avgParaSentences": "4.98",
       "longParas": 4,
       "composite": 4.1
@@ -9473,7 +9500,7 @@
       "reasoningDensity": "2.31",
       "abstractDensity": "0.00",
       "microActionDensity": "4.30",
-      "dialogDensity": "207.3",
+      "dialogDensity": "197.7",
       "avgParaSentences": "4.60",
       "longParas": 0,
       "composite": 4
@@ -9581,7 +9608,7 @@
       "reasoningDensity": "3.31",
       "abstractDensity": "0.00",
       "microActionDensity": "2.65",
-      "dialogDensity": "0",
+      "dialogDensity": "900.0",
       "avgParaSentences": "5.50",
       "longParas": 1,
       "composite": 4
@@ -9635,7 +9662,7 @@
       "reasoningDensity": "2.05",
       "abstractDensity": "0.00",
       "microActionDensity": "1.79",
-      "dialogDensity": "0",
+      "dialogDensity": "220.0",
       "avgParaSentences": "5.67",
       "longParas": 1,
       "composite": 4
@@ -10256,7 +10283,7 @@
       "reasoningDensity": "3.70",
       "abstractDensity": "0.00",
       "microActionDensity": "1.62",
-      "dialogDensity": "137.1",
+      "dialogDensity": "128.0",
       "avgParaSentences": "4.22",
       "longParas": 0,
       "composite": 3.8
@@ -10391,7 +10418,7 @@
       "reasoningDensity": "3.30",
       "abstractDensity": "0.00",
       "microActionDensity": "2.31",
-      "dialogDensity": "437.5",
+      "dialogDensity": "350.0",
       "avgParaSentences": "2.81",
       "longParas": 0,
       "composite": 3.8
@@ -10499,7 +10526,7 @@
       "reasoningDensity": "1.00",
       "abstractDensity": "0.00",
       "microActionDensity": "2.33",
-      "dialogDensity": "0",
+      "dialogDensity": "200.0",
       "avgParaSentences": "3.74",
       "longParas": 0,
       "composite": 3.8
@@ -10553,7 +10580,7 @@
       "reasoningDensity": "1.44",
       "abstractDensity": "0.00",
       "microActionDensity": "0.44",
-      "dialogDensity": "197.0",
+      "dialogDensity": "191.3",
       "avgParaSentences": "3.53",
       "longParas": 0,
       "composite": 3.8
@@ -10850,7 +10877,7 @@
       "reasoningDensity": "3.64",
       "abstractDensity": "0.00",
       "microActionDensity": "1.65",
-      "dialogDensity": "0",
+      "dialogDensity": "800.0",
       "avgParaSentences": "5.58",
       "longParas": 2,
       "composite": 3.7
@@ -10877,7 +10904,7 @@
       "reasoningDensity": "1.64",
       "abstractDensity": "0.00",
       "microActionDensity": "2.34",
-      "dialogDensity": "0",
+      "dialogDensity": "642.9",
       "avgParaSentences": "5.24",
       "longParas": 1,
       "composite": 3.7
@@ -11147,7 +11174,7 @@
       "reasoningDensity": "2.17",
       "abstractDensity": "0.00",
       "microActionDensity": "4.02",
-      "dialogDensity": "73.8",
+      "dialogDensity": "66.7",
       "avgParaSentences": "2.50",
       "longParas": 0,
       "composite": 3.7
@@ -11228,7 +11255,7 @@
       "reasoningDensity": "4.05",
       "abstractDensity": "0.00",
       "microActionDensity": "0.68",
-      "dialogDensity": "158.2",
+      "dialogDensity": "149.3",
       "avgParaSentences": "4.42",
       "longParas": 0,
       "composite": 3.6
@@ -11471,7 +11498,7 @@
       "reasoningDensity": "1.37",
       "abstractDensity": "0.00",
       "microActionDensity": "5.02",
-      "dialogDensity": "306.3",
+      "dialogDensity": "233.3",
       "avgParaSentences": "5.42",
       "longParas": 1,
       "composite": 3.6
@@ -11876,7 +11903,7 @@
       "reasoningDensity": "3.05",
       "abstractDensity": "0.00",
       "microActionDensity": "2.03",
-      "dialogDensity": "295.8",
+      "dialogDensity": "221.9",
       "avgParaSentences": "6.60",
       "longParas": 0,
       "composite": 3.5
@@ -11903,7 +11930,7 @@
       "reasoningDensity": "0.63",
       "abstractDensity": "0.00",
       "microActionDensity": "2.51",
-      "dialogDensity": "0",
+      "dialogDensity": "507.7",
       "avgParaSentences": "6.14",
       "longParas": 3,
       "composite": 3.5
@@ -11957,7 +11984,7 @@
       "reasoningDensity": "1.23",
       "abstractDensity": "0.00",
       "microActionDensity": "1.53",
-      "dialogDensity": "575.0",
+      "dialogDensity": "530.8",
       "avgParaSentences": "2.65",
       "longParas": 0,
       "composite": 3.5
@@ -12389,7 +12416,7 @@
       "reasoningDensity": "0.32",
       "abstractDensity": "0.00",
       "microActionDensity": "2.85",
-      "dialogDensity": "3250.0",
+      "dialogDensity": "2166.7",
       "avgParaSentences": "6.36",
       "longParas": 0,
       "composite": 3.4
@@ -12416,7 +12443,7 @@
       "reasoningDensity": "3.00",
       "abstractDensity": "0.00",
       "microActionDensity": "2.00",
-      "dialogDensity": "0",
+      "dialogDensity": "642.9",
       "avgParaSentences": "5.54",
       "longParas": 0,
       "composite": 3.4
@@ -12443,7 +12470,7 @@
       "reasoningDensity": "2.52",
       "abstractDensity": "0.00",
       "microActionDensity": "2.84",
-      "dialogDensity": "0",
+      "dialogDensity": "500.0",
       "avgParaSentences": "4.86",
       "longParas": 0,
       "composite": 3.4
@@ -12713,7 +12740,7 @@
       "reasoningDensity": "2.51",
       "abstractDensity": "0.00",
       "microActionDensity": "2.83",
-      "dialogDensity": "179.6",
+      "dialogDensity": "176.0",
       "avgParaSentences": "4.11",
       "longParas": 0,
       "composite": 3.4
@@ -12875,7 +12902,7 @@
       "reasoningDensity": "4.01",
       "abstractDensity": "0.00",
       "microActionDensity": "0.27",
-      "dialogDensity": "114.8",
+      "dialogDensity": "97.2",
       "avgParaSentences": "3.98",
       "longParas": 0,
       "composite": 3.3
@@ -12902,7 +12929,7 @@
       "reasoningDensity": "0.65",
       "abstractDensity": "0.00",
       "microActionDensity": "5.52",
-      "dialogDensity": "144.1",
+      "dialogDensity": "139.3",
       "avgParaSentences": "4.27",
       "longParas": 0,
       "composite": 3.3
@@ -12956,7 +12983,7 @@
       "reasoningDensity": "2.11",
       "abstractDensity": "0.00",
       "microActionDensity": "3.32",
-      "dialogDensity": "191.9",
+      "dialogDensity": "182.1",
       "avgParaSentences": "3.73",
       "longParas": 0,
       "composite": 3.3
@@ -12983,7 +13010,7 @@
       "reasoningDensity": "1.96",
       "abstractDensity": "0.00",
       "microActionDensity": "3.43",
-      "dialogDensity": "175.5",
+      "dialogDensity": "165.4",
       "avgParaSentences": "3.47",
       "longParas": 0,
       "composite": 3.3
@@ -13010,7 +13037,7 @@
       "reasoningDensity": "2.63",
       "abstractDensity": "0.00",
       "microActionDensity": "2.30",
-      "dialogDensity": "164.7",
+      "dialogDensity": "155.6",
       "avgParaSentences": "3.74",
       "longParas": 0,
       "composite": 3.3
@@ -13037,7 +13064,7 @@
       "reasoningDensity": "0.00",
       "abstractDensity": "0.00",
       "microActionDensity": "0.66",
-      "dialogDensity": "63.6",
+      "dialogDensity": "60.9",
       "avgParaSentences": "4.07",
       "longParas": 0,
       "composite": 3.3
@@ -13118,7 +13145,7 @@
       "reasoningDensity": "1.91",
       "abstractDensity": "0.00",
       "microActionDensity": "3.51",
-      "dialogDensity": "516.7",
+      "dialogDensity": "310.0",
       "avgParaSentences": "6.74",
       "longParas": 0,
       "composite": 3.3
@@ -13172,7 +13199,7 @@
       "reasoningDensity": "1.88",
       "abstractDensity": "0.00",
       "microActionDensity": "2.82",
-      "dialogDensity": "0",
+      "dialogDensity": "234.6",
       "avgParaSentences": "5.98",
       "longParas": 3,
       "composite": 3.3
@@ -13415,7 +13442,7 @@
       "reasoningDensity": "1.32",
       "abstractDensity": "0.00",
       "microActionDensity": "4.30",
-      "dialogDensity": "183.3",
+      "dialogDensity": "171.9",
       "avgParaSentences": "3.41",
       "longParas": 0,
       "composite": 3.2
@@ -13523,7 +13550,7 @@
       "reasoningDensity": "1.75",
       "abstractDensity": "0.00",
       "microActionDensity": "3.50",
-      "dialogDensity": "348.6",
+      "dialogDensity": "330.8",
       "avgParaSentences": "7.32",
       "longParas": 0,
       "composite": 3.2
@@ -13550,7 +13577,7 @@
       "reasoningDensity": "0.66",
       "abstractDensity": "0.00",
       "microActionDensity": "5.31",
-      "dialogDensity": "380.0",
+      "dialogDensity": "253.3",
       "avgParaSentences": "5.81",
       "longParas": 0,
       "composite": 3.2
@@ -13631,7 +13658,7 @@
       "reasoningDensity": "2.97",
       "abstractDensity": "0.00",
       "microActionDensity": "1.65",
-      "dialogDensity": "0",
+      "dialogDensity": "292.9",
       "avgParaSentences": "5.69",
       "longParas": 0,
       "composite": 3.2
@@ -13712,7 +13739,7 @@
       "reasoningDensity": "3.33",
       "abstractDensity": "0.00",
       "microActionDensity": "1.00",
-      "dialogDensity": "341.2",
+      "dialogDensity": "290.0",
       "avgParaSentences": "3.15",
       "longParas": 0,
       "composite": 3.2
@@ -14225,7 +14252,7 @@
       "reasoningDensity": "2.64",
       "abstractDensity": "0.00",
       "microActionDensity": "1.98",
-      "dialogDensity": "0",
+      "dialogDensity": "425.0",
       "avgParaSentences": "5.66",
       "longParas": 0,
       "composite": 3.1
@@ -14252,7 +14279,7 @@
       "reasoningDensity": "1.00",
       "abstractDensity": "0.00",
       "microActionDensity": "4.65",
-      "dialogDensity": "0",
+      "dialogDensity": "204.2",
       "avgParaSentences": "4.78",
       "longParas": 0,
       "composite": 3.1
@@ -14630,7 +14657,7 @@
       "reasoningDensity": "0.67",
       "abstractDensity": "0.00",
       "microActionDensity": "1.33",
-      "dialogDensity": "4600.0",
+      "dialogDensity": "270.6",
       "avgParaSentences": "5.34",
       "longParas": 0,
       "composite": 3
@@ -14657,7 +14684,7 @@
       "reasoningDensity": "2.32",
       "abstractDensity": "0.00",
       "microActionDensity": "2.32",
-      "dialogDensity": "300.0",
+      "dialogDensity": "287.0",
       "avgParaSentences": "3.34",
       "longParas": 0,
       "composite": 3
@@ -14684,7 +14711,7 @@
       "reasoningDensity": "2.17",
       "abstractDensity": "0.00",
       "microActionDensity": "2.48",
-      "dialogDensity": "850.0",
+      "dialogDensity": "772.7",
       "avgParaSentences": "3.27",
       "longParas": 0,
       "composite": 3
@@ -14846,7 +14873,7 @@
       "reasoningDensity": "1.65",
       "abstractDensity": "0.00",
       "microActionDensity": "3.29",
-      "dialogDensity": "149.0",
+      "dialogDensity": "146.0",
       "avgParaSentences": "3.71",
       "longParas": 0,
       "composite": 3
@@ -14927,7 +14954,7 @@
       "reasoningDensity": "2.57",
       "abstractDensity": "0.00",
       "microActionDensity": "1.61",
-      "dialogDensity": "157.6",
+      "dialogDensity": "152.9",
       "avgParaSentences": "5.27",
       "longParas": 1,
       "composite": 2.9
@@ -14954,7 +14981,7 @@
       "reasoningDensity": "2.58",
       "abstractDensity": "0.00",
       "microActionDensity": "1.61",
-      "dialogDensity": "128.9",
+      "dialogDensity": "119.5",
       "avgParaSentences": "4.85",
       "longParas": 0,
       "composite": 2.9
@@ -15116,7 +15143,7 @@
       "reasoningDensity": "0.83",
       "abstractDensity": "0.00",
       "microActionDensity": "2.64",
-      "dialogDensity": "170.6",
+      "dialogDensity": "161.1",
       "avgParaSentences": "5.87",
       "longParas": 0,
       "composite": 2.9
@@ -15872,7 +15899,7 @@
       "reasoningDensity": "0.89",
       "abstractDensity": "0.00",
       "microActionDensity": "3.25",
-      "dialogDensity": "0",
+      "dialogDensity": "1400.0",
       "avgParaSentences": "4.91",
       "longParas": 0,
       "composite": 2.8
@@ -15899,7 +15926,7 @@
       "reasoningDensity": "1.65",
       "abstractDensity": "0.00",
       "microActionDensity": "2.97",
-      "dialogDensity": "0",
+      "dialogDensity": "800.0",
       "avgParaSentences": "5.45",
       "longParas": 1,
       "composite": 2.8
@@ -15926,7 +15953,7 @@
       "reasoningDensity": "1.63",
       "abstractDensity": "0.00",
       "microActionDensity": "2.94",
-      "dialogDensity": "0",
+      "dialogDensity": "2300.0",
       "avgParaSentences": "5.60",
       "longParas": 0,
       "composite": 2.8
@@ -15953,7 +15980,7 @@
       "reasoningDensity": "1.93",
       "abstractDensity": "0.00",
       "microActionDensity": "2.57",
-      "dialogDensity": "257.9",
+      "dialogDensity": "233.3",
       "avgParaSentences": "4.22",
       "longParas": 0,
       "composite": 2.8
@@ -16142,7 +16169,7 @@
       "reasoningDensity": "1.62",
       "abstractDensity": "0.00",
       "microActionDensity": "2.92",
-      "dialogDensity": "141.3",
+      "dialogDensity": "127.5",
       "avgParaSentences": "2.59",
       "longParas": 0,
       "composite": 2.8
@@ -16439,7 +16466,7 @@
       "reasoningDensity": "0.62",
       "abstractDensity": "0.00",
       "microActionDensity": "4.34",
-      "dialogDensity": "328.6",
+      "dialogDensity": "255.6",
       "avgParaSentences": "5.94",
       "longParas": 0,
       "composite": 2.7
@@ -16520,7 +16547,7 @@
       "reasoningDensity": "1.22",
       "abstractDensity": "0.00",
       "microActionDensity": "3.36",
-      "dialogDensity": "0",
+      "dialogDensity": "528.6",
       "avgParaSentences": "6.00",
       "longParas": 1,
       "composite": 2.7
@@ -16547,7 +16574,7 @@
       "reasoningDensity": "1.59",
       "abstractDensity": "0.00",
       "microActionDensity": "2.87",
-      "dialogDensity": "5300.0",
+      "dialogDensity": "240.9",
       "avgParaSentences": "5.91",
       "longParas": 1,
       "composite": 2.7
@@ -16601,7 +16628,7 @@
       "reasoningDensity": "2.32",
       "abstractDensity": "0.00",
       "microActionDensity": "1.66",
-      "dialogDensity": "250.0",
+      "dialogDensity": "176.5",
       "avgParaSentences": "4.20",
       "longParas": 5,
       "composite": 2.7
@@ -16952,7 +16979,7 @@
       "reasoningDensity": "1.26",
       "abstractDensity": "0.00",
       "microActionDensity": "3.16",
-      "dialogDensity": "286.7",
+      "dialogDensity": "268.8",
       "avgParaSentences": "3.36",
       "longParas": 0,
       "composite": 2.6
@@ -17195,7 +17222,7 @@
       "reasoningDensity": "1.06",
       "abstractDensity": "0.00",
       "microActionDensity": "3.45",
-      "dialogDensity": "0",
+      "dialogDensity": "123.1",
       "avgParaSentences": "5.15",
       "longParas": 0,
       "composite": 2.6
@@ -17222,7 +17249,7 @@
       "reasoningDensity": "3.09",
       "abstractDensity": "0.00",
       "microActionDensity": "0.31",
-      "dialogDensity": "766.7",
+      "dialogDensity": "460.0",
       "avgParaSentences": "2.84",
       "longParas": 0,
       "composite": 2.6
@@ -17276,7 +17303,7 @@
       "reasoningDensity": "2.19",
       "abstractDensity": "0.00",
       "microActionDensity": "1.64",
-      "dialogDensity": "237.3",
+      "dialogDensity": "218.8",
       "avgParaSentences": "2.88",
       "longParas": 0,
       "composite": 2.6
@@ -17330,7 +17357,7 @@
       "reasoningDensity": "2.52",
       "abstractDensity": "0.00",
       "microActionDensity": "1.26",
-      "dialogDensity": "269.2",
+      "dialogDensity": "250.0",
       "avgParaSentences": "3.47",
       "longParas": 0,
       "composite": 2.6
@@ -17762,7 +17789,7 @@
       "reasoningDensity": "1.24",
       "abstractDensity": "0.00",
       "microActionDensity": "3.11",
-      "dialogDensity": "2133.3",
+      "dialogDensity": "1280.0",
       "avgParaSentences": "6.33",
       "longParas": 1,
       "composite": 2.5
@@ -17789,7 +17816,7 @@
       "reasoningDensity": "1.64",
       "abstractDensity": "0.00",
       "microActionDensity": "2.30",
-      "dialogDensity": "0",
+      "dialogDensity": "370.6",
       "avgParaSentences": "6.93",
       "longParas": 1,
       "composite": 2.5
@@ -17816,7 +17843,7 @@
       "reasoningDensity": "2.16",
       "abstractDensity": "0.00",
       "microActionDensity": "1.57",
-      "dialogDensity": "0",
+      "dialogDensity": "227.7",
       "avgParaSentences": "6.09",
       "longParas": 1,
       "composite": 2.5
@@ -18248,7 +18275,7 @@
       "reasoningDensity": "0.84",
       "abstractDensity": "0.00",
       "microActionDensity": "3.38",
-      "dialogDensity": "0",
+      "dialogDensity": "4700.0",
       "avgParaSentences": "6.43",
       "longParas": 0,
       "composite": 2.4
@@ -18275,7 +18302,7 @@
       "reasoningDensity": "2.21",
       "abstractDensity": "0.00",
       "microActionDensity": "1.26",
-      "dialogDensity": "0",
+      "dialogDensity": "440.0",
       "avgParaSentences": "6.03",
       "longParas": 2,
       "composite": 2.4
@@ -18302,7 +18329,7 @@
       "reasoningDensity": "2.83",
       "abstractDensity": "0.00",
       "microActionDensity": "0.18",
-      "dialogDensity": "430.0",
+      "dialogDensity": "390.9",
       "avgParaSentences": "3.83",
       "longParas": 0,
       "composite": 2.4
@@ -18356,7 +18383,7 @@
       "reasoningDensity": "0.75",
       "abstractDensity": "0.00",
       "microActionDensity": "0.75",
-      "dialogDensity": "728.6",
+      "dialogDensity": "536.8",
       "avgParaSentences": "2.91",
       "longParas": 0,
       "composite": 2.4
@@ -18626,7 +18653,7 @@
       "reasoningDensity": "1.94",
       "abstractDensity": "0.00",
       "microActionDensity": "1.45",
-      "dialogDensity": "209.8",
+      "dialogDensity": "168.6",
       "avgParaSentences": "4.35",
       "longParas": 1,
       "composite": 2.3
@@ -18815,7 +18842,7 @@
       "reasoningDensity": "0.94",
       "abstractDensity": "0.00",
       "microActionDensity": "3.14",
-      "dialogDensity": "950.0",
+      "dialogDensity": "760.0",
       "avgParaSentences": "6.96",
       "longParas": 1,
       "composite": 2.3
@@ -18842,7 +18869,7 @@
       "reasoningDensity": "1.62",
       "abstractDensity": "0.00",
       "microActionDensity": "1.94",
-      "dialogDensity": "940.0",
+      "dialogDensity": "783.3",
       "avgParaSentences": "5.72",
       "longParas": 2,
       "composite": 2.3
@@ -18869,7 +18896,7 @@
       "reasoningDensity": "0.65",
       "abstractDensity": "0.00",
       "microActionDensity": "3.55",
-      "dialogDensity": "0",
+      "dialogDensity": "392.9",
       "avgParaSentences": "5.83",
       "longParas": 1,
       "composite": 2.3
@@ -19085,7 +19112,7 @@
       "reasoningDensity": "2.28",
       "abstractDensity": "0.00",
       "microActionDensity": "0.91",
-      "dialogDensity": "475.0",
+      "dialogDensity": "447.1",
       "avgParaSentences": "3.12",
       "longParas": 0,
       "composite": 2.3
@@ -19274,7 +19301,7 @@
       "reasoningDensity": "1.30",
       "abstractDensity": "0.00",
       "microActionDensity": "2.28",
-      "dialogDensity": "642.9",
+      "dialogDensity": "500.0",
       "avgParaSentences": "5.44",
       "longParas": 0,
       "composite": 2.2
@@ -19355,7 +19382,7 @@
       "reasoningDensity": "0.33",
       "abstractDensity": "0.00",
       "microActionDensity": "1.31",
-      "dialogDensity": "427.3",
+      "dialogDensity": "335.7",
       "avgParaSentences": "5.57",
       "longParas": 0,
       "composite": 2.2
@@ -19382,7 +19409,7 @@
       "reasoningDensity": "1.33",
       "abstractDensity": "0.00",
       "microActionDensity": "2.32",
-      "dialogDensity": "0",
+      "dialogDensity": "276.0",
       "avgParaSentences": "5.81",
       "longParas": 0,
       "composite": 2.2
@@ -19409,7 +19436,7 @@
       "reasoningDensity": "0.95",
       "abstractDensity": "0.00",
       "microActionDensity": "2.86",
-      "dialogDensity": "450.0",
+      "dialogDensity": "300.0",
       "avgParaSentences": "5.30",
       "longParas": 1,
       "composite": 2.2
@@ -19436,7 +19463,7 @@
       "reasoningDensity": "2.18",
       "abstractDensity": "0.00",
       "microActionDensity": "0.82",
-      "dialogDensity": "0",
+      "dialogDensity": "221.4",
       "avgParaSentences": "6.07",
       "longParas": 1,
       "composite": 2.2
@@ -19463,7 +19490,7 @@
       "reasoningDensity": "1.90",
       "abstractDensity": "0.00",
       "microActionDensity": "1.27",
-      "dialogDensity": "0",
+      "dialogDensity": "315.4",
       "avgParaSentences": "6.09",
       "longParas": 0,
       "composite": 2.2
@@ -19490,7 +19517,7 @@
       "reasoningDensity": "0.32",
       "abstractDensity": "0.00",
       "microActionDensity": "0.32",
-      "dialogDensity": "327.3",
+      "dialogDensity": "313.0",
       "avgParaSentences": "2.55",
       "longParas": 0,
       "composite": 2.2
@@ -19517,7 +19544,7 @@
       "reasoningDensity": "2.51",
       "abstractDensity": "0.00",
       "microActionDensity": "0.31",
-      "dialogDensity": "94.0",
+      "dialogDensity": "92.2",
       "avgParaSentences": "5.11",
       "longParas": 4,
       "composite": 2.2
@@ -19571,7 +19598,7 @@
       "reasoningDensity": "0.33",
       "abstractDensity": "0.00",
       "microActionDensity": "3.96",
-      "dialogDensity": "252.4",
+      "dialogDensity": "220.8",
       "avgParaSentences": "4.37",
       "longParas": 0,
       "composite": 2.2
@@ -19598,7 +19625,7 @@
       "reasoningDensity": "2.07",
       "abstractDensity": "0.00",
       "microActionDensity": "0.99",
-      "dialogDensity": "308.1",
+      "dialogDensity": "285.1",
       "avgParaSentences": "3.61",
       "longParas": 0,
       "composite": 2.2
@@ -19868,7 +19895,7 @@
       "reasoningDensity": "0.33",
       "abstractDensity": "0.00",
       "microActionDensity": "3.62",
-      "dialogDensity": "153.3",
+      "dialogDensity": "135.3",
       "avgParaSentences": "4.95",
       "longParas": 0,
       "composite": 2.1
@@ -19922,7 +19949,7 @@
       "reasoningDensity": "0.33",
       "abstractDensity": "0.00",
       "microActionDensity": "3.63",
-      "dialogDensity": "0",
+      "dialogDensity": "4600.0",
       "avgParaSentences": "10.13",
       "longParas": 8,
       "composite": 2.1
@@ -20138,7 +20165,7 @@
       "reasoningDensity": "0.99",
       "abstractDensity": "0.00",
       "microActionDensity": "2.63",
-      "dialogDensity": "0",
+      "dialogDensity": "287.5",
       "avgParaSentences": "4.88",
       "longParas": 0,
       "composite": 2.1
@@ -20219,7 +20246,7 @@
       "reasoningDensity": "1.62",
       "abstractDensity": "0.00",
       "microActionDensity": "1.62",
-      "dialogDensity": "1666.7",
+      "dialogDensity": "1250.0",
       "avgParaSentences": "3.72",
       "longParas": 0,
       "composite": 2.1
@@ -20624,7 +20651,7 @@
       "reasoningDensity": "1.20",
       "abstractDensity": "0.00",
       "microActionDensity": "2.11",
-      "dialogDensity": "0",
+      "dialogDensity": "258.1",
       "avgParaSentences": "6.69",
       "longParas": 0,
       "composite": 2
@@ -20651,7 +20678,7 @@
       "reasoningDensity": "1.27",
       "abstractDensity": "0.00",
       "microActionDensity": "1.91",
-      "dialogDensity": "250.0",
+      "dialogDensity": "217.4",
       "avgParaSentences": "3.35",
       "longParas": 0,
       "composite": 2
@@ -20678,7 +20705,7 @@
       "reasoningDensity": "1.87",
       "abstractDensity": "0.00",
       "microActionDensity": "0.94",
-      "dialogDensity": "250.0",
+      "dialogDensity": "218.8",
       "avgParaSentences": "3.62",
       "longParas": 0,
       "composite": 2
@@ -20732,7 +20759,7 @@
       "reasoningDensity": "0.24",
       "abstractDensity": "0.00",
       "microActionDensity": "0.97",
-      "dialogDensity": "379.2",
+      "dialogDensity": "364.0",
       "avgParaSentences": "2.74",
       "longParas": 0,
       "composite": 2
@@ -21002,7 +21029,7 @@
       "reasoningDensity": "1.33",
       "abstractDensity": "0.00",
       "microActionDensity": "1.66",
-      "dialogDensity": "400.0",
+      "dialogDensity": "325.0",
       "avgParaSentences": "5.08",
       "longParas": 0,
       "composite": 1.9
@@ -21245,7 +21272,7 @@
       "reasoningDensity": "0.66",
       "abstractDensity": "0.00",
       "microActionDensity": "2.66",
-      "dialogDensity": "0",
+      "dialogDensity": "755.6",
       "avgParaSentences": "6.04",
       "longParas": 1,
       "composite": 1.9
@@ -21272,7 +21299,7 @@
       "reasoningDensity": "0.97",
       "abstractDensity": "0.00",
       "microActionDensity": "2.27",
-      "dialogDensity": "306.3",
+      "dialogDensity": "272.2",
       "avgParaSentences": "5.65",
       "longParas": 0,
       "composite": 1.9
@@ -21596,7 +21623,7 @@
       "reasoningDensity": "1.11",
       "abstractDensity": "0.00",
       "microActionDensity": "1.77",
-      "dialogDensity": "159.4",
+      "dialogDensity": "145.7",
       "avgParaSentences": "3.59",
       "longParas": 0,
       "composite": 1.8
@@ -21785,7 +21812,7 @@
       "reasoningDensity": "1.03",
       "abstractDensity": "0.00",
       "microActionDensity": "1.91",
-      "dialogDensity": "220.4",
+      "dialogDensity": "200.0",
       "avgParaSentences": "4.55",
       "longParas": 5,
       "composite": 1.8
@@ -21812,7 +21839,7 @@
       "reasoningDensity": "1.19",
       "abstractDensity": "0.00",
       "microActionDensity": "1.64",
-      "dialogDensity": "11700.0",
+      "dialogDensity": "229.4",
       "avgParaSentences": "5.83",
       "longParas": 0,
       "composite": 1.8
@@ -21839,7 +21866,7 @@
       "reasoningDensity": "1.96",
       "abstractDensity": "0.00",
       "microActionDensity": "0.39",
-      "dialogDensity": "722.7",
+      "dialogDensity": "691.3",
       "avgParaSentences": "3.54",
       "longParas": 0,
       "composite": 1.8
@@ -22028,8 +22055,8 @@
       "reasoningDensity": "1.76",
       "abstractDensity": "0.00",
       "microActionDensity": "0.88",
-      "dialogDensity": "1266.7",
-      "avgParaSentences": "4.01",
+      "dialogDensity": "760.0",
+      "avgParaSentences": "4.02",
       "longParas": 0,
       "composite": 1.8
     },
@@ -22190,7 +22217,7 @@
       "reasoningDensity": "1.89",
       "abstractDensity": "0.00",
       "microActionDensity": "0.47",
-      "dialogDensity": "125.0",
+      "dialogDensity": "119.0",
       "avgParaSentences": "3.94",
       "longParas": 1,
       "composite": 1.7
@@ -22406,7 +22433,7 @@
       "reasoningDensity": "0.16",
       "abstractDensity": "0.00",
       "microActionDensity": "3.07",
-      "dialogDensity": "350.0",
+      "dialogDensity": "306.3",
       "avgParaSentences": "6.46",
       "longParas": 0,
       "composite": 1.7
@@ -22487,7 +22514,7 @@
       "reasoningDensity": "0.66",
       "abstractDensity": "0.00",
       "microActionDensity": "2.32",
-      "dialogDensity": "314.3",
+      "dialogDensity": "231.6",
       "avgParaSentences": "5.33",
       "longParas": 0,
       "composite": 1.7
@@ -22514,7 +22541,7 @@
       "reasoningDensity": "1.78",
       "abstractDensity": "0.00",
       "microActionDensity": "0.51",
-      "dialogDensity": "1750.0",
+      "dialogDensity": "411.8",
       "avgParaSentences": "2.80",
       "longParas": 0,
       "composite": 1.7
@@ -22946,7 +22973,7 @@
       "reasoningDensity": "0.91",
       "abstractDensity": "0.00",
       "microActionDensity": "0.91",
-      "dialogDensity": "170.0",
+      "dialogDensity": "164.5",
       "avgParaSentences": "5.46",
       "longParas": 0,
       "composite": 1.6
@@ -22973,7 +23000,7 @@
       "reasoningDensity": "0.65",
       "abstractDensity": "0.00",
       "microActionDensity": "2.06",
-      "dialogDensity": "103.2",
+      "dialogDensity": "96.1",
       "avgParaSentences": "3.65",
       "longParas": 0,
       "composite": 1.6
@@ -23351,7 +23378,7 @@
       "reasoningDensity": "0.30",
       "abstractDensity": "0.00",
       "microActionDensity": "2.74",
-      "dialogDensity": "3700.0",
+      "dialogDensity": "137.0",
       "avgParaSentences": "5.24",
       "longParas": 0,
       "composite": 1.6
@@ -23378,7 +23405,7 @@
       "reasoningDensity": "1.23",
       "abstractDensity": "0.00",
       "microActionDensity": "1.23",
-      "dialogDensity": "0",
+      "dialogDensity": "350.0",
       "avgParaSentences": "6.36",
       "longParas": 1,
       "composite": 1.6
@@ -23432,7 +23459,7 @@
       "reasoningDensity": "1.99",
       "abstractDensity": "0.00",
       "microActionDensity": "0.00",
-      "dialogDensity": "484.6",
+      "dialogDensity": "450.0",
       "avgParaSentences": "2.73",
       "longParas": 0,
       "composite": 1.6
@@ -23540,7 +23567,7 @@
       "reasoningDensity": "1.69",
       "abstractDensity": "0.00",
       "microActionDensity": "0.56",
-      "dialogDensity": "150.8",
+      "dialogDensity": "148.4",
       "avgParaSentences": "3.02",
       "longParas": 0,
       "composite": 1.6
@@ -23675,7 +23702,7 @@
       "reasoningDensity": "0.00",
       "abstractDensity": "0.00",
       "microActionDensity": "2.96",
-      "dialogDensity": "340.0",
+      "dialogDensity": "283.3",
       "avgParaSentences": "6.75",
       "longParas": 4,
       "composite": 1.5
@@ -23783,7 +23810,7 @@
       "reasoningDensity": "0.45",
       "abstractDensity": "0.00",
       "microActionDensity": "2.26",
-      "dialogDensity": "266.7",
+      "dialogDensity": "253.7",
       "avgParaSentences": "7.25",
       "longParas": 1,
       "composite": 1.5
@@ -23837,7 +23864,7 @@
       "reasoningDensity": "0.99",
       "abstractDensity": "0.00",
       "microActionDensity": "1.32",
-      "dialogDensity": "185.7",
+      "dialogDensity": "177.3",
       "avgParaSentences": "3.68",
       "longParas": 0,
       "composite": 1.5
@@ -24026,7 +24053,7 @@
       "reasoningDensity": "0.76",
       "abstractDensity": "0.00",
       "microActionDensity": "1.78",
-      "dialogDensity": "0",
+      "dialogDensity": "1175.0",
       "avgParaSentences": "3.10",
       "longParas": 0,
       "composite": 1.5
@@ -24242,7 +24269,7 @@
       "reasoningDensity": "0.54",
       "abstractDensity": "0.00",
       "microActionDensity": "1.90",
-      "dialogDensity": "167.7",
+      "dialogDensity": "152.9",
       "avgParaSentences": "4.99",
       "longParas": 0,
       "composite": 1.4
@@ -24269,7 +24296,7 @@
       "reasoningDensity": "0.66",
       "abstractDensity": "0.00",
       "microActionDensity": "1.65",
-      "dialogDensity": "362.5",
+      "dialogDensity": "290.0",
       "avgParaSentences": "5.32",
       "longParas": 0,
       "composite": 1.4
@@ -24431,7 +24458,7 @@
       "reasoningDensity": "0.64",
       "abstractDensity": "0.00",
       "microActionDensity": "1.82",
-      "dialogDensity": "629.6",
+      "dialogDensity": "576.3",
       "avgParaSentences": "5.59",
       "longParas": 3,
       "composite": 1.4
@@ -24539,7 +24566,7 @@
       "reasoningDensity": "0.33",
       "abstractDensity": "0.00",
       "microActionDensity": "2.33",
-      "dialogDensity": "350.0",
+      "dialogDensity": "269.2",
       "avgParaSentences": "4.35",
       "longParas": 5,
       "composite": 1.4
@@ -24863,7 +24890,7 @@
       "reasoningDensity": "0.63",
       "abstractDensity": "0.00",
       "microActionDensity": "1.59",
-      "dialogDensity": "390.9",
+      "dialogDensity": "307.1",
       "avgParaSentences": "3.31",
       "longParas": 0,
       "composite": 1.3
@@ -25052,7 +25079,7 @@
       "reasoningDensity": "0.29",
       "abstractDensity": "0.00",
       "microActionDensity": "2.01",
-      "dialogDensity": "106.1",
+      "dialogDensity": "102.0",
       "avgParaSentences": "5.28",
       "longParas": 0,
       "composite": 1.2
@@ -25079,7 +25106,7 @@
       "reasoningDensity": "0.00",
       "abstractDensity": "0.00",
       "microActionDensity": "2.49",
-      "dialogDensity": "120.0",
+      "dialogDensity": "66.7",
       "avgParaSentences": "3.68",
       "longParas": 0,
       "composite": 1.2
@@ -25160,7 +25187,7 @@
       "reasoningDensity": "0.66",
       "abstractDensity": "0.00",
       "microActionDensity": "1.32",
-      "dialogDensity": "550.0",
+      "dialogDensity": "440.0",
       "avgParaSentences": "6.41",
       "longParas": 2,
       "composite": 1.2
@@ -25565,7 +25592,7 @@
       "reasoningDensity": "0.63",
       "abstractDensity": "0.00",
       "microActionDensity": "1.25",
-      "dialogDensity": "0",
+      "dialogDensity": "1075.0",
       "avgParaSentences": "6.61",
       "longParas": 1,
       "composite": 1.1
@@ -25754,7 +25781,7 @@
       "reasoningDensity": "0.00",
       "abstractDensity": "0.00",
       "microActionDensity": "2.05",
-      "dialogDensity": "97.1",
+      "dialogDensity": "80.5",
       "avgParaSentences": "3.87",
       "longParas": 0,
       "composite": 1
@@ -25916,7 +25943,7 @@
       "reasoningDensity": "0.61",
       "abstractDensity": "0.00",
       "microActionDensity": "0.81",
-      "dialogDensity": "136.5",
+      "dialogDensity": "128.4",
       "avgParaSentences": "4.29",
       "longParas": 0,
       "composite": 0.9
@@ -26248,33 +26275,6 @@
     {
       "vol": "V5",
       "volDir": "volume-5",
-      "chNum": 672,
-      "cjk": 3058,
-      "l1Hits": 0,
-      "l1Density": "0.00",
-      "blockingTotal": 0,
-      "notIs": 1,
-      "voiceContrast": 0,
-      "negationParade": 0,
-      "emDash": 0,
-      "reverseNotIs": 0,
-      "trailerEnding": 0,
-      "trailerSummary": 0,
-      "crossNeg": 0,
-      "clicheHits": 0,
-      "clicheDensity": "0.00",
-      "metaphorDensity": "0.00",
-      "reasoningDensity": "0.33",
-      "abstractDensity": "0.00",
-      "microActionDensity": "1.31",
-      "dialogDensity": "0",
-      "avgParaSentences": "3.80",
-      "longParas": 0,
-      "composite": 0.9
-    },
-    {
-      "vol": "V5",
-      "volDir": "volume-5",
       "chNum": 702,
       "cjk": 3007,
       "l1Hits": 0,
@@ -26456,7 +26456,7 @@
       "reasoningDensity": "0.98",
       "abstractDensity": "0.00",
       "microActionDensity": "0.33",
-      "dialogDensity": "8000.0",
+      "dialogDensity": "4000.0",
       "avgParaSentences": "4.43",
       "longParas": 0,
       "composite": 0.9
@@ -26753,7 +26753,7 @@
       "reasoningDensity": "0.66",
       "abstractDensity": "0.00",
       "microActionDensity": "0.33",
-      "dialogDensity": "633.3",
+      "dialogDensity": "316.7",
       "avgParaSentences": "5.17",
       "longParas": 0,
       "composite": 0.7
@@ -27023,7 +27023,7 @@
       "reasoningDensity": "0.00",
       "abstractDensity": "0.00",
       "microActionDensity": "1.29",
-      "dialogDensity": "112.0",
+      "dialogDensity": "70.0",
       "avgParaSentences": "3.75",
       "longParas": 0,
       "composite": 0.6
@@ -27077,7 +27077,7 @@
       "reasoningDensity": "0.19",
       "abstractDensity": "0.00",
       "microActionDensity": "0.95",
-      "dialogDensity": "106.5",
+      "dialogDensity": "101.5",
       "avgParaSentences": "5.23",
       "longParas": 1,
       "composite": 0.6
@@ -27185,7 +27185,7 @@
       "reasoningDensity": "0.62",
       "abstractDensity": "0.00",
       "microActionDensity": "0.00",
-      "dialogDensity": "833.3",
+      "dialogDensity": "714.3",
       "avgParaSentences": "3.01",
       "longParas": 0,
       "composite": 0.5
@@ -27212,7 +27212,7 @@
       "reasoningDensity": "0.66",
       "abstractDensity": "0.00",
       "microActionDensity": "0.00",
-      "dialogDensity": "450.0",
+      "dialogDensity": "360.0",
       "avgParaSentences": "3.10",
       "longParas": 0,
       "composite": 0.5
@@ -27293,7 +27293,7 @@
       "reasoningDensity": "0.00",
       "abstractDensity": "0.00",
       "microActionDensity": "0.76",
-      "dialogDensity": "857.1",
+      "dialogDensity": "750.0",
       "avgParaSentences": "3.20",
       "longParas": 0,
       "composite": 0.4

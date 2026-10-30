@@ -75,7 +75,9 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r326d_sites.json',
           'tools/r326e_sites.json', 'tools/r326f_sites.json',
           'tools/r326g_sites.json', 'tools/r326h_sites.json',
-          'tools/r327_sites.json', 'tools/r327b_sites.json']
+          'tools/r327_sites.json', 'tools/r327b_sites.json',
+          'tools/r328_sites.json', 'tools/r329_sites.json',
+          'tools/r330_sites.json', 'tools/r330b_sites.json']
 
 
 def block_present(new, lines):
@@ -164,7 +166,14 @@ def main():
 
     by_file = {}
     for r in applied:
-        by_file.setdefault(r['path'], []).append(r)
+        # Older tables wrote Windows separators into `path`, newer ones forward
+        # slashes.  Keyed literally, the same chapter became two files, each
+        # replayed against its own private copy of HEAD - so a table that added
+        # a record to a file the older tables also touch could never be checked
+        # against their work.  ch453 hid this for a year because both copies
+        # happened to end up the same; r328 changed the file and exposed it.
+        key = r['path'].replace('\\', '/')
+        by_file.setdefault(key, []).append(r)
     # A record can be superseded twice over: committed (so HEAD holds its `new`)
     # and then rewritten again by a later table (so HEAD holds neither side).
     # Index every `new` per line to recognise that second case.
@@ -251,6 +260,9 @@ def main():
                     del lines[j:j + 2]
                 continue
             n = lines[i].count(r['old']) if 0 <= i < len(lines) else 0
+            if n != 1 and os.environ.get('REPLAY_TRACE'):
+                print('  TRACE %s L%d n=%d  %s'
+                      % (path.split('/')[-1], r['line'], n, r['old'][:30]))
             # `new` being present is not proof: see fix_r309b.already_applied.
             # When `old` sits inside `new` (containment) presence of `new` is the
             # proof; otherwise the record is done only when its anchor is gone.
