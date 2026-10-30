@@ -68,7 +68,8 @@ TABLES = ['tools/r309b_sites.json', 'tools/r309b_sites_b2.json',
           'tools/r325ad_sites.json',
           'tools/r325ae_sites.json',
           'tools/r325af_sites.json',
-          'tools/r325ag_sites.json', 'tools/r325ah_sites.json']
+          'tools/r325ag_sites.json', 'tools/r325ah_sites.json',
+          'tools/r326a_sites.json']
 
 
 def block_present(new, lines):
@@ -119,7 +120,24 @@ def head_many(paths):
 
 def main():
     applied = []          # (path, line, old, new) in table order
-    for t in TABLES:
+    # A whole-chapter rewrite retires every record written against that file
+    # before it.  Those records were accurate for text that no longer exists,
+    # and their anchors are short, ordinary lines - ch639 lost the paragraph
+    # `"嗯？"` to a deletion record from a duplicate sweep two hundred rounds
+    # ago, because the rewrite happened to reuse the same question.  A table
+    # that rewrites a file says so under `rewrites`; nothing earlier for that
+    # file is replayed.
+    rewrites = {}         # path -> index of the table that rewrote it
+    for ti, t in enumerate(TABLES):
+        fp = os.path.join(ROOT, t)
+        if not os.path.exists(fp):
+            raise SystemExit('ABORT: missing table ' + t)
+        data = json.load(io.open(fp, encoding='utf-8'))
+        for p in data.get('rewrites', []):
+            rewrites[p] = ti
+
+    dropped = 0
+    for ti, t in enumerate(TABLES):
         fp = os.path.join(ROOT, t)
         # A silently skipped table would silently weaken the proof: the replay
         # would still say OK while comparing against fewer edits than the round
@@ -127,13 +145,16 @@ def main():
         if not os.path.exists(fp):
             raise SystemExit('ABORT: missing table ' + t)
         for r in json.load(io.open(fp, encoding='utf-8'))['records']:
+            if r['path'] in rewrites and rewrites[r['path']] > ti:
+                dropped += 1
+                continue
             r = dict(r)
             # Which table a record came from decides a whole-table question
             # further down: a table that swaps an entire chapter for one block
             # must be replayed all-or-nothing, never half.
             r['_t'] = t
             applied.append(r)
-    print('records: %d' % len(applied))
+    print('records: %d  retired before a rewrite: %d' % (len(applied), dropped))
 
     by_file = {}
     for r in applied:
